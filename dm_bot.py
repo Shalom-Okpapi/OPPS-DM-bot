@@ -68,7 +68,7 @@ WELCOME_TEXT = (
 
 # Shown to anyone who isn't authorized yet — this IS the sales pitch,
 # so /start, /current, /search all show the same thing until they've paid.
-# >>> EDIT THE BRACKETED LINE BELOW WITH YOUR REAL PRICE + PAYMENT METHOD <<<
+# >>> Replace the wallet address below with your real TRC20 USDT address <<<
 PAYWALL_TEXT = (
     "👋 *Welcome!*\n\n"
     "I check Binance and Bybit P2P live and show you the best trusted "
@@ -76,9 +76,10 @@ PAYWALL_TEXT = (
     "strong track record.\n\n"
     "• /current — best rates right now\n"
     "• /search <amount> — best merchants for your exact trade size, in naira\n\n"
-    "This is a paid tool: [ADD YOUR PRICE + PAYMENT METHOD HERE, e.g. "
-    "'₦3,000/month via Opay to 08012345678']. Once you've paid, message "
-    "the owner and you'll be activated within minutes."
+    "This is a paid tool: *$22/month*, paid in USDT (TRC20 network) to:\n"
+    "`TAFHrQuCunTab2iK6vqfneKMLhJ3y4DmCD`\n\n"
+    "Once you've sent it, message me directly to confirm — you'll be "
+    "activated within minutes."
 )
 
 
