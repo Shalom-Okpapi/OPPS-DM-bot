@@ -122,8 +122,9 @@ def save_state(state: dict) -> None:
 
 def _default_auth() -> dict:
     return {
-        "authorized": {},       # {chat_id: {"authorized_at": ts}}
-        "notified_admin": [],   # chat_ids already flagged to admin, so we don't spam
+        "authorized": {},        # {chat_id: {"authorized_at": ts}}
+        "notified_admin": [],    # chat_ids already flagged to admin, so we don't spam
+        "inquiry_sources": {},   # {chat_id: source} — captured from /start <source> links
     }
 
 
@@ -196,22 +197,23 @@ def notify_admin(message: str) -> None:
         send_message(settings.DM_ADMIN_CHAT_ID, f"⚠️ DM bot: {message}")
 
 
-def notify_admin_new_inquiry(chat_key: str, display_name: str) -> None:
+def notify_admin_new_inquiry(chat_key: str, display_name: str, source: str | None = None) -> None:
     """Sales alerts — someone wants in. Kept visually distinct from
     operational alerts so it doesn't get lost among error logs."""
     if settings.DM_ADMIN_CHAT_ID:
+        source_line = f"\nCame from: {_sanitize(source)}" if source else ""
         send_message(settings.DM_ADMIN_CHAT_ID,
-            f"💰 New inquiry: {_sanitize(display_name)} (chat_id {chat_key})\n"
+            f"💰 New inquiry: {_sanitize(display_name)} (chat_id {chat_key}){source_line}\n"
             f"Once they've paid: /authorize {chat_key}")
 
 
-def _parse_amount(text: str):
-    cleaned = text.replace(",", "").replace("₦", "").strip()
-    try:
-        value = float(cleaned)
-        return value if value > 0 else None
-    except ValueError:
-        return None
+def _parse_start_source(text: str):
+    """Extracts the tracking tag from links like t.me/YourBot?start=twitter,
+    which arrive as the message text '/start twitter'."""
+    parts = text.split(maxsplit=1)
+    if parts and parts[0] == "/start" and len(parts) == 2:
+        return parts[1].strip()
+    return None
 
 
 # ---------- formatting ----------
@@ -368,13 +370,17 @@ def handle_message(state: dict, auth_data: dict, chat_id, text: str, display_nam
     if _is_admin(chat_key) and handle_admin_command(auth_data, chat_id, text):
         return
 
+    source = _parse_start_source(text)
+    if source and chat_key not in auth_data["inquiry_sources"]:
+        auth_data["inquiry_sources"][chat_key] = source
+
     if not _is_authorized(auth_data, chat_key):
         if chat_key not in auth_data["notified_admin"]:
             auth_data["notified_admin"].append(chat_key)
-            notify_admin_new_inquiry(chat_key, display_name)
+            notify_admin_new_inquiry(chat_key, display_name, auth_data["inquiry_sources"].get(chat_key))
         send_message(chat_id, PAYWALL_TEXT)
         return
-
+      
     if text.startswith("/start") or text == "/help":
         state["awaiting_amount"].pop(chat_key, None)
         send_message(chat_id, WELCOME_TEXT)
@@ -402,6 +408,16 @@ def handle_message(state: dict, auth_data: dict, chat_id, text: str, display_nam
             send_message(chat_id, "How much do you want to trade, in naira? "
                                     "Just reply with a number, like 50000.")
         return
+
+    if command == "/pending":
+        ids = auth_data.get("notified_admin", [])
+        sources = auth_data.get("inquiry_sources", {})
+        if not ids:
+            send_message(chat_id, "Pending inquiries (0): none")
+        else:
+            lines = [f"{cid} ({sources.get(cid, 'unknown source')})" for cid in ids]
+            send_message(chat_id, f"Pending inquiries ({len(ids)}):\n" + "\n".join(lines))
+        return True
 
     if chat_key in state["awaiting_amount"]:
         amount = _parse_amount(text)
