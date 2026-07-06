@@ -198,7 +198,17 @@ def send_message(chat_id, text: str) -> bool:
         if resp.status_code == 403:
             log.info("Chat %s has blocked the bot or is unreachable — skipping.", chat_id)
             return False
-        resp.raise_for_status()
+        if not resp.ok:
+            # Telegram's own error description (e.g. "chat not found",
+            # "can't parse entities") is plain text, not a secret — it
+            # survives GitHub's log masking even when chat_id itself gets
+            # redacted as ***. Far more actionable than "400 Client Error".
+            try:
+                description = resp.json().get("description", resp.text[:200])
+            except Exception:
+                description = resp.text[:200]
+            log.error("Telegram rejected sendMessage to %s (%d): %s", chat_id, resp.status_code, description)
+            return False
         return True
     except Exception as e:
         log.error("Failed to send DM to %s: %s", chat_id, e)
