@@ -1,7 +1,41 @@
 {
-  "last_update_id": 0,
+  "last_update_id": 261519835,
   "awaiting_amount": {},
-  "last_request_at": {},
-  "rate_cache": null,
+  "last_request_at": {
+    "5503157793": 1783346506.908703
+  },
+  "rate_cache": {
+    "fetched_at": 1783346445.391153,
+    "snapshot": {
+      "buy": {
+        "platform": "Bybit",
+        "trade_type": "BUY",
+        "price": 1340.0,
+        "merchant_name": "Yomicash ",
+        "completion_rate": 1.0,
+        "order_count": 29,
+        "min_limit": 50000.0,
+        "max_limit": 64320.0,
+        "available": 48.0,
+        "payment_methods": [],
+        "adv_no": "2067732602720227328",
+        "link": "https://www.bybit.com/fiat/trade/otc"
+      },
+      "sell": {
+        "platform": "Bybit",
+        "trade_type": "SELL",
+        "price": 1506.65,
+        "merchant_name": "GoldenPrimeEx",
+        "completion_rate": 0.99,
+        "order_count": 1105,
+        "min_limit": 5000.0,
+        "max_limit": 700000.0,
+        "available": 50000.0,
+        "payment_methods": [],
+        "adv_no": "2050799808397766656",
+        "link": "https://www.bybit.com/fiat/trade/otc"
+      }
+    }
+  },
   "consecutive_poll_failures": 0
 }
