@@ -10,14 +10,20 @@ load_dotenv()
 
 # --- Telegram ---
 DM_BOT_TOKEN = os.getenv("DM_BOT_TOKEN", "")
-# Optional: your own personal chat_id. If set, the bot DMs you when its
-# own polling starts failing repeatedly, so you find out without having
-# to check the Actions log. Get your chat_id the same way as the group
-# bot's — message this bot once, then visit
+# Your own personal chat_id. Used for two things: (1) the bot DMs you if
+# its own polling starts failing repeatedly, (2) it's the ONLY identity
+# allowed to send /authorize, /revoke, /users, /pending commands. Get it
+# by messaging this bot once, then visiting
 # https://api.telegram.org/bot<DM_BOT_TOKEN>/getUpdates in a browser.
 DM_ADMIN_CHAT_ID = os.getenv("DM_ADMIN_CHAT_ID", "")
 
 DM_STATE_FILE = os.getenv("DM_STATE_FILE", "dm_state.json")
+DM_AUTHORIZED_USERS_FILE = os.getenv("DM_AUTHORIZED_USERS_FILE", "authorized_users.json")
+
+# Master switch for the paywall. If DM_ADMIN_CHAT_ID is empty while this
+# is true, the bot falls back to open access rather than permanently
+# locking everyone out (see dm_bot.py _is_authorized).
+DM_REQUIRE_AUTHORIZATION = os.getenv("DM_REQUIRE_AUTHORIZATION", "true").lower() == "true"
 
 # How long each job "listens" via Telegram long polling before exiting.
 # Only push this close to your cron interval if the repo is PUBLIC —
@@ -27,22 +33,14 @@ DM_LONG_POLL_TIMEOUT = int(os.getenv("DM_LONG_POLL_TIMEOUT", "25"))
 
 # Multi-user protections.
 DM_SEARCH_RESULT_LIMIT = int(os.getenv("DM_SEARCH_RESULT_LIMIT", "3"))
-# How long a fetched rate snapshot is reused before hitting Binance/Bybit
-# again. Protects the exchanges (and your reply speed) if several people
-# ask /current around the same time.
 DM_RATE_CACHE_TTL_SECONDS = int(os.getenv("DM_RATE_CACHE_TTL_SECONDS", "45"))
-# Minimum seconds between one person's requests. Stops one impatient user
-# (or a bug on their end) from starving everyone else in the same batch.
 DM_USER_COOLDOWN_SECONDS = int(os.getenv("DM_USER_COOLDOWN_SECONDS", "3"))
-# If someone types /search with no amount and never answers, forget we
-# were waiting after this long — otherwise a random number they type
-# days later could get misread as answering an old prompt.
 DM_AWAITING_AMOUNT_TTL_SECONDS = int(os.getenv("DM_AWAITING_AMOUNT_TTL_SECONDS", "600"))
 
 # --- Market ---
 ASSET = os.getenv("ASSET", "USDT")
 FIAT = os.getenv("FIAT", "NGN")
-MIN_TRADE_AMOUNT = float(os.getenv("MIN_TRADE_AMOUNT", "50000"))  # default amount for /current
+MIN_TRADE_AMOUNT = float(os.getenv("MIN_TRADE_AMOUNT", "50000"))
 MIN_COMPLETION_RATE = float(os.getenv("MIN_COMPLETION_RATE", "0.95"))
 MIN_ORDER_COUNT = int(os.getenv("MIN_ORDER_COUNT", "20"))
 
