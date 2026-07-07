@@ -29,21 +29,20 @@ HEADERS = {
 }
 
 
-def fetch_ads(trade_type: str, amount: float | None = None, rows: int = 10) -> list[dict]:
+def fetch_ads(trade_type: str, amount: float | None = None, fiat: str | None = None, rows: int = 10) -> list[dict]:
     """
     trade_type: "BUY" or "SELL" (same convention as binance_client).
-    amount: trade size in NGN — see binance_client for why this exists.
-    Bybit's "side" is from the merchant's perspective: "0" = merchant is
-    buying (this is where YOU sell), "1" = merchant is selling (this is
-    where YOU buy).
+    amount: trade size in the target fiat — see binance_client for why this exists.
+    fiat: which currency to search against. Defaults to settings.FIAT.
     """
     amount = settings.MIN_TRADE_AMOUNT if amount is None else amount
+    fiat = settings.FIAT if fiat is None else fiat
     side = "1" if trade_type == "BUY" else "0"
 
     body = {
         "userId": "",
         "tokenId": settings.ASSET,
-        "currencyId": settings.FIAT,
+        "currencyId": fiat,
         "payment": [],
         "side": side,
         "size": str(rows),
@@ -57,12 +56,12 @@ def fetch_ads(trade_type: str, amount: float | None = None, rows: int = 10) -> l
         resp = post_with_retry(URL, json=body, headers=HEADERS, timeout=15)
         data = resp.json()
     except Exception as e:
-        log.error("Bybit P2P request failed after retry: %s", e)
+        log.error("Bybit P2P request failed after retry (fiat=%s): %s", fiat, e)
         return []
 
     items = (data.get("result") or {}).get("items")
     if not items:
-        log.warning("Bybit P2P returned no usable data. Raw response: %s", data)
+        log.warning("Bybit P2P returned no usable data for fiat=%s. Raw response: %s", fiat, data)
         return []
 
     offers = []
@@ -80,6 +79,7 @@ def fetch_ads(trade_type: str, amount: float | None = None, rows: int = 10) -> l
             offers.append({
                 "platform": "Bybit",
                 "trade_type": trade_type,
+                "fiat": fiat,
                 "price": float(item["price"]),
                 "merchant_name": item.get("nickName", "Unknown"),
                 "completion_rate": float(item.get("recentExecuteRate") or 0) / 100,
