@@ -89,7 +89,7 @@ def _build_paywall_text(name: str) -> str:
         "strong track record.\n\n"
         "• /current — best rates right now\n"
         "• /search <amount> — best merchants for your exact trade size, in naira\n\n"
-        "This is a paid tool: *$22/month*, paid in USDT (TRC20 network) to:\n"
+        "This is a paid tool: *$14.99/month*, paid in USDT (TRC20 network) to:\n"
         "`TAFHrQuCunTab2iK6vqfneKMLhJ3y4DmCD`\n\n"
         "Once you've sent it, message `@Oopps_io` directly to confirm — you'll "
         "be activated within minutes."
