@@ -1,10 +1,11 @@
 {
-  "last_update_id": 261519923,
+  "last_update_id": 261519925,
   "awaiting_amount": {},
   "last_request_at": {
     "5503157793": 1783496969.4110348,
     "8617443875": 1783371828.391422,
-    "6671003365": 1783444699.2751603
+    "6671003365": 1783444699.2751603,
+    "6458834875": 1783497284.9927065
   },
   "rate_cache": {
     "fetched_at": 1783371829.333584,
@@ -39,7 +40,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1783469530.8557694,
+      "fetched_at": 1783497286.7943335,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -60,15 +61,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1504.54,
-          "merchant_name": "GoldenPrimeEx",
-          "completion_rate": 0.99,
-          "order_count": 1060,
+          "price": 1392.0,
+          "merchant_name": "ALGAMIDI\ud83e\udef0\ud83e\udef0",
+          "completion_rate": 0.97,
+          "order_count": 46,
           "min_limit": 5000.0,
-          "max_limit": 700000.0,
-          "available": 50000.0,
+          "max_limit": 208800.0,
+          "available": 150.0,
           "payment_methods": [],
-          "adv_no": "2050799808397766656",
+          "adv_no": "2070830547963600896",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
