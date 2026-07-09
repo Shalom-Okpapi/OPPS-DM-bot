@@ -46,7 +46,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1783619763.5643227,
+      "fetched_at": 1783620083.7195735,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -81,7 +81,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1783619767.1337726,
+      "fetched_at": 1783620087.8307347,
       "snapshot": {
         "buy": null,
         "sell": {
@@ -102,7 +102,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1783619764.7342749,
+      "fetched_at": 1783620084.8520527,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -137,9 +137,26 @@
       }
     },
     "CHF": {
-      "fetched_at": 1783619765.5499892,
+      "fetched_at": 1783620085.6881702,
       "snapshot": {
-        "buy": null,
+        "buy": {
+          "platform": "Binance",
+          "trade_type": "BUY",
+          "fiat": "CHF",
+          "price": 0.874,
+          "merchant_name": "GoSwiss_ch",
+          "completion_rate": 1.0,
+          "order_count": 48,
+          "min_limit": 600.0,
+          "max_limit": 100000.0,
+          "available": 203622.56,
+          "payment_methods": [
+            "Bank Transfer",
+            "Instant Transfer"
+          ],
+          "adv_no": "13902704855180173312",
+          "link": "https://c2c.binance.com/en/adv?code=13902704855180173312"
+        },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
@@ -161,7 +178,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1783619766.3548656,
+      "fetched_at": 1783620086.712629,
       "snapshot": {
         "buy": null,
         "sell": {
