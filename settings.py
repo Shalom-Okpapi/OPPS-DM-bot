@@ -36,6 +36,10 @@ DM_SEARCH_RESULT_LIMIT = int(os.getenv("DM_SEARCH_RESULT_LIMIT", "3"))
 DM_RATE_CACHE_TTL_SECONDS = int(os.getenv("DM_RATE_CACHE_TTL_SECONDS", "45"))
 DM_USER_COOLDOWN_SECONDS = int(os.getenv("DM_USER_COOLDOWN_SECONDS", "3"))
 DM_AWAITING_AMOUNT_TTL_SECONDS = int(os.getenv("DM_AWAITING_AMOUNT_TTL_SECONDS", "600"))
+DM_MAX_ALERTS_PER_USER = int(os.getenv("DM_MAX_ALERTS_PER_USER", "5"))
+# How often the background loop checks active alerts against live rates.
+# Kept a bit above DM_RATE_CACHE_TTL_SECONDS so most checks hit fresh data.
+DM_ALERT_CHECK_INTERVAL_SECONDS = int(os.getenv("DM_ALERT_CHECK_INTERVAL_SECONDS", "60"))
 
 # --- Market ---
 ASSET = os.getenv("ASSET", "USDT")
