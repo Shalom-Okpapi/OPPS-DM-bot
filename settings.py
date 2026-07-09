@@ -53,9 +53,28 @@ FIAT = os.getenv("FIAT", "NGN")  # default currency when none is specified
 # Every fiat the bot will accept in /current <fiat> and /search <amount> <fiat>.
 # Tunable without a code change — add or remove currencies here.
 SUPPORTED_FIATS = tuple(
-    f.strip().upper() for f in os.getenv("SUPPORTED_FIATS", "NGN,JPY,CHF,GBP,EUR").split(",") if f.strip()
+    f.strip().upper() for f in os.getenv("SUPPORTED_FIATS", "NGN,JPY,CHF,GBP,EUR,USD").split(",") if f.strip()
 )
-MIN_TRADE_AMOUNT = float(os.getenv("MIN_TRADE_AMOUNT", "50000"))
+MIN_TRADE_AMOUNT = float(os.getenv("MIN_TRADE_AMOUNT", "50000"))  # fallback for any fiat not listed below
+
+# Default trade size used when nobody specifies an amount (e.g. bare
+# /current). A single flat number means wildly different real amounts
+# across currencies — 50,000 NGN is about $30, but 50,000 GBP would be
+# about $63,000. Any currency not listed here falls back to MIN_TRADE_AMOUNT.
+DEFAULT_TRADE_AMOUNTS = {
+    "NGN": 50000.0,
+    "JPY": 5000.0,
+    "USD": 50.0,
+    "EUR": 50.0,
+    "GBP": 40.0,
+    "CHF": 50.0,
+}
+
+
+def default_trade_amount(fiat: str) -> float:
+    return DEFAULT_TRADE_AMOUNTS.get(fiat, MIN_TRADE_AMOUNT)
+
+
 MIN_COMPLETION_RATE = float(os.getenv("MIN_COMPLETION_RATE", "0.95"))
 MIN_ORDER_COUNT = int(os.getenv("MIN_ORDER_COUNT", "20"))
 
