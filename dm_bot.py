@@ -113,6 +113,8 @@ def _build_paywall_text(name: str) -> str:
         "• /search <amount> [currency] — best merchants for your exact trade size\n"
         "• /trend [currency] — see how the rate's moved over 24h/7d\n"
         "• /alert <BUY|SELL> <price> [currency] — get messaged the moment your target hits\n\n"
+        "• /alerts — see your active alerts\n"
+        "• /unalert <number> — cancel one\n\n"
         f"I check: {fiat_list}.\n\n"
         "This is a paid tool: *$9.99/month*, paid in USDT (TRC20 network) to:\n"
         "`TAFHrQuCunTab2iK6vqfneKMLhJ3y4DmCD`\n\n"
