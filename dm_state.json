@@ -45,7 +45,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1783589838.1232898,
+      "fetched_at": 1783590983.1297805,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -80,7 +80,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1783589842.6888704,
+      "fetched_at": 1783590987.1299384,
       "snapshot": {
         "buy": null,
         "sell": {
@@ -101,7 +101,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1783589839.487182,
+      "fetched_at": 1783590984.0444536,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -122,24 +122,26 @@
           "link": "https://c2c.binance.com/en/adv?code=12874366795206090752"
         },
         "sell": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 155.1,
-          "merchant_name": "P2Th\u00fb\u00f1D\u00e9R",
-          "completion_rate": 0.96,
-          "order_count": 559,
-          "min_limit": 50000.0,
-          "max_limit": 6500000.0,
-          "available": 49269.0501,
-          "payment_methods": [],
-          "adv_no": "2016869459470196736",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 160.0,
+          "merchant_name": "tonyC98",
+          "completion_rate": 0.98,
+          "order_count": 189,
+          "min_limit": 30000.0,
+          "max_limit": 750000.0,
+          "available": 700.0,
+          "payment_methods": [
+            "Bank Transfer"
+          ],
+          "adv_no": "12848195147409002496",
+          "link": "https://c2c.binance.com/en/adv?code=12848195147409002496"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1783589840.5006464,
+      "fetched_at": 1783590984.9870412,
       "snapshot": {
         "buy": null,
         "sell": {
@@ -164,7 +166,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1783589841.508321,
+      "fetched_at": 1783590985.830269,
       "snapshot": {
         "buy": null,
         "sell": {
@@ -174,7 +176,7 @@
           "price": 0.794,
           "merchant_name": "CcccometoC",
           "completion_rate": 0.973,
-          "order_count": 353,
+          "order_count": 354,
           "min_limit": 800.0,
           "max_limit": 100000.0,
           "available": 986776.29,
