@@ -55,7 +55,7 @@ def _sanitize(text: str) -> str:
     return cleaned or "Unknown"
 
 
-_FIAT_SYMBOLS = {"NGN": "₦", "JPY": "¥", "GBP": "£", "EUR": "€"}  # CHF has no clean symbol, falls back to prefix
+_FIAT_SYMBOLS = {"NGN": "₦", "JPY": "¥", "GBP": "£", "EUR": "€", "USD": "$"}  # CHF has no clean symbol, falls back to prefix
 
 
 def _currency_symbol(fiat: str) -> str:
@@ -69,8 +69,7 @@ def _format_money(fiat: str, value: float) -> str:
     return f"{symbol}{value:,.2f}"
 
 
-def _build_welcome_text(name: str, is_admin: bool = False) -> str:
-    greeting = f"👋 *Welcome back, {_sanitize(name)}!*" if name else "👋 *Welcome back!*"
+def _command_list_text(is_admin: bool = False) -> str:
     admin_block = (
         "\n\nAdmin commands:\n"
         "• /authorize <chat_id> — grant access (or just /authorize, and I'll ask for the id)\n"
@@ -80,18 +79,25 @@ def _build_welcome_text(name: str, is_admin: bool = False) -> str:
     ) if is_admin else ""
     fiat_list = ", ".join(settings.SUPPORTED_FIATS)
     return (
-        f"{greeting}\n\n"
         "Here's what I can do:\n"
-        "• /current [currency] — best rates right now (naira by default)\n"
-        "• /search <amount> [currency] — best merchants for a specific "
+        "• /current currency — best rates right now (naira by default)\n"
+        "• /search <amount> currency — best merchants for a specific "
         "amount (e.g. /search 8000, or /search 500 EUR)\n"
-        "• /trend [currency] — see how the rate's moved over 24h/7d\n"
-        "• /alert <BUY|SELL> <price> [currency] — get messaged the moment "
+        "• /trend currency — see how the rate's moved over 24h/7d\n"
+        "• /alert <BUY|SELL> <price> currency — get messaged the moment "
         "the rate crosses your target (e.g. /alert SELL 1650)\n"
         "• /alerts — see your active alerts\n"
         "• /unalert <number> — cancel one\n\n"
         f"I check: {fiat_list}."
-        f"{admin_block}\n\n"
+        f"{admin_block}"
+    )
+
+
+def _build_welcome_text(name: str, is_admin: bool = False) -> str:
+    greeting = f"👋 *Welcome back, {_sanitize(name)}!*" if name else "👋 *Welcome back!*"
+    return (
+        f"{greeting}\n\n"
+        f"{_command_list_text(is_admin)}\n\n"
         "You can also just type /search and I'll ask you for the amount.\n\n"
         "⚠️ I only show rates — I never touch your money. Always confirm the "
         "live price before you trade."
@@ -103,19 +109,12 @@ def _build_welcome_text(name: str, is_admin: bool = False) -> str:
 # >>> Replace the wallet address below with your real TRC20 USDT address <<<
 def _build_paywall_text(name: str) -> str:
     greeting = f"👋 *Welcome, {_sanitize(name)}!*" if name else "👋 *Welcome!*"
-    fiat_list = ", ".join(settings.SUPPORTED_FIATS)
     return (
         f"{greeting}\n\n"
         "I check Binance and Bybit P2P live and show you the best trusted "
         f"{settings.ASSET} rates — only from merchants with a strong track "
-        "record.\n\n"
-        "• /current [currency] — best rates right now (try it free, once)\n"
-        "• /search <amount> [currency] — best merchants for your exact trade size\n"
-        "• /trend [currency] — see how the rate's moved over 24h/7d\n"
-        "• /alert <BUY|SELL> <price> [currency] — get messaged the moment your target hits\n\n"
-        "• /alerts — see your active alerts\n"
-        "• /unalert <number> — cancel one\n\n"
-        f"I check: {fiat_list}.\n\n"
+        "record. Try /current free, once, before you decide.\n\n"
+        f"{_command_list_text(is_admin=False)}\n\n"
         "This is a paid tool: *$9.99/month*, paid in USDT (TRC20 network) to:\n"
         "`TAFHrQuCunTab2iK6vqfneKMLhJ3y4DmCD`\n\n"
         "Once you've sent it, message `@Oopps_io` directly to confirm — you'll "
@@ -671,7 +670,7 @@ def _do_authorize(auth_data: dict, admin_chat_id, target: str) -> None:
         if fetched:
             auth_data["known_names"][target] = fetched
     send_message(admin_chat_id, f"✅ Authorized {target}.")
-    send_message(target, "🎉 You're all set! Try /current or /search <amount> whenever you like.")
+    send_message(target, f"🎉 *You're all set!*\n\n{_command_list_text(is_admin=False)}")
 
 
 def _do_revoke(auth_data: dict, admin_chat_id, target: str) -> None:
