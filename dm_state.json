@@ -1,5 +1,5 @@
 {
-  "last_update_id": 261520013,
+  "last_update_id": 261520024,
   "awaiting_amount": {},
   "last_request_at": {
     "5503157793": 1783576279.711661,
@@ -9,7 +9,8 @@
     "7356289290": 1783510245.2560897,
     "5396728087": 1783498082.384285,
     "8658029962": 1783517185.8056793,
-    "1499517373": 1783540927.5702777
+    "1499517373": 1783540927.5702777,
+    "7113359067": 1783583534.9440913
   },
   "rate_cache": {
     "fetched_at": 1783371829.333584,
@@ -44,7 +45,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1783582034.8507357,
+      "fetched_at": 1783583457.213414,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -65,21 +66,21 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1393.0,
-          "merchant_name": "CELIKAN-EXPRESS",
-          "completion_rate": 1.0,
-          "order_count": 63,
-          "min_limit": 45000.0,
-          "max_limit": 65000.0,
-          "available": 100.0,
+          "price": 1392.0,
+          "merchant_name": "MACGERRY",
+          "completion_rate": 0.95,
+          "order_count": 22,
+          "min_limit": 30000.0,
+          "max_limit": 60000.0,
+          "available": 294.0,
           "payment_methods": [],
-          "adv_no": "2075111133283020800",
+          "adv_no": "2075123666911612928",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "EUR": {
-      "fetched_at": 1783582039.7068017,
+      "fetched_at": 1783583489.0952349,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -116,25 +117,22 @@
       }
     },
     "JPY": {
-      "fetched_at": 1783582036.1230764,
+      "fetched_at": 1783583485.6768196,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 169.0,
-          "merchant_name": "Fasttrade_vn",
+          "price": 164.55,
+          "merchant_name": "TheBotKing",
           "completion_rate": 1.0,
-          "order_count": 31,
-          "min_limit": 50000.0,
-          "max_limit": 55350.0,
-          "available": 327.52,
-          "payment_methods": [
-            "Bank Transfer",
-            "BANK"
-          ],
-          "adv_no": "12874366795206090752",
-          "link": "https://c2c.binance.com/en/adv?code=12874366795206090752"
+          "order_count": 40,
+          "min_limit": 20000.0,
+          "max_limit": 198491.67,
+          "available": 1206.2697,
+          "payment_methods": [],
+          "adv_no": "1891083637871210496",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Binance",
@@ -156,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1783582037.2929192,
+      "fetched_at": 1783583486.8019388,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -198,7 +196,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1783582038.4603086,
+      "fetched_at": 1783583487.9870825,
       "snapshot": {
         "buy": null,
         "sell": {
