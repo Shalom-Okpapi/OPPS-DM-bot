@@ -1,5 +1,5 @@
 {
-  "last_update_id": 261520045,
+  "last_update_id": 261520052,
   "awaiting_amount": {},
   "last_request_at": {
     "5503157793": 1783576279.711661,
@@ -46,7 +46,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1783612877.9222887,
+      "fetched_at": 1783613140.8960607,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -81,7 +81,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1783612881.9512901,
+      "fetched_at": 1783613145.2177646,
       "snapshot": {
         "buy": null,
         "sell": {
@@ -102,21 +102,21 @@
       }
     },
     "JPY": {
-      "fetched_at": 1783612879.058137,
+      "fetched_at": 1783613141.9874163,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 165.0,
-          "merchant_name": "CRYSTALOFFICIAl",
-          "completion_rate": 0.97,
-          "order_count": 179,
-          "min_limit": 30000.0,
-          "max_limit": 53650.0,
-          "available": 325.2,
+          "price": 170.0,
+          "merchant_name": "CeylonX",
+          "completion_rate": 1.0,
+          "order_count": 628,
+          "min_limit": 9000.0,
+          "max_limit": 250000.0,
+          "available": 3903.1115,
           "payment_methods": [],
-          "adv_no": "1883090629256458240",
+          "adv_no": "2033953116090191872",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -137,7 +137,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1783612879.9878316,
+      "fetched_at": 1783613143.1883423,
       "snapshot": {
         "buy": null,
         "sell": {
@@ -147,7 +147,7 @@
           "price": 0.79,
           "merchant_name": "PENGUIN_Exchange",
           "completion_rate": 0.999,
-          "order_count": 3898,
+          "order_count": 3906,
           "min_limit": 500.0,
           "max_limit": 100000.0,
           "available": 1960835.43,
@@ -161,7 +161,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1783612880.9022844,
+      "fetched_at": 1783613144.2090714,
       "snapshot": {
         "buy": null,
         "sell": {
