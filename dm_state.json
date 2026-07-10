@@ -1,5 +1,5 @@
 {
-  "last_update_id": 261520163,
+  "last_update_id": 261520170,
   "awaiting_amount": {},
   "last_request_at": {
     "5503157793": 1783626661.828241,
@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1783715373.9065933,
+      "fetched_at": 1783715526.432366,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,21 +68,21 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1395.7,
-          "merchant_name": "Daiber002",
-          "completion_rate": 0.95,
-          "order_count": 120,
+          "price": 1395.0,
+          "merchant_name": "Zeera-Pay",
+          "completion_rate": 0.98,
+          "order_count": 393,
           "min_limit": 30000.0,
-          "max_limit": 50000.0,
-          "available": 200.0,
+          "max_limit": 100000.0,
+          "available": 4092.4926,
           "payment_methods": [],
-          "adv_no": "2075674031971643392",
+          "adv_no": "2075549499896745984",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "EUR": {
-      "fetched_at": 1783715374.8167663,
+      "fetched_at": 1783715527.7493167,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1783715295.9389064,
+      "fetched_at": 1783715461.0109153,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -160,7 +160,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1783715142.379186,
+      "fetched_at": 1783715462.2254944,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -202,7 +202,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1783715143.3163044,
+      "fetched_at": 1783715463.5023563,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1783715145.5870678,
+      "fetched_at": 1783715464.8134844,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
