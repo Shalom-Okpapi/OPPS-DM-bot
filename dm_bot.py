@@ -122,7 +122,7 @@ def _build_paywall_text(name: str) -> str:
         f"{_command_list_text(is_admin=False)}\n\n"
         "This is a paid tool: *$9.99/month*, paid in USDT (TRC20 network) to:\n"
         "`TAFHrQuCunTab2iK6vqfneKMLhJ3y4DmCD`\n\n"
-        "Once you've sent it, message `@Oopps_io` directly to confirm — you'll "
+        "Once you've sent it, message `@Opps_io` directly to confirm — you'll "
         "be activated within minutes."
     )
 
