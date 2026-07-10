@@ -46,7 +46,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1783683591.871871,
+      "fetched_at": 1783684132.933104,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -70,8 +70,8 @@
           "price": 1395.5,
           "merchant_name": "EAZI",
           "completion_rate": 0.95,
-          "order_count": 46,
-          "min_limit": 31000.0,
+          "order_count": 47,
+          "min_limit": 21000.0,
           "max_limit": 51000.0,
           "available": 189.6642,
           "payment_methods": [],
@@ -81,21 +81,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1783683595.0770674,
+      "fetched_at": 1783684136.5533202,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
-          "price": 0.873,
-          "merchant_name": "\ud83c\udf1fiExChange \ud83c\udf1f",
+          "price": 0.874,
+          "merchant_name": "MA_Enterprise",
           "completion_rate": 1.0,
-          "order_count": 142,
+          "order_count": 145,
           "min_limit": 50.0,
-          "max_limit": 50.0,
-          "available": 100.0,
+          "max_limit": 200.0,
+          "available": 319.4171,
           "payment_methods": [],
-          "adv_no": "2074886400979218432",
+          "adv_no": "2075449596238483456",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -116,7 +116,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1783683592.5892076,
+      "fetched_at": 1783684133.9898887,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -155,7 +155,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1783683593.3094604,
+      "fetched_at": 1783684134.6918516,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -197,7 +197,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1783683594.3673956,
+      "fetched_at": 1783684135.4728894,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1783683595.7818654,
+      "fetched_at": 1783684137.2874415,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
