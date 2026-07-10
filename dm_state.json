@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1783722936.5254233,
+      "fetched_at": 1783723255.1778927,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -74,7 +74,7 @@
           "order_count": 52,
           "min_limit": 30000.0,
           "max_limit": 100000.0,
-          "available": 233.9178,
+          "available": 284.2776,
           "payment_methods": [],
           "adv_no": "2075568326732165120",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1783722942.107698,
+      "fetched_at": 1783723260.161025,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -117,24 +117,22 @@
       }
     },
     "JPY": {
-      "fetched_at": 1783722938.083689,
+      "fetched_at": 1783723256.3604712,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 183.8,
-          "merchant_name": "LNLJP",
+          "price": 172.0,
+          "merchant_name": "WUN-USDT-STORE",
           "completion_rate": 1.0,
-          "order_count": 222,
-          "min_limit": 5000.0,
-          "max_limit": 200000.0,
-          "available": 389.35,
-          "payment_methods": [
-            "PayPay Money"
-          ],
-          "adv_no": "12889634815195684864",
-          "link": "https://c2c.binance.com/en/adv?code=12889634815195684864"
+          "order_count": 133,
+          "min_limit": 3000.0,
+          "max_limit": 258089.47,
+          "available": 1500.5202,
+          "payment_methods": [],
+          "adv_no": "1568966526221668352",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Binance",
@@ -156,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1783722939.1921422,
+      "fetched_at": 1783723257.8013942,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -198,7 +196,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1783722940.9169288,
+      "fetched_at": 1783723259.0065627,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -237,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1783722943.5972807,
+      "fetched_at": 1783723261.156943,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
