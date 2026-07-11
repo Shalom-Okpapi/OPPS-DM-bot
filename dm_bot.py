@@ -217,7 +217,15 @@ def _looks_like_chat_id(text: str) -> bool:
 
 # ---------- Telegram I/O ----------
 
+# Set right before send_message returns False, so a caller that cares
+# (currently only _send_to_admin) can capture *why* a send failed, not
+# just that it did. Read it immediately after calling send_message —
+# it gets overwritten by the next call.
+_last_send_error: str | None = None
+
+
 def send_message(chat_id, text: str) -> bool:
+    global _last_send_error
     try:
         resp = requests.post(f"{API_BASE}/sendMessage", json={
             "chat_id": chat_id,
@@ -227,21 +235,21 @@ def send_message(chat_id, text: str) -> bool:
         }, timeout=15)
         if resp.status_code == 403:
             log.info("Chat %s has blocked the bot or is unreachable — skipping.", chat_id)
+            _last_send_error = "chat blocked the bot, or is otherwise unreachable (403)"
             return False
         if not resp.ok:
-            # Telegram's own error description (e.g. "chat not found",
-            # "can't parse entities") is plain text, not a secret — it
-            # survives GitHub's log masking even when chat_id itself gets
-            # redacted as ***. Far more actionable than "400 Client Error".
             try:
                 description = resp.json().get("description", resp.text[:200])
             except Exception:
                 description = resp.text[:200]
             log.error("Telegram rejected sendMessage to %s (%d): %s", chat_id, resp.status_code, description)
+            _last_send_error = f"HTTP {resp.status_code}: {description}"
             return False
+        _last_send_error = None
         return True
     except Exception as e:
         log.error("Failed to send DM to %s: %s", chat_id, e)
+        _last_send_error = f"network/request error: {e}"
         return False
 
 
@@ -266,16 +274,20 @@ def _fetch_chat_name(chat_id) -> str | None:
 
 def _send_to_admin(state: dict, text: str) -> bool:
     """Sends a message to the configured admin chat_id, recording any
-    failure so it can be surfaced the next time the admin interacts with
-    the bot directly (a reply, which works regardless of whether
-    DM_ADMIN_CHAT_ID itself is the problem)."""
+    failure (with the actual reason Telegram gave) so it can be surfaced
+    the next time the admin interacts with the bot directly — a reply,
+    which works regardless of whether DM_ADMIN_CHAT_ID itself is fine."""
     if not settings.DM_ADMIN_CHAT_ID:
         return False
     success = send_message(settings.DM_ADMIN_CHAT_ID, text)
     if success:
         state["last_admin_notify_failure"] = None
     else:
-        state["last_admin_notify_failure"] = {"at": time.time(), "target": settings.DM_ADMIN_CHAT_ID}
+        state["last_admin_notify_failure"] = {
+            "at": time.time(),
+            "target": settings.DM_ADMIN_CHAT_ID,
+            "reason": _last_send_error or "unknown",
+        }
     return success
 
 
@@ -712,10 +724,9 @@ def handle_admin_command(state: dict, auth_data: dict, chat_id, text: str) -> bo
     failure = state.get("last_admin_notify_failure")
     if failure and (time.time() - failure.get("at", 0)) < 86400:
         send_message(chat_id, (
-            "⚠️ A proactive notification (like a new-inquiry alert) recently "
-            f"failed to reach `{failure.get('target')}`. If alerts aren't "
-            "reaching you, double-check your DM_ADMIN_CHAT_ID secret matches "
-            "your real numeric chat_id exactly — no @username, no extra spaces."
+            "⚠️ A proactive notification recently failed to send.\n"
+            f"Target: `{failure.get('target')}`\n"
+            f"Reason: {failure.get('reason', 'unknown')}"
         ))
         state["last_admin_notify_failure"] = None
 
