@@ -1,5 +1,5 @@
 {
-  "last_update_id": 261520218,
+  "last_update_id": 261520222,
   "awaiting_amount": {},
   "last_request_at": {
     "5503157793": 1783798721.386948,
@@ -272,9 +272,5 @@
   },
   "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
-  "last_admin_notify_failure": {
-    "at": 1783799100.5549905,
-    "target": "5503157793",
-    "reason": "HTTP 400: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 32"
-  }
+  "last_admin_notify_failure": null
 }
