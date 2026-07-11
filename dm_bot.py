@@ -132,6 +132,7 @@ def _default_state() -> dict:
         "last_request_at": {},
         "rate_cache": None,
         "consecutive_poll_failures": 0,
+        "last_admin_notify_failure": None,  # {"at": ts, "target": str} - set when a proactive send to DM_ADMIN_CHAT_ID fails
     }
 
 
@@ -263,13 +264,27 @@ def _fetch_chat_name(chat_id) -> str | None:
         return None
 
 
-def notify_admin(message: str) -> None:
+def _send_to_admin(state: dict, text: str) -> bool:
+    """Sends a message to the configured admin chat_id, recording any
+    failure so it can be surfaced the next time the admin interacts with
+    the bot directly (a reply, which works regardless of whether
+    DM_ADMIN_CHAT_ID itself is the problem)."""
+    if not settings.DM_ADMIN_CHAT_ID:
+        return False
+    success = send_message(settings.DM_ADMIN_CHAT_ID, text)
+    if success:
+        state["last_admin_notify_failure"] = None
+    else:
+        state["last_admin_notify_failure"] = {"at": time.time(), "target": settings.DM_ADMIN_CHAT_ID}
+    return success
+
+
+def notify_admin(state: dict, message: str) -> None:
     """Operational alerts — bot health, failures."""
-    if settings.DM_ADMIN_CHAT_ID:
-        send_message(settings.DM_ADMIN_CHAT_ID, f"⚠️ DM bot: {message}")
+    _send_to_admin(state, f"⚠️ DM bot: {message}")
 
 
-def notify_admin_new_inquiry(chat_key: str, display_name: str, source: str | None = None) -> bool:
+def notify_admin_new_inquiry(state: dict, chat_key: str, display_name: str, source: str | None = None) -> bool:
     """Sales alerts — someone wants in. Kept visually distinct from
     operational alerts so it doesn't get lost among error logs.
     Returns True only if the notification actually reached the admin —
@@ -280,7 +295,7 @@ def notify_admin_new_inquiry(chat_key: str, display_name: str, source: str | Non
     if not settings.DM_ADMIN_CHAT_ID:
         return False
     source_line = f"\nCame from: {_sanitize(source)}" if source else ""
-    success = send_message(settings.DM_ADMIN_CHAT_ID,
+    success = _send_to_admin(state,
         f"💰 New inquiry: {_sanitize(display_name)} (chat_id {chat_key}){source_line}\n"
         f"Once they've paid: /authorize {chat_key}")
     if success:
@@ -690,6 +705,20 @@ def _do_revoke(auth_data: dict, admin_chat_id, target: str) -> None:
 def handle_admin_command(state: dict, auth_data: dict, chat_id, text: str) -> bool:
     """Returns True if this was an admin command and has been handled."""
     chat_key = str(chat_id)
+
+    # If a proactive send to DM_ADMIN_CHAT_ID failed recently (e.g. new
+    # inquiry alerts), surface it here — replying to whoever's messaging
+    # right now always works, even if the configured admin ID doesn't.
+    failure = state.get("last_admin_notify_failure")
+    if failure and (time.time() - failure.get("at", 0)) < 86400:
+        send_message(chat_id, (
+            "⚠️ A proactive notification (like a new-inquiry alert) recently "
+            f"failed to reach `{failure.get('target')}`. If alerts aren't "
+            "reaching you, double-check your DM_ADMIN_CHAT_ID secret matches "
+            "your real numeric chat_id exactly — no @username, no extra spaces."
+        ))
+        state["last_admin_notify_failure"] = None
+
     parts = text.split(maxsplit=1)
     command = parts[0]
 
@@ -795,7 +824,7 @@ def handle_message(state: dict, auth_data: dict, history: dict, chat_id, text: s
 
     if not _is_authorized(auth_data, chat_key):
         if chat_key not in auth_data["notified_admin"]:
-            sent = notify_admin_new_inquiry(chat_key, display_name, auth_data["inquiry_sources"].get(chat_key))
+            sent = notify_admin_new_inquiry(state, chat_key, display_name, auth_data["inquiry_sources"].get(chat_key))
             if sent:
                 auth_data["notified_admin"].append(chat_key)
 
@@ -951,7 +980,7 @@ def poll_once(state: dict, auth_data: dict, history: dict) -> bool:
         state["consecutive_poll_failures"] = state.get("consecutive_poll_failures", 0) + 1
         log.error("getUpdates failed (failure #%d): %s", state["consecutive_poll_failures"], e)
         if state["consecutive_poll_failures"] == 3:
-            notify_admin("getUpdates has failed 3 times in a row — "
+            notify_admin(state, "getUpdates has failed 3 times in a row — "
                          "check DM_BOT_TOKEN and the Actions log.")
         time.sleep(5)
         return False
