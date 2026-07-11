@@ -1,5 +1,5 @@
 {
-  "last_update_id": 261520183,
+  "last_update_id": 261520189,
   "awaiting_amount": {},
   "last_request_at": {
     "5503157793": 1783626661.828241,
@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1783794684.0170522,
+      "fetched_at": 1783795226.7308214,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,21 +68,21 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1393.01,
-          "merchant_name": "NjeeFastPay",
-          "completion_rate": 0.95,
-          "order_count": 341,
-          "min_limit": 4500.0,
-          "max_limit": 205000.0,
-          "available": 1619.0249,
+          "price": 1394.0,
+          "merchant_name": "Chibson",
+          "completion_rate": 0.97,
+          "order_count": 137,
+          "min_limit": 30000.0,
+          "max_limit": 51000.0,
+          "available": 266.578,
           "payment_methods": [],
-          "adv_no": "1962064964685570048",
+          "adv_no": "2072879155975168000",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "EUR": {
-      "fetched_at": 1783794689.0081398,
+      "fetched_at": 1783795231.0724645,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1783794685.2745874,
+      "fetched_at": 1783795227.8211298,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -156,7 +156,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1783794686.5380929,
+      "fetched_at": 1783795229.046772,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -198,7 +198,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1783794687.6784942,
+      "fetched_at": 1783795230.078602,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1783794690.29687,
+      "fetched_at": 1783795232.065815,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -244,7 +244,7 @@
           "price": 0.8,
           "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 190,
+          "order_count": 192,
           "min_limit": 50.0,
           "max_limit": 1853.2,
           "available": 2316.5,
