@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784002119.4820957,
+      "fetched_at": 1784002658.723616,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1783998686.728421,
+      "fetched_at": 1784002496.9788063,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,10 +91,10 @@
           "price": 0.876,
           "merchant_name": "Kimxuan",
           "completion_rate": 1.0,
-          "order_count": 27,
+          "order_count": 34,
           "min_limit": 2.0,
           "max_limit": 50.0,
-          "available": 79.3095,
+          "available": 250.0,
           "payment_methods": [],
           "adv_no": "2076834662701527040",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -117,46 +117,44 @@
       }
     },
     "JPY": {
-      "fetched_at": 1783998684.3040738,
+      "fetched_at": 1784002493.3492386,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 172.0,
-          "merchant_name": "tonyC98",
-          "completion_rate": 0.98,
-          "order_count": 292,
+          "price": 171.86,
+          "merchant_name": "Haottt",
+          "completion_rate": 0.998,
+          "order_count": 425,
           "min_limit": 5000.0,
-          "max_limit": 750000.0,
-          "available": 3355.95,
+          "max_limit": 150000.0,
+          "available": 442.93,
           "payment_methods": [
             "Bank Transfer"
           ],
-          "adv_no": "12904203730141351936",
-          "link": "https://c2c.binance.com/en/adv?code=12904203730141351936"
+          "adv_no": "12908703033825841152",
+          "link": "https://c2c.binance.com/en/adv?code=12908703033825841152"
         },
         "sell": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 160.15,
-          "merchant_name": "Dracula_99",
-          "completion_rate": 0.952,
-          "order_count": 79,
+          "price": 161.05,
+          "merchant_name": "VVIP\u2b50SHOP",
+          "completion_rate": 1.0,
+          "order_count": 61,
           "min_limit": 5000.0,
           "max_limit": 100000.0,
-          "available": 9221.71,
-          "payment_methods": [
-            "PayPay Money"
-          ],
-          "adv_no": "12905810156590796800",
-          "link": "https://c2c.binance.com/en/adv?code=12905810156590796800"
+          "available": 22097.9088,
+          "payment_methods": [],
+          "adv_no": "2001439153754808320",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1783998685.1615365,
+      "fetched_at": 1784002494.5158896,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -198,7 +196,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1783998686.022559,
+      "fetched_at": 1784002495.8004851,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -223,8 +221,8 @@
           "fiat": "GBP",
           "price": 0.723,
           "merchant_name": "wis-fast-to-wis",
-          "completion_rate": 0.954,
-          "order_count": 394,
+          "completion_rate": 0.955,
+          "order_count": 396,
           "min_limit": 20.0,
           "max_limit": 5000.0,
           "available": 683893.49,
@@ -241,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1784002120.5128884,
+      "fetched_at": 1784002657.5581317,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -250,10 +248,10 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 901,
+          "order_count": 902,
           "min_limit": 2.0,
-          "max_limit": 23706.991,
-          "available": 29633.7395,
+          "max_limit": 23613.991,
+          "available": 29517.4895,
           "payment_methods": [],
           "adv_no": "2034594166346301440",
           "link": "https://www.bybit.com/fiat/trade/otc"
