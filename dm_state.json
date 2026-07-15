@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784154246.884577,
+      "fetched_at": 1784154521.3221688,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -74,7 +74,7 @@
           "order_count": 86,
           "min_limit": 10000.0,
           "max_limit": 80000.0,
-          "available": 100.0,
+          "available": 85.0,
           "payment_methods": [],
           "adv_no": "2077503151019847680",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,24 +236,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1784154248.443779,
+      "fetched_at": 1784154522.4204051,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.997,
-          "merchant_name": "CAMBIOSJOSEBETT",
+          "price": 0.999,
+          "merchant_name": "alvik",
           "completion_rate": 1.0,
-          "order_count": 61,
-          "min_limit": 15.0,
-          "max_limit": 7499.0,
-          "available": 3669.16,
-          "payment_methods": [
-            "Banco Pichincha"
-          ],
-          "adv_no": "12910830861311016960",
-          "link": "https://c2c.binance.com/en/adv?code=12910830861311016960"
+          "order_count": 11086,
+          "min_limit": 50.0,
+          "max_limit": 43811.899,
+          "available": 43855.7555,
+          "payment_methods": [],
+          "adv_no": "1807122607564685312",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
