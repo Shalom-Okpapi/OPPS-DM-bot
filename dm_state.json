@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784598077.2502842,
+      "fetched_at": 1784598579.6493533,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1784594681.024151,
+      "fetched_at": 1784598423.5225575,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -93,8 +93,8 @@
           "completion_rate": 0.97,
           "order_count": 667,
           "min_limit": 2.0,
-          "max_limit": 96.36,
-          "available": 110.0,
+          "max_limit": 79.015,
+          "available": 90.2,
           "payment_methods": [],
           "adv_no": "2054884095609077760",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -117,19 +117,19 @@
       }
     },
     "JPY": {
-      "fetched_at": 1784594678.2776222,
+      "fetched_at": 1784598420.247992,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 172.0,
+          "price": 171.5,
           "merchant_name": "llbbp",
           "completion_rate": 0.995,
-          "order_count": 675,
+          "order_count": 676,
           "min_limit": 1500.0,
           "max_limit": 150000.0,
-          "available": 1187.72,
+          "available": 1329.23,
           "payment_methods": [
             "Bank Transfer"
           ],
@@ -140,7 +140,7 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 165.2,
+          "price": 165.6,
           "merchant_name": "Dracula_99",
           "completion_rate": 0.965,
           "order_count": 109,
@@ -156,7 +156,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1784594679.1358035,
+      "fetched_at": 1784598421.3814604,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -201,7 +201,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1784594679.9843059,
+      "fetched_at": 1784598422.3394923,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -210,10 +210,10 @@
           "price": 0.774,
           "merchant_name": "Wise\u767d\u6cfd-Instant",
           "completion_rate": 0.987,
-          "order_count": 968,
+          "order_count": 973,
           "min_limit": 30.0,
           "max_limit": 2000.0,
-          "available": 3964.92,
+          "available": 3926.17,
           "payment_methods": [
             "Bank Transfer"
           ],
@@ -226,8 +226,8 @@
           "fiat": "GBP",
           "price": 0.729,
           "merchant_name": "DeftonesRadio",
-          "completion_rate": 0.956,
-          "order_count": 86,
+          "completion_rate": 0.957,
+          "order_count": 87,
           "min_limit": 10.0,
           "max_limit": 99.0,
           "available": 95.76,
@@ -244,7 +244,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1784598076.1354566,
+      "fetched_at": 1784598578.6337123,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
