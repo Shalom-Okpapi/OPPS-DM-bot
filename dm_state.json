@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784725479.2800858,
+      "fetched_at": 1784725772.4292767,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1396.99,
-          "merchant_name": "INNOSONEXCHANGE",
-          "completion_rate": 0.97,
-          "order_count": 105,
+          "price": 1396.8,
+          "merchant_name": "MR_FLASH\ud83d\udc80\ud83d\udc8e",
+          "completion_rate": 1.0,
+          "order_count": 32,
           "min_limit": 50000.0,
-          "max_limit": 139047.3,
-          "available": 99.5335,
+          "max_limit": 65583.95,
+          "available": 46.953,
           "payment_methods": [],
-          "adv_no": "2079185071140814848",
+          "adv_no": "2079657856506945536",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -244,7 +244,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1784725480.4930918,
+      "fetched_at": 1784725773.2504709,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -270,8 +270,8 @@
           "completion_rate": 1.0,
           "order_count": 232,
           "min_limit": 10.0,
-          "max_limit": 42957.775,
-          "available": 35798.1462,
+          "max_limit": 42941.604,
+          "available": 35784.6704,
           "payment_methods": [],
           "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
