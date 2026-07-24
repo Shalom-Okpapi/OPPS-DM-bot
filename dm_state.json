@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784917855.6562405,
+      "fetched_at": 1784918350.988159,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.9,
-          "merchant_name": "Zikconnect",
-          "completion_rate": 0.99,
-          "order_count": 225,
-          "min_limit": 30000.0,
-          "max_limit": 94104.31,
-          "available": 67.4148,
+          "price": 1396.0,
+          "merchant_name": "FASTPAYMENT@",
+          "completion_rate": 1.0,
+          "order_count": 388,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 262.7304,
           "payment_methods": [],
-          "adv_no": "2031760777403531264",
+          "adv_no": "2080240461636485120",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1410.2,
           "merchant_name": "SMARTASSIST\uf8ff",
           "completion_rate": 0.98,
-          "order_count": 161,
+          "order_count": 162,
           "min_limit": 20000.0,
           "max_limit": 51000.0,
           "available": 369.9187,
@@ -244,7 +244,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1784917854.3069365,
+      "fetched_at": 1784918352.21287,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -253,10 +253,10 @@
           "price": 0.999,
           "merchant_name": "ThonyCM1",
           "completion_rate": 1.0,
-          "order_count": 795,
+          "order_count": 796,
           "min_limit": 10.0,
           "max_limit": 600.0,
-          "available": 2129.02,
+          "available": 2108.93,
           "payment_methods": [
             "Banco Guayaquil",
             "Banco Pichincha",
