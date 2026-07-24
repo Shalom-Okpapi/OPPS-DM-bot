@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784922637.5931618,
+      "fetched_at": 1784923191.7772143,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -242,22 +242,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1784922636.7660325,
+      "fetched_at": 1784923192.807969,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.999,
-          "merchant_name": "\u26a1\ufe0fExRUB24\ud83d\udcaf",
+          "merchant_name": "Speed_coin_Exchange_",
           "completion_rate": 1.0,
-          "order_count": 1999,
-          "min_limit": 2.0,
-          "max_limit": 100.0,
-          "available": 1932.6634,
-          "payment_methods": [],
-          "adv_no": "2012902965841936384",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "order_count": 359,
+          "min_limit": 50.0,
+          "max_limit": 2000.0,
+          "available": 504.1,
+          "payment_methods": [
+            "Banco Pichincha"
+          ],
+          "adv_no": "12892675751368945664",
+          "link": "https://c2c.binance.com/en/adv?code=12892675751368945664"
         },
         "sell": {
           "platform": "Bybit",
