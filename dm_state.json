@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784919523.8981721,
+      "fetched_at": 1784919828.61206,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -59,7 +59,7 @@
           "order_count": 391,
           "min_limit": 4500.0,
           "max_limit": 100000.0,
-          "available": 142.2241,
+          "available": 92.7972,
           "payment_methods": [],
           "adv_no": "2080240461636485120",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -244,22 +244,28 @@
       }
     },
     "USD": {
-      "fetched_at": 1784919522.2871654,
+      "fetched_at": 1784919827.6850038,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.999,
-          "merchant_name": "\u26a1\ufe0fExRUB24\ud83d\udcaf",
+          "merchant_name": "ThonyCM1",
           "completion_rate": 1.0,
-          "order_count": 1998,
-          "min_limit": 2.0,
-          "max_limit": 100.0,
-          "available": 1932.6634,
-          "payment_methods": [],
-          "adv_no": "2012902965841936384",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "order_count": 808,
+          "min_limit": 10.0,
+          "max_limit": 600.0,
+          "available": 1382.22,
+          "payment_methods": [
+            "Banco Guayaquil",
+            "Banco Pichincha",
+            "Banco del pacifico",
+            "Banco Internacional",
+            "Banco del Austro"
+          ],
+          "adv_no": "12886499179067629568",
+          "link": "https://c2c.binance.com/en/adv?code=12886499179067629568"
         },
         "sell": {
           "platform": "Bybit",
