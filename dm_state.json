@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784865580.5247755,
+      "fetched_at": 1784865877.4675531,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1397.3,
-          "merchant_name": "FAYZAA",
-          "completion_rate": 1.0,
-          "order_count": 339,
+          "price": 1397.5,
+          "merchant_name": "ROBOT_PAY",
+          "completion_rate": 0.99,
+          "order_count": 1357,
           "min_limit": 4500.0,
-          "max_limit": 1266809.5,
-          "available": 906.6124,
+          "max_limit": 644396.33,
+          "available": 461.1065,
           "payment_methods": [],
-          "adv_no": "2077136832642273280",
+          "adv_no": "2079925806803042304",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1784865579.3758154,
+      "fetched_at": 1784865876.4026012,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
