@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784915605.633858,
+      "fetched_at": 1784916216.8151124,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1395.9,
           "merchant_name": "Zikconnect",
           "completion_rate": 0.99,
-          "order_count": 226,
+          "order_count": 225,
           "min_limit": 30000.0,
           "max_limit": 194104.22,
           "available": 139.0531,
@@ -74,7 +74,7 @@
           "order_count": 161,
           "min_limit": 20000.0,
           "max_limit": 51000.0,
-          "available": 437.994,
+          "available": 406.0837,
           "payment_methods": [],
           "adv_no": "2076711173753499648",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -244,22 +244,26 @@
       }
     },
     "USD": {
-      "fetched_at": 1784915603.9090598,
+      "fetched_at": 1784916215.2624888,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.8,
-          "merchant_name": "JackyChee",
-          "completion_rate": 0.99,
-          "order_count": 1013,
-          "min_limit": 2.0,
-          "max_limit": 22490.06,
-          "available": 28112.5761,
-          "payment_methods": [],
-          "adv_no": "2034594166346301440",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.999,
+          "merchant_name": "UsdtjotaG",
+          "completion_rate": 1.0,
+          "order_count": 862,
+          "min_limit": 40.0,
+          "max_limit": 240.0,
+          "available": 2816.72,
+          "payment_methods": [
+            "Banco Guayaquil",
+            "Produbanco",
+            "Banco Pichincha"
+          ],
+          "adv_no": "12893126771650355200",
+          "link": "https://c2c.binance.com/en/adv?code=12893126771650355200"
         },
         "sell": {
           "platform": "Bybit",
