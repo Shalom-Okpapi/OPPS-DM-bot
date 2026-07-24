@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784924975.477695,
+      "fetched_at": 1784925278.8478615,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.0,
-          "merchant_name": "nathautos05",
+          "price": 1395.9,
+          "merchant_name": "Zikconnect",
           "completion_rate": 0.99,
-          "order_count": 113,
-          "min_limit": 4500.0,
-          "max_limit": 71006.33,
-          "available": 50.9006,
+          "order_count": 228,
+          "min_limit": 30000.0,
+          "max_limit": 94104.31,
+          "available": 67.4148,
           "payment_methods": [],
-          "adv_no": "2042725484130721792",
+          "adv_no": "2031760777403531264",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -244,24 +244,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1784924976.7000217,
+      "fetched_at": 1784925278.087616,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.999,
-          "merchant_name": "Speed_coin_Exchange_",
+          "merchant_name": "\u26a1\ufe0fExRUB24\ud83d\udcaf",
           "completion_rate": 1.0,
-          "order_count": 363,
-          "min_limit": 50.0,
-          "max_limit": 2000.0,
-          "available": 106.33,
-          "payment_methods": [
-            "Banco Pichincha"
-          ],
-          "adv_no": "12892675751368945664",
-          "link": "https://c2c.binance.com/en/adv?code=12892675751368945664"
+          "order_count": 2004,
+          "min_limit": 2.0,
+          "max_limit": 100.0,
+          "available": 1910.6414,
+          "payment_methods": [],
+          "adv_no": "2012902965841936384",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
