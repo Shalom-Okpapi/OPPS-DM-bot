@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784916702.8622804,
+      "fetched_at": 1784917305.5983043,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -244,24 +244,26 @@
       }
     },
     "USD": {
-      "fetched_at": 1784916698.1261878,
+      "fetched_at": 1784917304.614542,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.997,
-          "merchant_name": "cambios Daymon",
+          "price": 0.999,
+          "merchant_name": "UsdtjotaG",
           "completion_rate": 1.0,
-          "order_count": 173,
-          "min_limit": 10.0,
-          "max_limit": 2000.0,
-          "available": 107.42,
+          "order_count": 868,
+          "min_limit": 40.0,
+          "max_limit": 240.0,
+          "available": 2465.15,
           "payment_methods": [
-            "Banco Guayaquil"
+            "Banco Guayaquil",
+            "Produbanco",
+            "Banco Pichincha"
           ],
-          "adv_no": "12913230728163266560",
-          "link": "https://c2c.binance.com/en/adv?code=12913230728163266560"
+          "adv_no": "12893126771650355200",
+          "link": "https://c2c.binance.com/en/adv?code=12893126771650355200"
         },
         "sell": {
           "platform": "Bybit",
