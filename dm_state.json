@@ -47,31 +47,31 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784965506.1834106,
+      "fetched_at": 1784966079.9428966,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1396.49,
-          "merchant_name": "NextWave",
-          "completion_rate": 1.0,
-          "order_count": 27,
+          "price": 1396.0,
+          "merchant_name": "ArikeXCHANGE",
+          "completion_rate": 0.99,
+          "order_count": 712,
           "min_limit": 4500.0,
-          "max_limit": 558596.0,
-          "available": 400.0,
+          "max_limit": 150000.0,
+          "available": 871.2659,
           "payment_methods": [],
-          "adv_no": "2080348380925865984",
+          "adv_no": "2058522481735299072",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1404.0,
+          "price": 1404.5,
           "merchant_name": "SMARTASSIST\uf8ff",
           "completion_rate": 0.98,
-          "order_count": 166,
+          "order_count": 167,
           "min_limit": 20000.0,
           "max_limit": 51000.0,
           "available": 335.5987,
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1784965507.051564,
+      "fetched_at": 1784966081.0693994,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -251,8 +251,8 @@
           "completion_rate": 1.0,
           "order_count": 217,
           "min_limit": 50.0,
-          "max_limit": 1515.6,
-          "available": 1894.5,
+          "max_limit": 1565.6,
+          "available": 1957.0,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
