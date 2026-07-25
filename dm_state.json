@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784970522.3622818,
+      "fetched_at": 1784971139.5115666,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -64,21 +64,7 @@
           "adv_no": "2076573517017182208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
-        "sell": {
-          "platform": "Bybit",
-          "trade_type": "SELL",
-          "fiat": "NGN",
-          "price": 1401.0,
-          "merchant_name": "Zeera-Pay",
-          "completion_rate": 0.97,
-          "order_count": 500,
-          "min_limit": 30000.0,
-          "max_limit": 85000.0,
-          "available": 4425.8946,
-          "payment_methods": [],
-          "adv_no": "2078468515254620160",
-          "link": "https://www.bybit.com/fiat/trade/otc"
-        }
+        "sell": null
       }
     },
     "EUR": {
@@ -242,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1784970523.5344663,
+      "fetched_at": 1784971138.7256806,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
