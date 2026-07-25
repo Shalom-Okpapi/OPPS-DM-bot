@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1784949220.0760646,
+      "fetched_at": 1784949502.3906605,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1784945752.1398911,
+      "fetched_at": 1784949423.939301,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1784945744.1392486,
+      "fetched_at": 1784949420.3114247,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -138,23 +138,23 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 167.55,
-          "merchant_name": "PK_CRYPTO_PRO2026",
-          "completion_rate": 0.988,
-          "order_count": 247,
-          "min_limit": 3000.0,
-          "max_limit": 100000.0,
-          "available": 200.0,
+          "price": 169.1,
+          "merchant_name": "LKRcrypto",
+          "completion_rate": 1.0,
+          "order_count": 139,
+          "min_limit": 1000.0,
+          "max_limit": 150000.0,
+          "available": 669.23,
           "payment_methods": [
             "PayPay Money"
           ],
-          "adv_no": "12835504579111698432",
-          "link": "https://c2c.binance.com/en/adv?code=12835504579111698432"
+          "adv_no": "12791020722413551616",
+          "link": "https://c2c.binance.com/en/adv?code=12791020722413551616"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1784945745.3974545,
+      "fetched_at": 1784949421.5874207,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -199,24 +199,22 @@
       }
     },
     "GBP": {
-      "fetched_at": 1784945750.6632411,
+      "fetched_at": 1784949422.7823157,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "GBP",
-          "price": 0.794,
-          "merchant_name": "crypto_rev_wise_sepa",
+          "price": 0.79,
+          "merchant_name": "LingExchanger",
           "completion_rate": 1.0,
-          "order_count": 24,
+          "order_count": 83,
           "min_limit": 10.0,
-          "max_limit": 1000.0,
-          "available": 400.0,
-          "payment_methods": [
-            "Skrill (Moneybookers)"
-          ],
-          "adv_no": "12904278890913427456",
-          "link": "https://c2c.binance.com/en/adv?code=12904278890913427456"
+          "max_limit": 450.667,
+          "available": 570.4651,
+          "payment_methods": [],
+          "adv_no": "1970793183642349568",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Binance",
@@ -242,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1784949221.9888031,
+      "fetched_at": 1784949501.2533522,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -253,8 +251,8 @@
           "completion_rate": 0.99,
           "order_count": 1005,
           "min_limit": 2.0,
-          "max_limit": 22869.102,
-          "available": 28586.3775,
+          "max_limit": 22863.573,
+          "available": 28579.4674,
           "payment_methods": [],
           "adv_no": "2034594166346301440",
           "link": "https://www.bybit.com/fiat/trade/otc"
