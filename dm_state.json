@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785004761.915252,
+      "fetched_at": 1785005309.776305,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.0,
-          "merchant_name": "NEYOEXCHANGE",
-          "completion_rate": 1.0,
-          "order_count": 36,
-          "min_limit": 20000.0,
-          "max_limit": 69750.0,
-          "available": 50.0,
+          "price": 1395.5,
+          "merchant_name": "Hopetrade",
+          "completion_rate": 0.96,
+          "order_count": 169,
+          "min_limit": 30000.0,
+          "max_limit": 50000.0,
+          "available": 99.1581,
           "payment_methods": [],
-          "adv_no": "1972072780304003072",
+          "adv_no": "2081075349460168704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785004763.0780303,
+      "fetched_at": 1785005309.0701797,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -250,7 +250,7 @@
           "price": 0.8,
           "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 219,
+          "order_count": 220,
           "min_limit": 50.0,
           "max_limit": 1515.6,
           "available": 1894.5,
