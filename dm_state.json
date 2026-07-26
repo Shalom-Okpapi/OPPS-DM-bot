@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785049720.1405666,
+      "fetched_at": 1785050079.2632344,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1396.8,
-          "merchant_name": "GoldenPrimeEx",
-          "completion_rate": 0.98,
-          "order_count": 341,
-          "min_limit": 4500.0,
+          "price": 1394.95,
+          "merchant_name": "FAN-EXCHANGE",
+          "completion_rate": 1.0,
+          "order_count": 167,
+          "min_limit": 50000.0,
           "max_limit": 200000.0,
-          "available": 476.5714,
+          "available": 483.7747,
           "payment_methods": [],
-          "adv_no": "2019258612501901312",
+          "adv_no": "2080934034953506816",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785049721.222069,
+      "fetched_at": 1785050078.465289,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -260,14 +260,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Aliyous",
+          "merchant_name": "ALKHABOSS_Ex",
           "completion_rate": 1.0,
-          "order_count": 287,
-          "min_limit": 10.0,
-          "max_limit": 39567.538,
-          "available": 32972.9488,
+          "order_count": 835,
+          "min_limit": 5.0,
+          "max_limit": 20691.948,
+          "available": 17243.2906,
           "payment_methods": [],
-          "adv_no": "1969417928054837248",
+          "adv_no": "1924026696129343488",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
