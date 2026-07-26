@@ -47,24 +47,38 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785069071.6470351,
+      "fetched_at": 1785069617.488893,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1395.5,
-          "merchant_name": "ArikeXCHANGE",
+          "merchant_name": "MACHUA_B",
           "completion_rate": 0.99,
-          "order_count": 785,
-          "min_limit": 4500.0,
-          "max_limit": 150000.0,
-          "available": 199.9876,
+          "order_count": 1260,
+          "min_limit": 5000.0,
+          "max_limit": 591823.73,
+          "available": 424.0944,
           "payment_methods": [],
-          "adv_no": "2058522481735299072",
+          "adv_no": "2025021845203087360",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
-        "sell": null
+        "sell": {
+          "platform": "Bybit",
+          "trade_type": "SELL",
+          "fiat": "NGN",
+          "price": 1411.0,
+          "merchant_name": "fair_policy\ud83d\udd4a\ufe0f",
+          "completion_rate": 0.98,
+          "order_count": 216,
+          "min_limit": 11000.0,
+          "max_limit": 50000.0,
+          "available": 3200.0,
+          "payment_methods": [],
+          "adv_no": "2079189932502728704",
+          "link": "https://www.bybit.com/fiat/trade/otc"
+        }
       }
     },
     "EUR": {
@@ -220,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785069073.0387464,
+      "fetched_at": 1785069616.784395,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
