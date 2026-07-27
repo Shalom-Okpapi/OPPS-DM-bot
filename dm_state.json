@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785147280.858066,
+      "fetched_at": 1785147583.4289882,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.5,
-          "merchant_name": "NODELAY\ud83d\ude80",
+          "price": 1395.9,
+          "merchant_name": "FAN-EXCHANGE",
           "completion_rate": 1.0,
-          "order_count": 52,
-          "min_limit": 20000.0,
-          "max_limit": 82633.69,
-          "available": 59.2144,
+          "order_count": 247,
+          "min_limit": 50000.0,
+          "max_limit": 200000.0,
+          "available": 1552.3299,
           "payment_methods": [],
-          "adv_no": "2078584677388185600",
+          "adv_no": "2080934034953506816",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785147279.7409265,
+      "fetched_at": 1785147584.958336,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
