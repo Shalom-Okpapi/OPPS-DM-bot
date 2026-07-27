@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785144880.8346767,
+      "fetched_at": 1785145124.911998,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.5,
-          "merchant_name": "ArikeXCHANGE",
-          "completion_rate": 0.99,
-          "order_count": 803,
-          "min_limit": 4500.0,
-          "max_limit": 150000.0,
-          "available": 1166.4994,
+          "price": 1395.0,
+          "merchant_name": "CBN_Staff",
+          "completion_rate": 1.0,
+          "order_count": 37,
+          "min_limit": 20000.0,
+          "max_limit": 89884.03,
+          "available": 64.433,
           "payment_methods": [],
-          "adv_no": "2058522481735299072",
+          "adv_no": "2081328775322963968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785144881.9265714,
+      "fetched_at": 1785145124.0506983,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
