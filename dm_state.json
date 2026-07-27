@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785163939.748949,
+      "fetched_at": 1785164548.7180576,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.0,
-          "merchant_name": "bromo",
-          "completion_rate": 1.0,
-          "order_count": 57,
-          "min_limit": 19000.0,
-          "max_limit": 927362.38,
-          "available": 664.7759,
+          "price": 1395.5,
+          "merchant_name": "LUQMANBH",
+          "completion_rate": 0.95,
+          "order_count": 650,
+          "min_limit": 20000.0,
+          "max_limit": 54336.3,
+          "available": 38.9368,
           "payment_methods": [],
-          "adv_no": "2081746979510861824",
+          "adv_no": "2066139331343433728",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1407.06,
           "merchant_name": "Quick@Payment",
           "completion_rate": 1.0,
-          "order_count": 260,
+          "order_count": 262,
           "min_limit": 4500.0,
           "max_limit": 72000.0,
           "available": 19657.248,
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785163934.6785357,
+      "fetched_at": 1785164550.018921,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,8 +243,8 @@
           "completion_rate": 1.0,
           "order_count": 218,
           "min_limit": 50.0,
-          "max_limit": 1485.6,
-          "available": 1857.0,
+          "max_limit": 1435.6,
+          "available": 1794.5,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
