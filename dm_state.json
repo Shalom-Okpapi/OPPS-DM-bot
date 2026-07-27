@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785186284.2016582,
+      "fetched_at": 1785186578.2499197,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.0,
-          "merchant_name": "Paysend",
-          "completion_rate": 1.0,
-          "order_count": 59,
-          "min_limit": 10000.0,
-          "max_limit": 55800.0,
-          "available": 40.0,
+          "price": 1396.0,
+          "merchant_name": "Doubleprince",
+          "completion_rate": 0.99,
+          "order_count": 1312,
+          "min_limit": 50000.0,
+          "max_limit": 62585.89,
+          "available": 44.8323,
           "payment_methods": [],
-          "adv_no": "1970458811093127168",
+          "adv_no": "2081833899515494400",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -246,7 +246,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785186284.9669065,
+      "fetched_at": 1785186577.0178728,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
