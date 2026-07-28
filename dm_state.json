@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785273574.457995,
+      "fetched_at": 1785273875.3640196,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.5,
-          "merchant_name": "Eagles and Ikpa",
-          "completion_rate": 0.96,
-          "order_count": 128,
+          "price": 1394.0,
+          "merchant_name": "MEKSPAY",
+          "completion_rate": 1.0,
+          "order_count": 141,
           "min_limit": 4500.0,
-          "max_limit": 55775.06,
-          "available": 39.9678,
+          "max_limit": 100000.0,
+          "available": 787.3087,
           "payment_methods": [],
-          "adv_no": "2082202723167256576",
+          "adv_no": "2082184608588009472",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 362,
           "min_limit": 20000.0,
           "max_limit": 50000.0,
-          "available": 19938.9981,
+          "available": 19899.0916,
           "payment_methods": [],
           "adv_no": "2082127931440140288",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785273573.7318754,
+      "fetched_at": 1785273874.5103168,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
