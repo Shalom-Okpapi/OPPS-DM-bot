@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785277477.4422977,
+      "fetched_at": 1785277720.972237,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1395.5,
-          "merchant_name": "\ud835\udc69\ud835\udc71\ud835\udc7c\ud835\udc7e\ud835\udc68\ud835\udc6d\ud835\udc7f",
-          "completion_rate": 0.98,
-          "order_count": 56,
-          "min_limit": 50000.0,
-          "max_limit": 100000.0,
-          "available": 244.5323,
+          "merchant_name": "Eagles and Ikpa",
+          "completion_rate": 0.97,
+          "order_count": 130,
+          "min_limit": 4500.0,
+          "max_limit": 69775.0,
+          "available": 50.0,
           "payment_methods": [],
-          "adv_no": "2078440603529822208",
+          "adv_no": "2082202723167256576",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 366,
           "min_limit": 20000.0,
           "max_limit": 50000.0,
-          "available": 19855.366,
+          "available": 19877.762,
           "payment_methods": [],
           "adv_no": "2082127931440140288",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -242,7 +242,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785277475.8387733,
+      "fetched_at": 1785277722.8288064,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -251,10 +251,10 @@
           "price": 0.999,
           "merchant_name": "AnalistaCripto",
           "completion_rate": 1.0,
-          "order_count": 1882,
+          "order_count": 1885,
           "min_limit": 30.0,
           "max_limit": 1500.0,
-          "available": 8014.54,
+          "available": 7939.21,
           "payment_methods": [
             "Banco Pichincha"
           ],
