@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785221907.1950932,
+      "fetched_at": 1785222282.6607893,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -64,21 +64,7 @@
           "adv_no": "2056062628198739968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
-        "sell": {
-          "platform": "Bybit",
-          "trade_type": "SELL",
-          "fiat": "NGN",
-          "price": 1394.5,
-          "merchant_name": "Cutie_gold91",
-          "completion_rate": 1.0,
-          "order_count": 1780,
-          "min_limit": 50000.0,
-          "max_limit": 1430020.14,
-          "available": 1025.4716,
-          "payment_methods": [],
-          "adv_no": "2053805852894330880",
-          "link": "https://www.bybit.com/fiat/trade/otc"
-        }
+        "sell": null
       }
     },
     "EUR": {
@@ -232,7 +218,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785221900.672606,
+      "fetched_at": 1785222281.6564097,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,7 +242,7 @@
           "price": 1.2,
           "merchant_name": "ALKHABOSS_Ex",
           "completion_rate": 1.0,
-          "order_count": 802,
+          "order_count": 803,
           "min_limit": 5.0,
           "max_limit": 20520.948,
           "available": 17100.7906,
