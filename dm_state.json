@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785237497.694628,
+      "fetched_at": 1785237886.5740724,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1396.5,
-          "merchant_name": "450000",
-          "completion_rate": 0.95,
-          "order_count": 163,
-          "min_limit": 30000.0,
-          "max_limit": 73974.83,
-          "available": 52.9716,
+          "price": 1396.8,
+          "merchant_name": "NUTRICOIN",
+          "completion_rate": 0.99,
+          "order_count": 702,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 341.2757,
           "payment_methods": [],
-          "adv_no": "2081671748640346112",
+          "adv_no": "2050980458438455296",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 231,
           "min_limit": 11000.0,
           "max_limit": 50000.0,
-          "available": 3094.0,
+          "available": 3124.0,
           "payment_methods": [],
           "adv_no": "2079189932502728704",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785237496.1617358,
+      "fetched_at": 1785237885.4726982,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
