@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785279208.5153925,
+      "fetched_at": 1785279704.0643141,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1395.5,
           "merchant_name": "Eagles and Ikpa",
           "completion_rate": 0.97,
-          "order_count": 133,
+          "order_count": 137,
           "min_limit": 4500.0,
-          "max_limit": 105006.49,
-          "available": 75.2465,
+          "max_limit": 70006.65,
+          "available": 50.166,
           "payment_methods": [],
           "adv_no": "2082202723167256576",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -240,26 +240,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1785279207.7379842,
+      "fetched_at": 1785279705.2060642,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.999,
-          "merchant_name": "COMERCIO-URBANO",
+          "merchant_name": "AnalistaCripto",
           "completion_rate": 1.0,
-          "order_count": 355,
-          "min_limit": 10.0,
-          "max_limit": 7000.0,
-          "available": 6321.76,
+          "order_count": 1892,
+          "min_limit": 30.0,
+          "max_limit": 1500.0,
+          "available": 7593.41,
           "payment_methods": [
-            "Banco Pichincha",
-            "Banco Internacional",
-            "Banco del pacifico"
+            "Banco Pichincha"
           ],
-          "adv_no": "12911984928808624128",
-          "link": "https://c2c.binance.com/en/adv?code=12911984928808624128"
+          "adv_no": "12909680510819258368",
+          "link": "https://c2c.binance.com/en/adv?code=12909680510819258368"
         },
         "sell": {
           "platform": "Bybit",
