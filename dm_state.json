@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785269391.848359,
+      "fetched_at": 1785269953.2918653,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.0,
-          "merchant_name": "MEKSPAY",
+          "price": 1396.0,
+          "merchant_name": "TWENTYTHREE",
           "completion_rate": 1.0,
-          "order_count": 89,
-          "min_limit": 4500.0,
-          "max_limit": 100000.0,
-          "available": 4060.2519,
+          "order_count": 41,
+          "min_limit": 10000.0,
+          "max_limit": 83595.83,
+          "available": 59.8824,
           "payment_methods": [],
-          "adv_no": "2082184608588009472",
+          "adv_no": "2082158452429852672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1400.8,
           "merchant_name": "HOTMAN-001",
           "completion_rate": 0.97,
-          "order_count": 277,
+          "order_count": 279,
           "min_limit": 30000.0,
           "max_limit": 150000.0,
           "available": 15877.2629,
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785269390.6718488,
+      "fetched_at": 1785269952.071263,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
