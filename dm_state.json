@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785269953.2918653,
+      "fetched_at": 1785270463.254075,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1396.0,
-          "merchant_name": "TWENTYTHREE",
+          "price": 1394.0,
+          "merchant_name": "MEKSPAY",
           "completion_rate": 1.0,
-          "order_count": 41,
-          "min_limit": 10000.0,
-          "max_limit": 83595.83,
-          "available": 59.8824,
+          "order_count": 97,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 3558.0999,
           "payment_methods": [],
-          "adv_no": "2082158452429852672",
+          "adv_no": "2082184608588009472",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1400.8,
-          "merchant_name": "HOTMAN-001",
-          "completion_rate": 0.97,
-          "order_count": 279,
-          "min_limit": 30000.0,
-          "max_limit": 150000.0,
-          "available": 15877.2629,
+          "price": 1409.0,
+          "merchant_name": "Giwa001\ud83d\udc18\ud83d\udc18\ud83d\udc18",
+          "completion_rate": 0.99,
+          "order_count": 361,
+          "min_limit": 20000.0,
+          "max_limit": 50000.0,
+          "available": 20000.0,
           "payment_methods": [],
-          "adv_no": "2076613204821528576",
+          "adv_no": "2082127931440140288",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785269952.071263,
+      "fetched_at": 1785270464.6646783,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
