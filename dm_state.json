@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785240974.3186147,
+      "fetched_at": 1785241483.9329574,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,35 +68,35 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1410.2,
-          "merchant_name": "fair_policy\ud83d\udd4a\ufe0f",
-          "completion_rate": 0.98,
-          "order_count": 232,
-          "min_limit": 11000.0,
-          "max_limit": 50000.0,
-          "available": 3058.7611,
+          "price": 1406.0,
+          "merchant_name": "BoyAlone_Ex101",
+          "completion_rate": 0.97,
+          "order_count": 79,
+          "min_limit": 43500.0,
+          "max_limit": 83500.0,
+          "available": 19798.4567,
           "payment_methods": [],
-          "adv_no": "2079189932502728704",
+          "adv_no": "2077152552125927424",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "EUR": {
-      "fetched_at": 1785237502.214641,
+      "fetched_at": 1785241326.2672594,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
-          "price": 0.879,
-          "merchant_name": "UnlucKy",
-          "completion_rate": 0.98,
-          "order_count": 87,
-          "min_limit": 2.0,
-          "max_limit": 60.6,
-          "available": 68.9421,
+          "price": 0.88,
+          "merchant_name": "alvik",
+          "completion_rate": 1.0,
+          "order_count": 10273,
+          "min_limit": 50.0,
+          "max_limit": 300.0,
+          "available": 49159.1561,
           "payment_methods": [],
-          "adv_no": "2074433793102540800",
+          "adv_no": "2038225274208436224",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1785237498.8473597,
+      "fetched_at": 1785241323.716528,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -152,26 +152,27 @@
       }
     },
     "CHF": {
-      "fetched_at": 1785237499.967786,
+      "fetched_at": 1785241324.5570722,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.949,
-          "merchant_name": "AS_Exchange_",
-          "completion_rate": 0.95,
-          "order_count": 604,
+          "price": 0.948,
+          "merchant_name": "ZenovaExchange",
+          "completion_rate": 0.97,
+          "order_count": 538,
           "min_limit": 50.0,
-          "max_limit": 10000.0,
-          "available": 1617.9,
+          "max_limit": 3000.0,
+          "available": 6465.66,
           "payment_methods": [
-            "Bank Transfer",
             "Twint",
-            "Instant Transfer"
+            "Bank Transfer",
+            "Instant Transfer",
+            "Cash Deposit to Bank"
           ],
-          "adv_no": "13888177054086623232",
-          "link": "https://c2c.binance.com/en/adv?code=13888177054086623232"
+          "adv_no": "13907423697261449216",
+          "link": "https://c2c.binance.com/en/adv?code=13907423697261449216"
         },
         "sell": {
           "platform": "Binance",
@@ -196,7 +197,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1785237501.1364636,
+      "fetched_at": 1785241325.3929348,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -208,7 +209,7 @@
           "order_count": 60,
           "min_limit": 40.0,
           "max_limit": 5000.0,
-          "available": 2169.01,
+          "available": 1653.55,
           "payment_methods": [
             "Bank Transfer"
           ],
@@ -235,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785240973.497004,
+      "fetched_at": 1785241482.8056605,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,7 +260,7 @@
           "price": 1.2,
           "merchant_name": "ALKHABOSS_Ex",
           "completion_rate": 1.0,
-          "order_count": 809,
+          "order_count": 812,
           "min_limit": 5.0,
           "max_limit": 20520.948,
           "available": 17100.7906,
