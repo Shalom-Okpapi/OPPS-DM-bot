@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785273875.3640196,
+      "fetched_at": 1785274426.9535677,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.0,
-          "merchant_name": "MEKSPAY",
-          "completion_rate": 1.0,
-          "order_count": 141,
-          "min_limit": 4500.0,
-          "max_limit": 100000.0,
-          "available": 787.3087,
+          "price": 1396.5,
+          "merchant_name": "Decorator",
+          "completion_rate": 0.99,
+          "order_count": 1822,
+          "min_limit": 9000.0,
+          "max_limit": 150000.0,
+          "available": 210.2857,
           "payment_methods": [],
-          "adv_no": "2082184608588009472",
+          "adv_no": "1968570697613799424",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1406.5,
           "merchant_name": "Giwa001\ud83d\udc18\ud83d\udc18\ud83d\udc18",
           "completion_rate": 0.99,
-          "order_count": 362,
+          "order_count": 364,
           "min_limit": 20000.0,
           "max_limit": 50000.0,
-          "available": 19899.0916,
+          "available": 19853.762,
           "payment_methods": [],
           "adv_no": "2082127931440140288",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785273874.5103168,
+      "fetched_at": 1785274425.8424141,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
