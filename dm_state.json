@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785218976.5078049,
+      "fetched_at": 1785219275.7993293,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1395.5,
           "merchant_name": "RKGOODRK",
           "completion_rate": 0.98,
-          "order_count": 82,
+          "order_count": 83,
           "min_limit": 20000.0,
           "max_limit": 60000.0,
           "available": 350.5704,
@@ -64,7 +64,21 @@
           "adv_no": "2081983269337600000",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
-        "sell": null
+        "sell": {
+          "platform": "Bybit",
+          "trade_type": "SELL",
+          "fiat": "NGN",
+          "price": 1394.0,
+          "merchant_name": "Bekky_exchange",
+          "completion_rate": 0.97,
+          "order_count": 67,
+          "min_limit": 10000.0,
+          "max_limit": 71000.0,
+          "available": 19968.0,
+          "payment_methods": [],
+          "adv_no": "2067558445218926592",
+          "link": "https://www.bybit.com/fiat/trade/otc"
+        }
       }
     },
     "EUR": {
@@ -220,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785218978.0278807,
+      "fetched_at": 1785219275.1058578,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
