@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785384654.2057502,
+      "fetched_at": 1785385212.106307,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1400.0,
-          "merchant_name": "Legacy_fastpay",
-          "completion_rate": 0.99,
-          "order_count": 2759,
+          "price": 1399.5,
+          "merchant_name": "vikkymore",
+          "completion_rate": 1.0,
+          "order_count": 87,
           "min_limit": 50000.0,
-          "max_limit": 479113.32,
-          "available": 342.2238,
+          "max_limit": 559800.0,
+          "available": 400.0,
           "payment_methods": [],
-          "adv_no": "1754582333883691008",
+          "adv_no": "2073134328598974464",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785384655.2987115,
+      "fetched_at": 1785385213.000241,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
