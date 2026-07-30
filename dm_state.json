@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785370126.1232085,
+      "fetched_at": 1785370475.267752,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1398.0,
-          "merchant_name": "ABEFE\u2764001\u2764",
+          "price": 1399.0,
+          "merchant_name": "Florien",
           "completion_rate": 0.99,
-          "order_count": 198,
-          "min_limit": 40000.0,
-          "max_limit": 66275.54,
-          "available": 47.4074,
+          "order_count": 130,
+          "min_limit": 20000.0,
+          "max_limit": 2000000.0,
+          "available": 4402.337,
           "payment_methods": [],
-          "adv_no": "2049137813464612864",
+          "adv_no": "2075343080487432192",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -242,7 +242,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785370124.8851995,
+      "fetched_at": 1785370476.4241629,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -253,8 +253,8 @@
           "completion_rate": 0.99,
           "order_count": 1040,
           "min_limit": 2.0,
-          "max_limit": 22128.677,
-          "available": 27660.8464,
+          "max_limit": 22120.677,
+          "available": 27650.8464,
           "payment_methods": [],
           "adv_no": "2034594166346301440",
           "link": "https://www.bybit.com/fiat/trade/otc"
