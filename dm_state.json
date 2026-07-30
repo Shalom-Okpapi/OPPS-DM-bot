@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785393982.8115847,
+      "fetched_at": 1785394534.7162,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -241,26 +241,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1785393981.8008707,
+      "fetched_at": 1785394533.9473608,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.998,
-          "merchant_name": "COMERCIO-URBANO",
+          "price": 0.8,
+          "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 383,
+          "order_count": 200,
           "min_limit": 50.0,
-          "max_limit": 7500.0,
-          "available": 8562.15,
-          "payment_methods": [
-            "Banco Pichincha",
-            "Banco Internacional",
-            "Banco del pacifico"
-          ],
-          "adv_no": "12911984928808624128",
-          "link": "https://c2c.binance.com/en/adv?code=12911984928808624128"
+          "max_limit": 1315.6,
+          "available": 1644.5,
+          "payment_methods": [],
+          "adv_no": "1768869022963105792",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
