@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785432532.8517094,
+      "fetched_at": 1785432880.7467885,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1397.0,
-          "merchant_name": "Odanye",
-          "completion_rate": 1.0,
-          "order_count": 341,
+          "price": 1396.99,
+          "merchant_name": "NODELAY\ud83d\ude80",
+          "completion_rate": 0.99,
+          "order_count": 190,
           "min_limit": 20000.0,
-          "max_limit": 100000.0,
-          "available": 102.1774,
+          "max_limit": 279398.0,
+          "available": 200.0,
           "payment_methods": [],
-          "adv_no": "2067910093682946048",
+          "adv_no": "2078584677388185600",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -233,25 +233,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1785432531.1681933,
+      "fetched_at": 1785432881.9568627,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.999,
-          "merchant_name": "User-965dabbx",
+          "price": 0.8,
+          "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 55,
-          "min_limit": 10.0,
-          "max_limit": 500.0,
-          "available": 4161.36,
-          "payment_methods": [
-            "ABA",
-            "KHQR"
-          ],
-          "adv_no": "12914248674842521600",
-          "link": "https://c2c.binance.com/en/adv?code=12914248674842521600"
+          "order_count": 202,
+          "min_limit": 50.0,
+          "max_limit": 1034.882,
+          "available": 1293.6026,
+          "payment_methods": [],
+          "adv_no": "1768869022963105792",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
