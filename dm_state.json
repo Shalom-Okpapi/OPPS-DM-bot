@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785440492.3478916,
+      "fetched_at": 1785441045.281194,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1396.0,
-          "merchant_name": "MOMODU",
-          "completion_rate": 1.0,
-          "order_count": 393,
-          "min_limit": 50000.0,
-          "max_limit": 97042.52,
-          "available": 69.5147,
+          "merchant_name": "\ud835\udd46\u2119\ud835\udd3c\u211d\ud835\udd38",
+          "completion_rate": 0.99,
+          "order_count": 335,
+          "min_limit": 25000.0,
+          "max_limit": 50000.0,
+          "available": 293.4508,
           "payment_methods": [],
-          "adv_no": "2050509335966056448",
+          "adv_no": "2082385280154472448",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -231,36 +231,39 @@
       }
     },
     "USD": {
-      "fetched_at": 1785440493.6903918,
+      "fetched_at": 1785441044.1148844,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.999,
-          "merchant_name": "GEO_PAPA",
+          "price": 0.998,
+          "merchant_name": "User-965dabbx",
           "completion_rate": 1.0,
-          "order_count": 2657,
+          "order_count": 61,
           "min_limit": 10.0,
-          "max_limit": 8000.0,
-          "available": 16498.8682,
-          "payment_methods": [],
-          "adv_no": "1669729565524856832",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "max_limit": 100.0,
+          "available": 3537.47,
+          "payment_methods": [
+            "ABA",
+            "KHQR"
+          ],
+          "adv_no": "12914248674842521600",
+          "link": "https://c2c.binance.com/en/adv?code=12914248674842521600"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "ALKHABOSS_Ex",
+          "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 811,
-          "min_limit": 5.0,
-          "max_limit": 20476.543,
-          "available": 17063.7859,
+          "order_count": 336,
+          "min_limit": 10.0,
+          "max_limit": 36841.884,
+          "available": 30701.5701,
           "payment_methods": [],
-          "adv_no": "1924026696129343488",
+          "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
