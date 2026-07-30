@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785380623.544702,
+      "fetched_at": 1785380924.9621167,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1399.5,
           "merchant_name": "FAST_PAY_",
           "completion_rate": 0.99,
-          "order_count": 14834,
+          "order_count": 14835,
           "min_limit": 20000.0,
           "max_limit": 1000000.0,
-          "available": 1913.5407,
+          "available": 1500.0,
           "payment_methods": [],
           "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1785377232.076143,
+      "fetched_at": 1785380846.7924256,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,7 +91,7 @@
           "price": 0.872,
           "merchant_name": "DiegoMRuiz1409",
           "completion_rate": 0.97,
-          "order_count": 791,
+          "order_count": 792,
           "min_limit": 2.0,
           "max_limit": 74.347,
           "available": 85.2604,
@@ -100,24 +100,26 @@
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.047,
-          "merchant_name": "maskcrypto",
+          "price": 0.882,
+          "merchant_name": "lousse",
           "completion_rate": 1.0,
-          "order_count": 31,
-          "min_limit": 30.0,
-          "max_limit": 150.0,
-          "available": 18589.2921,
-          "payment_methods": [],
-          "adv_no": "2081443606964142080",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "order_count": 32,
+          "min_limit": 50.0,
+          "max_limit": 479.0,
+          "available": 544.0,
+          "payment_methods": [
+            "Dukascopy Bank"
+          ],
+          "adv_no": "12791872956006469632",
+          "link": "https://c2c.binance.com/en/adv?code=12791872956006469632"
         }
       }
     },
     "JPY": {
-      "fetched_at": 1785377228.3605943,
+      "fetched_at": 1785380844.3461168,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -128,8 +130,8 @@
           "completion_rate": 1.0,
           "order_count": 124,
           "min_limit": 3000.0,
-          "max_limit": 220116.05,
-          "available": 1279.7445,
+          "max_limit": 192316.05,
+          "available": 1118.1166,
           "payment_methods": [],
           "adv_no": "1568966526221668352",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -152,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1785377229.3139644,
+      "fetched_at": 1785380845.1275604,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -164,7 +166,7 @@
           "order_count": 540,
           "min_limit": 50.0,
           "max_limit": 3000.0,
-          "available": 8534.87,
+          "available": 11455.42,
           "payment_methods": [
             "Twint",
             "Bank Transfer",
@@ -196,7 +198,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1785377230.911204,
+      "fetched_at": 1785380845.9259381,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -219,26 +221,23 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.742,
-          "merchant_name": "SAS_Emperor10",
-          "completion_rate": 0.974,
-          "order_count": 1133,
-          "min_limit": 10.0,
-          "max_limit": 200.0,
-          "available": 446.65,
+          "price": 0.757,
+          "merchant_name": "wm_kz",
+          "completion_rate": 1.0,
+          "order_count": 26,
+          "min_limit": 4.0,
+          "max_limit": 288.0,
+          "available": 373.88,
           "payment_methods": [
-            "Instant Transfer",
-            "Bank Transfer",
-            "Faster Payments",
-            "Lloyds Bank"
+            "Alipay"
           ],
-          "adv_no": "12905770281845866496",
-          "link": "https://c2c.binance.com/en/adv?code=12905770281845866496"
+          "adv_no": "12882757191927926784",
+          "link": "https://c2c.binance.com/en/adv?code=12882757191927926784"
         }
       }
     },
     "USD": {
-      "fetched_at": 1785380622.1985016,
+      "fetched_at": 1785380926.6596913,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -262,7 +261,7 @@
           "price": 1.2,
           "merchant_name": "QUEEN-AYYSSH",
           "completion_rate": 1.0,
-          "order_count": 260,
+          "order_count": 261,
           "min_limit": 10.0,
           "max_limit": 30083.301,
           "available": 25069.4176,
