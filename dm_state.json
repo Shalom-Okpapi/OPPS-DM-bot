@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785524986.67285,
+      "fetched_at": 1785525221.6577947,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1395.0,
-          "merchant_name": "PROSPER7",
-          "completion_rate": 1.0,
-          "order_count": 122,
-          "min_limit": 4500.0,
-          "max_limit": 112558.5,
-          "available": 80.6871,
+          "merchant_name": "selflex",
+          "completion_rate": 0.99,
+          "order_count": 515,
+          "min_limit": 50000.0,
+          "max_limit": 200000.0,
+          "available": 548.1367,
           "payment_methods": [],
-          "adv_no": "2043256955606556672",
+          "adv_no": "2000890633183678464",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785524985.8650064,
+      "fetched_at": 1785525222.5819602,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
