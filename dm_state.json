@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785540278.2402658,
+      "fetched_at": 1785540575.5868886,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1394.0,
-          "merchant_name": "NODELAY\ud83d\ude80",
-          "completion_rate": 0.99,
-          "order_count": 241,
-          "min_limit": 20000.0,
-          "max_limit": 278800.0,
-          "available": 200.0,
+          "merchant_name": "ABU-ZAHRA\u2b50",
+          "completion_rate": 1.0,
+          "order_count": 281,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 801.7388,
           "payment_methods": [],
-          "adv_no": "2078584677388185600",
+          "adv_no": "2081088778700341248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785540279.029599,
+      "fetched_at": 1785540576.5368772,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -244,10 +244,10 @@
           "price": 0.997,
           "merchant_name": "User-fe4b2dhq",
           "completion_rate": 1.0,
-          "order_count": 41,
+          "order_count": 42,
           "min_limit": 15.0,
           "max_limit": 300.0,
-          "available": 3331.06,
+          "available": 3029.11,
           "payment_methods": [
             "ABA",
             "KHQR"
