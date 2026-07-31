@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785539701.0042884,
+      "fetched_at": 1785540278.2402658,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.99,
-          "merchant_name": "Roygbiv",
-          "completion_rate": 1.0,
-          "order_count": 121,
-          "min_limit": 4500.0,
-          "max_limit": 99000.0,
-          "available": 124.0645,
+          "price": 1394.0,
+          "merchant_name": "NODELAY\ud83d\ude80",
+          "completion_rate": 0.99,
+          "order_count": 241,
+          "min_limit": 20000.0,
+          "max_limit": 278800.0,
+          "available": 200.0,
           "payment_methods": [],
-          "adv_no": "1795705852479840256",
+          "adv_no": "2078584677388185600",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785539699.7617204,
+      "fetched_at": 1785540279.029599,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -244,10 +244,10 @@
           "price": 0.997,
           "merchant_name": "User-fe4b2dhq",
           "completion_rate": 1.0,
-          "order_count": 40,
+          "order_count": 41,
           "min_limit": 15.0,
           "max_limit": 300.0,
-          "available": 3381.38,
+          "available": 3331.06,
           "payment_methods": [
             "ABA",
             "KHQR"
