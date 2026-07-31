@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785535839.3356824,
+      "fetched_at": 1785536338.8737812,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.98,
-          "merchant_name": "Ricch-exchange",
-          "completion_rate": 0.98,
-          "order_count": 3817,
-          "min_limit": 50000.0,
-          "max_limit": 446393.6,
-          "available": 320.0,
+          "price": 1394.0,
+          "merchant_name": "Godsent\ud83d\udedc",
+          "completion_rate": 1.0,
+          "order_count": 229,
+          "min_limit": 4500.0,
+          "max_limit": 282884.69,
+          "available": 202.9302,
           "payment_methods": [],
-          "adv_no": "1627632154568613888",
+          "adv_no": "2058275202847862784",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,22 +232,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1785535837.8117034,
+      "fetched_at": 1785536337.636339,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.8,
-          "merchant_name": "DagestanDentist",
+          "price": 0.998,
+          "merchant_name": "User-fe4b2dhq",
           "completion_rate": 1.0,
-          "order_count": 209,
-          "min_limit": 50.0,
-          "max_limit": 1315.6,
-          "available": 1644.5,
-          "payment_methods": [],
-          "adv_no": "1768869022963105792",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "order_count": 39,
+          "min_limit": 15.0,
+          "max_limit": 300.0,
+          "available": 3461.89,
+          "payment_methods": [
+            "ABA",
+            "KHQR"
+          ],
+          "adv_no": "12915616891951333376",
+          "link": "https://c2c.binance.com/en/adv?code=12915616891951333376"
         },
         "sell": {
           "platform": "Bybit",
