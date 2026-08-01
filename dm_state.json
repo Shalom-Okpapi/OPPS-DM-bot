@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785578478.9771628,
+      "fetched_at": 1785579032.3391,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.0,
-          "merchant_name": "DRAGONSPAY\ud83d\udca2",
-          "completion_rate": 1.0,
-          "order_count": 265,
-          "min_limit": 50000.0,
-          "max_limit": 64011.31,
-          "available": 46.0182,
+          "price": 1391.5,
+          "merchant_name": "DAX_XCHANG",
+          "completion_rate": 0.99,
+          "order_count": 572,
+          "min_limit": 20000.0,
+          "max_limit": 50000.0,
+          "available": 500.0,
           "payment_methods": [],
-          "adv_no": "2072282028050616320",
+          "adv_no": "2050179882544918528",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785578480.1132383,
+      "fetched_at": 1785579031.1509666,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
