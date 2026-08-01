@@ -47,28 +47,28 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785567283.758869,
+      "fetched_at": 1785567579.3196743,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.99,
-          "merchant_name": "NODELAY\ud83d\ude80",
+          "price": 1393.89,
+          "merchant_name": "whiteangle_xcha",
           "completion_rate": 0.99,
-          "order_count": 246,
+          "order_count": 2034,
           "min_limit": 20000.0,
-          "max_limit": 278798.0,
-          "available": 200.0,
+          "max_limit": 2412909.45,
+          "available": 1731.0616,
           "payment_methods": [],
-          "adv_no": "2078584677388185600",
+          "adv_no": "1941214909965307904",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1407.3,
+          "price": 1409.3,
           "merchant_name": "mbcosmetic\ud83d\udc84",
           "completion_rate": 0.97,
           "order_count": 214,
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785567282.6179268,
+      "fetched_at": 1785567578.182751,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,7 +246,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1041,
+          "order_count": 1062,
           "min_limit": 2.0,
           "max_limit": 21057.43,
           "available": 26321.788,
