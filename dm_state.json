@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785601588.26007,
+      "fetched_at": 1785602071.2200332,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.98,
-          "merchant_name": "BLOCK_MERCHANT",
+          "price": 1392.0,
+          "merchant_name": "kaapo",
           "completion_rate": 1.0,
-          "order_count": 1190,
-          "min_limit": 4500.0,
-          "max_limit": 811564.7,
-          "available": 583.029,
+          "order_count": 64,
+          "min_limit": 5000.0,
+          "max_limit": 50000.0,
+          "available": 285.5647,
           "payment_methods": [],
-          "adv_no": "2080631570871107584",
+          "adv_no": "2083589974034558976",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1785598006.6872811,
+      "fetched_at": 1785601915.8790326,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,10 +91,10 @@
           "price": 0.867,
           "merchant_name": "ltd",
           "completion_rate": 1.0,
-          "order_count": 284,
+          "order_count": 285,
           "min_limit": 18.0,
           "max_limit": 50.0,
-          "available": 2287.6778,
+          "available": 2258.8428,
           "payment_methods": [],
           "adv_no": "1943455665883377664",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1785598002.3647468,
+      "fetched_at": 1785601912.4329143,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -156,7 +156,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1785598003.8803477,
+      "fetched_at": 1785601913.6541064,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -195,13 +195,13 @@
       }
     },
     "GBP": {
-      "fetched_at": 1785598005.0495627,
+      "fetched_at": 1785601915.0297606,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "GBP",
-          "price": 0.772,
+          "price": 0.774,
           "merchant_name": "BEST_CRYPTO_01",
           "completion_rate": 0.991,
           "order_count": 108,
@@ -215,24 +215,26 @@
           "link": "https://c2c.binance.com/en/adv?code=12916758314352857088"
         },
         "sell": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.798,
-          "merchant_name": "@Markleon",
-          "completion_rate": 0.96,
-          "order_count": 25,
-          "min_limit": 30.0,
-          "max_limit": 100.0,
-          "available": 953.0,
-          "payment_methods": [],
-          "adv_no": "2077415684591857664",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.757,
+          "merchant_name": "wm_kz",
+          "completion_rate": 1.0,
+          "order_count": 28,
+          "min_limit": 4.0,
+          "max_limit": 288.0,
+          "available": 208.88,
+          "payment_methods": [
+            "Alipay"
+          ],
+          "adv_no": "12882757191927926784",
+          "link": "https://c2c.binance.com/en/adv?code=12882757191927926784"
         }
       }
     },
     "USD": {
-      "fetched_at": 1785601589.561108,
+      "fetched_at": 1785602072.0160322,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -241,10 +243,10 @@
           "price": 0.8,
           "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 197,
+          "order_count": 205,
           "min_limit": 50.0,
-          "max_limit": 265.6,
-          "available": 332.0,
+          "max_limit": 1265.6,
+          "available": 1582.0,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
