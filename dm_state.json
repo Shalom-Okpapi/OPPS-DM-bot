@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785548230.1017556,
+      "fetched_at": 1785548728.2537124,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.79,
-          "merchant_name": "BLOCK_MERCHANT",
+          "price": 1394.0,
+          "merchant_name": "Eyesheart",
           "completion_rate": 1.0,
-          "order_count": 1156,
-          "min_limit": 4500.0,
-          "max_limit": 123215.91,
-          "available": 88.4035,
+          "order_count": 105,
+          "min_limit": 50000.0,
+          "max_limit": 133616.15,
+          "available": 95.8509,
           "payment_methods": [],
-          "adv_no": "2080631570871107584",
+          "adv_no": "1895411500275671040",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785548231.3207068,
+      "fetched_at": 1785548729.2203,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,7 +243,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1052,
+          "order_count": 1032,
           "min_limit": 2.0,
           "max_limit": 21198.172,
           "available": 26497.7154,
@@ -256,14 +256,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "QUEEN-AYYSSH",
+          "merchant_name": "Martak_xchange",
           "completion_rate": 1.0,
-          "order_count": 275,
-          "min_limit": 10.0,
-          "max_limit": 30083.301,
-          "available": 25069.4176,
+          "order_count": 567,
+          "min_limit": 50.0,
+          "max_limit": 50000.0,
+          "available": 86786.2669,
           "payment_methods": [],
-          "adv_no": "1994668393470828544",
+          "adv_no": "1998297233118478336",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
