@@ -47,19 +47,19 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785543048.610528,
+      "fetched_at": 1785543631.1431537,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.8,
+          "price": 1393.88,
           "merchant_name": "UNIQUE_01",
           "completion_rate": 1.0,
-          "order_count": 398,
+          "order_count": 400,
           "min_limit": 50000.0,
           "max_limit": 70000.0,
-          "available": 130.6977,
+          "available": 173.947,
           "payment_methods": [],
           "adv_no": "2079893125354926080",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -74,7 +74,7 @@
           "order_count": 189,
           "min_limit": 40000.0,
           "max_limit": 80000.0,
-          "available": 273.9133,
+          "available": 323.9133,
           "payment_methods": [],
           "adv_no": "1988310912176386048",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -232,25 +232,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1785543049.8466973,
+      "fetched_at": 1785543632.2768927,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.997,
-          "merchant_name": "User-fe4b2dhq",
-          "completion_rate": 1.0,
-          "order_count": 44,
-          "min_limit": 15.0,
-          "max_limit": 300.0,
-          "available": 2727.16,
-          "payment_methods": [
-            "ABA",
-            "KHQR"
-          ],
-          "adv_no": "12915616891951333376",
-          "link": "https://c2c.binance.com/en/adv?code=12915616891951333376"
+          "price": 0.8,
+          "merchant_name": "JackyChee",
+          "completion_rate": 0.99,
+          "order_count": 1052,
+          "min_limit": 2.0,
+          "max_limit": 21198.172,
+          "available": 26497.7154,
+          "payment_methods": [],
+          "adv_no": "2034594166346301440",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
