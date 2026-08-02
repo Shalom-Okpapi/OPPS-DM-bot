@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785659020.5451708,
+      "fetched_at": 1785659374.5400426,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1391.5,
-          "merchant_name": "ANIKE xchange",
-          "completion_rate": 0.97,
-          "order_count": 360,
-          "min_limit": 5000.0,
-          "max_limit": 50000.0,
-          "available": 137.5681,
+          "merchant_name": "ChuksEXCHANGE",
+          "completion_rate": 0.99,
+          "order_count": 367,
+          "min_limit": 20000.0,
+          "max_limit": 500000.0,
+          "available": 363.4568,
           "payment_methods": [],
-          "adv_no": "2083214326014607360",
+          "adv_no": "1986668072028913664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1457.85,
           "merchant_name": "WAR-LORD",
           "completion_rate": 0.99,
-          "order_count": 108,
+          "order_count": 115,
           "min_limit": 10000.0,
           "max_limit": 72892500.0,
           "available": 50000.0,
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785659022.0008318,
+      "fetched_at": 1785659375.6834555,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
