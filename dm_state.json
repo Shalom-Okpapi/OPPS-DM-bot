@@ -47,42 +47,42 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785790273.2125964,
+      "fetched_at": 1785793381.419433,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.0,
-          "merchant_name": "MohDeedertng",
-          "completion_rate": 0.98,
-          "order_count": 67,
-          "min_limit": 20000.0,
-          "max_limit": 108080.83,
-          "available": 77.7001,
+          "price": 1392.0,
+          "merchant_name": "Florien",
+          "completion_rate": 0.99,
+          "order_count": 273,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 1151.1162,
           "payment_methods": [],
-          "adv_no": "2080997412069740544",
+          "adv_no": "2075343080487432192",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1403.1,
-          "merchant_name": "fair_policy",
-          "completion_rate": 0.95,
-          "order_count": 421,
-          "min_limit": 11000.0,
-          "max_limit": 50000.0,
-          "available": 2843.7129,
+          "price": 1396.0,
+          "merchant_name": "AIB_PAY",
+          "completion_rate": 0.98,
+          "order_count": 130,
+          "min_limit": 30000.0,
+          "max_limit": 200000.0,
+          "available": 19969.11,
           "payment_methods": [],
-          "adv_no": "2079189932502728704",
+          "adv_no": "1999103819017654272",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "EUR": {
-      "fetched_at": 1785786886.1416118,
+      "fetched_at": 1785793147.4120176,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,10 +91,10 @@
           "price": 0.868,
           "merchant_name": "\u2728Eurostar\u2728",
           "completion_rate": 0.99,
-          "order_count": 216,
+          "order_count": 223,
           "min_limit": 2.0,
           "max_limit": 55.0,
-          "available": 893.272,
+          "available": 635.2308,
           "payment_methods": [],
           "adv_no": "1791171573124866048",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -117,22 +117,24 @@
       }
     },
     "JPY": {
-      "fetched_at": 1785786882.6200552,
+      "fetched_at": 1785793144.565489,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 185.0,
-          "merchant_name": "Muanya",
-          "completion_rate": 0.99,
-          "order_count": 831,
+          "price": 167.94,
+          "merchant_name": "Haottt",
+          "completion_rate": 1.0,
+          "order_count": 470,
           "min_limit": 5000.0,
-          "max_limit": 156952.79,
-          "available": 848.3935,
-          "payment_methods": [],
-          "adv_no": "2081268130010370048",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "max_limit": 200000.0,
+          "available": 1021.07,
+          "payment_methods": [
+            "Bank Transfer"
+          ],
+          "adv_no": "12913351998984159232",
+          "link": "https://c2c.binance.com/en/adv?code=12913351998984159232"
         },
         "sell": {
           "platform": "Binance",
@@ -154,7 +156,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1785786883.6971495,
+      "fetched_at": 1785793145.5898063,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -196,24 +198,24 @@
       }
     },
     "GBP": {
-      "fetched_at": 1785786885.1328025,
+      "fetched_at": 1785793146.5366764,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "GBP",
-          "price": 0.764,
-          "merchant_name": "TrustedCryptoHub",
-          "completion_rate": 1.0,
-          "order_count": 33,
-          "min_limit": 25.0,
-          "max_limit": 5000.0,
-          "available": 7251.49,
+          "price": 0.763,
+          "merchant_name": "Fast-USDT10",
+          "completion_rate": 0.995,
+          "order_count": 347,
+          "min_limit": 5.0,
+          "max_limit": 1000.0,
+          "available": 489.52,
           "payment_methods": [
             "Skrill (Moneybookers)"
           ],
-          "adv_no": "12899925816094810112",
-          "link": "https://c2c.binance.com/en/adv?code=12899925816094810112"
+          "adv_no": "12892175219020922880",
+          "link": "https://c2c.binance.com/en/adv?code=12892175219020922880"
         },
         "sell": {
           "platform": "Binance",
@@ -235,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785790274.7600324,
+      "fetched_at": 1785793382.3097649,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -244,10 +246,10 @@
           "price": 0.8,
           "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 177,
+          "order_count": 187,
           "min_limit": 50.0,
-          "max_limit": 1265.6,
-          "available": 1582.0,
+          "max_limit": 1125.6,
+          "available": 1407.0,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -257,14 +259,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Popular~",
+          "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 55,
+          "order_count": 370,
           "min_limit": 10.0,
-          "max_limit": 46426.449,
-          "available": 38688.7075,
+          "max_limit": 34403.309,
+          "available": 28669.4247,
           "payment_methods": [],
-          "adv_no": "2008843091994337280",
+          "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
