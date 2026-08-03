@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785797308.5228755,
+      "fetched_at": 1785797816.90336,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.0,
-          "merchant_name": "Florien",
-          "completion_rate": 0.99,
-          "order_count": 279,
-          "min_limit": 4500.0,
-          "max_limit": 100000.0,
-          "available": 5525.5532,
+          "price": 1390.65,
+          "merchant_name": "flashPayments",
+          "completion_rate": 0.95,
+          "order_count": 22,
+          "min_limit": 5000.0,
+          "max_limit": 100126.8,
+          "available": 72.0,
           "payment_methods": [],
-          "adv_no": "2075343080487432192",
+          "adv_no": "1901561213782970368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 50,
           "min_limit": 10000.0,
           "max_limit": 500000.0,
-          "available": 19862.5527,
+          "available": 19563.6221,
           "payment_methods": [],
           "adv_no": "2084392175507709952",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785797309.6032355,
+      "fetched_at": 1785797815.730181,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -263,8 +263,8 @@
           "completion_rate": 1.0,
           "order_count": 233,
           "min_limit": 10.0,
-          "max_limit": 19638.798,
-          "available": 16365.6657,
+          "max_limit": 19621.008,
+          "available": 16350.8401,
           "payment_methods": [],
           "adv_no": "2013559487527952384",
           "link": "https://www.bybit.com/fiat/trade/otc"
