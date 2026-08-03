@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785779390.1661677,
+      "fetched_at": 1785779681.6825638,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1392.0,
-          "merchant_name": "Primmybtc",
+          "merchant_name": "MRSWIFT\ud83d\udc8e",
           "completion_rate": 1.0,
-          "order_count": 49,
-          "min_limit": 10000.0,
-          "max_limit": 205242.6,
-          "available": 147.4444,
+          "order_count": 366,
+          "min_limit": 50000.0,
+          "max_limit": 257797.56,
+          "available": 185.1994,
           "payment_methods": [],
-          "adv_no": "1788500810856390656",
+          "adv_no": "2079109047166709760",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1402.7,
           "merchant_name": "fair_policy",
           "completion_rate": 0.96,
-          "order_count": 404,
+          "order_count": 405,
           "min_limit": 11000.0,
           "max_limit": 50000.0,
           "available": 3147.8241,
@@ -237,25 +237,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1785779391.1060524,
+      "fetched_at": 1785779683.1336381,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.996,
-          "merchant_name": "irakli",
-          "completion_rate": 0.964,
-          "order_count": 159,
-          "min_limit": 15.0,
+          "price": 0.997,
+          "merchant_name": "User-965dabbx",
+          "completion_rate": 0.988,
+          "order_count": 82,
+          "min_limit": 10.0,
           "max_limit": 300.0,
-          "available": 311.82,
+          "available": 1619.45,
           "payment_methods": [
-            "Bank of Georgia",
-            "TBC Bank"
+            "ABA",
+            "KHQR"
           ],
-          "adv_no": "12917651695795064832",
-          "link": "https://c2c.binance.com/en/adv?code=12917651695795064832"
+          "adv_no": "12914248674842521600",
+          "link": "https://c2c.binance.com/en/adv?code=12914248674842521600"
         },
         "sell": {
           "platform": "Bybit",
