@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785732881.3853855,
+      "fetched_at": 1785733435.392007,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.0,
-          "merchant_name": "Muhdsani",
-          "completion_rate": 1.0,
-          "order_count": 48,
-          "min_limit": 50000.0,
-          "max_limit": 1014689.47,
-          "available": 728.4203,
+          "price": 1393.5,
+          "merchant_name": "FAST_PAY_",
+          "completion_rate": 0.99,
+          "order_count": 14696,
+          "min_limit": 20000.0,
+          "max_limit": 1000000.0,
+          "available": 876.051,
           "payment_methods": [],
-          "adv_no": "2064211168548233216",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785732880.5579398,
+      "fetched_at": 1785733434.1493187,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -251,8 +251,8 @@
           "completion_rate": 0.99,
           "order_count": 1051,
           "min_limit": 2.0,
-          "max_limit": 17284.704,
-          "available": 21605.8812,
+          "max_limit": 17296.136,
+          "available": 21620.1712,
           "payment_methods": [],
           "adv_no": "2034594166346301440",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -264,7 +264,7 @@
           "price": 1.2,
           "merchant_name": "Martak_xchange",
           "completion_rate": 1.0,
-          "order_count": 578,
+          "order_count": 605,
           "min_limit": 50.0,
           "max_limit": 50000.0,
           "available": 86696.2669,
