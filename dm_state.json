@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785754478.3784614,
+      "fetched_at": 1785754776.4167879,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -64,21 +64,7 @@
           "adv_no": "2038916156550537216",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
-        "sell": {
-          "platform": "Bybit",
-          "trade_type": "SELL",
-          "fiat": "NGN",
-          "price": 1457.85,
-          "merchant_name": "WAR-LORD",
-          "completion_rate": 0.99,
-          "order_count": 109,
-          "min_limit": 10000.0,
-          "max_limit": 72892500.0,
-          "available": 50000.0,
-          "payment_methods": [],
-          "adv_no": "2059913501620731904",
-          "link": "https://www.bybit.com/fiat/trade/otc"
-        }
+        "sell": null
       }
     },
     "EUR": {
@@ -235,7 +221,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785754477.2871885,
+      "fetched_at": 1785754775.283809,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,7 +245,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 346,
+          "order_count": 358,
           "min_limit": 10.0,
           "max_limit": 34717.078,
           "available": 28930.8988,
