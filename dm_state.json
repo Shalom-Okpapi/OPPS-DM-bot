@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785777382.9967844,
+      "fetched_at": 1785777943.7145612,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.0,
-          "merchant_name": "DON-BABA",
-          "completion_rate": 1.0,
-          "order_count": 515,
-          "min_limit": 4500.0,
-          "max_limit": 333061.47,
-          "available": 239.2683,
+          "price": 1392.5,
+          "merchant_name": "Decorator",
+          "completion_rate": 0.99,
+          "order_count": 1989,
+          "min_limit": 9000.0,
+          "max_limit": 150000.0,
+          "available": 158.292,
           "payment_methods": [],
-          "adv_no": "1908403293708460032",
+          "adv_no": "1968570697613799424",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785777381.8566754,
+      "fetched_at": 1785777944.579573,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -246,7 +246,7 @@
           "price": 0.997,
           "merchant_name": "User-965dabbx",
           "completion_rate": 0.988,
-          "order_count": 80,
+          "order_count": 81,
           "min_limit": 10.0,
           "max_limit": 300.0,
           "available": 1921.4,
