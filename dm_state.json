@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785715363.5211267,
+      "fetched_at": 1785715920.5105307,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.49,
-          "merchant_name": "Ricch-exchange",
-          "completion_rate": 0.96,
-          "order_count": 3894,
+          "price": 1392.0,
+          "merchant_name": "\ud835\udc69\ud835\udc71\ud835\udc7c\ud835\udc7e\ud835\udc68\ud835\udc6d\ud835\udc7f",
+          "completion_rate": 0.98,
+          "order_count": 64,
           "min_limit": 50000.0,
-          "max_limit": 689551.43,
-          "available": 495.1931,
+          "max_limit": 100000.0,
+          "available": 100.2376,
           "payment_methods": [],
-          "adv_no": "1627632154568613888",
+          "adv_no": "2078440603529822208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -70,7 +70,7 @@
           "fiat": "NGN",
           "price": 1406.3,
           "merchant_name": "do_not_give_up",
-          "completion_rate": 1.0,
+          "completion_rate": 0.98,
           "order_count": 73,
           "min_limit": 30000.0,
           "max_limit": 100000.0,
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785715364.6999738,
+      "fetched_at": 1785715919.4267268,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
