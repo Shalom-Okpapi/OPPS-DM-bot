@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785856248.3822277,
+      "fetched_at": 1785857068.3440194,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.0,
-          "merchant_name": "INSTITUTION",
+          "price": 1392.5,
+          "merchant_name": "MRSWIFT",
           "completion_rate": 1.0,
-          "order_count": 85,
-          "min_limit": 11000.0,
-          "max_limit": 100000.0,
-          "available": 135.4025,
+          "order_count": 438,
+          "min_limit": 50000.0,
+          "max_limit": 77352.81,
+          "available": 55.5496,
           "payment_methods": [],
-          "adv_no": "2083990034620104704",
+          "adv_no": "2079109047166709760",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1400.8,
-          "merchant_name": "fair_policy",
-          "completion_rate": 0.95,
-          "order_count": 443,
-          "min_limit": 11000.0,
-          "max_limit": 50000.0,
-          "available": 2777.4498,
+          "price": 1395.02,
+          "merchant_name": "MBcosmetics",
+          "completion_rate": 0.96,
+          "order_count": 217,
+          "min_limit": 19500.0,
+          "max_limit": 153000.0,
+          "available": 4838.3385,
           "payment_methods": [],
-          "adv_no": "2079189932502728704",
+          "adv_no": "2077419826420920320",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785856247.2184725,
+      "fetched_at": 1785857067.3598354,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -245,7 +245,7 @@
           "price": 0.8,
           "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 178,
+          "order_count": 186,
           "min_limit": 50.0,
           "max_limit": 1690.0,
           "available": 2112.5,
