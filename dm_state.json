@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785857068.3440194,
+      "fetched_at": 1785857601.4798276,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.5,
-          "merchant_name": "MRSWIFT",
-          "completion_rate": 1.0,
-          "order_count": 438,
+          "price": 1393.0,
+          "merchant_name": "big_Mark",
+          "completion_rate": 0.97,
+          "order_count": 66,
           "min_limit": 50000.0,
-          "max_limit": 77352.81,
-          "available": 55.5496,
+          "max_limit": 52929.26,
+          "available": 37.9966,
           "payment_methods": [],
-          "adv_no": "2079109047166709760",
+          "adv_no": "1795025105052012544",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1395.02,
           "merchant_name": "MBcosmetics",
           "completion_rate": 0.96,
-          "order_count": 217,
+          "order_count": 219,
           "min_limit": 19500.0,
           "max_limit": 153000.0,
-          "available": 4838.3385,
+          "available": 4680.4178,
           "payment_methods": [],
           "adv_no": "2077419826420920320",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785857067.3598354,
+      "fetched_at": 1785857603.051465,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
