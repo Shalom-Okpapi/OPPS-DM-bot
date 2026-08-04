@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785872318.9432888,
+      "fetched_at": 1785872678.1307995,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.0,
-          "merchant_name": "The-ApexAssets",
-          "completion_rate": 0.99,
-          "order_count": 1798,
-          "min_limit": 5000.0,
-          "max_limit": 83177.84,
-          "available": 59.7542,
+          "price": 1393.5,
+          "merchant_name": "TheJACKAL",
+          "completion_rate": 1.0,
+          "order_count": 46,
+          "min_limit": 50000.0,
+          "max_limit": 100000.0,
+          "available": 400.0,
           "payment_methods": [],
-          "adv_no": "2084725616875732992",
+          "adv_no": "2070917086144720896",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785872320.3439252,
+      "fetched_at": 1785872679.25816,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -260,7 +260,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 363,
+          "order_count": 368,
           "min_limit": 10.0,
           "max_limit": 33657.692,
           "available": 28048.0767,
