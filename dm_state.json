@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785878077.2640698,
+      "fetched_at": 1785878320.9792671,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1402.6,
-          "merchant_name": "fair_policy",
-          "completion_rate": 0.95,
-          "order_count": 459,
-          "min_limit": 11000.0,
-          "max_limit": 50000.0,
-          "available": 2476.0588,
+          "price": 1395.0,
+          "merchant_name": "belloarabi",
+          "completion_rate": 0.97,
+          "order_count": 258,
+          "min_limit": 40000.0,
+          "max_limit": 300000.0,
+          "available": 14066.1291,
           "payment_methods": [],
-          "adv_no": "2079189932502728704",
+          "adv_no": "2078854818793115648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785878076.2003174,
+      "fetched_at": 1785878319.7826083,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -264,8 +264,8 @@
           "completion_rate": 1.0,
           "order_count": 364,
           "min_limit": 10.0,
-          "max_limit": 33657.692,
-          "available": 28048.0767,
+          "max_limit": 33635.692,
+          "available": 28029.7434,
           "payment_methods": [],
           "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
