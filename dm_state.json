@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785837883.974561,
+      "fetched_at": 1785838438.5730493,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.0,
-          "merchant_name": "DaValid",
-          "completion_rate": 0.95,
-          "order_count": 88,
-          "min_limit": 4500.0,
+          "price": 1391.79,
+          "merchant_name": "INSTITUTION",
+          "completion_rate": 1.0,
+          "order_count": 23,
+          "min_limit": 11000.0,
           "max_limit": 100000.0,
-          "available": 145.0,
+          "available": 725.4557,
           "payment_methods": [],
-          "adv_no": "2084570440628797440",
+          "adv_no": "2083990034620104704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1397.5,
           "merchant_name": "fair_policy",
           "completion_rate": 0.95,
-          "order_count": 426,
+          "order_count": 427,
           "min_limit": 11000.0,
           "max_limit": 50000.0,
-          "available": 3137.6138,
+          "available": 3077.6138,
           "payment_methods": [],
           "adv_no": "2079189932502728704",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785837882.7487783,
+      "fetched_at": 1785838439.7075956,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,8 +246,8 @@
           "completion_rate": 1.0,
           "order_count": 182,
           "min_limit": 50.0,
-          "max_limit": 1075.6,
-          "available": 1344.5,
+          "max_limit": 1600.0,
+          "available": 2000.0,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
