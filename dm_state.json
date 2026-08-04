@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785886782.4692268,
+      "fetched_at": 1785887348.6385992,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.0,
-          "merchant_name": "BitcoinMaster..",
-          "completion_rate": 0.98,
-          "order_count": 578,
-          "min_limit": 20000.0,
-          "max_limit": 100000.0,
-          "available": 219.5491,
+          "price": 1391.0,
+          "merchant_name": "Richdudefahd",
+          "completion_rate": 0.95,
+          "order_count": 1953,
+          "min_limit": 30000.0,
+          "max_limit": 69331.47,
+          "available": 49.8429,
           "payment_methods": [],
-          "adv_no": "2077038206362677248",
+          "adv_no": "2073850055083782144",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -242,25 +242,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1785886783.311602,
+      "fetched_at": 1785887349.8230586,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.999,
-          "merchant_name": "Trevor_Philips",
+          "merchant_name": "alvik",
           "completion_rate": 1.0,
-          "order_count": 1071,
-          "min_limit": 30.0,
-          "max_limit": 15000.0,
-          "available": 19443.57,
-          "payment_methods": [
-            "TBC Bank",
-            "Bank of Georgia"
-          ],
-          "adv_no": "13916233104935788544",
-          "link": "https://c2c.binance.com/en/adv?code=13916233104935788544"
+          "order_count": 10478,
+          "min_limit": 50.0,
+          "max_limit": 41725.961,
+          "available": 41767.7291,
+          "payment_methods": [],
+          "adv_no": "1807122607564685312",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
@@ -269,7 +266,7 @@
           "price": 1.2,
           "merchant_name": "SUCCESS_",
           "completion_rate": 1.0,
-          "order_count": 8023,
+          "order_count": 7918,
           "min_limit": 2.0,
           "max_limit": 50000.0,
           "available": 95848.3335,
