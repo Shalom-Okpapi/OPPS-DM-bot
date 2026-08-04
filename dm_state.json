@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785883968.0859559,
+      "fetched_at": 1785884521.9750817,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.5,
-          "merchant_name": "Instantguy",
-          "completion_rate": 0.97,
-          "order_count": 77,
+          "price": 1389.0,
+          "merchant_name": "Florien",
+          "completion_rate": 0.99,
+          "order_count": 414,
           "min_limit": 4500.0,
-          "max_limit": 98180.62,
-          "available": 70.5574,
+          "max_limit": 200000.0,
+          "available": 3962.8465,
           "payment_methods": [],
-          "adv_no": "2084599209489002496",
+          "adv_no": "2084695557035261952",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -242,36 +242,39 @@
       }
     },
     "USD": {
-      "fetched_at": 1785883966.6160781,
+      "fetched_at": 1785884520.8713663,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.8,
-          "merchant_name": "DagestanDentist",
+          "price": 0.999,
+          "merchant_name": "Trevor_Philips",
           "completion_rate": 1.0,
-          "order_count": 185,
-          "min_limit": 50.0,
-          "max_limit": 1680.0,
-          "available": 2100.0,
-          "payment_methods": [],
-          "adv_no": "1768869022963105792",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "order_count": 1067,
+          "min_limit": 30.0,
+          "max_limit": 15000.0,
+          "available": 19584.1,
+          "payment_methods": [
+            "TBC Bank",
+            "Bank of Georgia"
+          ],
+          "adv_no": "13916233104935788544",
+          "link": "https://c2c.binance.com/en/adv?code=13916233104935788544"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "FIGE_EXCHANGE",
+          "merchant_name": "Noorah_trades",
           "completion_rate": 1.0,
-          "order_count": 1855,
-          "min_limit": 10.0,
-          "max_limit": 32316.087,
-          "available": 26930.0726,
+          "order_count": 59,
+          "min_limit": 15.0,
+          "max_limit": 17120.156,
+          "available": 14266.797,
           "payment_methods": [],
-          "adv_no": "1925937600883937280",
+          "adv_no": "1991045051578216448",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
