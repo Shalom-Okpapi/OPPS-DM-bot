@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785885008.1623898,
+      "fetched_at": 1785885593.0245972,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.0,
-          "merchant_name": "TheJACKAL",
-          "completion_rate": 1.0,
-          "order_count": 53,
-          "min_limit": 50000.0,
-          "max_limit": 100000.0,
-          "available": 256.425,
+          "price": 1393.5,
+          "merchant_name": "Olaexchange1",
+          "completion_rate": 0.99,
+          "order_count": 333,
+          "min_limit": 5850.0,
+          "max_limit": 375828.62,
+          "available": 269.7012,
           "payment_methods": [],
-          "adv_no": "2070917086144720896",
+          "adv_no": "2045323116362084353",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -242,7 +242,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785885007.0668604,
+      "fetched_at": 1785885591.9315367,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -251,7 +251,7 @@
           "price": 0.999,
           "merchant_name": "Trevor_Philips",
           "completion_rate": 1.0,
-          "order_count": 1067,
+          "order_count": 1068,
           "min_limit": 30.0,
           "max_limit": 15000.0,
           "available": 19584.1,
