@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785837524.0191433,
+      "fetched_at": 1785837883.974561,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1391.0,
-          "merchant_name": "Prince_Ola",
-          "completion_rate": 1.0,
-          "order_count": 282,
+          "merchant_name": "DaValid",
+          "completion_rate": 0.95,
+          "order_count": 88,
           "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 41.7129,
+          "max_limit": 100000.0,
+          "available": 145.0,
           "payment_methods": [],
-          "adv_no": "2083869166027948032",
+          "adv_no": "2084570440628797440",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1397.5,
           "merchant_name": "fair_policy",
           "completion_rate": 0.95,
-          "order_count": 424,
+          "order_count": 426,
           "min_limit": 11000.0,
           "max_limit": 50000.0,
-          "available": 3167.6674,
+          "available": 3137.6138,
           "payment_methods": [],
           "adv_no": "2079189932502728704",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785837522.54542,
+      "fetched_at": 1785837882.7487783,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
