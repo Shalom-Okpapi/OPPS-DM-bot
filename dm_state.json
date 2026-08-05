@@ -47,19 +47,19 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785969522.3782325,
+      "fetched_at": 1785969884.3751307,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.8,
+          "price": 1393.5,
           "merchant_name": "Ems Global ",
           "completion_rate": 1.0,
           "order_count": 237,
           "min_limit": 50000.0,
-          "max_limit": 2732801.21,
-          "available": 1960.6839,
+          "max_limit": 117413.1,
+          "available": 84.2577,
           "payment_methods": [],
           "adv_no": "1979121959575638016",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785969521.3051648,
+      "fetched_at": 1785969883.22737,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -258,14 +258,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "FIGE_EXCHANGE",
+          "merchant_name": "Martak_xchange",
           "completion_rate": 1.0,
-          "order_count": 1906,
-          "min_limit": 10.0,
-          "max_limit": 32262.087,
-          "available": 26885.0726,
+          "order_count": 656,
+          "min_limit": 50.0,
+          "max_limit": 50000.0,
+          "available": 86696.2669,
           "payment_methods": [],
-          "adv_no": "1925937600883937280",
+          "adv_no": "1998297233118478336",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
