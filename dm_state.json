@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785909576.2790227,
+      "fetched_at": 1785909876.4925513,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.99,
-          "merchant_name": "JustDoz",
-          "completion_rate": 0.97,
-          "order_count": 416,
-          "min_limit": 30000.0,
-          "max_limit": 200000.0,
-          "available": 296.5873,
+          "price": 1393.9,
+          "merchant_name": "MOMODU",
+          "completion_rate": 1.0,
+          "order_count": 366,
+          "min_limit": 50000.0,
+          "max_limit": 120000.0,
+          "available": 124.7938,
           "payment_methods": [],
-          "adv_no": "2065226539912429568",
+          "adv_no": "2050509335966056448",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1395.0,
           "merchant_name": "belloarabi",
           "completion_rate": 0.96,
-          "order_count": 261,
+          "order_count": 262,
           "min_limit": 40000.0,
           "max_limit": 300000.0,
-          "available": 13966.1291,
+          "available": 13822.76,
           "payment_methods": [],
           "adv_no": "2078854818793115648",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785909577.3623116,
+      "fetched_at": 1785909875.4757094,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
