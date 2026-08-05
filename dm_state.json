@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1785929378.3040586,
+      "fetched_at": 1785929677.2243338,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.99,
-          "merchant_name": "TheJACKAL",
-          "completion_rate": 1.0,
-          "order_count": 68,
-          "min_limit": 50000.0,
-          "max_limit": 86692.23,
-          "available": 62.19,
+          "price": 1394.0,
+          "merchant_name": "Doubleprince",
+          "completion_rate": 0.99,
+          "order_count": 1515,
+          "min_limit": 9500.0,
+          "max_limit": 50000.0,
+          "available": 319.3576,
           "payment_methods": [],
-          "adv_no": "2070917086144720896",
+          "adv_no": "2084277399811600384",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1396.86,
           "merchant_name": "MBcosmetics",
           "completion_rate": 0.95,
-          "order_count": 228,
+          "order_count": 229,
           "min_limit": 19500.0,
           "max_limit": 204000.0,
           "available": 4897.6276,
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1785929379.5500958,
+      "fetched_at": 1785929675.7402997,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -258,8 +258,8 @@
           "completion_rate": 1.0,
           "order_count": 359,
           "min_limit": 10.0,
-          "max_limit": 33634.973,
-          "available": 28029.1442,
+          "max_limit": 33531.773,
+          "available": 27943.1442,
           "payment_methods": [],
           "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
