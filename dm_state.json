@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786005879.4926603,
+      "fetched_at": 1786006123.1743054,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1393.0,
-          "merchant_name": "SKY EXCHANGE ",
+          "merchant_name": "Prince_Ola",
           "completion_rate": 1.0,
-          "order_count": 77,
-          "min_limit": 50000.0,
-          "max_limit": 70000.0,
-          "available": 52.0369,
+          "order_count": 428,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 342.0935,
           "payment_methods": [],
-          "adv_no": "2060067788376535040",
+          "adv_no": "2085066826658349056",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1786002359.9241219,
+      "fetched_at": 1786005967.45092,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1786002356.9979422,
+      "fetched_at": 1786005963.875086,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -126,10 +126,10 @@
           "price": 167.3,
           "merchant_name": "DCMNB",
           "completion_rate": 0.986,
-          "order_count": 340,
+          "order_count": 346,
           "min_limit": 3000.0,
-          "max_limit": 289126.0,
-          "available": 1689.31,
+          "max_limit": 95447.0,
+          "available": 570.52,
           "payment_methods": [
             "Bank Transfer"
           ],
@@ -137,26 +137,24 @@
           "link": "https://c2c.binance.com/en/adv?code=12910311735823863808"
         },
         "sell": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 166.51,
-          "merchant_name": "Takara68",
-          "completion_rate": 0.976,
-          "order_count": 392,
-          "min_limit": 5000.0,
-          "max_limit": 100000.0,
-          "available": 1480.7,
-          "payment_methods": [
-            "PayPay Money"
-          ],
-          "adv_no": "12875859113254543360",
-          "link": "https://c2c.binance.com/en/adv?code=12875859113254543360"
+          "price": 163.22,
+          "merchant_name": "Kevin_17",
+          "completion_rate": 0.97,
+          "order_count": 81,
+          "min_limit": 2000.0,
+          "max_limit": 150000.0,
+          "available": 19075.6927,
+          "payment_methods": [],
+          "adv_no": "1970432739879063552",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1786002357.9451272,
+      "fetched_at": 1786005965.005205,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -164,11 +162,11 @@
           "fiat": "CHF",
           "price": 0.894,
           "merchant_name": "-CH-S1kario",
-          "completion_rate": 0.981,
-          "order_count": 51,
+          "completion_rate": 0.982,
+          "order_count": 52,
           "min_limit": 50.0,
           "max_limit": 10000.0,
-          "available": 276.29,
+          "available": 176.93,
           "payment_methods": [
             "Instant Transfer",
             "Cash Deposit to Bank",
@@ -188,7 +186,7 @@
           "order_count": 24,
           "min_limit": 10.0,
           "max_limit": 10000.0,
-          "available": 19592.86,
+          "available": 19628.22,
           "payment_methods": [
             "Twint",
             "Instant Transfer",
@@ -201,7 +199,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1786002358.9325023,
+      "fetched_at": 1786005966.185937,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -210,10 +208,10 @@
           "price": 0.774,
           "merchant_name": "BEST_CRYPTO_01",
           "completion_rate": 0.981,
-          "order_count": 152,
+          "order_count": 153,
           "min_limit": 10.0,
           "max_limit": 1000.0,
-          "available": 385.41,
+          "available": 359.58,
           "payment_methods": [
             "Skrill (Moneybookers)"
           ],
@@ -238,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786005880.2695274,
+      "fetched_at": 1786006124.2543807,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
