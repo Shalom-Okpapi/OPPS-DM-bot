@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786047571.7971973,
+      "fetched_at": 1786048192.9077008,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.5,
-          "merchant_name": "INSTITUTION",
+          "price": 1393.0,
+          "merchant_name": "LOADER",
           "completion_rate": 1.0,
-          "order_count": 133,
-          "min_limit": 11000.0,
-          "max_limit": 150000.0,
-          "available": 1065.9337,
+          "order_count": 25,
+          "min_limit": 4500.0,
+          "max_limit": 641225.89,
+          "available": 460.3201,
           "payment_methods": [],
-          "adv_no": "2083990034620104704",
+          "adv_no": "2021892499695620096",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,24 +236,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1786047570.9806283,
+      "fetched_at": 1786048192.0220966,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.997,
-          "merchant_name": "Si-cr\u00edo",
-          "completion_rate": 1.0,
-          "order_count": 1649,
-          "min_limit": 10.0,
-          "max_limit": 1500.0,
-          "available": 1854.13,
+          "price": 0.996,
+          "merchant_name": "CriptosAmerica",
+          "completion_rate": 0.973,
+          "order_count": 141,
+          "min_limit": 50.0,
+          "max_limit": 3000.0,
+          "available": 5686.02,
           "payment_methods": [
             "Banco Pichincha"
           ],
-          "adv_no": "12915450003503489024",
-          "link": "https://c2c.binance.com/en/adv?code=12915450003503489024"
+          "adv_no": "12916308261536112640",
+          "link": "https://c2c.binance.com/en/adv?code=12916308261536112640"
         },
         "sell": {
           "platform": "Bybit",
