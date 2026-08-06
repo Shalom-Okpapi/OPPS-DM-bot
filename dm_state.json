@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786059822.957575,
+      "fetched_at": 1786060178.636134,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.5,
-          "merchant_name": "swiftrade001",
+          "price": 1393.2,
+          "merchant_name": "GEEBENZ01",
           "completion_rate": 1.0,
-          "order_count": 94,
-          "min_limit": 50000.0,
-          "max_limit": 3371330.5,
-          "available": 2421.0632,
+          "order_count": 282,
+          "min_limit": 20000.0,
+          "max_limit": 249987.3,
+          "available": 179.4339,
           "payment_methods": [],
-          "adv_no": "2073454304590696448",
+          "adv_no": "2049247830517608448",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -241,38 +241,36 @@
       }
     },
     "USD": {
-      "fetched_at": 1786059823.7825234,
+      "fetched_at": 1786060177.4771085,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.999,
-          "merchant_name": "AnalistaCripto",
-          "completion_rate": 1.0,
-          "order_count": 1710,
-          "min_limit": 50.0,
-          "max_limit": 1500.0,
-          "available": 5183.39,
-          "payment_methods": [
-            "Banco Pichincha"
-          ],
-          "adv_no": "12909680510819258368",
-          "link": "https://c2c.binance.com/en/adv?code=12909680510819258368"
+          "price": 0.8,
+          "merchant_name": "JackyChee",
+          "completion_rate": 0.99,
+          "order_count": 1031,
+          "min_limit": 2.0,
+          "max_limit": 14430.489,
+          "available": 18038.1123,
+          "payment_methods": [],
+          "adv_no": "2034594166346301440",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Martak_xchange",
+          "merchant_name": "Cubes55a",
           "completion_rate": 1.0,
-          "order_count": 666,
-          "min_limit": 50.0,
+          "order_count": 323,
+          "min_limit": 20.0,
           "max_limit": 50000.0,
-          "available": 86696.2669,
+          "available": 99919.7164,
           "payment_methods": [],
-          "adv_no": "1998297233118478336",
+          "adv_no": "2030091390976552960",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
