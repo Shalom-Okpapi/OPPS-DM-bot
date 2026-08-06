@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786046305.221604,
+      "fetched_at": 1786047571.7971973,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.0,
-          "merchant_name": "MARKEETER01",
-          "completion_rate": 0.98,
-          "order_count": 156,
-          "min_limit": 50000.0,
-          "max_limit": 100000.0,
-          "available": 562.8339,
+          "price": 1393.5,
+          "merchant_name": "INSTITUTION",
+          "completion_rate": 1.0,
+          "order_count": 133,
+          "min_limit": 11000.0,
+          "max_limit": 150000.0,
+          "available": 1065.9337,
           "payment_methods": [],
-          "adv_no": "2063024103818440704",
+          "adv_no": "2083990034620104704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,24 +236,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1786046304.0024464,
+      "fetched_at": 1786047570.9806283,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.996,
-          "merchant_name": "CriptosAmerica",
-          "completion_rate": 0.971,
-          "order_count": 132,
-          "min_limit": 50.0,
-          "max_limit": 400.0,
-          "available": 7405.8,
+          "price": 0.997,
+          "merchant_name": "Si-cr\u00edo",
+          "completion_rate": 1.0,
+          "order_count": 1649,
+          "min_limit": 10.0,
+          "max_limit": 1500.0,
+          "available": 1854.13,
           "payment_methods": [
             "Banco Pichincha"
           ],
-          "adv_no": "12916308261536112640",
-          "link": "https://c2c.binance.com/en/adv?code=12916308261536112640"
+          "adv_no": "12915450003503489024",
+          "link": "https://c2c.binance.com/en/adv?code=12915450003503489024"
         },
         "sell": {
           "platform": "Bybit",
@@ -262,10 +262,10 @@
           "price": 1.2,
           "merchant_name": "Speed_payment",
           "completion_rate": 1.0,
-          "order_count": 22,
+          "order_count": 24,
           "min_limit": 20.0,
-          "max_limit": 22161.282,
-          "available": 18467.7355,
+          "max_limit": 22141.282,
+          "available": 18451.0689,
           "payment_methods": [],
           "adv_no": "2022764591002497024",
           "link": "https://www.bybit.com/fiat/trade/otc"
