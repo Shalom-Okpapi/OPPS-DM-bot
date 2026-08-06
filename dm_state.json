@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786056762.3163419,
+      "fetched_at": 1786057328.5074995,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1392.0,
-          "merchant_name": "Ems Global ",
+          "merchant_name": "Florien",
           "completion_rate": 1.0,
-          "order_count": 251,
-          "min_limit": 50000.0,
-          "max_limit": 130228.56,
-          "available": 93.555,
+          "order_count": 500,
+          "min_limit": 4500.0,
+          "max_limit": 200000.0,
+          "available": 5089.454,
           "payment_methods": [],
-          "adv_no": "1979121959575638016",
+          "adv_no": "2085351649537523712",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786056763.4516456,
+      "fetched_at": 1786057329.6411822,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -249,10 +249,10 @@
           "price": 0.998,
           "merchant_name": "P2P-df4316em",
           "completion_rate": 1.0,
-          "order_count": 55,
+          "order_count": 58,
           "min_limit": 10.0,
           "max_limit": 500.0,
-          "available": 4507.12,
+          "available": 2691.24,
           "payment_methods": [
             "ABA"
           ],
