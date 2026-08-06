@@ -47,18 +47,18 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786059293.0368636,
+      "fetched_at": 1786059581.1250968,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.2,
+          "price": 1392.0,
           "merchant_name": "big_Mark",
           "completion_rate": 0.97,
-          "order_count": 70,
+          "order_count": 68,
           "min_limit": 50000.0,
-          "max_limit": 1414166.54,
+          "max_limit": 1412948.48,
           "available": 1015.0492,
           "payment_methods": [],
           "adv_no": "1795025105052012544",
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1454.29,
-          "merchant_name": "WAR-LORD",
-          "completion_rate": 0.99,
-          "order_count": 102,
-          "min_limit": 10000.0,
-          "max_limit": 72714500.0,
-          "available": 50000.0,
+          "price": 1389.3,
+          "merchant_name": "General gbr ",
+          "completion_rate": 0.96,
+          "order_count": 58,
+          "min_limit": 30000.0,
+          "max_limit": 1796181.37,
+          "available": 1292.8679,
           "payment_methods": [],
-          "adv_no": "2059913501620731904",
+          "adv_no": "2059511064013107200",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -241,38 +241,38 @@
       }
     },
     "USD": {
-      "fetched_at": 1786059291.5080914,
+      "fetched_at": 1786059581.8507986,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.998,
-          "merchant_name": "P2P-df4316em",
+          "price": 0.999,
+          "merchant_name": "AnalistaCripto",
           "completion_rate": 1.0,
-          "order_count": 66,
-          "min_limit": 10.0,
-          "max_limit": 182.0,
-          "available": 182.17,
+          "order_count": 1710,
+          "min_limit": 50.0,
+          "max_limit": 1500.0,
+          "available": 5394.33,
           "payment_methods": [
-            "ABA"
+            "Banco Pichincha"
           ],
-          "adv_no": "12918562874818957312",
-          "link": "https://c2c.binance.com/en/adv?code=12918562874818957312"
+          "adv_no": "12909680510819258368",
+          "link": "https://c2c.binance.com/en/adv?code=12909680510819258368"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Speed_payment",
+          "merchant_name": "FIGE_EXCHANGE",
           "completion_rate": 1.0,
-          "order_count": 27,
-          "min_limit": 20.0,
-          "max_limit": 22106.282,
-          "available": 18421.9023,
+          "order_count": 1920,
+          "min_limit": 10.0,
+          "max_limit": 32262.087,
+          "available": 26885.0726,
           "payment_methods": [],
-          "adv_no": "2022764591002497024",
+          "adv_no": "1925937600883937280",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
