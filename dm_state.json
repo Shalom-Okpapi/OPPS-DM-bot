@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786044614.126425,
+      "fetched_at": 1786045176.3936524,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1392.0,
           "merchant_name": "MARKEETER01",
           "completion_rate": 0.98,
-          "order_count": 149,
+          "order_count": 150,
           "min_limit": 50000.0,
           "max_limit": 100000.0,
-          "available": 979.8665,
+          "available": 993.8665,
           "payment_methods": [],
           "adv_no": "2063024103818440704",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,28 +236,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1786044615.1743758,
+      "fetched_at": 1786045177.5427897,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.998,
-          "merchant_name": "ThonyCM1",
-          "completion_rate": 1.0,
-          "order_count": 1291,
-          "min_limit": 25.0,
-          "max_limit": 500.0,
-          "available": 1140.28,
+          "price": 0.996,
+          "merchant_name": "CriptosAmerica",
+          "completion_rate": 0.97,
+          "order_count": 128,
+          "min_limit": 50.0,
+          "max_limit": 400.0,
+          "available": 4216.99,
           "payment_methods": [
-            "Banco Pichincha",
-            "Banco del pacifico",
-            "Banco Internacional",
-            "Banco del Austro",
-            "Produbanco"
+            "Banco Pichincha"
           ],
-          "adv_no": "12886499179067629568",
-          "link": "https://c2c.binance.com/en/adv?code=12886499179067629568"
+          "adv_no": "12916308261536112640",
+          "link": "https://c2c.binance.com/en/adv?code=12916308261536112640"
         },
         "sell": {
           "platform": "Bybit",
