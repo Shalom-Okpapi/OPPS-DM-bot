@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786058925.607427,
+      "fetched_at": 1786059293.0368636,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.0,
-          "merchant_name": "Florien",
-          "completion_rate": 1.0,
-          "order_count": 506,
-          "min_limit": 4500.0,
-          "max_limit": 137000.0,
-          "available": 4696.4944,
+          "price": 1393.2,
+          "merchant_name": "big_Mark",
+          "completion_rate": 0.97,
+          "order_count": 70,
+          "min_limit": 50000.0,
+          "max_limit": 1414166.54,
+          "available": 1015.0492,
           "payment_methods": [],
-          "adv_no": "2085351649537523712",
+          "adv_no": "1795025105052012544",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -241,24 +241,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1786058926.7063875,
+      "fetched_at": 1786059291.5080914,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.999,
-          "merchant_name": "AnalistaCripto",
+          "price": 0.998,
+          "merchant_name": "P2P-df4316em",
           "completion_rate": 1.0,
-          "order_count": 1708,
-          "min_limit": 50.0,
-          "max_limit": 1500.0,
-          "available": 6570.58,
+          "order_count": 66,
+          "min_limit": 10.0,
+          "max_limit": 182.0,
+          "available": 182.17,
           "payment_methods": [
-            "Banco Pichincha"
+            "ABA"
           ],
-          "adv_no": "12909680510819258368",
-          "link": "https://c2c.binance.com/en/adv?code=12909680510819258368"
+          "adv_no": "12918562874818957312",
+          "link": "https://c2c.binance.com/en/adv?code=12918562874818957312"
         },
         "sell": {
           "platform": "Bybit",
