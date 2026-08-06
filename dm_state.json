@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786059581.1250968,
+      "fetched_at": 1786059822.957575,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.0,
-          "merchant_name": "big_Mark",
-          "completion_rate": 0.97,
-          "order_count": 68,
+          "price": 1392.5,
+          "merchant_name": "swiftrade001",
+          "completion_rate": 1.0,
+          "order_count": 94,
           "min_limit": 50000.0,
-          "max_limit": 1412948.48,
-          "available": 1015.0492,
+          "max_limit": 3371330.5,
+          "available": 2421.0632,
           "payment_methods": [],
-          "adv_no": "1795025105052012544",
+          "adv_no": "2073454304590696448",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786059581.8507986,
+      "fetched_at": 1786059823.7825234,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -253,7 +253,7 @@
           "order_count": 1710,
           "min_limit": 50.0,
           "max_limit": 1500.0,
-          "available": 5394.33,
+          "available": 5183.39,
           "payment_methods": [
             "Banco Pichincha"
           ],
@@ -265,14 +265,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "FIGE_EXCHANGE",
+          "merchant_name": "Martak_xchange",
           "completion_rate": 1.0,
-          "order_count": 1920,
-          "min_limit": 10.0,
-          "max_limit": 32262.087,
-          "available": 26885.0726,
+          "order_count": 666,
+          "min_limit": 50.0,
+          "max_limit": 50000.0,
+          "available": 86696.2669,
           "payment_methods": [],
-          "adv_no": "1925937600883937280",
+          "adv_no": "1998297233118478336",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
