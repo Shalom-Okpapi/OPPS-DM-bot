@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786098087.1161094,
+      "fetched_at": 1786098644.6466546,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.8,
-          "merchant_name": "BitcoinMaster..",
-          "completion_rate": 0.98,
-          "order_count": 686,
-          "min_limit": 20000.0,
-          "max_limit": 85776.91,
-          "available": 61.6302,
+          "price": 1392.5,
+          "merchant_name": "Decorator",
+          "completion_rate": 0.99,
+          "order_count": 2200,
+          "min_limit": 9000.0,
+          "max_limit": 150000.0,
+          "available": 177.8902,
           "payment_methods": [],
-          "adv_no": "2077038206362677248",
+          "adv_no": "1968570697613799424",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1395.0,
           "merchant_name": "Hemdy",
           "completion_rate": 0.98,
-          "order_count": 151,
+          "order_count": 153,
           "min_limit": 5000.0,
           "max_limit": 100000.0,
-          "available": 19216.3274,
+          "available": 19194.5717,
           "payment_methods": [],
           "adv_no": "2004096098338033664",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -243,7 +243,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786098085.9546711,
+      "fetched_at": 1786098645.5109272,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
