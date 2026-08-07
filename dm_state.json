@@ -47,18 +47,18 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786138123.8830738,
+      "fetched_at": 1786138476.7521603,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.0,
+          "price": 1391.0,
           "merchant_name": "EASY~EXCHANGE",
           "completion_rate": 0.98,
           "order_count": 100,
           "min_limit": 50000.0,
-          "max_limit": 196295.52,
+          "max_limit": 196154.5,
           "available": 141.0169,
           "payment_methods": [],
           "adv_no": "1914713265796489216",
@@ -240,39 +240,38 @@
       }
     },
     "USD": {
-      "fetched_at": 1786138121.9519293,
+      "fetched_at": 1786138475.6433942,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.995,
-          "merchant_name": "VentasDigitales",
+          "price": 0.997,
+          "merchant_name": "HeratimiVIP_crip",
           "completion_rate": 1.0,
-          "order_count": 52,
-          "min_limit": 10.0,
-          "max_limit": 150.0,
-          "available": 184.65,
+          "order_count": 560,
+          "min_limit": 50.0,
+          "max_limit": 1500.0,
+          "available": 3549.36,
           "payment_methods": [
-            "Banco Guayaquil",
-            "Banco Bolivariano"
+            "Banco Pichincha"
           ],
-          "adv_no": "12916539964670894080",
-          "link": "https://c2c.binance.com/en/adv?code=12916539964670894080"
+          "adv_no": "12912568368481525760",
+          "link": "https://c2c.binance.com/en/adv?code=12912568368481525760"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Speed_payment",
+          "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 37,
-          "min_limit": 20.0,
-          "max_limit": 22058.198,
-          "available": 18381.8319,
+          "order_count": 348,
+          "min_limit": 10.0,
+          "max_limit": 33338.417,
+          "available": 27782.0144,
           "payment_methods": [],
-          "adv_no": "2022764591002497024",
+          "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
