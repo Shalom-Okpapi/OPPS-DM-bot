@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786129424.224667,
+      "fetched_at": 1786129775.2808926,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1390.5,
-          "merchant_name": "HDR_FX",
-          "completion_rate": 0.95,
-          "order_count": 23,
-          "min_limit": 20000.0,
-          "max_limit": 50000.0,
-          "available": 64.4728,
+          "price": 1392.0,
+          "merchant_name": "MRSWIFT",
+          "completion_rate": 1.0,
+          "order_count": 571,
+          "min_limit": 50000.0,
+          "max_limit": 57132.83,
+          "available": 41.0437,
           "payment_methods": [],
-          "adv_no": "2085803413767716864",
+          "adv_no": "2079109047166709760",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786129427.2568548,
+      "fetched_at": 1786129776.407358,
       "snapshot": {
         "buy": {
           "platform": "Binance",
