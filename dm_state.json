@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786135357.7454913,
+      "fetched_at": 1786135912.1728373,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.1,
-          "merchant_name": "kings_xchange",
-          "completion_rate": 1.0,
-          "order_count": 40,
+          "price": 1392.2,
+          "merchant_name": "Instantguy",
+          "completion_rate": 0.98,
+          "order_count": 160,
           "min_limit": 4500.0,
-          "max_limit": 55140.1,
-          "available": 39.6093,
+          "max_limit": 150000.0,
+          "available": 228.2876,
           "payment_methods": [],
-          "adv_no": "2085826186445234176",
+          "adv_no": "2085158398708154368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,25 +236,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1786135358.9544175,
+      "fetched_at": 1786135912.9835322,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.996,
-          "merchant_name": "UsdtjotaG",
+          "price": 0.997,
+          "merchant_name": "HeratimiVIP_crip",
           "completion_rate": 1.0,
-          "order_count": 1030,
-          "min_limit": 40.0,
-          "max_limit": 240.0,
-          "available": 138.01,
+          "order_count": 555,
+          "min_limit": 50.0,
+          "max_limit": 1500.0,
+          "available": 3945.88,
           "payment_methods": [
-            "Produbanco",
             "Banco Pichincha"
           ],
-          "adv_no": "12893126771650355200",
-          "link": "https://c2c.binance.com/en/adv?code=12893126771650355200"
+          "adv_no": "12912568368481525760",
+          "link": "https://c2c.binance.com/en/adv?code=12912568368481525760"
         },
         "sell": {
           "platform": "Bybit",
