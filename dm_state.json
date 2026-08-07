@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786137883.3335495,
+      "fetched_at": 1786138123.8830738,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.98,
-          "merchant_name": "Ricch-exchange",
-          "completion_rate": 0.96,
-          "order_count": 4493,
+          "price": 1392.0,
+          "merchant_name": "EASY~EXCHANGE",
+          "completion_rate": 0.98,
+          "order_count": 100,
           "min_limit": 50000.0,
-          "max_limit": 214891.96,
-          "available": 154.2678,
+          "max_limit": 196295.52,
+          "available": 141.0169,
           "payment_methods": [],
-          "adv_no": "1627632154568613888",
+          "adv_no": "1914713265796489216",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786137882.2725496,
+      "fetched_at": 1786138121.9519293,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -252,7 +252,7 @@
           "order_count": 52,
           "min_limit": 10.0,
           "max_limit": 150.0,
-          "available": 204.82,
+          "available": 184.65,
           "payment_methods": [
             "Banco Guayaquil",
             "Banco Bolivariano"
