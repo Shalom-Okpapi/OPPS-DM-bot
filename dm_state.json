@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786133092.2088997,
+      "fetched_at": 1786133674.2826526,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.5,
-          "merchant_name": "Ivan8640",
+          "price": 1390.0,
+          "merchant_name": "PIO2917",
           "completion_rate": 1.0,
-          "order_count": 41,
-          "min_limit": 50000.0,
-          "max_limit": 154913.6,
-          "available": 111.3285,
+          "order_count": 43,
+          "min_limit": 10000.0,
+          "max_limit": 83184.13,
+          "available": 59.8447,
           "payment_methods": [],
-          "adv_no": "2066778240691224576",
+          "adv_no": "2050453750949998592",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,25 +236,26 @@
       }
     },
     "USD": {
-      "fetched_at": 1786133091.1195705,
+      "fetched_at": 1786133673.037002,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.997,
-          "merchant_name": "Zoxy_24",
+          "price": 0.996,
+          "merchant_name": "UsdtjotaG",
           "completion_rate": 1.0,
-          "order_count": 154,
-          "min_limit": 10.0,
-          "max_limit": 1500.0,
-          "available": 1303.05,
+          "order_count": 1021,
+          "min_limit": 40.0,
+          "max_limit": 240.0,
+          "available": 1132.56,
           "payment_methods": [
+            "Banco Guayaquil",
             "Produbanco",
             "Banco Pichincha"
           ],
-          "adv_no": "12856371146737553408",
-          "link": "https://c2c.binance.com/en/adv?code=12856371146737553408"
+          "adv_no": "12893126771650355200",
+          "link": "https://c2c.binance.com/en/adv?code=12893126771650355200"
         },
         "sell": {
           "platform": "Bybit",
