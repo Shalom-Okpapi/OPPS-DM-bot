@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786134179.8701668,
+      "fetched_at": 1786134799.2143476,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.9,
-          "merchant_name": "Rhythm_Exc",
-          "completion_rate": 0.99,
-          "order_count": 7332,
+          "price": 1392.0,
+          "merchant_name": "MRSWIFT",
+          "completion_rate": 1.0,
+          "order_count": 600,
           "min_limit": 50000.0,
-          "max_limit": 51155.66,
-          "available": 36.7524,
+          "max_limit": 441496.04,
+          "available": 317.1667,
           "payment_methods": [],
-          "adv_no": "2009002486940299264",
+          "adv_no": "2079109047166709760",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,25 +236,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1786134180.9556406,
+      "fetched_at": 1786134798.1684709,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.997,
-          "merchant_name": "Zoxy_24",
+          "merchant_name": "HeratimiVIP_crip",
           "completion_rate": 1.0,
-          "order_count": 155,
-          "min_limit": 10.0,
+          "order_count": 555,
+          "min_limit": 50.0,
           "max_limit": 1500.0,
-          "available": 1181.28,
+          "available": 3945.88,
           "payment_methods": [
-            "Produbanco",
             "Banco Pichincha"
           ],
-          "adv_no": "12856371146737553408",
-          "link": "https://c2c.binance.com/en/adv?code=12856371146737553408"
+          "adv_no": "12912568368481525760",
+          "link": "https://c2c.binance.com/en/adv?code=12912568368481525760"
         },
         "sell": {
           "platform": "Bybit",
