@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786145211.1316688,
+      "fetched_at": 1786145710.5883207,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.88,
-          "merchant_name": "Bboller",
-          "completion_rate": 0.95,
-          "order_count": 466,
-          "min_limit": 5000.0,
-          "max_limit": 80000.0,
-          "available": 173.7769,
+          "price": 1392.2,
+          "merchant_name": "Instantguy",
+          "completion_rate": 0.98,
+          "order_count": 161,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 120.4009,
           "payment_methods": [],
-          "adv_no": "2055663789568851968",
+          "adv_no": "2085158398708154368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786145210.1605284,
+      "fetched_at": 1786145709.7142317,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -246,10 +246,10 @@
           "price": 0.996,
           "merchant_name": "ecufinance160915",
           "completion_rate": 0.985,
-          "order_count": 63,
+          "order_count": 64,
           "min_limit": 10.0,
           "max_limit": 1500.0,
-          "available": 60.74,
+          "available": 126.47,
           "payment_methods": [
             "Produbanco"
           ],
