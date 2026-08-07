@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786144603.7882886,
+      "fetched_at": 1786145211.1316688,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.0,
-          "merchant_name": "Kryptogenix",
-          "completion_rate": 0.99,
-          "order_count": 136,
-          "min_limit": 20000.0,
-          "max_limit": 123614.41,
-          "available": 88.8673,
+          "price": 1391.88,
+          "merchant_name": "Bboller",
+          "completion_rate": 0.95,
+          "order_count": 466,
+          "min_limit": 5000.0,
+          "max_limit": 80000.0,
+          "available": 173.7769,
           "payment_methods": [],
-          "adv_no": "1785203880432259072",
+          "adv_no": "2055663789568851968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,25 +237,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1786144602.6123211,
+      "fetched_at": 1786145210.1605284,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.997,
-          "merchant_name": "Zoxy_24",
-          "completion_rate": 1.0,
-          "order_count": 166,
+          "price": 0.996,
+          "merchant_name": "ecufinance160915",
+          "completion_rate": 0.985,
+          "order_count": 63,
           "min_limit": 10.0,
           "max_limit": 1500.0,
-          "available": 700.21,
+          "available": 60.74,
           "payment_methods": [
-            "Banco Pichincha",
             "Produbanco"
           ],
-          "adv_no": "12856371146737553408",
-          "link": "https://c2c.binance.com/en/adv?code=12856371146737553408"
+          "adv_no": "12910411615082811392",
+          "link": "https://c2c.binance.com/en/adv?code=12910411615082811392"
         },
         "sell": {
           "platform": "Bybit",
