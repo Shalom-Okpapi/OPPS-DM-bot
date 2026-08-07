@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786133674.2826526,
+      "fetched_at": 1786134179.8701668,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1390.0,
-          "merchant_name": "PIO2917",
-          "completion_rate": 1.0,
-          "order_count": 43,
-          "min_limit": 10000.0,
-          "max_limit": 83184.13,
-          "available": 59.8447,
+          "price": 1391.9,
+          "merchant_name": "Rhythm_Exc",
+          "completion_rate": 0.99,
+          "order_count": 7332,
+          "min_limit": 50000.0,
+          "max_limit": 51155.66,
+          "available": 36.7524,
           "payment_methods": [],
-          "adv_no": "2050453750949998592",
+          "adv_no": "2009002486940299264",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,26 +236,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1786133673.037002,
+      "fetched_at": 1786134180.9556406,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.996,
-          "merchant_name": "UsdtjotaG",
+          "price": 0.997,
+          "merchant_name": "Zoxy_24",
           "completion_rate": 1.0,
-          "order_count": 1021,
-          "min_limit": 40.0,
-          "max_limit": 240.0,
-          "available": 1132.56,
+          "order_count": 155,
+          "min_limit": 10.0,
+          "max_limit": 1500.0,
+          "available": 1181.28,
           "payment_methods": [
-            "Banco Guayaquil",
             "Produbanco",
             "Banco Pichincha"
           ],
-          "adv_no": "12893126771650355200",
-          "link": "https://c2c.binance.com/en/adv?code=12893126771650355200"
+          "adv_no": "12856371146737553408",
+          "link": "https://c2c.binance.com/en/adv?code=12856371146737553408"
         },
         "sell": {
           "platform": "Bybit",
@@ -264,7 +263,7 @@
           "price": 1.2,
           "merchant_name": "Speed_payment",
           "completion_rate": 1.0,
-          "order_count": 36,
+          "order_count": 37,
           "min_limit": 20.0,
           "max_limit": 22058.198,
           "available": 18381.8319,
