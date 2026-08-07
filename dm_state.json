@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786128223.9943776,
+      "fetched_at": 1786128576.8776605,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1392.0,
           "merchant_name": "Axeex",
           "completion_rate": 1.0,
-          "order_count": 45,
+          "order_count": 48,
           "min_limit": 30000.0,
-          "max_limit": 58744.2,
-          "available": 42.2013,
+          "max_limit": 60000.0,
+          "available": 106.2818,
           "payment_methods": [],
           "adv_no": "2085789629497221120",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -243,22 +243,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1786128222.96284,
+      "fetched_at": 1786128578.0167878,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.8,
-          "merchant_name": "JackyChee",
-          "completion_rate": 0.99,
-          "order_count": 1024,
-          "min_limit": 2.0,
-          "max_limit": 11677.115,
-          "available": 14596.3949,
-          "payment_methods": [],
-          "adv_no": "2034594166346301440",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.997,
+          "merchant_name": "Zoxy_24",
+          "completion_rate": 1.0,
+          "order_count": 152,
+          "min_limit": 10.0,
+          "max_limit": 1500.0,
+          "available": 1353.37,
+          "payment_methods": [
+            "Produbanco",
+            "Banco Pichincha"
+          ],
+          "adv_no": "12856371146737553408",
+          "link": "https://c2c.binance.com/en/adv?code=12856371146737553408"
         },
         "sell": {
           "platform": "Bybit",
