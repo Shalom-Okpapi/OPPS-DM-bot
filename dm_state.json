@@ -47,18 +47,18 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786069772.451203,
+      "fetched_at": 1786070003.5251646,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1388.0,
+          "price": 1387.0,
           "merchant_name": "MYKEDEE TRADE",
           "completion_rate": 1.0,
           "order_count": 23,
           "min_limit": 50000.0,
-          "max_limit": 54132.0,
+          "max_limit": 54093.0,
           "available": 39.0,
           "payment_methods": [],
           "adv_no": "2085553350642368512",
@@ -82,21 +82,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1786066186.5201685,
+      "fetched_at": 1786069846.1398864,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
           "price": 0.867,
-          "merchant_name": "alexx 2022",
-          "completion_rate": 0.98,
-          "order_count": 476,
-          "min_limit": 50.0,
-          "max_limit": 1734.0,
-          "available": 2000.0,
+          "merchant_name": "1Minute_trade",
+          "completion_rate": 1.0,
+          "order_count": 87,
+          "min_limit": 2.0,
+          "max_limit": 129.914,
+          "available": 149.8434,
           "payment_methods": [],
-          "adv_no": "1736104858901987328",
+          "adv_no": "2085023469370011648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -119,7 +119,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1786066177.6269789,
+      "fetched_at": 1786069842.3640597,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -128,10 +128,10 @@
           "price": 168.5,
           "merchant_name": "DCMNB",
           "completion_rate": 0.987,
-          "order_count": 371,
+          "order_count": 374,
           "min_limit": 3000.0,
-          "max_limit": 185589.0,
-          "available": 1042.03,
+          "max_limit": 212000.0,
+          "available": 1259.31,
           "payment_methods": [
             "Bank Transfer"
           ],
@@ -139,26 +139,24 @@
           "link": "https://c2c.binance.com/en/adv?code=12910311735823863808"
         },
         "sell": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 165.0,
-          "merchant_name": "BestSeller999",
-          "completion_rate": 0.954,
-          "order_count": 204,
-          "min_limit": 5000.0,
-          "max_limit": 28000.0,
-          "available": 2511.15,
-          "payment_methods": [
-            "PayPay Money"
-          ],
-          "adv_no": "12888072323934035968",
-          "link": "https://c2c.binance.com/en/adv?code=12888072323934035968"
+          "price": 163.02,
+          "merchant_name": "Kevin_17",
+          "completion_rate": 0.97,
+          "order_count": 85,
+          "min_limit": 2000.0,
+          "max_limit": 150000.0,
+          "available": 19054.7262,
+          "payment_methods": [],
+          "adv_no": "1970432739879063552",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1786066183.7507942,
+      "fetched_at": 1786069843.337844,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -203,7 +201,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1786066185.0501351,
+      "fetched_at": 1786069844.6471384,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -212,10 +210,10 @@
           "price": 0.771,
           "merchant_name": "BEST_CRYPTO_01",
           "completion_rate": 0.976,
-          "order_count": 160,
+          "order_count": 161,
           "min_limit": 10.0,
           "max_limit": 1000.0,
-          "available": 521.71,
+          "available": 592.01,
           "payment_methods": [
             "Skrill (Moneybookers)"
           ],
@@ -229,7 +227,7 @@
           "price": 0.715,
           "merchant_name": "Michael_Scofield_p2p",
           "completion_rate": 0.972,
-          "order_count": 202,
+          "order_count": 204,
           "min_limit": 10.0,
           "max_limit": 3000.0,
           "available": 4958.05,
@@ -246,7 +244,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786069771.7335389,
+      "fetched_at": 1786070002.0987964,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
