@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786212238.6872478,
+      "fetched_at": 1786212785.1499178,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.0,
-          "merchant_name": "MRSWIFT",
-          "completion_rate": 1.0,
-          "order_count": 639,
+          "price": 1389.94,
+          "merchant_name": "Jaspirano",
+          "completion_rate": 0.98,
+          "order_count": 61,
           "min_limit": 50000.0,
-          "max_limit": 500000.0,
-          "available": 703.632,
+          "max_limit": 50000.0,
+          "available": 35.9728,
           "payment_methods": [],
-          "adv_no": "2079109047166709760",
+          "adv_no": "2086148203514077184",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,22 +237,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1786212237.8081753,
+      "fetched_at": 1786212784.3263888,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.994,
-          "merchant_name": "HENGG77",
-          "completion_rate": 1.0,
-          "order_count": 493,
-          "min_limit": 5.0,
-          "max_limit": 9086.452,
-          "available": 9141.3003,
-          "payment_methods": [],
-          "adv_no": "2066500457761443840",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.996,
+          "merchant_name": "\u91d1\u9f9999Exchange",
+          "completion_rate": 0.989,
+          "order_count": 586,
+          "min_limit": 10.0,
+          "max_limit": 15000.0,
+          "available": 50.96,
+          "payment_methods": [
+            "ABA"
+          ],
+          "adv_no": "13805504954593087488",
+          "link": "https://c2c.binance.com/en/adv?code=13805504954593087488"
         },
         "sell": {
           "platform": "Bybit",
