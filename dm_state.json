@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786223375.8478956,
+      "fetched_at": 1786223673.539167,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1391.0,
           "merchant_name": "Florien",
           "completion_rate": 1.0,
-          "order_count": 574,
+          "order_count": 576,
           "min_limit": 4500.0,
           "max_limit": 100000.0,
-          "available": 4286.596,
+          "available": 4250.4382,
           "payment_methods": [],
           "adv_no": "2086188723097829376",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -239,24 +239,27 @@
       }
     },
     "USD": {
-      "fetched_at": 1786223374.980087,
+      "fetched_at": 1786223672.5045466,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.996,
-          "merchant_name": "Si-cr\u00edo",
-          "completion_rate": 1.0,
-          "order_count": 1806,
-          "min_limit": 10.0,
-          "max_limit": 1500.0,
-          "available": 75.4,
+          "merchant_name": "Ariesie",
+          "completion_rate": 0.992,
+          "order_count": 3896,
+          "min_limit": 30.0,
+          "max_limit": 15000.0,
+          "available": 5121.56,
           "payment_methods": [
-            "Banco Pichincha"
+            "ABA",
+            "KHQR",
+            "Wing Money",
+            "True Money (Cambodia)"
           ],
-          "adv_no": "12915450003503489024",
-          "link": "https://c2c.binance.com/en/adv?code=12915450003503489024"
+          "adv_no": "13878188372500303872",
+          "link": "https://c2c.binance.com/en/adv?code=13878188372500303872"
         },
         "sell": {
           "platform": "Bybit",
