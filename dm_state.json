@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786211679.239088,
+      "fetched_at": 1786212238.6872478,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1390.03,
-          "merchant_name": "Unstopable",
-          "completion_rate": 0.95,
-          "order_count": 396,
-          "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 96.2144,
+          "price": 1392.0,
+          "merchant_name": "MRSWIFT",
+          "completion_rate": 1.0,
+          "order_count": 639,
+          "min_limit": 50000.0,
+          "max_limit": 500000.0,
+          "available": 703.632,
           "payment_methods": [],
-          "adv_no": "2050112831149473792",
+          "adv_no": "2079109047166709760",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786211678.4997473,
+      "fetched_at": 1786212237.8081753,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -261,10 +261,10 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 359,
+          "order_count": 349,
           "min_limit": 10.0,
-          "max_limit": 33030.745,
-          "available": 27525.6211,
+          "max_limit": 33015.745,
+          "available": 27513.1211,
           "payment_methods": [],
           "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
