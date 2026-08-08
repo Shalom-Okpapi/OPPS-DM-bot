@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786212785.1499178,
+      "fetched_at": 1786213343.73382,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1389.94,
-          "merchant_name": "Jaspirano",
+          "price": 1388.0,
+          "merchant_name": "Ozovehe",
           "completion_rate": 0.98,
-          "order_count": 61,
+          "order_count": 137,
           "min_limit": 50000.0,
           "max_limit": 50000.0,
-          "available": 35.9728,
+          "available": 118.8168,
           "payment_methods": [],
-          "adv_no": "2086148203514077184",
+          "adv_no": "1791882968531247104",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,24 +237,27 @@
       }
     },
     "USD": {
-      "fetched_at": 1786212784.3263888,
+      "fetched_at": 1786213344.4810576,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.996,
-          "merchant_name": "\u91d1\u9f9999Exchange",
-          "completion_rate": 0.989,
-          "order_count": 586,
-          "min_limit": 10.0,
+          "merchant_name": "Ariesie",
+          "completion_rate": 0.992,
+          "order_count": 3831,
+          "min_limit": 30.0,
           "max_limit": 15000.0,
-          "available": 50.96,
+          "available": 339.67,
           "payment_methods": [
-            "ABA"
+            "ABA",
+            "KHQR",
+            "Wing Money",
+            "True Money (Cambodia)"
           ],
-          "adv_no": "13805504954593087488",
-          "link": "https://c2c.binance.com/en/adv?code=13805504954593087488"
+          "adv_no": "13878188372500303872",
+          "link": "https://c2c.binance.com/en/adv?code=13878188372500303872"
         },
         "sell": {
           "platform": "Bybit",
@@ -263,7 +266,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 349,
+          "order_count": 360,
           "min_limit": 10.0,
           "max_limit": 33015.745,
           "available": 27513.1211,
