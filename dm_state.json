@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786219476.2598152,
+      "fetched_at": 1786220025.9624622,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1389.6,
-          "merchant_name": "Instantguy",
-          "completion_rate": 0.97,
-          "order_count": 277,
-          "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 217.0607,
+          "price": 1391.99,
+          "merchant_name": "ULTIMATE-XCHANG",
+          "completion_rate": 0.99,
+          "order_count": 535,
+          "min_limit": 50000.0,
+          "max_limit": 57132.14,
+          "available": 41.0435,
           "payment_methods": [],
-          "adv_no": "2085158398708154368",
+          "adv_no": "1974441596946501632",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,24 +239,27 @@
       }
     },
     "USD": {
-      "fetched_at": 1786219477.4292483,
+      "fetched_at": 1786220027.4203365,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.995,
-          "merchant_name": "ecufinance160915",
-          "completion_rate": 0.986,
-          "order_count": 69,
-          "min_limit": 10.0,
-          "max_limit": 1500.0,
-          "available": 65.0,
+          "merchant_name": "Ariesie",
+          "completion_rate": 0.993,
+          "order_count": 3876,
+          "min_limit": 30.0,
+          "max_limit": 15000.0,
+          "available": 4099.64,
           "payment_methods": [
-            "Produbanco"
+            "ABA",
+            "KHQR",
+            "Wing Money",
+            "True Money (Cambodia)"
           ],
-          "adv_no": "12910411615082811392",
-          "link": "https://c2c.binance.com/en/adv?code=12910411615082811392"
+          "adv_no": "13878188372500303872",
+          "link": "https://c2c.binance.com/en/adv?code=13878188372500303872"
         },
         "sell": {
           "platform": "Bybit",
