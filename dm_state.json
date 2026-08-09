@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786290602.6608763,
+      "fetched_at": 1786291176.8661435,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.8,
-          "merchant_name": "INSTITUTION",
-          "completion_rate": 1.0,
-          "order_count": 273,
-          "min_limit": 11000.0,
-          "max_limit": 150000.0,
-          "available": 279.9745,
+          "price": 1392.79,
+          "merchant_name": "Xprex",
+          "completion_rate": 0.99,
+          "order_count": 433,
+          "min_limit": 50000.0,
+          "max_limit": 500000.0,
+          "available": 1293.625,
           "payment_methods": [],
-          "adv_no": "2083990034620104704",
+          "adv_no": "2064453584099840000",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1501.7,
           "merchant_name": "WAR-LORD",
           "completion_rate": 1.0,
-          "order_count": 85,
+          "order_count": 93,
           "min_limit": 10000.0,
           "max_limit": 30034000.0,
           "available": 20000.0,
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786290603.6037376,
+      "fetched_at": 1786291176.119306,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -240,7 +240,7 @@
           "price": 0.8,
           "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 162,
+          "order_count": 170,
           "min_limit": 50.0,
           "max_limit": 1640.0,
           "available": 2050.0,
