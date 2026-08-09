@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786235719.6022646,
+      "fetched_at": 1786236267.681211,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1390.2,
-          "merchant_name": "Tiazzan",
-          "completion_rate": 1.0,
-          "order_count": 48,
-          "min_limit": 50000.0,
-          "max_limit": 59778.6,
-          "available": 43.0,
+          "price": 1391.0,
+          "merchant_name": "Florien",
+          "completion_rate": 0.99,
+          "order_count": 609,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 2371.886,
           "payment_methods": [],
-          "adv_no": "2086243633084166144",
+          "adv_no": "2086188723097829376",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786235718.4532168,
+      "fetched_at": 1786236266.9503462,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
