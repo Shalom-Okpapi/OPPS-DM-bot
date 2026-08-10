@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786337927.7998202,
+      "fetched_at": 1786338488.1995244,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.5,
-          "merchant_name": "ROBOT_PAY",
-          "completion_rate": 0.99,
-          "order_count": 1742,
-          "min_limit": 4500.0,
-          "max_limit": 79055.62,
-          "available": 56.7317,
+          "price": 1394.0,
+          "merchant_name": "KENOTECH",
+          "completion_rate": 1.0,
+          "order_count": 48,
+          "min_limit": 50000.0,
+          "max_limit": 282480.02,
+          "available": 202.6399,
           "payment_methods": [],
-          "adv_no": "2086168031367081984",
+          "adv_no": "2051038672215470080",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786337927.1179602,
+      "fetched_at": 1786338486.9649775,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
