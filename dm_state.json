@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786374231.9055908,
+      "fetched_at": 1786374523.1289957,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.0,
-          "merchant_name": "ROBOT_PAY",
-          "completion_rate": 0.99,
-          "order_count": 1760,
-          "min_limit": 4500.0,
-          "max_limit": 71097.48,
-          "available": 51.0025,
+          "price": 1392.5,
+          "merchant_name": "HASSAN+01",
+          "completion_rate": 1.0,
+          "order_count": 456,
+          "min_limit": 20000.0,
+          "max_limit": 150000.0,
+          "available": 663.0913,
           "payment_methods": [],
-          "adv_no": "2086168031367081984",
+          "adv_no": "2066080976440672256",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786374230.9029212,
+      "fetched_at": 1786374522.1462178,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,7 +259,7 @@
           "price": 1.2,
           "merchant_name": "Speed_payment",
           "completion_rate": 1.0,
-          "order_count": 55,
+          "order_count": 56,
           "min_limit": 20.0,
           "max_limit": 21981.313,
           "available": 18317.7611,
