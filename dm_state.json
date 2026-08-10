@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786399705.5051124,
+      "fetched_at": 1786400023.0005708,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.0,
-          "merchant_name": "LOADER",
-          "completion_rate": 1.0,
-          "order_count": 58,
-          "min_limit": 4500.0,
-          "max_limit": 69628.11,
-          "available": 50.0202,
+          "price": 1393.5,
+          "merchant_name": "DacoTech NG",
+          "completion_rate": 0.99,
+          "order_count": 161,
+          "min_limit": 20000.0,
+          "max_limit": 111480.0,
+          "available": 80.0,
           "payment_methods": [],
-          "adv_no": "2021892499695620096",
+          "adv_no": "2081677447080218624",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786399704.208722,
+      "fetched_at": 1786400019.8611739,
       "snapshot": {
         "buy": {
           "platform": "Binance",
