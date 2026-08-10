@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786365248.2049572,
+      "fetched_at": 1786365804.6791635,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.0,
-          "merchant_name": "BitcoinMaster..",
-          "completion_rate": 0.98,
-          "order_count": 895,
-          "min_limit": 20000.0,
+          "price": 1390.0,
+          "merchant_name": "SpeedyPay",
+          "completion_rate": 0.99,
+          "order_count": 310,
+          "min_limit": 4500.0,
           "max_limit": 100000.0,
-          "available": 97.5913,
+          "available": 302.2528,
           "payment_methods": [],
-          "adv_no": "2077038206362677248",
+          "adv_no": "2086794776002756608",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1400.1,
-          "merchant_name": "Zikconnect",
-          "completion_rate": 0.98,
-          "order_count": 158,
-          "min_limit": 50000.0,
-          "max_limit": 1000000.0,
-          "available": 2643.7618,
+          "price": 1501.7,
+          "merchant_name": "WAR-LORD",
+          "completion_rate": 1.0,
+          "order_count": 76,
+          "min_limit": 10000.0,
+          "max_limit": 30034000.0,
+          "available": 20000.0,
           "payment_methods": [],
-          "adv_no": "2077769467030605824",
+          "adv_no": "2059913501620731904",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786365249.4559188,
+      "fetched_at": 1786365803.8653092,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
