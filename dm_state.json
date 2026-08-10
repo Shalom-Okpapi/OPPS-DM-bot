@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786328976.3589447,
+      "fetched_at": 1786329280.7080343,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1393.29,
           "merchant_name": "GEEBENZ01",
           "completion_rate": 1.0,
-          "order_count": 282,
+          "order_count": 300,
           "min_limit": 20000.0,
           "max_limit": 2394447.72,
           "available": 1718.5566,
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1786325628.2535336,
+      "fetched_at": 1786329287.4040918,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1786325625.6170838,
+      "fetched_at": 1786329285.0432067,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -126,10 +126,10 @@
           "price": 167.58,
           "merchant_name": "Haottt",
           "completion_rate": 1.0,
-          "order_count": 570,
+          "order_count": 573,
           "min_limit": 4000.0,
           "max_limit": 200000.0,
-          "available": 1047.4,
+          "available": 927.96,
           "payment_methods": [
             "Bank Transfer"
           ],
@@ -154,46 +154,51 @@
       }
     },
     "CHF": {
-      "fetched_at": 1786325626.4885147,
+      "fetched_at": 1786329285.7596872,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.875,
-          "merchant_name": "AhmadzaiExchange247",
-          "completion_rate": 0.963,
-          "order_count": 51,
+          "price": 0.94,
+          "merchant_name": "AS_Exchange_",
+          "completion_rate": 0.959,
+          "order_count": 931,
           "min_limit": 50.0,
-          "max_limit": 182.0,
-          "available": 208.37,
+          "max_limit": 50000.0,
+          "available": 715.65,
           "payment_methods": [
-            "Twint"
+            "Bank Transfer",
+            "Twint",
+            "Instant Transfer"
           ],
-          "adv_no": "12900860959526342656",
-          "link": "https://c2c.binance.com/en/adv?code=12900860959526342656"
+          "adv_no": "13912445737772126208",
+          "link": "https://c2c.binance.com/en/adv?code=13912445737772126208"
         },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.82,
-          "merchant_name": "AhmadzaiExchange247",
-          "completion_rate": 0.963,
-          "order_count": 51,
+          "price": 0.78,
+          "merchant_name": "ZenovaExchange",
+          "completion_rate": 0.97,
+          "order_count": 508,
           "min_limit": 50.0,
-          "max_limit": 156.0,
-          "available": 190.0,
+          "max_limit": 70000.0,
+          "available": 1125364.73,
           "payment_methods": [
-            "Twint"
+            "Twint",
+            "Instant Transfer",
+            "Bank Transfer",
+            "Cash Deposit to Bank"
           ],
-          "adv_no": "12905395337477709824",
-          "link": "https://c2c.binance.com/en/adv?code=12905395337477709824"
+          "adv_no": "12900066635997364224",
+          "link": "https://c2c.binance.com/en/adv?code=12900066635997364224"
         }
       }
     },
     "GBP": {
-      "fetched_at": 1786325627.3613532,
+      "fetched_at": 1786329286.5595508,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -202,10 +207,10 @@
           "price": 0.779,
           "merchant_name": "BEST_CRYPTO_01",
           "completion_rate": 0.979,
-          "order_count": 179,
+          "order_count": 180,
           "min_limit": 10.0,
           "max_limit": 1000.0,
-          "available": 219.02,
+          "available": 295.62,
           "payment_methods": [
             "Skrill (Moneybookers)"
           ],
@@ -216,26 +221,23 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.733,
-          "merchant_name": "SAS_Emperor10",
-          "completion_rate": 0.977,
-          "order_count": 914,
-          "min_limit": 10.0,
-          "max_limit": 200.0,
-          "available": 115.72,
+          "price": 0.731,
+          "merchant_name": "BEST_CRYPTO_01",
+          "completion_rate": 0.979,
+          "order_count": 180,
+          "min_limit": 25.0,
+          "max_limit": 581.0,
+          "available": 717.4,
           "payment_methods": [
-            "Instant Transfer",
-            "Bank Transfer",
-            "Faster Payments",
-            "Lloyds Bank"
+            "Skrill (Moneybookers)"
           ],
-          "adv_no": "12905770281845866496",
-          "link": "https://c2c.binance.com/en/adv?code=12905770281845866496"
+          "adv_no": "12919450849468792832",
+          "link": "https://c2c.binance.com/en/adv?code=12919450849468792832"
         }
       }
     },
     "USD": {
-      "fetched_at": 1786328975.3283687,
+      "fetched_at": 1786329284.2382612,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -244,7 +246,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 995,
+          "order_count": 996,
           "min_limit": 2.0,
           "max_limit": 15045.664,
           "available": 18807.0803,
@@ -257,14 +259,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Coin~Expert",
+          "merchant_name": "Cubes55a",
           "completion_rate": 1.0,
-          "order_count": 243,
-          "min_limit": 10.0,
+          "order_count": 328,
+          "min_limit": 20.0,
           "max_limit": 50000.0,
-          "available": 45480.2438,
+          "available": 99319.7164,
           "payment_methods": [],
-          "adv_no": "2011162268373364736",
+          "adv_no": "2030091390976552960",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
