@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786404572.3872094,
+      "fetched_at": 1786404878.486027,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.0,
-          "merchant_name": "Fastrelease%",
-          "completion_rate": 1.0,
-          "order_count": 54,
-          "min_limit": 50000.0,
-          "max_limit": 80183.93,
-          "available": 57.6034,
+          "price": 1392.5,
+          "merchant_name": "SpeedyPay",
+          "completion_rate": 0.99,
+          "order_count": 375,
+          "min_limit": 4500.0,
+          "max_limit": 50055.5,
+          "available": 35.9465,
           "payment_methods": [],
-          "adv_no": "2042873415589978112",
+          "adv_no": "2086903971215835136",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786404571.2337277,
+      "fetched_at": 1786404877.3786745,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -244,10 +244,10 @@
           "price": 0.996,
           "merchant_name": "FAST RELEASE USDT",
           "completion_rate": 1.0,
-          "order_count": 9545,
+          "order_count": 9547,
           "min_limit": 10.0,
           "max_limit": 5123.0,
-          "available": 31691.53,
+          "available": 31706.61,
           "payment_methods": [
             "ABA",
             "ACLEDA Bank",
