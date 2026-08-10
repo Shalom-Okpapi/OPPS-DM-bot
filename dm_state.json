@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786348774.3549895,
+      "fetched_at": 1786349276.1690598,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.5,
-          "merchant_name": "theprof",
-          "completion_rate": 1.0,
-          "order_count": 48,
-          "min_limit": 20000.0,
-          "max_limit": 1755038.34,
-          "available": 1260.3507,
+          "price": 1392.0,
+          "merchant_name": "lamid",
+          "completion_rate": 0.96,
+          "order_count": 363,
+          "min_limit": 10000.0,
+          "max_limit": 50000.0,
+          "available": 121.0663,
           "payment_methods": [],
-          "adv_no": "1924962434885009408",
+          "adv_no": "2083149310727077888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786348775.5550983,
+      "fetched_at": 1786349274.985658,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
