@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786399185.4134455,
+      "fetched_at": 1786399481.53326,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.5,
-          "merchant_name": "SpeedyPay",
-          "completion_rate": 0.99,
-          "order_count": 360,
-          "min_limit": 4500.0,
-          "max_limit": 70075.05,
-          "available": 50.3232,
+          "price": 1392.89,
+          "merchant_name": "Infinitum",
+          "completion_rate": 1.0,
+          "order_count": 47,
+          "min_limit": 50000.0,
+          "max_limit": 52775.48,
+          "available": 37.8892,
           "payment_methods": [],
-          "adv_no": "2086903971215835136",
+          "adv_no": "2086931633619267584",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,22 +235,28 @@
       }
     },
     "USD": {
-      "fetched_at": 1786399186.5690172,
+      "fetched_at": 1786399480.7362232,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.8,
-          "merchant_name": "DagestanDentist",
+          "price": 0.996,
+          "merchant_name": "FAST RELEASE USDT",
           "completion_rate": 1.0,
-          "order_count": 166,
-          "min_limit": 50.0,
-          "max_limit": 1640.0,
-          "available": 2050.0,
-          "payment_methods": [],
-          "adv_no": "1768869022963105792",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "order_count": 9539,
+          "min_limit": 10.0,
+          "max_limit": 5123.0,
+          "available": 36277.81,
+          "payment_methods": [
+            "ABA",
+            "ACLEDA Bank",
+            "Wing Money",
+            "KHQR",
+            "Bank Transfer (Cambodia)"
+          ],
+          "adv_no": "13801252150059565056",
+          "link": "https://c2c.binance.com/en/adv?code=13801252150059565056"
         },
         "sell": {
           "platform": "Bybit",
