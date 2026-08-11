@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786407945.6424549,
+      "fetched_at": 1786408525.3078594,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.0,
-          "merchant_name": "Eagles and Ikpa",
-          "completion_rate": 0.98,
-          "order_count": 318,
-          "min_limit": 4500.0,
-          "max_limit": 69650.0,
-          "available": 50.0,
+          "price": 1392.0,
+          "merchant_name": "NO.DELAY",
+          "completion_rate": 0.99,
+          "order_count": 415,
+          "min_limit": 50000.0,
+          "max_limit": 200000.0,
+          "available": 1400.0,
           "payment_methods": [],
-          "adv_no": "2086951249493630976",
+          "adv_no": "2038695283095339008",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,28 +235,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1786407944.23471,
+      "fetched_at": 1786408526.067141,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.996,
-          "merchant_name": "FAST RELEASE USDT",
-          "completion_rate": 1.0,
-          "order_count": 9315,
-          "min_limit": 10.0,
-          "max_limit": 5123.0,
-          "available": 30780.36,
-          "payment_methods": [
-            "ABA",
-            "ACLEDA Bank",
-            "Wing Money",
-            "KHQR",
-            "Bank Transfer (Cambodia)"
-          ],
-          "adv_no": "13801252150059565056",
-          "link": "https://c2c.binance.com/en/adv?code=13801252150059565056"
+          "price": 0.8,
+          "merchant_name": "JackyChee",
+          "completion_rate": 0.99,
+          "order_count": 969,
+          "min_limit": 2.0,
+          "max_limit": 16572.28,
+          "available": 20715.3501,
+          "payment_methods": [],
+          "adv_no": "2034594166346301440",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
