@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786442272.9653223,
+      "fetched_at": 1786442840.1794305,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1394.0,
-          "merchant_name": "Decorator",
-          "completion_rate": 0.99,
-          "order_count": 2095,
-          "min_limit": 9000.0,
-          "max_limit": 150000.0,
-          "available": 625.8581,
+          "merchant_name": "ALOMO",
+          "completion_rate": 1.0,
+          "order_count": 22,
+          "min_limit": 5000.0,
+          "max_limit": 134190.06,
+          "available": 96.2626,
           "payment_methods": [],
-          "adv_no": "1968570697613799424",
+          "adv_no": "2059635148000653312",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786442271.4359233,
+      "fetched_at": 1786442841.2505364,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -250,8 +250,8 @@
           "completion_rate": 1.0,
           "order_count": 166,
           "min_limit": 50.0,
-          "max_limit": 1560.0,
-          "available": 1950.0,
+          "max_limit": 1640.0,
+          "available": 2050.0,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
