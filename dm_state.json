@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786489973.1599505,
+      "fetched_at": 1786490576.0080078,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -232,22 +232,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1786489974.251433,
+      "fetched_at": 1786490576.8089526,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.994,
-          "merchant_name": "SBFast-payment",
-          "completion_rate": 0.98,
-          "order_count": 390,
-          "min_limit": 30.0,
-          "max_limit": 1704.111,
-          "available": 1714.3981,
-          "payment_methods": [],
-          "adv_no": "2080333328311201792",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "merchant_name": "BVilla_Trade",
+          "completion_rate": 1.0,
+          "order_count": 153,
+          "min_limit": 50.0,
+          "max_limit": 2087.0,
+          "available": 976.92,
+          "payment_methods": [
+            "Banco Pichincha",
+            "Banco Guayaquil"
+          ],
+          "adv_no": "12920562130888273920",
+          "link": "https://c2c.binance.com/en/adv?code=12920562130888273920"
         },
         "sell": {
           "platform": "Bybit",
