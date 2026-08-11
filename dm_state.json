@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786419640.5376277,
+      "fetched_at": 1786420192.2514465,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.49,
-          "merchant_name": "VIA-EXCHANGE",
-          "completion_rate": 0.95,
-          "order_count": 623,
-          "min_limit": 20000.0,
-          "max_limit": 623672.61,
-          "available": 447.5616,
+          "price": 1393.0,
+          "merchant_name": "Kwin_B",
+          "completion_rate": 1.0,
+          "order_count": 20,
+          "min_limit": 50000.0,
+          "max_limit": 100000.0,
+          "available": 500.0,
           "payment_methods": [],
-          "adv_no": "2079643421206605824",
+          "adv_no": "2073076827922227200",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786419639.3322406,
+      "fetched_at": 1786420191.2051063,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -262,7 +262,7 @@
           "price": 1.2,
           "merchant_name": "Speed_payment",
           "completion_rate": 1.0,
-          "order_count": 59,
+          "order_count": 60,
           "min_limit": 20.0,
           "max_limit": 21759.313,
           "available": 18132.7611,
