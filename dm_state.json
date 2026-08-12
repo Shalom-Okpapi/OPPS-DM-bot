@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786535919.0563817,
+      "fetched_at": 1786536223.1076167,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1397.0,
-          "merchant_name": "CHUKSBENZ-EXCH",
-          "completion_rate": 0.98,
-          "order_count": 262,
+          "price": 1397.96,
+          "merchant_name": "immediate1",
+          "completion_rate": 0.97,
+          "order_count": 169,
           "min_limit": 4500.0,
-          "max_limit": 70415.64,
-          "available": 50.4049,
+          "max_limit": 50000.0,
+          "available": 103.682,
           "payment_methods": [],
-          "adv_no": "2087430623714123776",
+          "adv_no": "2087057323907952640",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1410.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.96,
-          "order_count": 400,
+          "order_count": 387,
           "min_limit": 4500.0,
           "max_limit": 6910958.91,
           "available": 4901.3893,
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786535920.2146447,
+      "fetched_at": 1786536224.3038456,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
