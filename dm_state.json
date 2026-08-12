@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786565380.5550737,
+      "fetched_at": 1786565620.718918,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1397.5,
-          "merchant_name": "swiftrade001",
+          "merchant_name": "LOADER",
           "completion_rate": 1.0,
-          "order_count": 122,
-          "min_limit": 10000.0,
-          "max_limit": 178000.27,
-          "available": 127.3705,
+          "order_count": 63,
+          "min_limit": 4500.0,
+          "max_limit": 679544.15,
+          "available": 486.257,
           "payment_methods": [],
-          "adv_no": "2073454304590696448",
+          "adv_no": "2021892499695620096",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,24 +232,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1786565379.7085838,
+      "fetched_at": 1786565619.5523908,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.994,
-          "merchant_name": "AnalistaCripto",
+          "price": 0.993,
+          "merchant_name": "BVilla_Trade",
           "completion_rate": 1.0,
-          "order_count": 1868,
-          "min_limit": 50.0,
-          "max_limit": 1500.0,
-          "available": 1830.35,
+          "order_count": 167,
+          "min_limit": 10.0,
+          "max_limit": 2400.0,
+          "available": 65.31,
           "payment_methods": [
             "Banco Pichincha"
           ],
-          "adv_no": "12909680510819258368",
-          "link": "https://c2c.binance.com/en/adv?code=12909680510819258368"
+          "adv_no": "12920562130888273920",
+          "link": "https://c2c.binance.com/en/adv?code=12920562130888273920"
         },
         "sell": {
           "platform": "Bybit",
