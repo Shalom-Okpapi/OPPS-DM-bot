@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786559728.0866528,
+      "fetched_at": 1786560288.7348835,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1397.89,
-          "merchant_name": "immediate1",
+          "price": 1397.8,
+          "merchant_name": "KAREFA__",
           "completion_rate": 0.97,
-          "order_count": 201,
-          "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 213.0673,
+          "order_count": 465,
+          "min_limit": 50000.0,
+          "max_limit": 104835.13,
+          "available": 75.0001,
           "payment_methods": [],
-          "adv_no": "2087584016648445952",
+          "adv_no": "2043703729743454208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,40 +232,42 @@
       }
     },
     "USD": {
-      "fetched_at": 1786559728.9665039,
+      "fetched_at": 1786560287.5910673,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.994,
-          "merchant_name": "UsdtjotaG",
+          "merchant_name": "ThonyCM1",
           "completion_rate": 1.0,
-          "order_count": 1018,
-          "min_limit": 40.0,
-          "max_limit": 240.0,
-          "available": 1645.99,
+          "order_count": 1544,
+          "min_limit": 10.0,
+          "max_limit": 500.0,
+          "available": 527.64,
           "payment_methods": [
             "Banco Guayaquil",
-            "Produbanco",
-            "Banco Pichincha"
+            "Banco Pichincha",
+            "Banco del pacifico",
+            "Banco Internacional",
+            "Produbanco"
           ],
-          "adv_no": "12893126771650355200",
-          "link": "https://c2c.binance.com/en/adv?code=12893126771650355200"
+          "adv_no": "12886499179067629568",
+          "link": "https://c2c.binance.com/en/adv?code=12886499179067629568"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Speed_payment",
+          "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 74,
-          "min_limit": 20.0,
-          "max_limit": 20264.608,
-          "available": 16887.1736,
+          "order_count": 354,
+          "min_limit": 10.0,
+          "max_limit": 32494.221,
+          "available": 27078.5183,
           "payment_methods": [],
-          "adv_no": "2022764591002497024",
+          "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
