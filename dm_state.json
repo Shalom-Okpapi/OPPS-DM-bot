@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786560288.7348835,
+      "fetched_at": 1786560576.078048,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1397.8,
-          "merchant_name": "KAREFA__",
+          "price": 1397.89,
+          "merchant_name": "immediate1",
           "completion_rate": 0.97,
-          "order_count": 465,
-          "min_limit": 50000.0,
-          "max_limit": 104835.13,
-          "available": 75.0001,
+          "order_count": 203,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 122.9317,
           "payment_methods": [],
-          "adv_no": "2043703729743454208",
+          "adv_no": "2087584016648445952",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786560287.5910673,
+      "fetched_at": 1786560576.8531876,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -241,10 +241,10 @@
           "price": 0.994,
           "merchant_name": "ThonyCM1",
           "completion_rate": 1.0,
-          "order_count": 1544,
+          "order_count": 1546,
           "min_limit": 10.0,
           "max_limit": 500.0,
-          "available": 527.64,
+          "available": 222.78,
           "payment_methods": [
             "Banco Guayaquil",
             "Banco Pichincha",
