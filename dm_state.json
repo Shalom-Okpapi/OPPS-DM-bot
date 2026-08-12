@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786545819.7826452,
+      "fetched_at": 1786546118.4846623,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1397.9,
-          "merchant_name": "INSTITUTION",
-          "completion_rate": 1.0,
-          "order_count": 348,
-          "min_limit": 11000.0,
-          "max_limit": 227098.36,
-          "available": 162.4568,
+          "price": 1398.0,
+          "merchant_name": "SpeedyPay",
+          "completion_rate": 0.99,
+          "order_count": 446,
+          "min_limit": 4500.0,
+          "max_limit": 200000.0,
+          "available": 361.0516,
           "payment_methods": [],
-          "adv_no": "2083990034620104704",
+          "adv_no": "2086903971215835136",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1410.0,
-          "merchant_name": "Unstopable",
-          "completion_rate": 0.96,
-          "order_count": 388,
-          "min_limit": 4500.0,
-          "max_limit": 6910958.91,
-          "available": 4901.3893,
+          "price": 1411.0,
+          "merchant_name": "KEENG.YEARHAYER",
+          "completion_rate": 0.99,
+          "order_count": 848,
+          "min_limit": 50000.0,
+          "max_limit": 500000.0,
+          "available": 49717.1721,
           "payment_methods": [],
-          "adv_no": "2040154052394418176",
+          "adv_no": "2086056495635931136",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786545818.656026,
+      "fetched_at": 1786546119.4625988,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
