@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786576437.5341012,
+      "fetched_at": 1786576990.1868823,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.0,
-          "merchant_name": "selflex",
+          "price": 1398.0,
+          "merchant_name": "FAST_PAY_",
           "completion_rate": 0.99,
-          "order_count": 435,
-          "min_limit": 45000.0,
-          "max_limit": 100000.0,
-          "available": 71.8721,
+          "order_count": 13954,
+          "min_limit": 20000.0,
+          "max_limit": 1000000.0,
+          "available": 1455.8958,
           "payment_methods": [],
-          "adv_no": "2000890633183678464",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786576436.5207489,
+      "fetched_at": 1786576991.3583379,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -247,10 +247,10 @@
           "price": 0.994,
           "merchant_name": "HeratimiVIP_crip",
           "completion_rate": 1.0,
-          "order_count": 687,
+          "order_count": 689,
           "min_limit": 50.0,
           "max_limit": 1500.0,
-          "available": 606.1,
+          "available": 337.18,
           "payment_methods": [
             "Banco Pichincha"
           ],
