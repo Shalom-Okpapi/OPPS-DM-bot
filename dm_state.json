@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786558050.0980783,
+      "fetched_at": 1786558599.348128,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1398.38,
-          "merchant_name": "Shadow_Ex",
-          "completion_rate": 1.0,
-          "order_count": 173,
-          "min_limit": 20000.0,
-          "max_limit": 204143.2,
-          "available": 145.9855,
+          "price": 1398.0,
+          "merchant_name": "INSTANTPAYMENT_",
+          "completion_rate": 0.98,
+          "order_count": 59,
+          "min_limit": 50000.0,
+          "max_limit": 106785.95,
+          "available": 76.3848,
           "payment_methods": [],
-          "adv_no": "2032065714530734080",
+          "adv_no": "2054599021099282432",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,21 +82,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1786554965.8328466,
+      "fetched_at": 1786558602.9313498,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
           "price": 0.867,
-          "merchant_name": "alvik",
+          "merchant_name": "RED_BULL",
           "completion_rate": 1.0,
-          "order_count": 10608,
-          "min_limit": 50.0,
-          "max_limit": 300.0,
-          "available": 33655.9205,
+          "order_count": 666,
+          "min_limit": 20.0,
+          "max_limit": 429.492,
+          "available": 495.3776,
           "payment_methods": [],
-          "adv_no": "2038225274208436224",
+          "adv_no": "1914580586290200576",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -117,24 +117,24 @@
       }
     },
     "JPY": {
-      "fetched_at": 1786554962.3440492,
+      "fetched_at": 1786558600.0992675,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 178.24,
-          "merchant_name": "Umi-chan-",
-          "completion_rate": 0.979,
-          "order_count": 92,
-          "min_limit": 1000.0,
-          "max_limit": 490000.0,
-          "available": 1484.63,
+          "price": 178.4,
+          "merchant_name": "fast_trade-1",
+          "completion_rate": 1.0,
+          "order_count": 37,
+          "min_limit": 5000.0,
+          "max_limit": 150000.0,
+          "available": 2158.87,
           "payment_methods": [
             "Bank Transfer"
           ],
-          "adv_no": "12811398979273121792",
-          "link": "https://c2c.binance.com/en/adv?code=12811398979273121792"
+          "adv_no": "12909518461130661888",
+          "link": "https://c2c.binance.com/en/adv?code=12909518461130661888"
         },
         "sell": {
           "platform": "Binance",
@@ -156,49 +156,46 @@
       }
     },
     "CHF": {
-      "fetched_at": 1786554963.3994172,
+      "fetched_at": 1786558600.9256554,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.918,
-          "merchant_name": "ZenovaExchange",
-          "completion_rate": 0.966,
-          "order_count": 532,
-          "min_limit": 50.0,
-          "max_limit": 4000.0,
-          "available": 5017.51,
+          "price": 0.877,
+          "merchant_name": "Twint_USDT",
+          "completion_rate": 0.956,
+          "order_count": 64,
+          "min_limit": 5.0,
+          "max_limit": 10000.0,
+          "available": 943.47,
           "payment_methods": [
-            "Bank Transfer",
-            "Instant Transfer",
-            "Cash Deposit to Bank",
             "Twint"
           ],
-          "adv_no": "13907423697261449216",
-          "link": "https://c2c.binance.com/en/adv?code=13907423697261449216"
+          "adv_no": "12920916342738464768",
+          "link": "https://c2c.binance.com/en/adv?code=12920916342738464768"
         },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.804,
-          "merchant_name": "User-63027",
-          "completion_rate": 0.984,
-          "order_count": 60,
-          "min_limit": 10.0,
-          "max_limit": 1050.0,
-          "available": 1350.0,
+          "price": 0.825,
+          "merchant_name": "AhmadzaiExchange247",
+          "completion_rate": 0.972,
+          "order_count": 69,
+          "min_limit": 50.0,
+          "max_limit": 194.0,
+          "available": 141.63,
           "payment_methods": [
             "Twint"
           ],
-          "adv_no": "12908101883721568256",
-          "link": "https://c2c.binance.com/en/adv?code=12908101883721568256"
+          "adv_no": "12905395337477709824",
+          "link": "https://c2c.binance.com/en/adv?code=12905395337477709824"
         }
       }
     },
     "GBP": {
-      "fetched_at": 1786554964.613727,
+      "fetched_at": 1786558601.7329876,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -221,10 +218,10 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.888,
+          "price": 0.889,
           "merchant_name": "TheRealplug@100",
           "completion_rate": 0.97,
-          "order_count": 43,
+          "order_count": 44,
           "min_limit": 20.0,
           "max_limit": 800.0,
           "available": 19649.9781,
@@ -235,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786558051.2375867,
+      "fetched_at": 1786558598.548714,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -244,10 +241,10 @@
           "price": 0.994,
           "merchant_name": "ThonyCM1",
           "completion_rate": 1.0,
-          "order_count": 1529,
+          "order_count": 1534,
           "min_limit": 10.0,
           "max_limit": 500.0,
-          "available": 1399.45,
+          "available": 1211.04,
           "payment_methods": [
             "Banco Guayaquil",
             "Banco Pichincha",
