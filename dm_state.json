@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786568255.244798,
+      "fetched_at": 1786568754.4426076,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1397.5,
-          "merchant_name": "Pettexx",
+          "price": 1397.0,
+          "merchant_name": "MALA",
           "completion_rate": 1.0,
-          "order_count": 28,
-          "min_limit": 50000.0,
-          "max_limit": 978250.0,
-          "available": 700.0,
+          "order_count": 158,
+          "min_limit": 4500.0,
+          "max_limit": 90551.86,
+          "available": 64.8188,
           "payment_methods": [],
-          "adv_no": "1880374713185476608",
+          "adv_no": "2087643130696650752",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786568253.7598085,
+      "fetched_at": 1786568755.701063,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -241,10 +241,10 @@
           "price": 0.994,
           "merchant_name": "AnalistaCripto",
           "completion_rate": 1.0,
-          "order_count": 1877,
+          "order_count": 1879,
           "min_limit": 50.0,
           "max_limit": 1500.0,
-          "available": 828.86,
+          "available": 647.15,
           "payment_methods": [
             "Banco Pichincha"
           ],
