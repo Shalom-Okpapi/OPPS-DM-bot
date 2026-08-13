@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786650986.1102116,
+      "fetched_at": 1786651543.2712607,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1395.2,
-          "merchant_name": "BitcoinMaster..",
-          "completion_rate": 0.98,
-          "order_count": 941,
-          "min_limit": 20000.0,
-          "max_limit": 100000.0,
-          "available": 142.6971,
+          "merchant_name": "GetSwyft",
+          "completion_rate": 1.0,
+          "order_count": 30,
+          "min_limit": 50000.0,
+          "max_limit": 328845.98,
+          "available": 235.6981,
           "payment_methods": [],
-          "adv_no": "2077038206362677248",
+          "adv_no": "1946714247507566592",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786650985.0760863,
+      "fetched_at": 1786651542.0179667,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -241,10 +241,10 @@
           "price": 0.991,
           "merchant_name": "CherrySugar",
           "completion_rate": 1.0,
-          "order_count": 33,
+          "order_count": 36,
           "min_limit": 50.0,
           "max_limit": 15000.0,
-          "available": 1100.0,
+          "available": 378.55,
           "payment_methods": [
             "Banco Pichincha"
           ],
@@ -260,8 +260,8 @@
           "completion_rate": 1.0,
           "order_count": 362,
           "min_limit": 10.0,
-          "max_limit": 31462.165,
-          "available": 26218.4712,
+          "max_limit": 31488.035,
+          "available": 26240.0295,
           "payment_methods": [],
           "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
