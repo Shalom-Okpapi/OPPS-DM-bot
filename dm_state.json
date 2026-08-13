@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786626380.4314265,
+      "fetched_at": 1786626932.3639526,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1397.5,
-          "merchant_name": "ONIGBINDE001",
-          "completion_rate": 1.0,
-          "order_count": 996,
-          "min_limit": 50000.0,
-          "max_limit": 133808.1,
-          "available": 95.7482,
+          "price": 1397.7,
+          "merchant_name": "FastBridge1",
+          "completion_rate": 0.95,
+          "order_count": 132,
+          "min_limit": 11000.0,
+          "max_limit": 75000.0,
+          "available": 95.9494,
           "payment_methods": [],
-          "adv_no": "1934595390185328640",
+          "adv_no": "2087476069311795200",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786626379.4068053,
+      "fetched_at": 1786626933.1874738,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,8 +256,8 @@
           "completion_rate": 1.0,
           "order_count": 49,
           "min_limit": 10.0,
-          "max_limit": 19569.92,
-          "available": 16308.2672,
+          "max_limit": 19533.92,
+          "available": 16278.2672,
           "payment_methods": [],
           "adv_no": "2013559487527952384",
           "link": "https://www.bybit.com/fiat/trade/otc"
