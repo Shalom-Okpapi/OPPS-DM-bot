@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786649881.4550183,
+      "fetched_at": 1786650379.8755915,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1395.2,
           "merchant_name": "BitcoinMaster..",
           "completion_rate": 0.98,
-          "order_count": 939,
+          "order_count": 940,
           "min_limit": 20000.0,
           "max_limit": 100000.0,
           "available": 174.9505,
@@ -232,25 +232,26 @@
       }
     },
     "USD": {
-      "fetched_at": 1786649882.5013738,
+      "fetched_at": 1786650378.9334946,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.99,
-          "merchant_name": "BVilla_Trade",
+          "price": 0.992,
+          "merchant_name": "UsdtjotaG",
           "completion_rate": 1.0,
-          "order_count": 175,
-          "min_limit": 10.0,
-          "max_limit": 3110.0,
-          "available": 2128.26,
+          "order_count": 1044,
+          "min_limit": 40.0,
+          "max_limit": 240.0,
+          "available": 4824.93,
           "payment_methods": [
-            "Banco Pichincha",
-            "Banco Internacional"
+            "Banco Guayaquil",
+            "Produbanco",
+            "Banco Pichincha"
           ],
-          "adv_no": "12920562130888273920",
-          "link": "https://c2c.binance.com/en/adv?code=12920562130888273920"
+          "adv_no": "12893126771650355200",
+          "link": "https://c2c.binance.com/en/adv?code=12893126771650355200"
         },
         "sell": {
           "platform": "Bybit",
