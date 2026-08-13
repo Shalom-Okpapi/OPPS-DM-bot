@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786599687.3377318,
+      "fetched_at": 1786600273.994071,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1396.5,
-          "merchant_name": "STEPH_EXCHANGE",
-          "completion_rate": 1.0,
-          "order_count": 29,
-          "min_limit": 4500.0,
-          "max_limit": 844450.84,
-          "available": 604.6909,
+          "price": 1397.0,
+          "merchant_name": "Decorator",
+          "completion_rate": 0.99,
+          "order_count": 2194,
+          "min_limit": 9000.0,
+          "max_limit": 150000.0,
+          "available": 114.2751,
           "payment_methods": [],
-          "adv_no": "2045089092023115776",
+          "adv_no": "1968570697613799424",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786599688.4100645,
+      "fetched_at": 1786600275.6196644,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -265,7 +265,7 @@
           "price": 1.2,
           "merchant_name": "Speed_payment",
           "completion_rate": 1.0,
-          "order_count": 82,
+          "order_count": 81,
           "min_limit": 20.0,
           "max_limit": 20264.608,
           "available": 16887.1736,
