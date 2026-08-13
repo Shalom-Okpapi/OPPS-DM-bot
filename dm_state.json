@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786616973.5694585,
+      "fetched_at": 1786617281.985423,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1397.0,
-          "merchant_name": "winnietrades",
-          "completion_rate": 0.99,
-          "order_count": 1095,
-          "min_limit": 11000.0,
-          "max_limit": 95185.29,
-          "available": 68.1355,
+          "price": 1397.2,
+          "merchant_name": "ZEE_RX",
+          "completion_rate": 1.0,
+          "order_count": 39,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 400.0,
           "payment_methods": [],
-          "adv_no": "2075978370191245312",
+          "adv_no": "2058528496669290496",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786616974.4024866,
+      "fetched_at": 1786617282.8953545,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -241,8 +241,8 @@
           "completion_rate": 0.99,
           "order_count": 1052,
           "min_limit": 2.0,
-          "max_limit": 13604.024,
-          "available": 17005.0311,
+          "max_limit": 10404.024,
+          "available": 13005.0311,
           "payment_methods": [],
           "adv_no": "2034594166346301440",
           "link": "https://www.bybit.com/fiat/trade/otc"
