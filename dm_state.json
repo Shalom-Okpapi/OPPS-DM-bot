@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786647880.5488532,
+      "fetched_at": 1786648120.0085485,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1395.5,
-          "merchant_name": "winnietrades",
-          "completion_rate": 0.99,
-          "order_count": 1152,
+          "merchant_name": "big_Mark",
+          "completion_rate": 0.98,
+          "order_count": 60,
           "min_limit": 50000.0,
-          "max_limit": 250000.0,
-          "available": 240.5173,
+          "max_limit": 1500000.0,
+          "available": 2134.1416,
           "payment_methods": [],
-          "adv_no": "2075978370191245312",
+          "adv_no": "1795025105052012544",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786647881.7644327,
+      "fetched_at": 1786648121.2356682,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -241,10 +241,10 @@
           "price": 0.99,
           "merchant_name": "BVilla_Trade",
           "completion_rate": 1.0,
-          "order_count": 172,
+          "order_count": 173,
           "min_limit": 10.0,
           "max_limit": 3110.0,
-          "available": 2229.62,
+          "available": 2128.26,
           "payment_methods": [
             "Banco Pichincha",
             "Banco Internacional"
