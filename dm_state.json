@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786645127.675406,
+      "fetched_at": 1786645697.4918633,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1396.0,
-          "merchant_name": "AHMAD_XCHANGE",
-          "completion_rate": 1.0,
-          "order_count": 1069,
-          "min_limit": 50000.0,
-          "max_limit": 55174.66,
-          "available": 39.5234,
+          "price": 1395.99,
+          "merchant_name": "FastBridge1",
+          "completion_rate": 0.96,
+          "order_count": 153,
+          "min_limit": 11000.0,
+          "max_limit": 62807.82,
+          "available": 44.9916,
           "payment_methods": [],
-          "adv_no": "2085793051735158784",
+          "adv_no": "2087476069311795200",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786645129.05083,
+      "fetched_at": 1786645696.3323727,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -239,10 +239,10 @@
           "price": 0.992,
           "merchant_name": "UsdtjotaG",
           "completion_rate": 1.0,
-          "order_count": 1027,
+          "order_count": 1030,
           "min_limit": 40.0,
           "max_limit": 240.0,
-          "available": 6276.82,
+          "available": 6180.84,
           "payment_methods": [
             "Banco Guayaquil",
             "Produbanco",
