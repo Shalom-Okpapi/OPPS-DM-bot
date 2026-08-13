@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786647277.6072052,
+      "fetched_at": 1786647880.5488532,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -59,7 +59,7 @@
           "order_count": 1152,
           "min_limit": 50000.0,
           "max_limit": 250000.0,
-          "available": 369.5033,
+          "available": 240.5173,
           "payment_methods": [],
           "adv_no": "2075978370191245312",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -232,24 +232,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1786647278.685176,
+      "fetched_at": 1786647881.7644327,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.991,
-          "merchant_name": "CherrySugar",
+          "price": 0.99,
+          "merchant_name": "BVilla_Trade",
           "completion_rate": 1.0,
-          "order_count": 23,
-          "min_limit": 50.0,
-          "max_limit": 15000.0,
-          "available": 464.7,
+          "order_count": 172,
+          "min_limit": 10.0,
+          "max_limit": 3110.0,
+          "available": 2229.62,
           "payment_methods": [
-            "Banco Pichincha"
+            "Banco Pichincha",
+            "Banco Internacional"
           ],
-          "adv_no": "13846996019549007872",
-          "link": "https://c2c.binance.com/en/adv?code=13846996019549007872"
+          "adv_no": "12920562130888273920",
+          "link": "https://c2c.binance.com/en/adv?code=12920562130888273920"
         },
         "sell": {
           "platform": "Bybit",
