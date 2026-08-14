@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786746831.394436,
+      "fetched_at": 1786747122.3623137,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.0,
-          "merchant_name": "QUICKLY@PAYMENT",
-          "completion_rate": 0.98,
-          "order_count": 1187,
-          "min_limit": 50000.0,
-          "max_limit": 173664.24,
-          "available": 124.5798,
+          "price": 1395.0,
+          "merchant_name": "FAST_PAY_",
+          "completion_rate": 0.99,
+          "order_count": 13746,
+          "min_limit": 20000.0,
+          "max_limit": 1000000.0,
+          "available": 1331.3015,
           "payment_methods": [],
-          "adv_no": "2085395547017707520",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786746832.7007806,
+      "fetched_at": 1786747120.7874517,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -244,10 +244,10 @@
           "price": 0.993,
           "merchant_name": "GrabyCripto",
           "completion_rate": 0.993,
-          "order_count": 265,
+          "order_count": 270,
           "min_limit": 20.0,
           "max_limit": 250.0,
-          "available": 419.5,
+          "available": 176.99,
           "payment_methods": [
             "Banco Pichincha"
           ],
