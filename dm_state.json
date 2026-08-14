@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786725821.3037508,
+      "fetched_at": 1786726173.447732,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.89,
-          "merchant_name": "Samaras",
-          "completion_rate": 0.98,
-          "order_count": 253,
-          "min_limit": 5000.0,
-          "max_limit": 102685.01,
-          "available": 73.5624,
+          "price": 1396.0,
+          "merchant_name": "gozie1",
+          "completion_rate": 1.0,
+          "order_count": 69,
+          "min_limit": 20000.0,
+          "max_limit": 61613.29,
+          "available": 44.1356,
           "payment_methods": [],
-          "adv_no": "2088224649968463872",
+          "adv_no": "1976886198556254208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786725820.478107,
+      "fetched_at": 1786726175.3568006,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,8 +246,8 @@
           "completion_rate": 1.0,
           "order_count": 163,
           "min_limit": 50.0,
-          "max_limit": 1500.0,
-          "available": 1875.0,
+          "max_limit": 1550.0,
+          "available": 1937.5,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
