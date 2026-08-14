@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786747480.115638,
+      "fetched_at": 1786747777.3156202,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.0,
-          "merchant_name": "FAST_PAY_",
-          "completion_rate": 0.99,
-          "order_count": 13259,
-          "min_limit": 20000.0,
-          "max_limit": 1000000.0,
-          "available": 1291.1824,
+          "price": 1394.0,
+          "merchant_name": "QUICKLY@PAYMENT",
+          "completion_rate": 0.98,
+          "order_count": 1192,
+          "min_limit": 50000.0,
+          "max_limit": 745426.86,
+          "available": 534.7395,
           "payment_methods": [],
-          "adv_no": "2046603189319974912",
+          "adv_no": "2085395547017707520",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,24 +235,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1786747479.054465,
+      "fetched_at": 1786747778.2468135,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.993,
-          "merchant_name": "GrabyCripto",
-          "completion_rate": 0.993,
-          "order_count": 272,
-          "min_limit": 20.0,
-          "max_limit": 250.0,
-          "available": 116.5,
+          "price": 0.994,
+          "merchant_name": "AnalistaCripto",
+          "completion_rate": 1.0,
+          "order_count": 1749,
+          "min_limit": 50.0,
+          "max_limit": 1500.0,
+          "available": 1331.36,
           "payment_methods": [
             "Banco Pichincha"
           ],
-          "adv_no": "12913238667703070720",
-          "link": "https://c2c.binance.com/en/adv?code=12913238667703070720"
+          "adv_no": "12909680510819258368",
+          "link": "https://c2c.binance.com/en/adv?code=12909680510819258368"
         },
         "sell": {
           "platform": "Bybit",
