@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786748878.63213,
+      "fetched_at": 1786749434.8028858,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.0,
-          "merchant_name": "Ivan8640",
+          "price": 1393.99,
+          "merchant_name": "FASTPAYER.",
           "completion_rate": 1.0,
-          "order_count": 110,
-          "min_limit": 50000.0,
-          "max_limit": 62656.95,
-          "available": 44.9476,
+          "order_count": 358,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 159.9964,
           "payment_methods": [],
-          "adv_no": "2066778240691224576",
+          "adv_no": "2026789872618631168",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1420.0,
-          "merchant_name": "MSCOMGLOBAL",
-          "completion_rate": 0.98,
-          "order_count": 384,
-          "min_limit": 9999.0,
-          "max_limit": 500000.0,
-          "available": 49878.3855,
+          "price": 1410.0,
+          "merchant_name": "Unstopable",
+          "completion_rate": 0.96,
+          "order_count": 361,
+          "min_limit": 4500.0,
+          "max_limit": 6910958.91,
+          "available": 4901.3893,
           "payment_methods": [],
-          "adv_no": "2066222202879336448",
+          "adv_no": "2040154052394418176",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786748877.9154747,
+      "fetched_at": 1786749433.972784,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -244,10 +244,10 @@
           "price": 0.994,
           "merchant_name": "AnalistaCripto",
           "completion_rate": 1.0,
-          "order_count": 1755,
+          "order_count": 1757,
           "min_limit": 50.0,
           "max_limit": 1500.0,
-          "available": 891.21,
+          "available": 769.08,
           "payment_methods": [
             "Banco Pichincha"
           ],
@@ -259,14 +259,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Speed_payment",
+          "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 92,
-          "min_limit": 20.0,
-          "max_limit": 20198.574,
-          "available": 16832.1453,
+          "order_count": 279,
+          "min_limit": 10.0,
+          "max_limit": 100000.0,
+          "available": 98607.9455,
           "payment_methods": [],
-          "adv_no": "2022764591002497024",
+          "adv_no": "2083213882945777664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
