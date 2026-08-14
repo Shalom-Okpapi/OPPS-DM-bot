@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786736610.2826128,
+      "fetched_at": 1786737170.73414,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.5,
-          "merchant_name": "Kryptogenix",
+          "price": 1395.0,
+          "merchant_name": "ExpressTransact",
           "completion_rate": 1.0,
-          "order_count": 146,
-          "min_limit": 20000.0,
-          "max_limit": 616039.75,
-          "available": 441.7639,
+          "order_count": 20,
+          "min_limit": 30000.0,
+          "max_limit": 171990.38,
+          "available": 123.2906,
           "payment_methods": [],
-          "adv_no": "1785203880432259072",
+          "adv_no": "1585209155689742336",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1420.0,
           "merchant_name": "MSCOMGLOBAL",
           "completion_rate": 0.97,
-          "order_count": 252,
+          "order_count": 250,
           "min_limit": 9999.0,
           "max_limit": 500000.0,
           "available": 49878.3855,
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786736608.9631846,
+      "fetched_at": 1786737169.577853,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
