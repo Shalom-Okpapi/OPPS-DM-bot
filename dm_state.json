@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786749935.134292,
+      "fetched_at": 1786750465.710833,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1395.0,
           "merchant_name": "FAST_PAY_",
           "completion_rate": 0.99,
-          "order_count": 13755,
+          "order_count": 13756,
           "min_limit": 20000.0,
           "max_limit": 823082.64,
           "available": 590.0234,
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1786746674.941247,
+      "fetched_at": 1786750308.6349843,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,33 +91,35 @@
           "price": 0.865,
           "merchant_name": "alvik",
           "completion_rate": 1.0,
-          "order_count": 10857,
+          "order_count": 10869,
           "min_limit": 35.0,
-          "max_limit": 11087.665,
-          "available": 12818.1108,
+          "max_limit": 8450.541,
+          "available": 9769.4116,
           "payment_methods": [],
           "adv_no": "2015119116726616064",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.036,
-          "merchant_name": "wethey",
-          "completion_rate": 0.99,
-          "order_count": 937,
-          "min_limit": 30.0,
-          "max_limit": 20000.0,
-          "available": 100000.0,
-          "payment_methods": [],
-          "adv_no": "2082521799097860096",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.874,
+          "merchant_name": "Sallam_96",
+          "completion_rate": 1.0,
+          "order_count": 164,
+          "min_limit": 40.0,
+          "max_limit": 500.0,
+          "available": 110.0,
+          "payment_methods": [
+            "Neteller"
+          ],
+          "adv_no": "12897340437657919488",
+          "link": "https://c2c.binance.com/en/adv?code=12897340437657919488"
         }
       }
     },
     "JPY": {
-      "fetched_at": 1786746671.4779043,
+      "fetched_at": 1786750305.0932882,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -129,7 +131,7 @@
           "order_count": 745,
           "min_limit": 3000.0,
           "max_limit": 200000.0,
-          "available": 218.54,
+          "available": 40.52,
           "payment_methods": [
             "Bank Transfer"
           ],
@@ -156,7 +158,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1786746672.7175064,
+      "fetched_at": 1786750306.2975383,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -164,11 +166,11 @@
           "fiat": "CHF",
           "price": 0.87,
           "merchant_name": "AhmadzaiExchange247",
-          "completion_rate": 0.967,
-          "order_count": 86,
+          "completion_rate": 0.968,
+          "order_count": 88,
           "min_limit": 50.0,
-          "max_limit": 200.0,
-          "available": 230.01,
+          "max_limit": 235.0,
+          "available": 271.02,
           "payment_methods": [
             "Twint"
           ],
@@ -198,7 +200,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1786746673.8062537,
+      "fetched_at": 1786750307.474253,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -224,7 +226,7 @@
           "price": 0.886,
           "merchant_name": "LopezUkactive",
           "completion_rate": 0.97,
-          "order_count": 37,
+          "order_count": 38,
           "min_limit": 30.0,
           "max_limit": 661.0,
           "available": 18479.1407,
@@ -235,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786749934.4030592,
+      "fetched_at": 1786750466.876343,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -244,10 +246,10 @@
           "price": 0.994,
           "merchant_name": "AnalistaCripto",
           "completion_rate": 1.0,
-          "order_count": 1760,
+          "order_count": 1761,
           "min_limit": 50.0,
           "max_limit": 1500.0,
-          "available": 718.61,
+          "available": 668.14,
           "payment_methods": [
             "Banco Pichincha"
           ],
