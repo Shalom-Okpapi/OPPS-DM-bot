@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786739307.1172411,
+      "fetched_at": 1786739681.8910005,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.9,
-          "merchant_name": "Ayreal1",
-          "completion_rate": 0.99,
-          "order_count": 8943,
+          "price": 1395.0,
+          "merchant_name": "CEObigdeals",
+          "completion_rate": 1.0,
+          "order_count": 62,
           "min_limit": 4500.0,
-          "max_limit": 213207.25,
-          "available": 152.8477,
+          "max_limit": 50000.0,
+          "available": 142.43,
           "payment_methods": [],
-          "adv_no": "2061106351627960320",
+          "adv_no": "2087957948049797120",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1420.0,
           "merchant_name": "MSCOMGLOBAL",
           "completion_rate": 0.97,
-          "order_count": 281,
+          "order_count": 285,
           "min_limit": 9999.0,
           "max_limit": 500000.0,
           "available": 49878.3855,
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786739308.2520776,
+      "fetched_at": 1786739680.1616998,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
