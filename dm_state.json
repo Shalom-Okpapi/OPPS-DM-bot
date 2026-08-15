@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786831775.6295788,
+      "fetched_at": 1786832320.9389074,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.9,
-          "merchant_name": "GetSwyft",
-          "completion_rate": 1.0,
-          "order_count": 35,
-          "min_limit": 50000.0,
-          "max_limit": 83454.98,
-          "available": 59.9576,
+          "price": 1391.5,
+          "merchant_name": "REWAPAY",
+          "completion_rate": 0.99,
+          "order_count": 138,
+          "min_limit": 4500.0,
+          "max_limit": 269493.19,
+          "available": 193.671,
           "payment_methods": [],
-          "adv_no": "1946714247507566592",
+          "adv_no": "2088747539814002688",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786831776.741659,
+      "fetched_at": 1786832320.153533,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -244,7 +244,7 @@
           "price": 0.995,
           "merchant_name": "Luckyvisith01",
           "completion_rate": 0.985,
-          "order_count": 2061,
+          "order_count": 2065,
           "min_limit": 50.0,
           "max_limit": 15000.0,
           "available": 7748.45,
