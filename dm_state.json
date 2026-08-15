@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786832629.7458715,
+      "fetched_at": 1786832920.893827,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.9,
-          "merchant_name": "GetSwyft",
+          "price": 1393.5,
+          "merchant_name": "NO.DELAY",
           "completion_rate": 1.0,
-          "order_count": 35,
-          "min_limit": 50000.0,
-          "max_limit": 83454.98,
-          "available": 59.9576,
+          "order_count": 563,
+          "min_limit": 4500.0,
+          "max_limit": 150000.0,
+          "available": 336.5585,
           "payment_methods": [],
-          "adv_no": "1946714247507566592",
+          "adv_no": "2038695283095339008",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,28 +235,26 @@
       }
     },
     "USD": {
-      "fetched_at": 1786832628.5288906,
+      "fetched_at": 1786832919.690673,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.995,
-          "merchant_name": "Luckyvisith01",
-          "completion_rate": 0.985,
-          "order_count": 2066,
+          "price": 0.992,
+          "merchant_name": "EasyCashout",
+          "completion_rate": 0.999,
+          "order_count": 3569,
           "min_limit": 50.0,
           "max_limit": 15000.0,
-          "available": 7698.08,
+          "available": 1000.0,
           "payment_methods": [
-            "True Money (Cambodia)",
             "ABA",
             "ACLEDA Bank",
-            "Wing Money",
             "KHQR"
           ],
-          "adv_no": "13907161705883541504",
-          "link": "https://c2c.binance.com/en/adv?code=13907161705883541504"
+          "adv_no": "13910697054713638912",
+          "link": "https://c2c.binance.com/en/adv?code=13910697054713638912"
         },
         "sell": {
           "platform": "Bybit",
