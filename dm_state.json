@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786831229.5942628,
+      "fetched_at": 1786831775.6295788,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -235,22 +235,28 @@
       }
     },
     "USD": {
-      "fetched_at": 1786831228.6338615,
+      "fetched_at": 1786831776.741659,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.8,
-          "merchant_name": "DagestanDentist",
-          "completion_rate": 1.0,
-          "order_count": 161,
+          "price": 0.995,
+          "merchant_name": "Luckyvisith01",
+          "completion_rate": 0.985,
+          "order_count": 2061,
           "min_limit": 50.0,
-          "max_limit": 650.0,
-          "available": 812.5,
-          "payment_methods": [],
-          "adv_no": "1768869022963105792",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "max_limit": 15000.0,
+          "available": 7748.45,
+          "payment_methods": [
+            "True Money (Cambodia)",
+            "ABA",
+            "ACLEDA Bank",
+            "Wing Money",
+            "KHQR"
+          ],
+          "adv_no": "13907161705883541504",
+          "link": "https://c2c.binance.com/en/adv?code=13907161705883541504"
         },
         "sell": {
           "platform": "Bybit",
