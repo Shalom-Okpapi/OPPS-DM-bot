@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786890926.2065363,
+      "fetched_at": 1786891527.8400965,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.49,
-          "merchant_name": "Great Prince",
-          "completion_rate": 1.0,
-          "order_count": 39,
+          "price": 1392.0,
+          "merchant_name": "winnietrades",
+          "completion_rate": 0.99,
+          "order_count": 830,
           "min_limit": 5000.0,
-          "max_limit": 50000.0,
-          "available": 438.382,
+          "max_limit": 150000.0,
+          "available": 696.0691,
           "payment_methods": [],
-          "adv_no": "2088594472623779840",
+          "adv_no": "2075978370191245312",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786890924.9174807,
+      "fetched_at": 1786891528.930738,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -245,7 +245,7 @@
           "price": 0.8,
           "merchant_name": "ArbatTrade",
           "completion_rate": 1.0,
-          "order_count": 289,
+          "order_count": 281,
           "min_limit": 50.0,
           "max_limit": 1491.808,
           "available": 1864.76,
