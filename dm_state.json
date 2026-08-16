@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786886024.0066965,
+      "fetched_at": 1786886579.0206559,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1392.5,
-          "merchant_name": "Phemix",
-          "completion_rate": 0.98,
-          "order_count": 86,
-          "min_limit": 50000.0,
-          "max_limit": 105452.07,
-          "available": 75.7286,
+          "merchant_name": "lamid",
+          "completion_rate": 0.96,
+          "order_count": 430,
+          "min_limit": 10000.0,
+          "max_limit": 50000.0,
+          "available": 104.6779,
           "payment_methods": [],
-          "adv_no": "1976305324006141952",
+          "adv_no": "2083149310727077888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786886025.6030662,
+      "fetched_at": 1786886577.9743254,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,7 +243,7 @@
           "price": 0.8,
           "merchant_name": "ArbatTrade",
           "completion_rate": 1.0,
-          "order_count": 279,
+          "order_count": 288,
           "min_limit": 50.0,
           "max_limit": 1241.808,
           "available": 1552.26,
@@ -260,8 +260,8 @@
           "completion_rate": 1.0,
           "order_count": 364,
           "min_limit": 10.0,
-          "max_limit": 22215.654,
-          "available": 18513.0453,
+          "max_limit": 22203.122,
+          "available": 18502.602,
           "payment_methods": [],
           "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
