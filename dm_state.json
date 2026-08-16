@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786842770.7371275,
+      "fetched_at": 1786843316.3276703,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.8,
-          "merchant_name": "Reckline_crypto",
-          "completion_rate": 0.98,
-          "order_count": 1449,
-          "min_limit": 5000.0,
-          "max_limit": 100000.0,
-          "available": 317.4918,
+          "price": 1393.0,
+          "merchant_name": "ROBOT_PAY",
+          "completion_rate": 0.99,
+          "order_count": 1569,
+          "min_limit": 4500.0,
+          "max_limit": 226393.28,
+          "available": 162.5221,
           "payment_methods": [],
-          "adv_no": "2088622278602321920",
+          "adv_no": "2088720306390626304",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -245,7 +245,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786842769.5476165,
+      "fetched_at": 1786843317.3306336,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -267,14 +267,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "reshka",
+          "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 373,
-          "min_limit": 50.0,
+          "order_count": 325,
+          "min_limit": 10.0,
           "max_limit": 100000.0,
-          "available": 98374.1695,
+          "available": 98599.6122,
           "payment_methods": [],
-          "adv_no": "2079290328522887168",
+          "adv_no": "2083213882945777664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
