@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786869699.0856922,
+      "fetched_at": 1786870256.0195,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.4,
-          "merchant_name": "PillowYutang",
+          "price": 1392.0,
+          "merchant_name": "MALA",
           "completion_rate": 1.0,
-          "order_count": 70,
-          "min_limit": 50000.0,
-          "max_limit": 278480.0,
-          "available": 200.0,
+          "order_count": 516,
+          "min_limit": 4500.0,
+          "max_limit": 173292.02,
+          "available": 124.4914,
           "payment_methods": [],
-          "adv_no": "2086703334968524800",
+          "adv_no": "2088910782179766272",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1410.0,
-          "merchant_name": "Unstopable",
-          "completion_rate": 0.96,
-          "order_count": 370,
-          "min_limit": 4500.0,
-          "max_limit": 6910958.91,
-          "available": 4901.3893,
+          "price": 1420.0,
+          "merchant_name": "MSCOMGLOBAL",
+          "completion_rate": 0.98,
+          "order_count": 388,
+          "min_limit": 9999.0,
+          "max_limit": 500000.0,
+          "available": 49878.3855,
           "payment_methods": [],
-          "adv_no": "2040154052394418176",
+          "adv_no": "2066222202879336448",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786869698.0522242,
+      "fetched_at": 1786870254.8278875,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -248,7 +248,7 @@
           "price": 0.8,
           "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 161,
+          "order_count": 155,
           "min_limit": 50.0,
           "max_limit": 1550.0,
           "available": 1937.5,
