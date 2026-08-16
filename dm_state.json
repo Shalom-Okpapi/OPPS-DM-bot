@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786867478.2550244,
+      "fetched_at": 1786868029.2535317,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.0,
-          "merchant_name": "lamid",
-          "completion_rate": 0.96,
-          "order_count": 427,
-          "min_limit": 10000.0,
-          "max_limit": 50000.0,
-          "available": 141.5363,
+          "price": 1393.4,
+          "merchant_name": "PillowYutang",
+          "completion_rate": 1.0,
+          "order_count": 68,
+          "min_limit": 50000.0,
+          "max_limit": 278680.0,
+          "available": 200.0,
           "payment_methods": [],
-          "adv_no": "2083149310727077888",
+          "adv_no": "2086703334968524800",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 22,
           "min_limit": 8000.0,
           "max_limit": 100000.0,
-          "available": 20000.0,
+          "available": 19938.8099,
           "payment_methods": [],
           "adv_no": "2071336028654133248",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786867479.8993597,
+      "fetched_at": 1786868030.1089287,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -267,8 +267,8 @@
           "completion_rate": 1.0,
           "order_count": 100,
           "min_limit": 20.0,
-          "max_limit": 19764.05,
-          "available": 16470.0424,
+          "max_limit": 19740.05,
+          "available": 16450.0424,
           "payment_methods": [],
           "adv_no": "2022764591002497024",
           "link": "https://www.bybit.com/fiat/trade/otc"
