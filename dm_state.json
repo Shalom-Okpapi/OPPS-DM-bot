@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786915199.8154233,
+      "fetched_at": 1786915801.9000895,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -237,28 +237,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1786915200.7735608,
+      "fetched_at": 1786915800.3454137,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.998,
-          "merchant_name": "Luckyvisith01",
-          "completion_rate": 0.985,
-          "order_count": 2141,
+          "price": 0.8,
+          "merchant_name": "ArbatTrade",
+          "completion_rate": 1.0,
+          "order_count": 285,
           "min_limit": 50.0,
-          "max_limit": 15000.0,
-          "available": 2754.37,
-          "payment_methods": [
-            "True Money (Cambodia)",
-            "ABA",
-            "ACLEDA Bank",
-            "Wing Money",
-            "KHQR"
-          ],
-          "adv_no": "13907160463068078080",
-          "link": "https://c2c.binance.com/en/adv?code=13907160463068078080"
+          "max_limit": 1363.76,
+          "available": 1704.7003,
+          "payment_methods": [],
+          "adv_no": "2028034604168007680",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
