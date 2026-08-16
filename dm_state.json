@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786857275.0336316,
+      "fetched_at": 1786857772.6636667,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.5,
-          "merchant_name": "Atanda@2020",
-          "completion_rate": 0.98,
-          "order_count": 2116,
+          "price": 1393.0,
+          "merchant_name": "ROBOT_PAY",
+          "completion_rate": 0.99,
+          "order_count": 1575,
           "min_limit": 4500.0,
-          "max_limit": 3482000.13,
-          "available": 2500.5387,
+          "max_limit": 76822.41,
+          "available": 55.1489,
           "payment_methods": [],
-          "adv_no": "1979517424579039232",
+          "adv_no": "2088720306390626304",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786857276.1515868,
+      "fetched_at": 1786857771.4987984,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -262,14 +262,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Quick payer~",
+          "merchant_name": "Suhayl-Xchange",
           "completion_rate": 1.0,
-          "order_count": 342,
-          "min_limit": 10.0,
+          "order_count": 1749,
+          "min_limit": 20.0,
           "max_limit": 50000.0,
-          "available": 99361.1158,
+          "available": 99000.1718,
           "payment_methods": [],
-          "adv_no": "2011172472789876736",
+          "adv_no": "1988892629987651584",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
