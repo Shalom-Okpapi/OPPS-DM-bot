@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786840178.6474564,
+      "fetched_at": 1786840419.992002,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.0,
-          "merchant_name": "ROBOT_PAY",
-          "completion_rate": 0.99,
-          "order_count": 1566,
+          "price": 1393.75,
+          "merchant_name": "Unstopable",
+          "completion_rate": 0.96,
+          "order_count": 366,
           "min_limit": 4500.0,
-          "max_limit": 134351.92,
-          "available": 96.4479,
+          "max_limit": 50000.0,
+          "available": 51.334,
           "payment_methods": [],
-          "adv_no": "2088720306390626304",
+          "adv_no": "2050112831149473792",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -245,7 +245,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786840177.872179,
+      "fetched_at": 1786840421.0662143,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
