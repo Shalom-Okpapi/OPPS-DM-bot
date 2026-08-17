@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786987771.3956664,
+      "fetched_at": 1786988024.2126482,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.0,
-          "merchant_name": "adamsygraphics",
-          "completion_rate": 1.0,
-          "order_count": 615,
-          "min_limit": 50000.0,
+          "price": 1394.9,
+          "merchant_name": "Westxchange",
+          "completion_rate": 0.99,
+          "order_count": 222,
+          "min_limit": 5000.0,
           "max_limit": 100000.0,
-          "available": 480.6585,
+          "available": 673.8544,
           "payment_methods": [],
-          "adv_no": "1942296185320587264",
+          "adv_no": "2088944785893470208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786987772.4020195,
+      "fetched_at": 1786988023.090705,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
