@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786997795.5008895,
+      "fetched_at": 1786998292.447895,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.99,
-          "merchant_name": "GLOBAL-EXCHANG",
+          "price": 1393.0,
+          "merchant_name": "ISMAILEXCHAN",
           "completion_rate": 1.0,
-          "order_count": 62,
-          "min_limit": 5000.0,
-          "max_limit": 50000.0,
-          "available": 1054.0141,
+          "order_count": 268,
+          "min_limit": 4500.0,
+          "max_limit": 105369.02,
+          "available": 75.6418,
           "payment_methods": [],
-          "adv_no": "2089132110764191744",
+          "adv_no": "2086220476533256192",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786997794.384365,
+      "fetched_at": 1786998293.2781641,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,7 +246,7 @@
           "price": 0.8,
           "merchant_name": "ArbatTrade",
           "completion_rate": 1.0,
-          "order_count": 293,
+          "order_count": 294,
           "min_limit": 50.0,
           "max_limit": 484.609,
           "available": 605.762,
@@ -263,8 +263,8 @@
           "completion_rate": 1.0,
           "order_count": 396,
           "min_limit": 10.0,
-          "max_limit": 19795.886,
-          "available": 16496.5718,
+          "max_limit": 19690.586,
+          "available": 16408.8218,
           "payment_methods": [],
           "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
