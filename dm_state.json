@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786984721.9010663,
+      "fetched_at": 1786985265.0887713,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.0,
-          "merchant_name": "Decorator",
+          "price": 1394.5,
+          "merchant_name": "Westxchange",
           "completion_rate": 0.99,
-          "order_count": 2190,
-          "min_limit": 9000.0,
-          "max_limit": 150000.0,
-          "available": 108.6644,
+          "order_count": 219,
+          "min_limit": 5000.0,
+          "max_limit": 100000.0,
+          "available": 838.0236,
           "payment_methods": [],
-          "adv_no": "1968570697613799424",
+          "adv_no": "2088944785893470208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786984720.5653605,
+      "fetched_at": 1786985266.0833113,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -247,7 +247,7 @@
           "price": 0.8,
           "merchant_name": "ArbatTrade",
           "completion_rate": 1.0,
-          "order_count": 290,
+          "order_count": 284,
           "min_limit": 50.0,
           "max_limit": 646.686,
           "available": 808.3576,
@@ -260,14 +260,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Speed_payment",
+          "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 105,
-          "min_limit": 20.0,
-          "max_limit": 18937.367,
-          "available": 15781.1392,
+          "order_count": 392,
+          "min_limit": 10.0,
+          "max_limit": 19941.886,
+          "available": 16618.2384,
           "payment_methods": [],
-          "adv_no": "2022764591002497024",
+          "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
