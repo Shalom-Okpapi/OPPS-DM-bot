@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1786989914.1807933,
+      "fetched_at": 1786990421.2696078,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.0,
-          "merchant_name": "TOPMAN-EXCHANG1",
+          "price": 1394.9,
+          "merchant_name": "Westxchange",
           "completion_rate": 0.99,
-          "order_count": 543,
-          "min_limit": 40000.0,
-          "max_limit": 80000.0,
-          "available": 74.2553,
+          "order_count": 230,
+          "min_limit": 5000.0,
+          "max_limit": 100000.0,
+          "available": 325.4884,
           "payment_methods": [],
-          "adv_no": "2089134242728611840",
+          "adv_no": "2088944785893470208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1786989913.3048754,
+      "fetched_at": 1786990420.3337262,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -260,14 +260,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Aliyous",
+          "merchant_name": "Speed_payment",
           "completion_rate": 1.0,
-          "order_count": 394,
-          "min_limit": 10.0,
-          "max_limit": 19849.886,
-          "available": 16541.5718,
+          "order_count": 105,
+          "min_limit": 20.0,
+          "max_limit": 18937.367,
+          "available": 15781.1392,
           "payment_methods": [],
-          "adv_no": "1969417928054837248",
+          "adv_no": "2022764591002497024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
