@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787083068.0185852,
+      "fetched_at": 1787083617.0255535,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1396.5,
-          "merchant_name": "DEWU",
+          "price": 1396.9,
+          "merchant_name": "INSTITUTION",
           "completion_rate": 1.0,
-          "order_count": 29,
+          "order_count": 424,
           "min_limit": 50000.0,
-          "max_limit": 53440.0,
-          "available": 38.2671,
+          "max_limit": 200000.0,
+          "available": 376.2269,
           "payment_methods": [],
-          "adv_no": "2086347475465613312",
+          "adv_no": "2083990034620104704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787083069.04882,
+      "fetched_at": 1787083615.9907684,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -262,8 +262,8 @@
           "completion_rate": 1.0,
           "order_count": 107,
           "min_limit": 20.0,
-          "max_limit": 18753.567,
-          "available": 15627.9725,
+          "max_limit": 18729.567,
+          "available": 15607.9725,
           "payment_methods": [],
           "adv_no": "2022764591002497024",
           "link": "https://www.bybit.com/fiat/trade/otc"
