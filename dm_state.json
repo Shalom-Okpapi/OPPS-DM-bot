@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787092866.716754,
+      "fetched_at": 1787093425.4957018,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.0,
-          "merchant_name": "YomiChiBusiness",
-          "completion_rate": 0.98,
-          "order_count": 77,
-          "min_limit": 7000.0,
-          "max_limit": 69650.0,
-          "available": 50.0,
+          "price": 1395.98,
+          "merchant_name": "Kwin_B",
+          "completion_rate": 1.0,
+          "order_count": 84,
+          "min_limit": 10000.0,
+          "max_limit": 50100.0,
+          "available": 124.1111,
           "payment_methods": [],
-          "adv_no": "2087617479243550720",
+          "adv_no": "2073076827922227200",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,25 +237,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1787092865.618779,
+      "fetched_at": 1787093432.2632945,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.991,
-          "merchant_name": "FaynaD arbitraje",
-          "completion_rate": 0.994,
-          "order_count": 148,
-          "min_limit": 50.0,
-          "max_limit": 400.0,
-          "available": 323.13,
-          "payment_methods": [
-            "Banco Pichincha",
-            "Produbanco"
-          ],
-          "adv_no": "12923157428235001856",
-          "link": "https://c2c.binance.com/en/adv?code=12923157428235001856"
+          "price": 0.993,
+          "merchant_name": "SBFast-payment",
+          "completion_rate": 0.99,
+          "order_count": 562,
+          "min_limit": 30.0,
+          "max_limit": 1533.452,
+          "available": 1544.2622,
+          "payment_methods": [],
+          "adv_no": "2080333328311201792",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
@@ -264,7 +261,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 401,
+          "order_count": 386,
           "min_limit": 10.0,
           "max_limit": 19654.2,
           "available": 16378.5002,
