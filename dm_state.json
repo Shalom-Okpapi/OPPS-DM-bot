@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787057373.7695801,
+      "fetched_at": 1787057675.2391586,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.9,
-          "merchant_name": "BitcoinMaster..",
-          "completion_rate": 0.98,
-          "order_count": 949,
-          "min_limit": 20000.0,
-          "max_limit": 100000.0,
-          "available": 553.1786,
+          "price": 1395.0,
+          "merchant_name": "INSTITUTION",
+          "completion_rate": 1.0,
+          "order_count": 388,
+          "min_limit": 11000.0,
+          "max_limit": 50000.0,
+          "available": 868.0775,
           "payment_methods": [],
-          "adv_no": "2077038206362677248",
+          "adv_no": "2083990034620104704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787057374.5212598,
+      "fetched_at": 1787057674.2218425,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,7 +259,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 391,
+          "order_count": 392,
           "min_limit": 10.0,
           "max_limit": 19705.786,
           "available": 16421.4885,
