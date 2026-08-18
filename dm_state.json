@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787095357.7129104,
+      "fetched_at": 1787095848.9581969,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -235,24 +235,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1787095359.0107338,
+      "fetched_at": 1787095848.1368582,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.993,
-          "merchant_name": "GrabyCripto",
-          "completion_rate": 0.995,
-          "order_count": 356,
-          "min_limit": 20.0,
-          "max_limit": 250.0,
-          "available": 339.96,
-          "payment_methods": [
-            "Banco Pichincha"
-          ],
-          "adv_no": "12913238667703070720",
-          "link": "https://c2c.binance.com/en/adv?code=12913238667703070720"
+          "merchant_name": "SBFast-payment",
+          "completion_rate": 0.99,
+          "order_count": 564,
+          "min_limit": 30.0,
+          "max_limit": 733.452,
+          "available": 738.6228,
+          "payment_methods": [],
+          "adv_no": "2080333328311201792",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
