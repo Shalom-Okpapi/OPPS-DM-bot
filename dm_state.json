@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787079272.9107244,
+      "fetched_at": 1787079828.6224048,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1396.3,
-          "merchant_name": "Jiipay",
-          "completion_rate": 1.0,
-          "order_count": 42,
+          "price": 1394.0,
+          "merchant_name": "lamid",
+          "completion_rate": 0.96,
+          "order_count": 448,
           "min_limit": 10000.0,
-          "max_limit": 100000.0,
-          "available": 181.4437,
+          "max_limit": 50000.0,
+          "available": 158.773,
           "payment_methods": [],
-          "adv_no": "2089709990608396288",
+          "adv_no": "2083149310727077888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1410.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.96,
-          "order_count": 377,
+          "order_count": 370,
           "min_limit": 4500.0,
           "max_limit": 6910958.91,
           "available": 4901.3893,
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787079273.887659,
+      "fetched_at": 1787079829.581934,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,7 +256,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 382,
+          "order_count": 398,
           "min_limit": 10.0,
           "max_limit": 19438.2,
           "available": 16198.5002,
