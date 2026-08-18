@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787092318.278778,
+      "fetched_at": 1787092866.716754,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.0,
-          "merchant_name": "MEKSPAY",
-          "completion_rate": 0.99,
-          "order_count": 511,
-          "min_limit": 4500.0,
-          "max_limit": 100000.0,
-          "available": 4875.9859,
+          "price": 1393.0,
+          "merchant_name": "YomiChiBusiness",
+          "completion_rate": 0.98,
+          "order_count": 77,
+          "min_limit": 7000.0,
+          "max_limit": 69650.0,
+          "available": 50.0,
           "payment_methods": [],
-          "adv_no": "2089838774443597824",
+          "adv_no": "2087617479243550720",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,22 +237,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1787092319.7519653,
+      "fetched_at": 1787092865.618779,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.993,
-          "merchant_name": "SBFast-payment",
-          "completion_rate": 0.99,
-          "order_count": 562,
-          "min_limit": 30.0,
-          "max_limit": 1806.019,
-          "available": 1818.7506,
-          "payment_methods": [],
-          "adv_no": "2080333328311201792",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.991,
+          "merchant_name": "FaynaD arbitraje",
+          "completion_rate": 0.994,
+          "order_count": 148,
+          "min_limit": 50.0,
+          "max_limit": 400.0,
+          "available": 323.13,
+          "payment_methods": [
+            "Banco Pichincha",
+            "Produbanco"
+          ],
+          "adv_no": "12923157428235001856",
+          "link": "https://c2c.binance.com/en/adv?code=12923157428235001856"
         },
         "sell": {
           "platform": "Bybit",
