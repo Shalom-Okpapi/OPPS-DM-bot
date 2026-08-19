@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787153024.3256137,
+      "fetched_at": 1787153321.0510767,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.0,
-          "merchant_name": "NIVLEK",
+          "price": 1396.5,
+          "merchant_name": "INSTITUTION",
           "completion_rate": 1.0,
-          "order_count": 22,
-          "min_limit": 5000.0,
-          "max_limit": 50220.0,
-          "available": 36.0,
+          "order_count": 472,
+          "min_limit": 50000.0,
+          "max_limit": 200000.0,
+          "available": 773.8055,
           "payment_methods": [],
-          "adv_no": "2090097256529539072",
+          "adv_no": "2083990034620104704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1410.0,
-          "merchant_name": "Unstopable",
-          "completion_rate": 0.96,
-          "order_count": 378,
-          "min_limit": 4500.0,
-          "max_limit": 6910958.91,
-          "available": 4901.3893,
+          "price": 1410.1,
+          "merchant_name": "Zikconnect",
+          "completion_rate": 0.95,
+          "order_count": 137,
+          "min_limit": 50000.0,
+          "max_limit": 1000000.0,
+          "available": 2217.4916,
           "payment_methods": [],
-          "adv_no": "2040154052394418176",
+          "adv_no": "2077769467030605824",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787153022.936444,
+      "fetched_at": 1787153322.5328043,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
