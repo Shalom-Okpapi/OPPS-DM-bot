@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787124999.8029025,
+      "fetched_at": 1787125545.428666,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1396.5,
-          "merchant_name": "SARKONZY",
-          "completion_rate": 1.0,
-          "order_count": 163,
-          "min_limit": 20000.0,
-          "max_limit": 106264.85,
-          "available": 76.0937,
+          "merchant_name": "TCA",
+          "completion_rate": 0.96,
+          "order_count": 323,
+          "min_limit": 4500.0,
+          "max_limit": 80997.0,
+          "available": 58.0,
           "payment_methods": [],
-          "adv_no": "2003627698434465792",
+          "adv_no": "1992882948977971200",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787124999.015569,
+      "fetched_at": 1787125546.5598242,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -267,8 +267,8 @@
           "completion_rate": 1.0,
           "order_count": 109,
           "min_limit": 20.0,
-          "max_limit": 18650.784,
-          "available": 15542.3204,
+          "max_limit": 18614.784,
+          "available": 15512.3204,
           "payment_methods": [],
           "adv_no": "2022764591002497024",
           "link": "https://www.bybit.com/fiat/trade/otc"
