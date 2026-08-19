@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787107483.2703228,
+      "fetched_at": 1787108043.7580411,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1396.0,
-          "merchant_name": "MEKSPAY",
-          "completion_rate": 0.99,
-          "order_count": 579,
-          "min_limit": 4500.0,
-          "max_limit": 1000000.0,
-          "available": 2134.6708,
+          "price": 1397.0,
+          "merchant_name": "Tochiba",
+          "completion_rate": 0.96,
+          "order_count": 320,
+          "min_limit": 35000.0,
+          "max_limit": 405998.65,
+          "available": 290.6218,
           "payment_methods": [],
-          "adv_no": "2089900502660034560",
+          "adv_no": "2064073290790121472",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -215,7 +215,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787107484.647593,
+      "fetched_at": 1787108044.9394941,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -237,14 +237,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Corporate_Fx",
+          "merchant_name": "Quick payer~",
           "completion_rate": 1.0,
-          "order_count": 414,
-          "min_limit": 12.0,
-          "max_limit": 100000.0,
-          "available": 87035.5599,
+          "order_count": 360,
+          "min_limit": 10.0,
+          "max_limit": 50000.0,
+          "available": 97385.6445,
           "payment_methods": [],
-          "adv_no": "1891963254004076544",
+          "adv_no": "2011172472789876736",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
