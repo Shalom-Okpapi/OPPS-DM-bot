@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787161111.4954782,
+      "fetched_at": 1787161640.656321,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.0,
-          "merchant_name": "Decorator",
-          "completion_rate": 0.99,
-          "order_count": 2268,
-          "min_limit": 9000.0,
-          "max_limit": 150000.0,
-          "available": 188.5962,
+          "price": 1394.0,
+          "merchant_name": "YomiChiBusiness",
+          "completion_rate": 0.98,
+          "order_count": 78,
+          "min_limit": 50000.0,
+          "max_limit": 69700.0,
+          "available": 50.0,
           "payment_methods": [],
-          "adv_no": "1968570697613799424",
+          "adv_no": "2090133115362488320",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787161108.773324,
+      "fetched_at": 1787161641.8564706,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -247,8 +247,8 @@
           "completion_rate": 1.0,
           "order_count": 144,
           "min_limit": 50.0,
-          "max_limit": 1450.0,
-          "available": 1812.5,
+          "max_limit": 1054.497,
+          "available": 1318.1217,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -260,7 +260,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 395,
+          "order_count": 396,
           "min_limit": 10.0,
           "max_limit": 19494.0,
           "available": 16245.0002,
