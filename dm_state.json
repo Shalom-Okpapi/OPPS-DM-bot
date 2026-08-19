@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787098377.0709321,
+      "fetched_at": 1787098980.8061173,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.89,
-          "merchant_name": "Kwin_B",
-          "completion_rate": 1.0,
-          "order_count": 86,
-          "min_limit": 10000.0,
-          "max_limit": 50100.0,
-          "available": 100.5968,
+          "price": 1396.9,
+          "merchant_name": "SpeedyPay",
+          "completion_rate": 0.99,
+          "order_count": 623,
+          "min_limit": 9999.0,
+          "max_limit": 69726.82,
+          "available": 49.9154,
           "payment_methods": [],
-          "adv_no": "2073076827922227200",
+          "adv_no": "2086903971215835136",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,24 +235,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1787098375.7985685,
+      "fetched_at": 1787098979.620845,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.994,
-          "merchant_name": "AnalistaCripto",
-          "completion_rate": 1.0,
-          "order_count": 1828,
-          "min_limit": 50.0,
-          "max_limit": 2000.0,
-          "available": 3315.72,
-          "payment_methods": [
-            "Banco Pichincha"
-          ],
-          "adv_no": "12909680510819258368",
-          "link": "https://c2c.binance.com/en/adv?code=12909680510819258368"
+          "price": 0.8,
+          "merchant_name": "JackyChee",
+          "completion_rate": 0.99,
+          "order_count": 978,
+          "min_limit": 2.0,
+          "max_limit": 17076.336,
+          "available": 21345.4204,
+          "payment_methods": [],
+          "adv_no": "2080967302742315008",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
