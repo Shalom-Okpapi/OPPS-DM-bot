@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787177703.220886,
+      "fetched_at": 1787178279.137185,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -238,22 +238,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1787177704.3565438,
+      "fetched_at": 1787178280.6404152,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.984,
-          "merchant_name": "an.noor104",
-          "completion_rate": 0.99,
-          "order_count": 252,
-          "min_limit": 20.0,
-          "max_limit": 1182.446,
-          "available": 1201.6728,
-          "payment_methods": [],
-          "adv_no": "2079526113396768768",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.994,
+          "merchant_name": "HeratimiVIP_crip",
+          "completion_rate": 1.0,
+          "order_count": 819,
+          "min_limit": 50.0,
+          "max_limit": 1500.0,
+          "available": 2357.41,
+          "payment_methods": [
+            "Banco Pichincha"
+          ],
+          "adv_no": "12912568368481525760",
+          "link": "https://c2c.binance.com/en/adv?code=12912568368481525760"
         },
         "sell": {
           "platform": "Bybit",
