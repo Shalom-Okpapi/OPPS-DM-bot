@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787154169.9966373,
+      "fetched_at": 1787154774.436131,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1396.0,
-          "merchant_name": "eplus",
+          "price": 1395.97,
+          "merchant_name": "LeleX",
           "completion_rate": 0.99,
-          "order_count": 524,
-          "min_limit": 20000.0,
-          "max_limit": 100000.0,
-          "available": 195.4529,
+          "order_count": 3596,
+          "min_limit": 50000.0,
+          "max_limit": 218505.04,
+          "available": 156.5256,
           "payment_methods": [],
-          "adv_no": "1971916008870567937",
+          "adv_no": "2010256011308171264",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 137,
           "min_limit": 50000.0,
           "max_limit": 1000000.0,
-          "available": 2217.4916,
+          "available": 2369.4916,
           "payment_methods": [],
           "adv_no": "2077769467030605824",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787154168.73182,
+      "fetched_at": 1787154773.2532554,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -247,8 +247,8 @@
           "completion_rate": 1.0,
           "order_count": 137,
           "min_limit": 50.0,
-          "max_limit": 1500.0,
-          "available": 1875.0,
+          "max_limit": 1450.0,
+          "available": 1812.5,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
