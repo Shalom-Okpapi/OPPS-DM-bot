@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787178279.137185,
+      "fetched_at": 1787178525.9195013,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,21 +82,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1787174768.6975374,
+      "fetched_at": 1787178369.1326423,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
           "price": 0.856,
-          "merchant_name": "\u0414\u0436\u0438\u043d\u0422\u043e\u043d\u0438\u043a",
+          "merchant_name": "Teraexchange",
           "completion_rate": 1.0,
-          "order_count": 338,
-          "min_limit": 2.0,
-          "max_limit": 96.842,
-          "available": 113.1333,
+          "order_count": 22,
+          "min_limit": 50.0,
+          "max_limit": 113.516,
+          "available": 132.6129,
           "payment_methods": [],
-          "adv_no": "2090174967228579840",
+          "adv_no": "1773643787954782208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -104,46 +104,46 @@
           "trade_type": "SELL",
           "fiat": "EUR",
           "price": 1.027,
-          "merchant_name": "fundses",
+          "merchant_name": "0.ellama_x",
           "completion_rate": 1.0,
-          "order_count": 23,
-          "min_limit": 20.0,
-          "max_limit": 70.0,
-          "available": 20000.0,
+          "order_count": 20,
+          "min_limit": 30.0,
+          "max_limit": 50.0,
+          "available": 19800.0,
           "payment_methods": [],
-          "adv_no": "2089311783932313600",
+          "adv_no": "2090168661889183744",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "JPY": {
-      "fetched_at": 1787174765.5579648,
+      "fetched_at": 1787178366.4177732,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 169.0,
-          "merchant_name": "Haottt",
-          "completion_rate": 1.0,
-          "order_count": 738,
-          "min_limit": 4000.0,
-          "max_limit": 200000.0,
-          "available": 59.48,
+          "price": 166.0,
+          "merchant_name": "Haizaifor",
+          "completion_rate": 0.967,
+          "order_count": 29,
+          "min_limit": 5000.0,
+          "max_limit": 53000.0,
+          "available": 78.8,
           "payment_methods": [
             "Bank Transfer"
           ],
-          "adv_no": "12918311233969872896",
-          "link": "https://c2c.binance.com/en/adv?code=12918311233969872896"
+          "adv_no": "12923509731184295936",
+          "link": "https://c2c.binance.com/en/adv?code=12923509731184295936"
         },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 173.0,
+          "price": 166.0,
           "merchant_name": "BestSeller999",
-          "completion_rate": 0.971,
-          "order_count": 334,
+          "completion_rate": 0.972,
+          "order_count": 338,
           "min_limit": 5000.0,
           "max_limit": 400000.0,
           "available": 14798.68,
@@ -156,7 +156,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1787174766.5920663,
+      "fetched_at": 1787178367.2797458,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -168,7 +168,7 @@
           "order_count": 57,
           "min_limit": 10.0,
           "max_limit": 950.0,
-          "available": 218.14,
+          "available": 106.29,
           "payment_methods": [
             "Bank Transfer",
             "Cash Deposit to Bank",
@@ -185,7 +185,7 @@
           "price": 0.78,
           "merchant_name": "07_Exchange",
           "completion_rate": 0.991,
-          "order_count": 1216,
+          "order_count": 1221,
           "min_limit": 50.0,
           "max_limit": 100000.0,
           "available": 1999492.26,
@@ -201,7 +201,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1787174767.6754215,
+      "fetched_at": 1787178368.125857,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -210,7 +210,7 @@
           "price": 0.758,
           "merchant_name": "BEST_CRYPTO_01",
           "completion_rate": 0.989,
-          "order_count": 251,
+          "order_count": 252,
           "min_limit": 10.0,
           "max_limit": 1000.0,
           "available": 385.8,
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787178280.6404152,
+      "fetched_at": 1787178525.1450317,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -247,10 +247,10 @@
           "price": 0.994,
           "merchant_name": "HeratimiVIP_crip",
           "completion_rate": 1.0,
-          "order_count": 819,
+          "order_count": 820,
           "min_limit": 50.0,
           "max_limit": 1500.0,
-          "available": 2357.41,
+          "available": 2286.75,
           "payment_methods": [
             "Banco Pichincha"
           ],
