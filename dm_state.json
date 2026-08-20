@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787250416.2698214,
+      "fetched_at": 1787250968.2621117,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.0,
-          "merchant_name": "MSCOMGLOBAL",
+          "price": 1393.5,
+          "merchant_name": "BitcoinMaster..",
           "completion_rate": 0.99,
-          "order_count": 670,
-          "min_limit": 4500.0,
-          "max_limit": 168626.27,
-          "available": 121.0526,
+          "order_count": 1018,
+          "min_limit": 20000.0,
+          "max_limit": 100000.0,
+          "available": 576.9952,
           "payment_methods": [],
-          "adv_no": "2066004548788805632",
+          "adv_no": "2077038206362677248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787250415.0631402,
+      "fetched_at": 1787250967.3010533,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,8 +243,8 @@
           "completion_rate": 1.0,
           "order_count": 136,
           "min_limit": 50.0,
-          "max_limit": 1086.705,
-          "available": 1358.3821,
+          "max_limit": 1286.705,
+          "available": 1608.3821,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
