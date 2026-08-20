@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787268222.112948,
+      "fetched_at": 1787268573.6307244,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.75,
-          "merchant_name": "BIG_KAMS_XCHNGE",
-          "completion_rate": 1.0,
-          "order_count": 467,
-          "min_limit": 10000.0,
-          "max_limit": 7932453.83,
-          "available": 5691.4467,
+          "price": 1392.0,
+          "merchant_name": "MEKSPAY",
+          "completion_rate": 0.98,
+          "order_count": 690,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 4379.6705,
           "payment_methods": [],
-          "adv_no": "2079333309152505856",
+          "adv_no": "2090214397116870656",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787268223.3339722,
+      "fetched_at": 1787268572.5711007,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
