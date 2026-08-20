@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787196229.533637,
+      "fetched_at": 1787196720.3906841,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1395.0,
-          "merchant_name": "big_Mark",
-          "completion_rate": 0.98,
-          "order_count": 81,
-          "min_limit": 50000.0,
-          "max_limit": 431597.51,
-          "available": 309.3889,
+          "price": 1395.39,
+          "merchant_name": "GEEBENZ01",
+          "completion_rate": 1.0,
+          "order_count": 350,
+          "min_limit": 20000.0,
+          "max_limit": 151504.32,
+          "available": 108.5749,
           "payment_methods": [],
-          "adv_no": "1795025105052012544",
+          "adv_no": "2049247830517608448",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1787192932.5792441,
+      "fetched_at": 1787196562.3333044,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1787192929.8677201,
+      "fetched_at": 1787196558.5302336,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -140,23 +140,23 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 172.0,
-          "merchant_name": "BestSeller999",
-          "completion_rate": 0.965,
-          "order_count": 328,
-          "min_limit": 5000.0,
-          "max_limit": 400000.0,
-          "available": 14566.65,
+          "price": 172.51,
+          "merchant_name": "Takara68",
+          "completion_rate": 0.975,
+          "order_count": 740,
+          "min_limit": 3000.0,
+          "max_limit": 500000.0,
+          "available": 21877.15,
           "payment_methods": [
             "PayPay Money"
           ],
-          "adv_no": "12888072323934035968",
-          "link": "https://c2c.binance.com/en/adv?code=12888072323934035968"
+          "adv_no": "12918910698740441088",
+          "link": "https://c2c.binance.com/en/adv?code=12918910698740441088"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1787192930.5905297,
+      "fetched_at": 1787196560.0023043,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -177,30 +177,11 @@
           "adv_no": "13923163049833758720",
           "link": "https://c2c.binance.com/en/adv?code=13923163049833758720"
         },
-        "sell": {
-          "platform": "Binance",
-          "trade_type": "SELL",
-          "fiat": "CHF",
-          "price": 0.78,
-          "merchant_name": "07_Exchange",
-          "completion_rate": 0.991,
-          "order_count": 1228,
-          "min_limit": 50.0,
-          "max_limit": 100000.0,
-          "available": 1999492.26,
-          "payment_methods": [
-            "Twint",
-            "Instant Transfer",
-            "Bank Transfer",
-            "Cash Deposit to Bank"
-          ],
-          "adv_no": "12918342128406675456",
-          "link": "https://c2c.binance.com/en/adv?code=12918342128406675456"
-        }
+        "sell": null
       }
     },
     "GBP": {
-      "fetched_at": 1787192931.5602584,
+      "fetched_at": 1787196561.192916,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -239,7 +220,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787196228.7841656,
+      "fetched_at": 1787196718.9568183,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
