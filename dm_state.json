@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787205798.504009,
+      "fetched_at": 1787206356.8754277,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1394.8,
-          "merchant_name": "PillowYutang",
-          "completion_rate": 1.0,
-          "order_count": 176,
-          "min_limit": 50000.0,
-          "max_limit": 278960.0,
-          "available": 200.0,
+          "price": 1394.0,
+          "merchant_name": "MINARETEXCHANGE",
+          "completion_rate": 0.95,
+          "order_count": 39,
+          "min_limit": 10000.0,
+          "max_limit": 231237.69,
+          "available": 165.8807,
           "payment_methods": [],
-          "adv_no": "2086703334968524800",
+          "adv_no": "2090308749747208192",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -219,7 +219,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787205799.354722,
+      "fetched_at": 1787206357.617357,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -230,8 +230,8 @@
           "completion_rate": 0.99,
           "order_count": 1027,
           "min_limit": 2.0,
-          "max_limit": 17252.004,
-          "available": 21565.0057,
+          "max_limit": 16972.004,
+          "available": 21215.0057,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
