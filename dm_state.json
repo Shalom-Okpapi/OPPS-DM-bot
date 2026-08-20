@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787234972.424411,
+      "fetched_at": 1787235273.0590076,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1393.5,
-          "merchant_name": "Jerrys xchange",
-          "completion_rate": 0.97,
-          "order_count": 190,
+          "price": 1394.2,
+          "merchant_name": "lagacy_",
+          "completion_rate": 0.99,
+          "order_count": 994,
           "min_limit": 20000.0,
-          "max_limit": 400000.0,
-          "available": 1276.0714,
+          "max_limit": 96789.12,
+          "available": 69.4227,
           "payment_methods": [],
-          "adv_no": "2067663724041302016",
+          "adv_no": "2072282028050616320",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1410.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.95,
-          "order_count": 372,
+          "order_count": 373,
           "min_limit": 4500.0,
           "max_limit": 6910958.91,
           "available": 4901.3893,
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787234973.2820663,
+      "fetched_at": 1787235273.826176,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -239,7 +239,7 @@
           "price": 0.8,
           "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 148,
+          "order_count": 135,
           "min_limit": 50.0,
           "max_limit": 1350.0,
           "available": 1687.5,
@@ -256,8 +256,8 @@
           "completion_rate": 1.0,
           "order_count": 372,
           "min_limit": 10.0,
-          "max_limit": 19408.264,
-          "available": 16173.5541,
+          "max_limit": 19228.264,
+          "available": 16023.5541,
           "payment_methods": [],
           "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
