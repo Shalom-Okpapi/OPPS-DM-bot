@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787338777.7823622,
+      "fetched_at": 1787339075.1828036,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.5,
-          "merchant_name": "Decorator",
-          "completion_rate": 0.99,
-          "order_count": 2299,
-          "min_limit": 9000.0,
-          "max_limit": 150000.0,
-          "available": 336.2529,
+          "price": 1391.29,
+          "merchant_name": "BIG_KAMS_XCHNGE",
+          "completion_rate": 1.0,
+          "order_count": 556,
+          "min_limit": 10000.0,
+          "max_limit": 6238669.57,
+          "available": 4484.09,
           "payment_methods": [],
-          "adv_no": "1968570697613799424",
+          "adv_no": "2079333309152505856",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1410.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.95,
-          "order_count": 372,
+          "order_count": 389,
           "min_limit": 4500.0,
           "max_limit": 6910958.91,
           "available": 4901.3893,
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787338776.2040057,
+      "fetched_at": 1787339073.8891966,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,8 +259,8 @@
           "completion_rate": 1.0,
           "order_count": 386,
           "min_limit": 10.0,
-          "max_limit": 18583.374,
-          "available": 15486.1456,
+          "max_limit": 18528.374,
+          "available": 15440.3123,
           "payment_methods": [],
           "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
