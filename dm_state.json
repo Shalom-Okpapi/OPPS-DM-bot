@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787350722.1297488,
+      "fetched_at": 1787351023.1898694,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1390.0,
-          "merchant_name": "BEST_CHOICE",
-          "completion_rate": 0.99,
-          "order_count": 2295,
-          "min_limit": 4500.0,
-          "max_limit": 121546.88,
-          "available": 87.4438,
+          "price": 1390.49,
+          "merchant_name": "GEEBENZ01",
+          "completion_rate": 1.0,
+          "order_count": 388,
+          "min_limit": 20000.0,
+          "max_limit": 51053.92,
+          "available": 36.7165,
           "payment_methods": [],
-          "adv_no": "1992989887095361536",
+          "adv_no": "2049247830517608448",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787350721.0556967,
+      "fetched_at": 1787351022.0059283,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -249,8 +249,8 @@
           "completion_rate": 1.0,
           "order_count": 143,
           "min_limit": 50.0,
-          "max_limit": 1100.0,
-          "available": 1375.0,
+          "max_limit": 1000.0,
+          "available": 1250.0,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
