@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787272775.7920835,
+      "fetched_at": 1787273070.4589045,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.49,
-          "merchant_name": "BLOCK_MERCHANT",
-          "completion_rate": 0.99,
-          "order_count": 3549,
-          "min_limit": 45000.0,
-          "max_limit": 103235.72,
-          "available": 74.1375,
+          "price": 1392.0,
+          "merchant_name": "MEKSPAY",
+          "completion_rate": 0.98,
+          "order_count": 741,
+          "min_limit": 50000.0,
+          "max_limit": 50000.08,
+          "available": 35.9196,
           "payment_methods": [],
-          "adv_no": "2084241630778032128",
+          "adv_no": "2090214397116870656",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787272777.001966,
+      "fetched_at": 1787273071.3023772,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -263,7 +263,7 @@
           "price": 1.2,
           "merchant_name": "Cubes55a",
           "completion_rate": 1.0,
-          "order_count": 330,
+          "order_count": 312,
           "min_limit": 20.0,
           "max_limit": 100000.0,
           "available": 96008.7707,
