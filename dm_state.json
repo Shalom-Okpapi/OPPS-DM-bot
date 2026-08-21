@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787344976.3811781,
+      "fetched_at": 1787345523.6232617,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1389.6,
-          "merchant_name": "EXPANDABLE",
+          "price": 1390.0,
+          "merchant_name": "Ro\u028f\u1d00\u029f~Xc\u029c\u1d00\u0274\u0262e",
           "completion_rate": 0.99,
-          "order_count": 5661,
-          "min_limit": 10000.0,
-          "max_limit": 301142.99,
-          "available": 216.712,
+          "order_count": 7939,
+          "min_limit": 50000.0,
+          "max_limit": 500000.0,
+          "available": 472.5503,
           "payment_methods": [],
-          "adv_no": "2090548995562598400",
+          "adv_no": "2081930711155642368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787344977.5215728,
+      "fetched_at": 1787345521.8855813,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,8 +246,8 @@
           "completion_rate": 1.0,
           "order_count": 141,
           "min_limit": 50.0,
-          "max_limit": 1100.0,
-          "available": 1375.0,
+          "max_limit": 400.0,
+          "available": 500.0,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
