@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787285781.1447272,
+      "fetched_at": 1787286283.9474854,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1787282558.1635976,
+      "fetched_at": 1787286206.6534102,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,33 +91,35 @@
           "price": 0.856,
           "merchant_name": "alvik",
           "completion_rate": 1.0,
-          "order_count": 10287,
-          "min_limit": 35.0,
-          "max_limit": 23169.885,
-          "available": 27067.6231,
+          "order_count": 10290,
+          "min_limit": 50.0,
+          "max_limit": 300.0,
+          "available": 27486.074,
           "payment_methods": [],
-          "adv_no": "2015119116726616064",
+          "adv_no": "2038225274208436224",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 0.866,
-          "merchant_name": "Fastpaymant",
-          "completion_rate": 0.96,
-          "order_count": 48,
-          "min_limit": 50.0,
-          "max_limit": 70.0,
-          "available": 20000.0,
-          "payment_methods": [],
-          "adv_no": "2086132625946189824",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.868,
+          "merchant_name": "\u4e97ExtraPay_Crypto\u4e97",
+          "completion_rate": 0.97,
+          "order_count": 420,
+          "min_limit": 10.0,
+          "max_limit": 342.0,
+          "available": 42565.6,
+          "payment_methods": [
+            "Dukascopy Bank"
+          ],
+          "adv_no": "12854306788767518720",
+          "link": "https://c2c.binance.com/en/adv?code=12854306788767518720"
         }
       }
     },
     "JPY": {
-      "fetched_at": 1787282554.9525769,
+      "fetched_at": 1787286203.053503,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -126,7 +128,7 @@
           "price": 168.0,
           "merchant_name": "WUN-USDT-STORE",
           "completion_rate": 1.0,
-          "order_count": 131,
+          "order_count": 124,
           "min_limit": 3000.0,
           "max_limit": 247025.95,
           "available": 1470.3926,
@@ -138,7 +140,7 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 170.01,
+          "price": 177.01,
           "merchant_name": "Takara68",
           "completion_rate": 0.978,
           "order_count": 768,
@@ -154,7 +156,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1787282555.9844036,
+      "fetched_at": 1787286204.5002067,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -178,7 +180,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1787282557.203042,
+      "fetched_at": 1787286205.516137,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -192,7 +194,7 @@
           "max_limit": 79.0,
           "available": 76.85,
           "payment_methods": [
-            "Skrill"
+            "Skrill (Moneybookers)"
           ],
           "adv_no": "12922996480948363264",
           "link": "https://c2c.binance.com/en/adv?code=12922996480948363264"
@@ -201,26 +203,23 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.729,
-          "merchant_name": "SAS_Emperor10",
-          "completion_rate": 0.979,
-          "order_count": 805,
-          "min_limit": 10.0,
-          "max_limit": 200.0,
-          "available": 465.54,
+          "price": 0.71,
+          "merchant_name": "BEST_CRYPTO_01",
+          "completion_rate": 0.989,
+          "order_count": 257,
+          "min_limit": 25.0,
+          "max_limit": 321.0,
+          "available": 452.0,
           "payment_methods": [
-            "Lloyds Bank",
-            "Faster Payments",
-            "Bank Transfer",
-            "Instant Transfer"
+            "Skrill (Moneybookers)"
           ],
-          "adv_no": "12905771697563680768",
-          "link": "https://c2c.binance.com/en/adv?code=12905771697563680768"
+          "adv_no": "12919450849468792832",
+          "link": "https://c2c.binance.com/en/adv?code=12919450849468792832"
         }
       }
     },
     "USD": {
-      "fetched_at": 1787285782.2716095,
+      "fetched_at": 1787286285.4148717,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
