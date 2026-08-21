@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787334886.6977482,
+      "fetched_at": 1787335123.536853,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1392.0,
-          "merchant_name": "GVO",
+          "merchant_name": "FAST_PAY_",
           "completion_rate": 0.99,
-          "order_count": 121,
-          "min_limit": 50000.0,
-          "max_limit": 158235.18,
-          "available": 113.6747,
+          "order_count": 13321,
+          "min_limit": 20000.0,
+          "max_limit": 1000000.0,
+          "available": 1300.0,
           "payment_methods": [],
-          "adv_no": "1947977455356420096",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787334885.7208316,
+      "fetched_at": 1787335122.3709147,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
