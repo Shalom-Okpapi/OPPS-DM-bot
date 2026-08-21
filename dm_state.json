@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787330673.324167,
+      "fetched_at": 1787330971.3642156,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.0,
-          "merchant_name": "PIO2917",
-          "completion_rate": 1.0,
-          "order_count": 79,
-          "min_limit": 4500.0,
+          "price": 1391.5,
+          "merchant_name": "Eagles and Ikpa",
+          "completion_rate": 0.98,
+          "order_count": 407,
+          "min_limit": 30000.0,
           "max_limit": 50000.0,
-          "available": 98.4366,
+          "available": 500.0,
           "payment_methods": [],
-          "adv_no": "2050453750949998592",
+          "adv_no": "2090819309360685056",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1410.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.95,
-          "order_count": 382,
+          "order_count": 367,
           "min_limit": 4500.0,
           "max_limit": 6910958.91,
           "available": 4901.3893,
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787330672.3054156,
+      "fetched_at": 1787330970.200843,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
