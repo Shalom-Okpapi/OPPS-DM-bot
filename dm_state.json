@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787439525.1178703,
+      "fetched_at": 1787440074.753947,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1388.7,
-          "merchant_name": "TOPMAN-EXCHANG1",
+          "price": 1388.8,
+          "merchant_name": "Icon01",
           "completion_rate": 0.99,
-          "order_count": 741,
-          "min_limit": 50000.0,
-          "max_limit": 90000.0,
-          "available": 168.5305,
+          "order_count": 2960,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 40.9747,
           "payment_methods": [],
-          "adv_no": "2091261671905357824",
+          "adv_no": "1959372684645154816",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -238,28 +238,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1787439526.769159,
+      "fetched_at": 1787440073.6666992,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.995,
-          "merchant_name": "DiegoSaa",
+          "price": 0.997,
+          "merchant_name": "Cryptoken-JA",
           "completion_rate": 1.0,
-          "order_count": 52,
-          "min_limit": 50.0,
-          "max_limit": 4990.0,
-          "available": 601.68,
+          "order_count": 56,
+          "min_limit": 15.0,
+          "max_limit": 1500.0,
+          "available": 503.5,
           "payment_methods": [
-            "Banco Pichincha",
-            "Banco de Loja",
-            "Banco Internacional",
-            "JEP",
-            "Banco del Austro"
+            "Banco del Austro",
+            "Produbanco"
           ],
-          "adv_no": "12918342396903882752",
-          "link": "https://c2c.binance.com/en/adv?code=12918342396903882752"
+          "adv_no": "12924609465628090368",
+          "link": "https://c2c.binance.com/en/adv?code=12924609465628090368"
         },
         "sell": {
           "platform": "Bybit",
