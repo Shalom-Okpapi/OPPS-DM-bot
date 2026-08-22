@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787384209.9218256,
+      "fetched_at": 1787384753.8050907,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1389.8,
-          "merchant_name": "PillowYutang",
-          "completion_rate": 1.0,
-          "order_count": 233,
-          "min_limit": 50000.0,
-          "max_limit": 694900.0,
-          "available": 500.0,
+          "price": 1389.0,
+          "merchant_name": "FAST_PAY_",
+          "completion_rate": 0.99,
+          "order_count": 13221,
+          "min_limit": 20000.0,
+          "max_limit": 1000000.0,
+          "available": 2710.3843,
           "payment_methods": [],
-          "adv_no": "2086703334968524800",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -213,7 +213,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787384210.7210395,
+      "fetched_at": 1787384754.8550787,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -222,7 +222,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1027,
+          "order_count": 990,
           "min_limit": 2.0,
           "max_limit": 16157.004,
           "available": 20196.2557,
