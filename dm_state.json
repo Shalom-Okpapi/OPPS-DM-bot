@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787378075.1637712,
+      "fetched_at": 1787378626.373739,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1390.5,
-          "merchant_name": "PillowYutang",
-          "completion_rate": 1.0,
-          "order_count": 227,
+          "price": 1390.2,
+          "merchant_name": "FUTURE_EXCHANGE",
+          "completion_rate": 0.96,
+          "order_count": 246,
           "min_limit": 50000.0,
-          "max_limit": 295250.14,
-          "available": 212.3338,
+          "max_limit": 1505800.41,
+          "available": 1083.1538,
           "payment_methods": [],
-          "adv_no": "2086703334968524800",
+          "adv_no": "2034179451765051392",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -213,7 +213,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787378074.3735926,
+      "fetched_at": 1787378624.973352,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -235,14 +235,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Noorah_trades",
+          "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 56,
-          "min_limit": 20.0,
-          "max_limit": 100000.0,
-          "available": 98606.973,
+          "order_count": 392,
+          "min_limit": 10.0,
+          "max_limit": 18528.374,
+          "available": 15440.3123,
           "payment_methods": [],
-          "adv_no": "2047913984541130752",
+          "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
