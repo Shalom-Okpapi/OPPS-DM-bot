@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787434826.667663,
+      "fetched_at": 1787435428.6763487,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1388.8,
-          "merchant_name": "Icon01",
-          "completion_rate": 0.99,
-          "order_count": 2950,
+          "price": 1387.0,
+          "merchant_name": "MEKSPAY",
+          "completion_rate": 0.98,
+          "order_count": 777,
           "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 245.6207,
+          "max_limit": 500000.0,
+          "available": 633.8402,
           "payment_methods": [],
-          "adv_no": "1959372684645154816",
+          "adv_no": "2091257413977792512",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787434827.9682496,
+      "fetched_at": 1787435427.5474827,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -251,7 +251,7 @@
           "order_count": 44,
           "min_limit": 50.0,
           "max_limit": 4990.0,
-          "available": 2680.82,
+          "available": 2731.24,
           "payment_methods": [
             "Banco Pichincha",
             "Banco de Loja",
@@ -269,10 +269,10 @@
           "price": 1.2,
           "merchant_name": "Speed_payment",
           "completion_rate": 1.0,
-          "order_count": 114,
+          "order_count": 115,
           "min_limit": 20.0,
-          "max_limit": 18231.599,
-          "available": 15192.9999,
+          "max_limit": 18281.599,
+          "available": 15234.6665,
           "payment_methods": [],
           "adv_no": "2022764591002497024",
           "link": "https://www.bybit.com/fiat/trade/otc"
