@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787464181.815879,
+      "fetched_at": 1787464474.9902055,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1389.0,
-          "merchant_name": "JALAL",
-          "completion_rate": 0.96,
-          "order_count": 246,
-          "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 65.7737,
+          "price": 1390.0,
+          "merchant_name": "OTT",
+          "completion_rate": 0.99,
+          "order_count": 4118,
+          "min_limit": 30000.0,
+          "max_limit": 99000.0,
+          "available": 608.6096,
           "payment_methods": [],
-          "adv_no": "2090638771227824128",
+          "adv_no": "2048291389755785216",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -215,7 +215,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787464180.3617914,
+      "fetched_at": 1787464476.1701596,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -242,7 +242,7 @@
           "order_count": 1462,
           "min_limit": 10.0,
           "max_limit": 50000.0,
-          "available": 99793.6825,
+          "available": 99693.6825,
           "payment_methods": [],
           "adv_no": "2034513518351233024",
           "link": "https://www.bybit.com/fiat/trade/otc"
