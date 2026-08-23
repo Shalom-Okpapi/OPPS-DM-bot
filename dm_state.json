@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787520590.2744622,
+      "fetched_at": 1787521140.6292338,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1390.5,
-          "merchant_name": "Faster@olason",
+          "price": 1390.0,
+          "merchant_name": "Meksglobal",
           "completion_rate": 0.97,
-          "order_count": 103,
+          "order_count": 437,
           "min_limit": 4500.0,
-          "max_limit": 86705.04,
-          "available": 62.3553,
+          "max_limit": 100000.0,
+          "available": 160.26,
           "payment_methods": [],
-          "adv_no": "2015303588283719680",
+          "adv_no": "2091613382658863104",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787520589.1564922,
+      "fetched_at": 1787521138.9373198,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -250,10 +250,10 @@
           "price": 0.997,
           "merchant_name": "UsdtjotaG",
           "completion_rate": 1.0,
-          "order_count": 1112,
+          "order_count": 1113,
           "min_limit": 40.0,
           "max_limit": 240.0,
-          "available": 666.39,
+          "available": 766.82,
           "payment_methods": [
             "Banco Pichincha",
             "Banco Guayaquil"
