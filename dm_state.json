@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787448576.3912523,
+      "fetched_at": 1787448876.8164473,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1389.99,
-          "merchant_name": "GracelandFx",
-          "completion_rate": 0.97,
-          "order_count": 93,
-          "min_limit": 10000.0,
-          "max_limit": 139484.66,
-          "available": 100.3494,
+          "price": 1390.0,
+          "merchant_name": "OTT",
+          "completion_rate": 0.99,
+          "order_count": 4117,
+          "min_limit": 30000.0,
+          "max_limit": 99000.0,
+          "available": 658.9693,
           "payment_methods": [],
-          "adv_no": "2024508330980057088",
+          "adv_no": "2048291389755785216",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -218,7 +218,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787448574.9119737,
+      "fetched_at": 1787448875.61253,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -242,7 +242,7 @@
           "price": 1.2,
           "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 630,
+          "order_count": 636,
           "min_limit": 10.0,
           "max_limit": 100000.0,
           "available": 99988.0,
