@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787497672.7778814,
+      "fetched_at": 1787498224.8128774,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1390.15,
-          "merchant_name": "Suremaxtrade",
-          "completion_rate": 1.0,
-          "order_count": 2615,
-          "min_limit": 7000.0,
-          "max_limit": 985000.0,
-          "available": 2904.1467,
+          "price": 1390.25,
+          "merchant_name": "BitcoinMaster..",
+          "completion_rate": 0.99,
+          "order_count": 1163,
+          "min_limit": 20000.0,
+          "max_limit": 100000.0,
+          "available": 464.3426,
           "payment_methods": [],
-          "adv_no": "1767298644582563840",
+          "adv_no": "2077038206362677248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787497671.9543805,
+      "fetched_at": 1787498225.730636,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,8 +243,8 @@
           "completion_rate": 1.0,
           "order_count": 140,
           "min_limit": 50.0,
-          "max_limit": 930.0,
-          "available": 1162.5,
+          "max_limit": 880.0,
+          "available": 1100.0,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
