@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787523317.4844646,
+      "fetched_at": 1787523821.1448824,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1391.0,
           "merchant_name": "Meksglobal",
           "completion_rate": 0.97,
-          "order_count": 468,
+          "order_count": 475,
           "min_limit": 4500.0,
           "max_limit": 100000.0,
-          "available": 4058.6748,
+          "available": 3687.1653,
           "payment_methods": [],
           "adv_no": "2091613382658863104",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -240,25 +240,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1787523316.797167,
+      "fetched_at": 1787523820.0152607,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.997,
-          "merchant_name": "UsdtjotaG",
+          "price": 0.999,
+          "merchant_name": "Finanzas-BV593",
           "completion_rate": 1.0,
-          "order_count": 1121,
-          "min_limit": 40.0,
-          "max_limit": 240.0,
-          "available": 374.75,
+          "order_count": 1328,
+          "min_limit": 50.0,
+          "max_limit": 2000.0,
+          "available": 1710.77,
           "payment_methods": [
-            "Banco Pichincha",
-            "Banco Guayaquil"
+            "Banco Pichincha"
           ],
-          "adv_no": "12893126771650355200",
-          "link": "https://c2c.binance.com/en/adv?code=12893126771650355200"
+          "adv_no": "12847103078364815360",
+          "link": "https://c2c.binance.com/en/adv?code=12847103078364815360"
         },
         "sell": {
           "platform": "Bybit",
