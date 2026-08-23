@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787525030.416729,
+      "fetched_at": 1787525581.6808453,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1391.0,
           "merchant_name": "Ems Global ",
           "completion_rate": 1.0,
-          "order_count": 263,
+          "order_count": 280,
           "min_limit": 50000.0,
-          "max_limit": 2177264.28,
-          "available": 1565.2511,
+          "max_limit": 229264.89,
+          "available": 164.8202,
           "payment_methods": [],
           "adv_no": "1979121959575638016",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -71,7 +71,7 @@
           "price": 1410.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.96,
-          "order_count": 399,
+          "order_count": 383,
           "min_limit": 4500.0,
           "max_limit": 6910958.91,
           "available": 4901.3893,
@@ -240,21 +240,21 @@
       }
     },
     "USD": {
-      "fetched_at": 1787525028.9793975,
+      "fetched_at": 1787525580.887594,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.996,
-          "merchant_name": "SBFast-payment",
+          "price": 0.8,
+          "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 641,
-          "min_limit": 30.0,
-          "max_limit": 1182.161,
-          "available": 1186.9095,
+          "order_count": 993,
+          "min_limit": 2.0,
+          "max_limit": 16103.004,
+          "available": 20128.7557,
           "payment_methods": [],
-          "adv_no": "2080333328311201792",
+          "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -262,14 +262,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Aliyous",
+          "merchant_name": "Kartoshka",
           "completion_rate": 1.0,
-          "order_count": 401,
-          "min_limit": 10.0,
-          "max_limit": 18199.707,
-          "available": 15166.4228,
+          "order_count": 237,
+          "min_limit": 40.0,
+          "max_limit": 3500.0,
+          "available": 32448.5877,
           "payment_methods": [],
-          "adv_no": "1969417928054837248",
+          "adv_no": "2020583953124225024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
