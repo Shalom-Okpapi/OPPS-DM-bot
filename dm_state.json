@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787446732.4021814,
+      "fetched_at": 1787447078.332333,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1388.0,
-          "merchant_name": "Meksglobal",
-          "completion_rate": 0.96,
-          "order_count": 316,
+          "price": 1389.0,
+          "merchant_name": "DON-BABA",
+          "completion_rate": 0.99,
+          "order_count": 558,
           "min_limit": 4500.0,
-          "max_limit": 100000.0,
-          "available": 4127.2939,
+          "max_limit": 457600.49,
+          "available": 329.446,
           "payment_methods": [],
-          "adv_no": "2091313033324670976",
+          "adv_no": "1908403293708460032",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -218,7 +218,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787446733.5749514,
+      "fetched_at": 1787447077.219219,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -240,14 +240,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Aliyous",
+          "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 392,
+          "order_count": 630,
           "min_limit": 10.0,
-          "max_limit": 18235.741,
-          "available": 15196.4515,
+          "max_limit": 100000.0,
+          "available": 99988.0,
           "payment_methods": [],
-          "adv_no": "1969417928054837248",
+          "adv_no": "2083213882945777664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
