@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787451711.3251443,
+      "fetched_at": 1787452207.590655,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1388.0,
-          "merchant_name": "Meksglobal",
-          "completion_rate": 0.96,
-          "order_count": 332,
+          "price": 1389.4,
+          "merchant_name": "ROBOT_PAY",
+          "completion_rate": 0.99,
+          "order_count": 1440,
           "min_limit": 4500.0,
-          "max_limit": 69400.0,
-          "available": 50.0,
+          "max_limit": 95889.3,
+          "available": 69.0149,
           "payment_methods": [],
-          "adv_no": "2091313033324670976",
+          "adv_no": "2090689305233567744",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -218,7 +218,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787451712.4320655,
+      "fetched_at": 1787452206.4542735,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
