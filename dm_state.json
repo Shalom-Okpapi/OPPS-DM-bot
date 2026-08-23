@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787522241.5134845,
+      "fetched_at": 1787522771.40154,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.9,
-          "merchant_name": "fastech",
-          "completion_rate": 1.0,
-          "order_count": 349,
+          "price": 1391.0,
+          "merchant_name": "Meksglobal",
+          "completion_rate": 0.97,
+          "order_count": 454,
           "min_limit": 4500.0,
-          "max_limit": 300000.0,
-          "available": 498.0616,
+          "max_limit": 100000.0,
+          "available": 4979.9659,
           "payment_methods": [],
-          "adv_no": "2047198426806263808",
+          "adv_no": "2091613382658863104",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787522240.3500998,
+      "fetched_at": 1787522770.4458668,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -249,10 +249,10 @@
           "price": 0.997,
           "merchant_name": "UsdtjotaG",
           "completion_rate": 1.0,
-          "order_count": 1114,
+          "order_count": 1118,
           "min_limit": 40.0,
           "max_limit": 240.0,
-          "available": 740.19,
+          "available": 555.51,
           "payment_methods": [
             "Banco Pichincha",
             "Banco Guayaquil"
@@ -265,14 +265,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Speed_payment",
+          "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 118,
-          "min_limit": 20.0,
-          "max_limit": 18281.599,
-          "available": 15234.6665,
+          "order_count": 383,
+          "min_limit": 10.0,
+          "max_limit": 18199.707,
+          "available": 15166.4228,
           "payment_methods": [],
-          "adv_no": "2022764591002497024",
+          "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
