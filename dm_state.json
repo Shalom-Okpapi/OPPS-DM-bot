@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787521140.6292338,
+      "fetched_at": 1787521684.8355355,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1390.0,
-          "merchant_name": "Meksglobal",
-          "completion_rate": 0.97,
-          "order_count": 437,
-          "min_limit": 4500.0,
+          "price": 1391.3,
+          "merchant_name": "MARV_PAYS",
+          "completion_rate": 0.99,
+          "order_count": 39081,
+          "min_limit": 5000.0,
           "max_limit": 100000.0,
-          "available": 160.26,
+          "available": 193.1797,
           "payment_methods": [],
-          "adv_no": "2091613382658863104",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1410.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.96,
-          "order_count": 381,
+          "order_count": 397,
           "min_limit": 4500.0,
           "max_limit": 6910958.91,
           "available": 4901.3893,
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787521138.9373198,
+      "fetched_at": 1787521686.0077574,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -253,7 +253,7 @@
           "order_count": 1113,
           "min_limit": 40.0,
           "max_limit": 240.0,
-          "available": 766.82,
+          "available": 969.12,
           "payment_methods": [
             "Banco Pichincha",
             "Banco Guayaquil"
