@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787535279.0551085,
+      "fetched_at": 1787535550.1266434,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.89,
-          "merchant_name": "Oscarxchange1",
+          "price": 1392.0,
+          "merchant_name": "Meliss4",
           "completion_rate": 1.0,
-          "order_count": 944,
-          "min_limit": 30000.0,
-          "max_limit": 57300.29,
-          "available": 41.1377,
+          "order_count": 25,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 1000.0,
           "payment_methods": [],
-          "adv_no": "2074386830791233536",
+          "adv_no": "2091700753376194560",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -217,7 +217,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787535277.9822402,
+      "fetched_at": 1787535550.9342875,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -241,7 +241,7 @@
           "price": 1.2,
           "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 673,
+          "order_count": 669,
           "min_limit": 10.0,
           "max_limit": 100000.0,
           "available": 99918.0,
@@ -254,7 +254,11 @@
   },
   "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
-  "last_admin_notify_failure": null,
+  "last_admin_notify_failure": {
+    "at": 1787535397.781533,
+    "target": "5503157793",
+    "reason": "network/request error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)"
+  },
   "market_cache": {
     "BTC": {
       "fetched_at": 1785305961.2624185,
