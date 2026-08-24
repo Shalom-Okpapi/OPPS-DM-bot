@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787614869.3235166,
+      "fetched_at": 1787615350.0408826,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1392.0,
-          "merchant_name": "Abrizzy",
-          "completion_rate": 0.99,
-          "order_count": 2545,
-          "min_limit": 20000.0,
-          "max_limit": 50000.0,
-          "available": 100.0,
+          "price": 1391.65,
+          "merchant_name": "BIG_KAMS_XCHNGE",
+          "completion_rate": 1.0,
+          "order_count": 695,
+          "min_limit": 10000.0,
+          "max_limit": 10015990.33,
+          "available": 7197.205,
           "payment_methods": [],
-          "adv_no": "2091846806935801856",
+          "adv_no": "2079333309152505856",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1787611282.8960433,
+      "fetched_at": 1787615194.8736765,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,10 +91,10 @@
           "price": 0.858,
           "merchant_name": "alvik",
           "completion_rate": 1.0,
-          "order_count": 10079,
+          "order_count": 10082,
           "min_limit": 50.0,
           "max_limit": 300.0,
-          "available": 41676.4131,
+          "available": 41444.4784,
           "payment_methods": [],
           "adv_no": "2038225274208436224",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1787611279.5552242,
+      "fetched_at": 1787615191.6457646,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -126,7 +126,7 @@
           "price": 168.0,
           "merchant_name": "WUN-USDT-STORE",
           "completion_rate": 1.0,
-          "order_count": 125,
+          "order_count": 123,
           "min_limit": 3000.0,
           "max_limit": 224241.78,
           "available": 1334.7725,
@@ -138,23 +138,23 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 153.55,
+          "price": 159.15,
           "merchant_name": "PK_CRYPTO_PRO2026",
           "completion_rate": 0.987,
-          "order_count": 221,
+          "order_count": 222,
           "min_limit": 500.0,
           "max_limit": 100000.0,
-          "available": 679.58,
+          "available": 214.68,
           "payment_methods": [
             "PayPay Money"
           ],
-          "adv_no": "12822939400706605056",
-          "link": "https://c2c.binance.com/en/adv?code=12822939400706605056"
+          "adv_no": "12835504579111698432",
+          "link": "https://c2c.binance.com/en/adv?code=12835504579111698432"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1787611280.560827,
+      "fetched_at": 1787615192.7548237,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -195,7 +195,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1787611281.8450675,
+      "fetched_at": 1787615193.7224956,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787614870.520436,
+      "fetched_at": 1787615351.2166286,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
