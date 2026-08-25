@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787698584.4933784,
+      "fetched_at": 1787699133.6929958,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -58,8 +58,8 @@
           "completion_rate": 0.99,
           "order_count": 13746,
           "min_limit": 20000.0,
-          "max_limit": 213285.44,
-          "available": 153.8856,
+          "max_limit": 320505.43,
+          "available": 231.2449,
           "payment_methods": [],
           "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -231,24 +231,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1787698583.7126904,
+      "fetched_at": 1787699134.8585815,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.996,
-          "merchant_name": "Finanzas-BV593",
-          "completion_rate": 1.0,
-          "order_count": 1250,
-          "min_limit": 50.0,
-          "max_limit": 2000.0,
-          "available": 4658.02,
-          "payment_methods": [
-            "Banco Pichincha"
-          ],
-          "adv_no": "12847103078364815360",
-          "link": "https://c2c.binance.com/en/adv?code=12847103078364815360"
+          "price": 0.8,
+          "merchant_name": "JackyChee",
+          "completion_rate": 0.99,
+          "order_count": 995,
+          "min_limit": 2.0,
+          "max_limit": 10000.0,
+          "available": 45195.3565,
+          "payment_methods": [],
+          "adv_no": "2080967302742315008",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
