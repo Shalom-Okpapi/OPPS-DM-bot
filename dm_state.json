@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787681322.6903417,
+      "fetched_at": 1787681624.693556,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1385.9,
-          "merchant_name": "MARV_PAYS",
-          "completion_rate": 0.99,
-          "order_count": 38815,
-          "min_limit": 5000.0,
-          "max_limit": 100000.0,
-          "available": 665.9273,
+          "price": 1385.7,
+          "merchant_name": "PFUNZ",
+          "completion_rate": 0.97,
+          "order_count": 36,
+          "min_limit": 50000.0,
+          "max_limit": 54134.03,
+          "available": 39.0662,
           "payment_methods": [],
-          "adv_no": "1767833474110619648",
+          "adv_no": "2091893069834022912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787681321.4208124,
+      "fetched_at": 1787681625.846696,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,7 +256,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 387,
+          "order_count": 406,
           "min_limit": 10.0,
           "max_limit": 17883.039,
           "available": 14902.5333,
