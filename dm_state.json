@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787695586.745633,
+      "fetched_at": 1787696139.2830935,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1385.0,
-          "merchant_name": "ONYX4EVER",
+          "price": 1386.0,
+          "merchant_name": "Mhizstah_Store",
           "completion_rate": 0.99,
-          "order_count": 2120,
-          "min_limit": 4500.0,
-          "max_limit": 171802.18,
-          "available": 124.0449,
+          "order_count": 16186,
+          "min_limit": 5000.0,
+          "max_limit": 175000.0,
+          "available": 226.9452,
           "payment_methods": [],
-          "adv_no": "2022252193348513792",
+          "adv_no": "2049807479541198848",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,22 +235,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1787695585.8437183,
+      "fetched_at": 1787696140.5026166,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.985,
-          "merchant_name": "an.noor104",
-          "completion_rate": 0.99,
-          "order_count": 303,
-          "min_limit": 20.0,
-          "max_limit": 1149.594,
-          "available": 1167.101,
-          "payment_methods": [],
-          "adv_no": "2079526113396768768",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.996,
+          "merchant_name": "Finanzas-BV593",
+          "completion_rate": 1.0,
+          "order_count": 1244,
+          "min_limit": 50.0,
+          "max_limit": 2000.0,
+          "available": 5186.12,
+          "payment_methods": [
+            "Banco Pichincha"
+          ],
+          "adv_no": "12847103078364815360",
+          "link": "https://c2c.binance.com/en/adv?code=12847103078364815360"
         },
         "sell": {
           "platform": "Bybit",
