@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787639372.7972121,
+      "fetched_at": 1787639679.9536386,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1390.0,
-          "merchant_name": "\ud835\udc05\ud835\udc00\ud835\udc03\ud835\udc00 \ud835\udc04\ud835\udc17",
-          "completion_rate": 0.97,
-          "order_count": 271,
-          "min_limit": 50000.0,
-          "max_limit": 74644.39,
-          "available": 53.701,
+          "price": 1391.0,
+          "merchant_name": "Bboller",
+          "completion_rate": 0.99,
+          "order_count": 1055,
+          "min_limit": 10000.0,
+          "max_limit": 67577.14,
+          "available": 48.5817,
           "payment_methods": [],
-          "adv_no": "2088023265561985024",
+          "adv_no": "2059437848328732672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -215,7 +215,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787639373.6411617,
+      "fetched_at": 1787639680.8088472,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -227,7 +227,7 @@
           "order_count": 1012,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 42246.9699,
+          "available": 42244.0699,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
