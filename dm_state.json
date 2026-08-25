@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787650519.4404323,
+      "fetched_at": 1787651119.7630517,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1390.0,
-          "merchant_name": "VCOOL",
-          "completion_rate": 1.0,
-          "order_count": 50,
-          "min_limit": 40000.0,
-          "max_limit": 50000.0,
-          "available": 148.0588,
+          "price": 1390.5,
+          "merchant_name": "ROBOT_PAY",
+          "completion_rate": 0.99,
+          "order_count": 1517,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 1855.6914,
           "payment_methods": [],
-          "adv_no": "2091963346478051328",
+          "adv_no": "2091776255732768768",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787650520.2076576,
+      "fetched_at": 1787651120.885196,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -241,8 +241,8 @@
           "completion_rate": 1.0,
           "order_count": 143,
           "min_limit": 50.0,
-          "max_limit": 880.0,
-          "available": 1100.0,
+          "max_limit": 930.0,
+          "available": 1162.5,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
