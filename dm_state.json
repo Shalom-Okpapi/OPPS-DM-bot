@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787727903.508383,
+      "fetched_at": 1787728424.7388756,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -59,7 +59,7 @@
           "order_count": 71,
           "min_limit": 50000.0,
           "max_limit": 60000.0,
-          "available": 909.9615,
+          "available": 873.8631,
           "payment_methods": [],
           "adv_no": "2081357797632847872",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -152,9 +152,26 @@
       }
     },
     "CHF": {
-      "fetched_at": 1787727904.2613108,
+      "fetched_at": 1787728346.4279363,
       "snapshot": {
-        "buy": null,
+        "buy": {
+          "platform": "Binance",
+          "trade_type": "BUY",
+          "fiat": "CHF",
+          "price": 0.874,
+          "merchant_name": "Aura_Change",
+          "completion_rate": 1.0,
+          "order_count": 35,
+          "min_limit": 50.0,
+          "max_limit": 1050.0,
+          "available": 288.25,
+          "payment_methods": [
+            "Twint",
+            "Bank Transfer"
+          ],
+          "adv_no": "12915872893755219968",
+          "link": "https://c2c.binance.com/en/adv?code=12915872893755219968"
+        },
         "sell": null
       }
     },
@@ -194,7 +211,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787727902.4458573,
+      "fetched_at": 1787728423.619767,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -203,7 +220,7 @@
           "price": 0.8,
           "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 140,
+          "order_count": 142,
           "min_limit": 50.0,
           "max_limit": 930.0,
           "available": 1162.5,
@@ -216,14 +233,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Zoloto",
+          "merchant_name": "Kartoshka",
           "completion_rate": 1.0,
-          "order_count": 560,
-          "min_limit": 50.0,
-          "max_limit": 3200.0,
-          "available": 55854.7441,
+          "order_count": 247,
+          "min_limit": 40.0,
+          "max_limit": 3500.0,
+          "available": 32298.5877,
           "payment_methods": [],
-          "adv_no": "2033544081232252928",
+          "adv_no": "2020583953124225024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
