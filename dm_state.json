@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787731429.1712909,
+      "fetched_at": 1787732018.7433748,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -152,27 +152,29 @@
       }
     },
     "CHF": {
-      "fetched_at": 1787728346.4279363,
+      "fetched_at": 1787732019.4401906,
       "snapshot": {
-        "buy": {
+        "buy": null,
+        "sell": {
           "platform": "Binance",
-          "trade_type": "BUY",
+          "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.874,
-          "merchant_name": "Aura_Change",
-          "completion_rate": 1.0,
-          "order_count": 35,
+          "price": 0.76,
+          "merchant_name": "07_Exchange",
+          "completion_rate": 0.991,
+          "order_count": 1377,
           "min_limit": 50.0,
-          "max_limit": 1050.0,
-          "available": 288.25,
+          "max_limit": 100000.0,
+          "available": 1989434.66,
           "payment_methods": [
             "Twint",
-            "Bank Transfer"
+            "Instant Transfer",
+            "Bank Transfer",
+            "Cash Deposit to Bank"
           ],
-          "adv_no": "12915872893755219968",
-          "link": "https://c2c.binance.com/en/adv?code=12915872893755219968"
-        },
-        "sell": null
+          "adv_no": "12918342128406675456",
+          "link": "https://c2c.binance.com/en/adv?code=12918342128406675456"
+        }
       }
     },
     "GBP": {
@@ -211,7 +213,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787731428.1174705,
+      "fetched_at": 1787732017.6877015,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
