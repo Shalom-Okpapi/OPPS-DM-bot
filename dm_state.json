@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787818182.207328,
+      "fetched_at": 1787818476.0988793,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1384.4,
-          "merchant_name": "bintus",
-          "completion_rate": 0.98,
-          "order_count": 63,
-          "min_limit": 6000.0,
-          "max_limit": 60254.9,
-          "available": 43.5242,
+          "price": 1384.48,
+          "merchant_name": "MARV_PAYS",
+          "completion_rate": 0.99,
+          "order_count": 37879,
+          "min_limit": 5000.0,
+          "max_limit": 100000.0,
+          "available": 711.8993,
           "payment_methods": [],
-          "adv_no": "2092232960978071552",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -215,7 +215,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787818183.3197143,
+      "fetched_at": 1787818475.346397,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -224,10 +224,10 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1003,
+          "order_count": 1026,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 36726.1072,
+          "available": 36717.9854,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
