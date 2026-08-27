@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787819019.6463032,
+      "fetched_at": 1787819379.9382832,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -59,7 +59,7 @@
           "order_count": 76,
           "min_limit": 50000.0,
           "max_limit": 60000.0,
-          "available": 801.609,
+          "available": 685.9921,
           "payment_methods": [],
           "adv_no": "2081357797632847872",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -154,28 +154,48 @@
       }
     },
     "CHF": {
-      "fetched_at": 1787815543.0665588,
+      "fetched_at": 1787819144.9690406,
       "snapshot": {
-        "buy": null,
+        "buy": {
+          "platform": "Binance",
+          "trade_type": "BUY",
+          "fiat": "CHF",
+          "price": 0.925,
+          "merchant_name": "Best_Twint_Exchange",
+          "completion_rate": 0.993,
+          "order_count": 127,
+          "min_limit": 50.0,
+          "max_limit": 3000.0,
+          "available": 1996.62,
+          "payment_methods": [
+            "Instant Transfer",
+            "Bank Transfer",
+            "Cash Deposit to Bank",
+            "Twint"
+          ],
+          "adv_no": "13894664478762012672",
+          "link": "https://c2c.binance.com/en/adv?code=13894664478762012672"
+        },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.76,
-          "merchant_name": "07_Exchange",
-          "completion_rate": 0.99,
-          "order_count": 1373,
+          "price": 0.773,
+          "merchant_name": "Best_Twint_Exchange",
+          "completion_rate": 0.993,
+          "order_count": 127,
           "min_limit": 50.0,
           "max_limit": 100000.0,
-          "available": 1989434.66,
+          "available": 1941315.4,
           "payment_methods": [
             "Twint",
             "Instant Transfer",
             "Bank Transfer",
-            "Cash Deposit to Bank"
+            "Cash Deposit to Bank",
+            "ZEN"
           ],
-          "adv_no": "12918342128406675456",
-          "link": "https://c2c.binance.com/en/adv?code=12918342128406675456"
+          "adv_no": "12883507269642735616",
+          "link": "https://c2c.binance.com/en/adv?code=12883507269642735616"
         }
       }
     },
@@ -217,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787819020.4582472,
+      "fetched_at": 1787819381.4937184,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
