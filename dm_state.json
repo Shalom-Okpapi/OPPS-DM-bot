@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787867974.5214133,
+      "fetched_at": 1787868281.986271,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1385.0,
-          "merchant_name": "QUICK@RESPOND",
-          "completion_rate": 0.98,
-          "order_count": 198,
-          "min_limit": 20000.0,
-          "max_limit": 69908.98,
-          "available": 50.4758,
+          "price": 1385.5,
+          "merchant_name": "Eyesheart",
+          "completion_rate": 1.0,
+          "order_count": 106,
+          "min_limit": 50000.0,
+          "max_limit": 178526.52,
+          "available": 128.8535,
           "payment_methods": [],
-          "adv_no": "2092737907081457664",
+          "adv_no": "1895411500275671040",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,22 +235,26 @@
       }
     },
     "USD": {
-      "fetched_at": 1787867975.5733025,
+      "fetched_at": 1787868283.143242,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.989,
-          "merchant_name": "Adi_Melo",
-          "completion_rate": 0.98,
-          "order_count": 84,
-          "min_limit": 50.0,
-          "max_limit": 2327.333,
-          "available": 2353.2192,
-          "payment_methods": [],
-          "adv_no": "2090680485737279488",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.994,
+          "merchant_name": "VentasDigitales",
+          "completion_rate": 1.0,
+          "order_count": 32,
+          "min_limit": 10.0,
+          "max_limit": 150.0,
+          "available": 110.16,
+          "payment_methods": [
+            "Banco Pichincha",
+            "Banco Guayaquil",
+            "Banco Bolivariano"
+          ],
+          "adv_no": "12916539964670894080",
+          "link": "https://c2c.binance.com/en/adv?code=12916539964670894080"
         },
         "sell": {
           "platform": "Bybit",
