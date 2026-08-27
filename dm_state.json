@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787813624.0982926,
+      "fetched_at": 1787813923.913934,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1384.0,
-          "merchant_name": "@NASIR-EXG",
-          "completion_rate": 0.95,
-          "order_count": 633,
-          "min_limit": 4500.0,
-          "max_limit": 126036.72,
-          "available": 91.067,
+          "price": 1385.0,
+          "merchant_name": "ISERH_PAY",
+          "completion_rate": 0.97,
+          "order_count": 48,
+          "min_limit": 20000.0,
+          "max_limit": 50000.0,
+          "available": 145.526,
           "payment_methods": [],
-          "adv_no": "2090521209053405184",
+          "adv_no": "2092578869324214272",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -154,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1787813626.9673593,
+      "fetched_at": 1787813926.9538236,
       "snapshot": {
         "buy": null,
         "sell": null
@@ -196,7 +196,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787813625.75908,
+      "fetched_at": 1787813925.8120775,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -208,7 +208,7 @@
           "order_count": 1002,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 36699.0093,
+          "available": 36726.1072,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
