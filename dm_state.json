@@ -47,18 +47,18 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787844522.029008,
+      "fetched_at": 1787845007.980831,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1385.0,
+          "price": 1383.0,
           "merchant_name": "MYKEDEE TRADE",
           "completion_rate": 0.97,
           "order_count": 34,
           "min_limit": 50000.0,
-          "max_limit": 62318.9,
+          "max_limit": 62228.91,
           "available": 44.9956,
           "payment_methods": [],
           "adv_no": "2092997219686572032",
@@ -156,26 +156,26 @@
       }
     },
     "CHF": {
-      "fetched_at": 1787840927.3132777,
+      "fetched_at": 1787844848.820729,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.888,
-          "merchant_name": "PRO_Twint_Exchange",
-          "completion_rate": 0.953,
-          "order_count": 20,
-          "min_limit": 10.0,
-          "max_limit": 1000.0,
-          "available": 1219.21,
+          "price": 0.868,
+          "merchant_name": "AS_Exchange_",
+          "completion_rate": 0.954,
+          "order_count": 824,
+          "min_limit": 50.0,
+          "max_limit": 10000.0,
+          "available": 1534.85,
           "payment_methods": [
-            "Twint",
+            "Bank Transfer",
             "Instant Transfer",
-            "Bank Transfer"
+            "Twint"
           ],
-          "adv_no": "12925722465774919680",
-          "link": "https://c2c.binance.com/en/adv?code=12925722465774919680"
+          "adv_no": "13923163049833758720",
+          "link": "https://c2c.binance.com/en/adv?code=13923163049833758720"
         },
         "sell": {
           "platform": "Binance",
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787844520.2560344,
+      "fetched_at": 1787845006.294456,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
