@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787855377.0112891,
+      "fetched_at": 1787855678.8121233,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1386.5,
-          "merchant_name": "Bboller",
-          "completion_rate": 0.99,
-          "order_count": 1057,
-          "min_limit": 40000.0,
-          "max_limit": 100377.88,
-          "available": 72.3966,
+          "price": 1385.0,
+          "merchant_name": "adamsygraphics",
+          "completion_rate": 1.0,
+          "order_count": 743,
+          "min_limit": 50000.0,
+          "max_limit": 200000.0,
+          "available": 168.929,
           "payment_methods": [],
-          "adv_no": "2059437848328732672",
+          "adv_no": "1942296185320587264",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,19 +82,19 @@
       }
     },
     "EUR": {
-      "fetched_at": 1787851871.7208798,
+      "fetched_at": 1787855522.5775476,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
-          "price": 0.858,
+          "price": 0.859,
           "merchant_name": "FarezaExchanger",
           "completion_rate": 1.0,
-          "order_count": 123,
+          "order_count": 134,
           "min_limit": 2.0,
           "max_limit": 100.0,
-          "available": 12065.5174,
+          "available": 9884.4989,
           "payment_methods": [],
           "adv_no": "1863240309882531840",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -103,55 +103,53 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.029,
-          "merchant_name": "Soak",
-          "completion_rate": 1.0,
+          "price": 1.03,
+          "merchant_name": "Nathooo",
+          "completion_rate": 0.95,
           "order_count": 20,
           "min_limit": 20.0,
-          "max_limit": 50.0,
+          "max_limit": 20600.0,
           "available": 20000.0,
           "payment_methods": [],
-          "adv_no": "2092916359733993472",
+          "adv_no": "2092189388714258432",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "JPY": {
-      "fetched_at": 1787851869.821157,
+      "fetched_at": 1787855520.4506667,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 189.0,
-          "merchant_name": "Takara68",
-          "completion_rate": 0.979,
-          "order_count": 767,
+          "price": 189.4,
+          "merchant_name": "Asia\u91d1",
+          "completion_rate": 1.0,
+          "order_count": 34,
           "min_limit": 5000.0,
-          "max_limit": 45000.0,
-          "available": 1031.19,
-          "payment_methods": [
-            "PayPay Money"
-          ],
-          "adv_no": "12920694222554882048",
-          "link": "https://c2c.binance.com/en/adv?code=12920694222554882048"
+          "max_limit": 50000.0,
+          "available": 400.0,
+          "payment_methods": [],
+          "adv_no": "2090100383384793088",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 174.02,
-          "merchant_name": "Dracula_99",
-          "completion_rate": 0.968,
-          "order_count": 89,
+          "price": 155.55,
+          "merchant_name": "PK_CRYPTO_PRO2026",
+          "completion_rate": 0.987,
+          "order_count": 217,
           "min_limit": 5000.0,
           "max_limit": 100000.0,
-          "available": 16963.51,
+          "available": 650.0,
           "payment_methods": [
             "PayPay Money"
           ],
-          "adv_no": "12905810156590796800",
-          "link": "https://c2c.binance.com/en/adv?code=12905810156590796800"
+          "adv_no": "12822939400706605056",
+          "link": "https://c2c.binance.com/en/adv?code=12822939400706605056"
         }
       }
     },
@@ -201,7 +199,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1787851870.8605218,
+      "fetched_at": 1787855521.2802565,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -210,7 +208,7 @@
           "price": 0.77,
           "merchant_name": "AirTracer",
           "completion_rate": 0.97,
-          "order_count": 276,
+          "order_count": 277,
           "min_limit": 10.0,
           "max_limit": 539.0,
           "available": 700.0,
@@ -236,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787855378.0052958,
+      "fetched_at": 1787855680.0527039,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
