@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787815430.1887097,
+      "fetched_at": 1787815780.7585278,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1385.47,
-          "merchant_name": "BIG_KAMS_XCHNGE",
-          "completion_rate": 1.0,
-          "order_count": 811,
-          "min_limit": 10000.0,
-          "max_limit": 7508421.24,
-          "available": 5419.4037,
+          "price": 1385.0,
+          "merchant_name": "FAST_PAY_",
+          "completion_rate": 0.99,
+          "order_count": 13653,
+          "min_limit": 20000.0,
+          "max_limit": 1000000.0,
+          "available": 825.8105,
           "payment_methods": [],
-          "adv_no": "2079333309152505856",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -154,10 +154,29 @@
       }
     },
     "CHF": {
-      "fetched_at": 1787815430.9134681,
+      "fetched_at": 1787815543.0665588,
       "snapshot": {
         "buy": null,
-        "sell": null
+        "sell": {
+          "platform": "Binance",
+          "trade_type": "SELL",
+          "fiat": "CHF",
+          "price": 0.76,
+          "merchant_name": "07_Exchange",
+          "completion_rate": 0.99,
+          "order_count": 1373,
+          "min_limit": 50.0,
+          "max_limit": 100000.0,
+          "available": 1989434.66,
+          "payment_methods": [
+            "Twint",
+            "Instant Transfer",
+            "Bank Transfer",
+            "Cash Deposit to Bank"
+          ],
+          "adv_no": "12918342128406675456",
+          "link": "https://c2c.binance.com/en/adv?code=12918342128406675456"
+        }
       }
     },
     "GBP": {
@@ -196,7 +215,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787815429.4766946,
+      "fetched_at": 1787815779.5438843,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
