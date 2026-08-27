@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787871824.38351,
+      "fetched_at": 1787872172.6997843,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1386.0,
-          "merchant_name": "Meliss4",
+          "price": 1387.0,
+          "merchant_name": "FAST_PAY_",
           "completion_rate": 0.99,
-          "order_count": 202,
-          "min_limit": 4500.0,
-          "max_limit": 500000.0,
-          "available": 373.1169,
+          "order_count": 14017,
+          "min_limit": 20000.0,
+          "max_limit": 1000000.0,
+          "available": 1606.6141,
           "payment_methods": [],
-          "adv_no": "2093062793003905024",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,28 +236,26 @@
       }
     },
     "USD": {
-      "fetched_at": 1787871825.1833024,
+      "fetched_at": 1787872171.8961163,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.997,
-          "merchant_name": "Arigonza15",
+          "price": 0.996,
+          "merchant_name": "UsdtjotaG",
           "completion_rate": 1.0,
-          "order_count": 209,
-          "min_limit": 50.0,
-          "max_limit": 4000.0,
-          "available": 6026.07,
+          "order_count": 1114,
+          "min_limit": 40.0,
+          "max_limit": 240.0,
+          "available": 1284.19,
           "payment_methods": [
-            "Banco del pacifico",
-            "Banco Pichincha",
             "Banco Guayaquil",
-            "Banco Bolivariano",
-            "Banco del Austro"
+            "Produbanco",
+            "Banco Pichincha"
           ],
-          "adv_no": "12924510311375630336",
-          "link": "https://c2c.binance.com/en/adv?code=12924510311375630336"
+          "adv_no": "12893126771650355200",
+          "link": "https://c2c.binance.com/en/adv?code=12893126771650355200"
         },
         "sell": {
           "platform": "Bybit",
