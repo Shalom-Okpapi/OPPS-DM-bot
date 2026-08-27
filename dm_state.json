@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787873019.9419117,
+      "fetched_at": 1787873323.9460835,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1386.0,
           "merchant_name": "Meliss4",
           "completion_rate": 0.99,
-          "order_count": 216,
+          "order_count": 220,
           "min_limit": 4500.0,
-          "max_limit": 500000.0,
-          "available": 686.5803,
+          "max_limit": 195996.47,
+          "available": 141.4116,
           "payment_methods": [],
           "adv_no": "2093062793003905024",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,28 +236,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1787873018.645197,
+      "fetched_at": 1787873323.0709949,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.997,
-          "merchant_name": "Arigonza15",
-          "completion_rate": 1.0,
-          "order_count": 209,
-          "min_limit": 50.0,
-          "max_limit": 4000.0,
-          "available": 6026.07,
-          "payment_methods": [
-            "Banco del pacifico",
-            "Banco Pichincha",
-            "Banco Guayaquil",
-            "Banco Bolivariano",
-            "Banco del Austro"
-          ],
-          "adv_no": "12924510311375630336",
-          "link": "https://c2c.binance.com/en/adv?code=12924510311375630336"
+          "price": 0.8,
+          "merchant_name": "JackyChee",
+          "completion_rate": 0.99,
+          "order_count": 1018,
+          "min_limit": 2.0,
+          "max_limit": 10000.0,
+          "available": 40227.8385,
+          "payment_methods": [],
+          "adv_no": "2080967302742315008",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
