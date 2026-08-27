@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787872471.2022154,
+      "fetched_at": 1787872773.421362,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1386.8,
           "merchant_name": "Korres ",
           "completion_rate": 1.0,
-          "order_count": 76,
+          "order_count": 78,
           "min_limit": 50000.0,
-          "max_limit": 950478.88,
-          "available": 685.3756,
+          "max_limit": 577979.13,
+          "available": 416.7718,
           "payment_methods": [],
           "adv_no": "2093114520174632960",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,26 +236,26 @@
       }
     },
     "USD": {
-      "fetched_at": 1787872470.3199925,
+      "fetched_at": 1787872772.3370216,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.996,
-          "merchant_name": "UsdtjotaG",
+          "price": 0.994,
+          "merchant_name": "VentasDigitales",
           "completion_rate": 1.0,
-          "order_count": 1114,
-          "min_limit": 40.0,
-          "max_limit": 240.0,
-          "available": 1235.84,
+          "order_count": 44,
+          "min_limit": 10.0,
+          "max_limit": 150.0,
+          "available": 62.68,
           "payment_methods": [
+            "Banco Pichincha",
             "Banco Guayaquil",
-            "Produbanco",
-            "Banco Pichincha"
+            "Banco Bolivariano"
           ],
-          "adv_no": "12893126771650355200",
-          "link": "https://c2c.binance.com/en/adv?code=12893126771650355200"
+          "adv_no": "12916539964670894080",
+          "link": "https://c2c.binance.com/en/adv?code=12916539964670894080"
         },
         "sell": {
           "platform": "Bybit",
