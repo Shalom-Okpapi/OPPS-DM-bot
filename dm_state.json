@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787871275.8426452,
+      "fetched_at": 1787871571.047345,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1386.99,
-          "merchant_name": "tasrab3",
-          "completion_rate": 1.0,
-          "order_count": 2216,
-          "min_limit": 50000.0,
-          "max_limit": 400000.0,
-          "available": 1066.0866,
+          "price": 1386.88,
+          "merchant_name": "BLOCK_MERCHANT",
+          "completion_rate": 0.99,
+          "order_count": 3080,
+          "min_limit": 4500.0,
+          "max_limit": 134300.46,
+          "available": 96.8364,
           "payment_methods": [],
-          "adv_no": "2044153013683044352",
+          "adv_no": "2084241630778032128",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,26 +236,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1787871274.7249541,
+      "fetched_at": 1787871572.1298897,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.996,
-          "merchant_name": "UsdtjotaG",
+          "merchant_name": "Melaniegp",
           "completion_rate": 1.0,
-          "order_count": 1110,
-          "min_limit": 40.0,
-          "max_limit": 240.0,
-          "available": 1395.01,
+          "order_count": 25,
+          "min_limit": 20.0,
+          "max_limit": 1500.0,
+          "available": 61.81,
           "payment_methods": [
-            "Banco Guayaquil",
-            "Produbanco",
+            "Banco Bolivariano",
             "Banco Pichincha"
           ],
-          "adv_no": "12893126771650355200",
-          "link": "https://c2c.binance.com/en/adv?code=12893126771650355200"
+          "adv_no": "12925953663108067328",
+          "link": "https://c2c.binance.com/en/adv?code=12925953663108067328"
         },
         "sell": {
           "platform": "Bybit",
