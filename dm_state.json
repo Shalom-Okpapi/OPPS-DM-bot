@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787852322.610197,
+      "fetched_at": 1787852619.9897578,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1385.0,
-          "merchant_name": "myestery",
-          "completion_rate": 1.0,
-          "order_count": 40,
-          "min_limit": 25000.0,
-          "max_limit": 50000.02,
-          "available": 36.1011,
+          "price": 1386.0,
+          "merchant_name": "ibison@",
+          "completion_rate": 0.99,
+          "order_count": 424,
+          "min_limit": 30000.0,
+          "max_limit": 50000.0,
+          "available": 52.5751,
           "payment_methods": [],
-          "adv_no": "2092942252574093312",
+          "adv_no": "2088950837415489536",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -70,8 +70,8 @@
           "fiat": "NGN",
           "price": 1410.0,
           "merchant_name": "Unstopable",
-          "completion_rate": 0.96,
-          "order_count": 349,
+          "completion_rate": 0.97,
+          "order_count": 364,
           "min_limit": 4500.0,
           "max_limit": 6910958.91,
           "available": 4901.3893,
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787852323.8485868,
+      "fetched_at": 1787852620.924267,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
