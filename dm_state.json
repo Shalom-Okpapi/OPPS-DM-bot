@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787814525.515798,
+      "fetched_at": 1787814820.5969167,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1384.99,
-          "merchant_name": "ISERH_PAY",
-          "completion_rate": 0.98,
-          "order_count": 49,
-          "min_limit": 20000.0,
-          "max_limit": 50000.0,
-          "available": 38.6662,
+          "price": 1384.5,
+          "merchant_name": "SWITCH-PAYMENT",
+          "completion_rate": 1.0,
+          "order_count": 47,
+          "min_limit": 45000.0,
+          "max_limit": 126725.63,
+          "available": 91.5317,
           "payment_methods": [],
-          "adv_no": "2092578869324214272",
+          "adv_no": "2092278625701380096",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -154,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1787814526.453338,
+      "fetched_at": 1787814822.772441,
       "snapshot": {
         "buy": null,
         "sell": null
@@ -196,7 +196,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787814524.4087877,
+      "fetched_at": 1787814821.7702138,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
