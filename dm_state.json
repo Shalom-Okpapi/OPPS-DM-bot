@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787872773.421362,
+      "fetched_at": 1787873019.9419117,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1386.8,
-          "merchant_name": "Korres ",
-          "completion_rate": 1.0,
-          "order_count": 78,
-          "min_limit": 50000.0,
-          "max_limit": 577979.13,
-          "available": 416.7718,
+          "price": 1386.0,
+          "merchant_name": "Meliss4",
+          "completion_rate": 0.99,
+          "order_count": 216,
+          "min_limit": 4500.0,
+          "max_limit": 500000.0,
+          "available": 686.5803,
           "payment_methods": [],
-          "adv_no": "2093114520174632960",
+          "adv_no": "2093062793003905024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -70,8 +70,8 @@
           "fiat": "NGN",
           "price": 1410.0,
           "merchant_name": "Unstopable",
-          "completion_rate": 0.96,
-          "order_count": 353,
+          "completion_rate": 0.97,
+          "order_count": 368,
           "min_limit": 4500.0,
           "max_limit": 6910958.91,
           "available": 4901.3893,
@@ -236,26 +236,28 @@
       }
     },
     "USD": {
-      "fetched_at": 1787872772.3370216,
+      "fetched_at": 1787873018.645197,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.994,
-          "merchant_name": "VentasDigitales",
+          "price": 0.997,
+          "merchant_name": "Arigonza15",
           "completion_rate": 1.0,
-          "order_count": 44,
-          "min_limit": 10.0,
-          "max_limit": 150.0,
-          "available": 62.68,
+          "order_count": 209,
+          "min_limit": 50.0,
+          "max_limit": 4000.0,
+          "available": 6026.07,
           "payment_methods": [
+            "Banco del pacifico",
             "Banco Pichincha",
             "Banco Guayaquil",
-            "Banco Bolivariano"
+            "Banco Bolivariano",
+            "Banco del Austro"
           ],
-          "adv_no": "12916539964670894080",
-          "link": "https://c2c.binance.com/en/adv?code=12916539964670894080"
+          "adv_no": "12924510311375630336",
+          "link": "https://c2c.binance.com/en/adv?code=12924510311375630336"
         },
         "sell": {
           "platform": "Bybit",
