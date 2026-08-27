@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787789901.0707157,
+      "fetched_at": 1787790272.5462174,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1384.95,
-          "merchant_name": "DeBryTrade",
-          "completion_rate": 0.99,
-          "order_count": 6294,
-          "min_limit": 10000.0,
-          "max_limit": 250000.0,
-          "available": 2496.0164,
+          "price": 1384.85,
+          "merchant_name": "S\u2019BrightXchange",
+          "completion_rate": 0.98,
+          "order_count": 1922,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 619.9924,
           "payment_methods": [],
-          "adv_no": "2033470284553994240",
+          "adv_no": "1861445960236425216",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -215,7 +215,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787789902.2117622,
+      "fetched_at": 1787790273.6476212,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -224,10 +224,10 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1010,
+          "order_count": 1011,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 45223.7064,
+          "available": 45172.945,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -237,14 +237,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Zoloto",
+          "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 575,
-          "min_limit": 50.0,
-          "max_limit": 3200.0,
-          "available": 55754.7441,
+          "order_count": 846,
+          "min_limit": 10.0,
+          "max_limit": 100000.0,
+          "available": 99918.0,
           "payment_methods": [],
-          "adv_no": "2033544081232252928",
+          "adv_no": "2083213882945777664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
