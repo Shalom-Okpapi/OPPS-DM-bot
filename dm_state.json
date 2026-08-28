@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787960075.2543304,
+      "fetched_at": 1787960374.9451325,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1380.0,
           "merchant_name": "FAST_PAY_",
           "completion_rate": 0.99,
-          "order_count": 14369,
+          "order_count": 14036,
           "min_limit": 20000.0,
           "max_limit": 1000000.0,
-          "available": 1014.3473,
+          "available": 848.4054,
           "payment_methods": [],
           "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -234,24 +234,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1787960074.0275064,
+      "fetched_at": 1787960373.800631,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.994,
-          "merchant_name": "HeratimiVIP_crip",
-          "completion_rate": 1.0,
-          "order_count": 731,
-          "min_limit": 50.0,
-          "max_limit": 1500.0,
-          "available": 51.0,
-          "payment_methods": [
-            "Banco Pichincha"
-          ],
-          "adv_no": "12912568368481525760",
-          "link": "https://c2c.binance.com/en/adv?code=12912568368481525760"
+          "price": 0.8,
+          "merchant_name": "JackyChee",
+          "completion_rate": 0.99,
+          "order_count": 1024,
+          "min_limit": 2.0,
+          "max_limit": 10000.0,
+          "available": 31890.6558,
+          "payment_methods": [],
+          "adv_no": "2080967302742315008",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
