@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787958872.2502077,
+      "fetched_at": 1787959179.2147818,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1379.0,
-          "merchant_name": "EMMANUEL01",
-          "completion_rate": 1.0,
-          "order_count": 67,
-          "min_limit": 30000.0,
-          "max_limit": 262375.98,
-          "available": 190.2654,
+          "price": 1381.0,
+          "merchant_name": "FAST_PAY_",
+          "completion_rate": 0.99,
+          "order_count": 14364,
+          "min_limit": 20000.0,
+          "max_limit": 85360.99,
+          "available": 61.811,
           "payment_methods": [],
-          "adv_no": "1981083868717826048",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,22 +234,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1787958871.1414862,
+      "fetched_at": 1787959177.6684053,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.995,
-          "merchant_name": "SBFast-payment",
-          "completion_rate": 0.99,
-          "order_count": 611,
-          "min_limit": 30.0,
-          "max_limit": 1663.076,
-          "available": 1671.4334,
-          "payment_methods": [],
-          "adv_no": "2080333328311201792",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.994,
+          "merchant_name": "HeratimiVIP_crip",
+          "completion_rate": 1.0,
+          "order_count": 731,
+          "min_limit": 50.0,
+          "max_limit": 1500.0,
+          "available": 51.0,
+          "payment_methods": [
+            "Banco Pichincha"
+          ],
+          "adv_no": "12912568368481525760",
+          "link": "https://c2c.binance.com/en/adv?code=12912568368481525760"
         },
         "sell": {
           "platform": "Bybit",
@@ -258,7 +260,7 @@
           "price": 1.2,
           "merchant_name": "\ud835\udd40\ud835\udd5f\ud835\udd64\ud835\udd65\ud835\udd52\ud835\udd5f\ud835\udd65-\u2119\ud835\udd52\ud835\udd6a\ud835\udd5e\ud835\udd56\ud835\udd5f\ud835\udd65",
           "completion_rate": 1.0,
-          "order_count": 491,
+          "order_count": 492,
           "min_limit": 10.0,
           "max_limit": 50000.0,
           "available": 46445.9025,
