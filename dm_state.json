@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787877812.6141257,
+      "fetched_at": 1787878369.7136884,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1385.0,
-          "merchant_name": "SNOOKIE",
-          "completion_rate": 0.99,
-          "order_count": 1594,
+          "price": 1385.8,
+          "merchant_name": "Ems Global ",
+          "completion_rate": 1.0,
+          "order_count": 344,
           "min_limit": 50000.0,
-          "max_limit": 76789.1,
-          "available": 55.4434,
+          "max_limit": 307432.66,
+          "available": 221.8449,
           "payment_methods": [],
-          "adv_no": "2083515038164631552",
+          "adv_no": "1979121959575638016",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787877811.1255207,
+      "fetched_at": 1787878370.9072173,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -248,7 +248,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1019,
+          "order_count": 1020,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 40081.3521,
@@ -261,14 +261,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Zoloto",
+          "merchant_name": "Swift-Prime",
           "completion_rate": 1.0,
-          "order_count": 561,
-          "min_limit": 50.0,
-          "max_limit": 3200.0,
-          "available": 55529.7442,
+          "order_count": 488,
+          "min_limit": 15.0,
+          "max_limit": 100000.0,
+          "available": 98035.5819,
           "payment_methods": [],
-          "adv_no": "2033544081232252928",
+          "adv_no": "2077259925911097344",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
