@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787903080.4584372,
+      "fetched_at": 1787903321.5660768,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1386.0,
-          "merchant_name": "DON-BABA",
+          "merchant_name": "FAST_PAY_",
           "completion_rate": 0.99,
-          "order_count": 522,
-          "min_limit": 4500.0,
-          "max_limit": 441912.1,
-          "available": 318.8399,
+          "order_count": 13417,
+          "min_limit": 20000.0,
+          "max_limit": 1000000.0,
+          "available": 975.4313,
           "payment_methods": [],
-          "adv_no": "1908403293708460032",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787903078.8848882,
+      "fetched_at": 1787903322.6482139,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -257,7 +257,7 @@
           "price": 1.2,
           "merchant_name": "\ud835\udd40\ud835\udd5f\ud835\udd64\ud835\udd65\ud835\udd52\ud835\udd5f\ud835\udd65-\u2119\ud835\udd52\ud835\udd6a\ud835\udd5e\ud835\udd56\ud835\udd5f\ud835\udd65",
           "completion_rate": 1.0,
-          "order_count": 363,
+          "order_count": 364,
           "min_limit": 10.0,
           "max_limit": 50000.0,
           "available": 46445.9025,
