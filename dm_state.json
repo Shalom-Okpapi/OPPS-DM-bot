@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788032675.571854,
+      "fetched_at": 1788032974.4291642,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1380.0,
-          "merchant_name": "BITFORCE",
-          "completion_rate": 1.0,
-          "order_count": 45,
-          "min_limit": 20000.0,
-          "max_limit": 117879.87,
-          "available": 85.4202,
+          "merchant_name": "FASTPAYMENT@",
+          "completion_rate": 0.99,
+          "order_count": 7335,
+          "min_limit": 10000.0,
+          "max_limit": 70870.31,
+          "available": 51.3553,
           "payment_methods": [],
-          "adv_no": "2056062628198739968",
+          "adv_no": "2080240461636485120",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -154,26 +154,25 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788029364.784462,
+      "fetched_at": 1788032975.3380463,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.868,
-          "merchant_name": "AS_Exchange_",
-          "completion_rate": 0.952,
-          "order_count": 724,
+          "price": 0.865,
+          "merchant_name": "Aura_Change",
+          "completion_rate": 1.0,
+          "order_count": 45,
           "min_limit": 50.0,
-          "max_limit": 10000.0,
-          "available": 591.75,
+          "max_limit": 2000.0,
+          "available": 724.8,
           "payment_methods": [
-            "Bank Transfer",
-            "Instant Transfer",
-            "Twint"
+            "Twint",
+            "Bank Transfer"
           ],
-          "adv_no": "13923163049833758720",
-          "link": "https://c2c.binance.com/en/adv?code=13923163049833758720"
+          "adv_no": "12915872893755219968",
+          "link": "https://c2c.binance.com/en/adv?code=12915872893755219968"
         },
         "sell": {
           "platform": "Binance",
@@ -236,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788032676.5851984,
+      "fetched_at": 1788032973.5416026,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -245,7 +244,7 @@
           "price": 0.8,
           "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 134,
+          "order_count": 129,
           "min_limit": 50.0,
           "max_limit": 408.0,
           "available": 510.0,
