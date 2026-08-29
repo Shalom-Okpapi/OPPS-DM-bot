@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788020374.1934671,
+      "fetched_at": 1788020602.8078256,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1380.5,
-          "merchant_name": "MasturaFX",
+          "merchant_name": "Ivan8640",
           "completion_rate": 1.0,
-          "order_count": 962,
-          "min_limit": 4500.0,
-          "max_limit": 400000.0,
-          "available": 3215.4068,
+          "order_count": 354,
+          "min_limit": 50000.0,
+          "max_limit": 300000.0,
+          "available": 1782.6875,
           "payment_methods": [],
-          "adv_no": "1866942274927689728",
+          "adv_no": "2066778240691224576",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1788016798.025766,
+      "fetched_at": 1788020443.836229,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,10 +91,10 @@
           "price": 0.859,
           "merchant_name": "Messi2026",
           "completion_rate": 0.98,
-          "order_count": 176,
+          "order_count": 183,
           "min_limit": 10.0,
-          "max_limit": 82.0,
-          "available": 95.46,
+          "max_limit": 100.0,
+          "available": 131.1992,
           "payment_methods": [],
           "adv_no": "2093709849923784704",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1788016794.91457,
+      "fetched_at": 1788020441.5898566,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -126,10 +126,10 @@
           "price": 171.0,
           "merchant_name": "DCMNB",
           "completion_rate": 0.993,
-          "order_count": 820,
+          "order_count": 821,
           "min_limit": 5000.0,
           "max_limit": 701474.0,
-          "available": 3985.13,
+          "available": 4072.94,
           "payment_methods": [
             "Bank Transfer"
           ],
@@ -137,19 +137,21 @@
           "link": "https://c2c.binance.com/en/adv?code=12910311735823863808"
         },
         "sell": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 175.6,
-          "merchant_name": "LUCKYMEN",
-          "completion_rate": 1.0,
-          "order_count": 163,
-          "min_limit": 5000.0,
-          "max_limit": 200000.0,
-          "available": 5376.8763,
-          "payment_methods": [],
-          "adv_no": "1851794901424910336",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 177.01,
+          "merchant_name": "Takara68",
+          "completion_rate": 0.981,
+          "order_count": 763,
+          "min_limit": 3000.0,
+          "max_limit": 45000.0,
+          "available": 39710.89,
+          "payment_methods": [
+            "PayPay Money"
+          ],
+          "adv_no": "12918910698740441088",
+          "link": "https://c2c.binance.com/en/adv?code=12918910698740441088"
         }
       }
     },
@@ -198,7 +200,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1788016795.9912765,
+      "fetched_at": 1788020442.736355,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -207,7 +209,7 @@
           "price": 0.774,
           "merchant_name": "BEST_CRYPTO_01",
           "completion_rate": 0.988,
-          "order_count": 327,
+          "order_count": 328,
           "min_limit": 10.0,
           "max_limit": 5000.0,
           "available": 830.38,
@@ -235,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788020375.1120772,
+      "fetched_at": 1788020601.2504237,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
