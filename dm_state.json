@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788039979.0747085,
+      "fetched_at": 1788040531.0667825,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1379.98,
-          "merchant_name": "RAJJ-TECH",
+          "price": 1380.0,
+          "merchant_name": "ANNUR_EMLANIS",
           "completion_rate": 1.0,
-          "order_count": 4803,
+          "order_count": 5302,
           "min_limit": 4500.0,
           "max_limit": 100000.0,
-          "available": 395.6543,
+          "available": 1651.7412,
           "payment_methods": [],
-          "adv_no": "2050658016876621824",
+          "adv_no": "2000244340755316736",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -156,46 +156,45 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788036576.352437,
+      "fetched_at": 1788040296.3964741,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.865,
-          "merchant_name": "Aura_Change",
-          "completion_rate": 1.0,
-          "order_count": 46,
+          "price": 0.868,
+          "merchant_name": "AS_Exchange_",
+          "completion_rate": 0.952,
+          "order_count": 724,
           "min_limit": 50.0,
-          "max_limit": 2000.0,
-          "available": 609.2,
+          "max_limit": 10000.0,
+          "available": 591.75,
           "payment_methods": [
-            "Twint",
-            "Bank Transfer"
+            "Bank Transfer",
+            "Instant Transfer",
+            "Twint"
           ],
-          "adv_no": "12915872893755219968",
-          "link": "https://c2c.binance.com/en/adv?code=12915872893755219968"
+          "adv_no": "13923163049833758720",
+          "link": "https://c2c.binance.com/en/adv?code=13923163049833758720"
         },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.773,
-          "merchant_name": "Best_Twint_Exchange",
-          "completion_rate": 0.993,
-          "order_count": 130,
-          "min_limit": 50.0,
-          "max_limit": 100000.0,
-          "available": 1941315.4,
+          "price": 0.774,
+          "merchant_name": "PRO_Twint_Exchange",
+          "completion_rate": 0.96,
+          "order_count": 24,
+          "min_limit": 10.0,
+          "max_limit": 10000.0,
+          "available": 31401.78,
           "payment_methods": [
             "Twint",
             "Instant Transfer",
-            "Bank Transfer",
-            "Cash Deposit to Bank",
-            "ZEN"
+            "Bank Transfer"
           ],
-          "adv_no": "12883507269642735616",
-          "link": "https://c2c.binance.com/en/adv?code=12883507269642735616"
+          "adv_no": "12889324237618114560",
+          "link": "https://c2c.binance.com/en/adv?code=12889324237618114560"
         }
       }
     },
@@ -239,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788039980.2958894,
+      "fetched_at": 1788040530.3505692,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -248,7 +247,7 @@
           "price": 0.986,
           "merchant_name": "an.noor104",
           "completion_rate": 0.99,
-          "order_count": 425,
+          "order_count": 427,
           "min_limit": 20.0,
           "max_limit": 1146.55,
           "available": 1162.8297,
@@ -263,7 +262,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 390,
+          "order_count": 387,
           "min_limit": 10.0,
           "max_limit": 13760.644,
           "available": 11467.204,
