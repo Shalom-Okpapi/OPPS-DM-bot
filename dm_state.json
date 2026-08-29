@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1787996376.2544312,
+      "fetched_at": 1787996672.7455788,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1376.0,
-          "merchant_name": "NO.DELAY",
+          "price": 1375.0,
+          "merchant_name": "jannaija",
           "completion_rate": 1.0,
-          "order_count": 842,
-          "min_limit": 45000.0,
-          "max_limit": 50000.0,
-          "available": 150.0,
+          "order_count": 27,
+          "min_limit": 50000.0,
+          "max_limit": 57887.63,
+          "available": 42.1001,
           "payment_methods": [],
-          "adv_no": "2038695283095339008",
+          "adv_no": "2048346740706312192",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -154,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1787992839.6652894,
+      "fetched_at": 1787996517.0725446,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -163,7 +163,7 @@
           "price": 0.925,
           "merchant_name": "Best_Twint_Exchange",
           "completion_rate": 0.993,
-          "order_count": 127,
+          "order_count": 128,
           "min_limit": 50.0,
           "max_limit": 3000.0,
           "available": 26626.37,
@@ -183,7 +183,7 @@
           "price": 0.773,
           "merchant_name": "Best_Twint_Exchange",
           "completion_rate": 0.993,
-          "order_count": 127,
+          "order_count": 128,
           "min_limit": 50.0,
           "max_limit": 100000.0,
           "available": 1941315.4,
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1787996375.0451574,
+      "fetched_at": 1787996671.8013837,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
