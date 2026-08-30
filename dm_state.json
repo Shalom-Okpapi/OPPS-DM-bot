@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788089973.063136,
+      "fetched_at": 1788090197.9337509,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,21 +82,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1788086596.5081348,
+      "fetched_at": 1788090201.366175,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
-          "price": 0.864,
-          "merchant_name": "PhoenixEx2",
-          "completion_rate": 0.99,
-          "order_count": 573,
-          "min_limit": 50.0,
-          "max_limit": 2994.0,
-          "available": 3465.2779,
+          "price": 0.859,
+          "merchant_name": "Messi2026",
+          "completion_rate": 0.98,
+          "order_count": 184,
+          "min_limit": 10.0,
+          "max_limit": 50.0,
+          "available": 300.0,
           "payment_methods": [],
-          "adv_no": "2057742907860910080",
+          "adv_no": "2093709849923784704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1788086594.698793,
+      "fetched_at": 1788090199.1184742,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -196,22 +196,24 @@
       }
     },
     "GBP": {
-      "fetched_at": 1788086595.4493475,
+      "fetched_at": 1788090200.2444613,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "GBP",
-          "price": 0.78,
-          "merchant_name": "AirTracer",
-          "completion_rate": 0.97,
-          "order_count": 280,
-          "min_limit": 10.0,
-          "max_limit": 546.0,
-          "available": 700.0,
-          "payment_methods": [],
-          "adv_no": "2089714586408370176",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.755,
+          "merchant_name": "NuqoodX",
+          "completion_rate": 0.996,
+          "order_count": 232,
+          "min_limit": 20.0,
+          "max_limit": 700.0,
+          "available": 1898.04,
+          "payment_methods": [
+            "Faster Payments"
+          ],
+          "adv_no": "12927273752669532160",
+          "link": "https://c2c.binance.com/en/adv?code=12927273752669532160"
         },
         "sell": {
           "platform": "Bybit",
@@ -231,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788089972.0350657,
+      "fetched_at": 1788090196.6867778,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
