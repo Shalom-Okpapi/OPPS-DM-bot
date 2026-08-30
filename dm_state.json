@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788094034.9155533,
+      "fetched_at": 1788094586.5546732,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1380.0,
-          "merchant_name": "NO.DELAY",
-          "completion_rate": 1.0,
-          "order_count": 855,
-          "min_limit": 45000.0,
-          "max_limit": 50000.0,
-          "available": 96.0,
+          "price": 1380.5,
+          "merchant_name": "peter obi",
+          "completion_rate": 0.99,
+          "order_count": 9971,
+          "min_limit": 50000.0,
+          "max_limit": 650425.75,
+          "available": 471.1523,
           "payment_methods": [],
-          "adv_no": "2038695283095339008",
+          "adv_no": "2024891343950655488",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788094033.8268862,
+      "fetched_at": 1788094585.8627052,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -244,8 +244,8 @@
           "completion_rate": 1.0,
           "order_count": 127,
           "min_limit": 50.0,
-          "max_limit": 408.0,
-          "available": 510.0,
+          "max_limit": 358.0,
+          "available": 447.5,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
