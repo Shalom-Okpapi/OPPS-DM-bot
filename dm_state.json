@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788073680.7942142,
+      "fetched_at": 1788074230.3491979,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1380.5,
-          "merchant_name": "winnietrades",
-          "completion_rate": 0.99,
-          "order_count": 750,
-          "min_limit": 50000.0,
-          "max_limit": 150000.0,
-          "available": 474.151,
+          "price": 1380.0,
+          "merchant_name": "BBY-EXCHANGED",
+          "completion_rate": 0.98,
+          "order_count": 999,
+          "min_limit": 5000.0,
+          "max_limit": 61672.33,
+          "available": 44.6901,
           "payment_methods": [],
-          "adv_no": "2075948303642095616",
+          "adv_no": "2089039677446664192",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1410.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.97,
-          "order_count": 367,
+          "order_count": 358,
           "min_limit": 4500.0,
           "max_limit": 6910958.91,
           "available": 4901.3893,
@@ -215,7 +215,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788073681.4923868,
+      "fetched_at": 1788074231.3767889,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -224,7 +224,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 999,
+          "order_count": 992,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 24804.2653,
