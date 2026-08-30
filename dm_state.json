@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788064775.7652817,
+      "fetched_at": 1788065073.0083354,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1381.0,
-          "merchant_name": "FAST_PAY_",
+          "price": 1380.1,
+          "merchant_name": "GREENDIGPAY",
           "completion_rate": 0.99,
-          "order_count": 14097,
-          "min_limit": 20000.0,
-          "max_limit": 1000000.0,
-          "available": 1162.4186,
+          "order_count": 433,
+          "min_limit": 50000.0,
+          "max_limit": 220000.0,
+          "available": 526.8716,
           "payment_methods": [],
-          "adv_no": "2046603189319974912",
+          "adv_no": "2062081939874082816",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1410.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.97,
-          "order_count": 366,
+          "order_count": 359,
           "min_limit": 4500.0,
           "max_limit": 6910958.91,
           "available": 4901.3893,
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788064775.055037,
+      "fetched_at": 1788065071.8791642,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,7 +256,7 @@
           "price": 1.2,
           "merchant_name": "Jet-Payment",
           "completion_rate": 1.0,
-          "order_count": 492,
+          "order_count": 490,
           "min_limit": 30.0,
           "max_limit": 100000.0,
           "available": 100000.0,
