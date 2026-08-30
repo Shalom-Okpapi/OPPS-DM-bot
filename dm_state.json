@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788122674.6428547,
+      "fetched_at": 1788122973.847727,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1380.5,
-          "merchant_name": "FASTPAYMENT@",
+          "price": 1380.9,
+          "merchant_name": "MARV_PAYS",
           "completion_rate": 0.99,
-          "order_count": 7614,
-          "min_limit": 10000.0,
-          "max_limit": 80765.18,
-          "available": 58.5043,
+          "order_count": 38196,
+          "min_limit": 5000.0,
+          "max_limit": 100000.0,
+          "available": 900.0,
           "payment_methods": [],
-          "adv_no": "2080240461636485120",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1788119375.062456,
+      "fetched_at": 1788122976.7018595,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -117,38 +117,36 @@
       }
     },
     "JPY": {
-      "fetched_at": 1788119373.1546144,
+      "fetched_at": 1788122974.9754767,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 180.5,
-          "merchant_name": "LNLJP",
+          "price": 171.9,
+          "merchant_name": "OLIM0505",
           "completion_rate": 1.0,
-          "order_count": 244,
+          "order_count": 81,
           "min_limit": 5000.0,
-          "max_limit": 500000.0,
-          "available": 481.65,
-          "payment_methods": [
-            "PayPay Money"
-          ],
-          "adv_no": "12909605008526893056",
-          "link": "https://c2c.binance.com/en/adv?code=12909605008526893056"
+          "max_limit": 233717.95,
+          "available": 1359.6158,
+          "payment_methods": [],
+          "adv_no": "2093796246936760320",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 155.0,
-          "merchant_name": "YouKnowMe14",
-          "completion_rate": 0.95,
-          "order_count": 534,
-          "min_limit": 5000.0,
-          "max_limit": 6500000.0,
-          "available": 100000.0,
+          "price": 155.1,
+          "merchant_name": "shanemelz",
+          "completion_rate": 1.0,
+          "order_count": 40,
+          "min_limit": 1000.0,
+          "max_limit": 38390.04,
+          "available": 247.518,
           "payment_methods": [],
-          "adv_no": "1990272811515072512",
+          "adv_no": "1689842997248311296",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -196,30 +194,28 @@
       }
     },
     "GBP": {
-      "fetched_at": 1788119374.0667946,
+      "fetched_at": 1788122975.8541248,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "GBP",
           "price": 0.775,
-          "merchant_name": "Mcdonalds_exWise",
-          "completion_rate": 0.99,
-          "order_count": 1054,
+          "merchant_name": "0nlyIlhom",
+          "completion_rate": 0.97,
+          "order_count": 143,
           "min_limit": 20.0,
-          "max_limit": 2000.0,
-          "available": 1514.9,
-          "payment_methods": [
-            "Bank Transfer"
-          ],
-          "adv_no": "13892383546686439424",
-          "link": "https://c2c.binance.com/en/adv?code=13892383546686439424"
+          "max_limit": 407.409,
+          "available": 525.6899,
+          "payment_methods": [],
+          "adv_no": "2094153467019243520",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.741,
+          "price": 0.74,
           "merchant_name": "Fast-USDT10",
           "completion_rate": 0.99,
           "order_count": 378,
@@ -235,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788122673.9342828,
+      "fetched_at": 1788122972.9429207,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
