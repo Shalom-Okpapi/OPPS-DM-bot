@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788101974.7316046,
+      "fetched_at": 1788102278.8428319,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1379.3,
-          "merchant_name": "@NASIR-FX",
+          "price": 1379.0,
+          "merchant_name": "InstantXchange",
           "completion_rate": 1.0,
-          "order_count": 26,
-          "min_limit": 4500.0,
-          "max_limit": 91438.48,
-          "available": 66.2934,
+          "order_count": 64,
+          "min_limit": 50000.0,
+          "max_limit": 86333.26,
+          "available": 62.6057,
           "payment_methods": [],
-          "adv_no": "2094064437325643776",
+          "adv_no": "2080213589639454720",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -152,7 +152,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788098520.9505286,
+      "fetched_at": 1788102121.2658064,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788101973.895378,
+      "fetched_at": 1788102277.069976,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -253,14 +253,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Aliyous",
+          "merchant_name": "Zoloto",
           "completion_rate": 1.0,
-          "order_count": 377,
-          "min_limit": 10.0,
-          "max_limit": 14009.044,
-          "available": 11674.204,
+          "order_count": 565,
+          "min_limit": 50.0,
+          "max_limit": 3200.0,
+          "available": 55329.7442,
           "payment_methods": [],
-          "adv_no": "1969417928054837248",
+          "adv_no": "2033544081232252928",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
