@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788094586.5546732,
+      "fetched_at": 1788095143.7770383,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1380.5,
-          "merchant_name": "peter obi",
-          "completion_rate": 0.99,
-          "order_count": 9971,
-          "min_limit": 50000.0,
-          "max_limit": 650425.75,
-          "available": 471.1523,
+          "price": 1379.99,
+          "merchant_name": "JABZ_SWIFT",
+          "completion_rate": 0.96,
+          "order_count": 24,
+          "min_limit": 20000.0,
+          "max_limit": 50000.0,
+          "available": 112.3867,
           "payment_methods": [],
-          "adv_no": "2024891343950655488",
+          "adv_no": "2092540801672847360",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -152,19 +152,19 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788091098.2527642,
+      "fetched_at": 1788094908.7638938,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.889,
+          "price": 0.881,
           "merchant_name": "Aura_Change",
           "completion_rate": 1.0,
           "order_count": 41,
           "min_limit": 50.0,
           "max_limit": 2000.0,
-          "available": 210.83,
+          "available": 230.0,
           "payment_methods": [
             "Twint",
             "Bank Transfer"
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788094585.8627052,
+      "fetched_at": 1788095144.9218934,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
