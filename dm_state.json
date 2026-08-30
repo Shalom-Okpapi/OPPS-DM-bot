@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788068598.0665808,
+      "fetched_at": 1788068975.313654,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1381.2,
-          "merchant_name": "whiteangle_xcha",
-          "completion_rate": 0.99,
-          "order_count": 2182,
-          "min_limit": 20000.0,
-          "max_limit": 574893.83,
-          "available": 416.2278,
+          "price": 1380.99,
+          "merchant_name": "quick-payment",
+          "completion_rate": 0.98,
+          "order_count": 3306,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 100.7724,
           "payment_methods": [],
-          "adv_no": "1941214909965307904",
+          "adv_no": "1987424388710076416",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -154,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788068600.814977,
+      "fetched_at": 1788068976.7891846,
       "snapshot": {
         "buy": null,
         "sell": null
@@ -198,7 +198,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788068599.6535535,
+      "fetched_at": 1788068976.0697706,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -207,7 +207,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1027,
+          "order_count": 999,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 24804.2653,
