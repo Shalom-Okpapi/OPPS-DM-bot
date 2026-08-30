@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788062674.0538197,
+      "fetched_at": 1788062976.7286305,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1381.0,
-          "merchant_name": "ABUTAQIYAHEXCHN",
-          "completion_rate": 1.0,
-          "order_count": 63,
-          "min_limit": 10000.0,
-          "max_limit": 50000.0,
-          "available": 185.9642,
+          "merchant_name": "FAST_PAY_",
+          "completion_rate": 0.99,
+          "order_count": 14094,
+          "min_limit": 20000.0,
+          "max_limit": 1000000.0,
+          "available": 1300.0,
           "payment_methods": [],
-          "adv_no": "2093900190595178496",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788062674.8923614,
+      "fetched_at": 1788062975.7099736,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
