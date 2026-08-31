@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788171577.0312533,
+      "fetched_at": 1788171876.647868,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1380.0,
-          "merchant_name": "MajiDadi12",
-          "completion_rate": 1.0,
-          "order_count": 35,
-          "min_limit": 5000.0,
-          "max_limit": 283258.8,
-          "available": 205.26,
+          "price": 1380.4,
+          "merchant_name": "BitcoinMaster..",
+          "completion_rate": 0.99,
+          "order_count": 1401,
+          "min_limit": 20000.0,
+          "max_limit": 100000.0,
+          "available": 568.8821,
           "payment_methods": [],
-          "adv_no": "2088242327801585664",
+          "adv_no": "2077038206362677248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -152,7 +152,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788168277.603129,
+      "fetched_at": 1788171877.5187953,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -177,13 +177,13 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.783,
+          "price": 0.773,
           "merchant_name": "Best_Twint_Exchange",
           "completion_rate": 0.992,
           "order_count": 120,
           "min_limit": 50.0,
           "max_limit": 100000.0,
-          "available": 1941315.4,
+          "available": 1940135.33,
           "payment_methods": [
             "Twint",
             "Instant Transfer",
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788171575.8018055,
+      "fetched_at": 1788171875.8065126,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
