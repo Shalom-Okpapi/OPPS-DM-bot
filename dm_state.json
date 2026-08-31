@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788167976.7607322,
+      "fetched_at": 1788168275.2872791,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1376.0,
-          "merchant_name": "Buks_baby",
-          "completion_rate": 0.98,
-          "order_count": 67,
-          "min_limit": 10000.0,
-          "max_limit": 555706.54,
-          "available": 403.8565,
+          "price": 1379.5,
+          "merchant_name": "Iyeos1",
+          "completion_rate": 1.0,
+          "order_count": 554,
+          "min_limit": 50000.0,
+          "max_limit": 1266329.4,
+          "available": 917.9626,
           "payment_methods": [],
-          "adv_no": "1982419335224979456",
+          "adv_no": "2049801154086170624",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -152,13 +152,13 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788164676.6408038,
+      "fetched_at": 1788168277.603129,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.868,
+          "price": 0.866,
           "merchant_name": "User-63027",
           "completion_rate": 1.0,
           "order_count": 71,
@@ -177,21 +177,22 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.76,
-          "merchant_name": "07_Exchange",
-          "completion_rate": 0.987,
-          "order_count": 1156,
+          "price": 0.783,
+          "merchant_name": "Best_Twint_Exchange",
+          "completion_rate": 0.992,
+          "order_count": 120,
           "min_limit": 50.0,
           "max_limit": 100000.0,
-          "available": 1980362.85,
+          "available": 1941315.4,
           "payment_methods": [
             "Twint",
             "Instant Transfer",
             "Bank Transfer",
-            "Cash Deposit to Bank"
+            "Cash Deposit to Bank",
+            "ZEN"
           ],
-          "adv_no": "12918342128406675456",
-          "link": "https://c2c.binance.com/en/adv?code=12918342128406675456"
+          "adv_no": "12883507269642735616",
+          "link": "https://c2c.binance.com/en/adv?code=12883507269642735616"
         }
       }
     },
@@ -231,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788167975.9756966,
+      "fetched_at": 1788168276.4584022,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -255,7 +256,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 385,
+          "order_count": 386,
           "min_limit": 10.0,
           "max_limit": 13951.583,
           "available": 11626.3192,
