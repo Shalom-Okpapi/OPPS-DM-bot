@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788303280.3501275,
+      "fetched_at": 1788303576.7696571,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1375.9,
-          "merchant_name": "Dadi_bulee",
+          "price": 1375.0,
+          "merchant_name": "MR.Happiness",
           "completion_rate": 1.0,
-          "order_count": 124,
+          "order_count": 81,
           "min_limit": 4500.0,
           "max_limit": 50000.0,
-          "available": 711.7179,
+          "available": 396.7273,
           "payment_methods": [],
-          "adv_no": "2094848553159254016",
+          "adv_no": "2094492979914190848",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,25 +239,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1788303279.430868,
+      "fetched_at": 1788303577.928444,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.998,
-          "merchant_name": "\u91d1\u8bda-usdt",
-          "completion_rate": 1.0,
-          "order_count": 385,
-          "min_limit": 10.0,
-          "max_limit": 650.0,
-          "available": 378.43,
-          "payment_methods": [
-            "ABA",
-            "KHQR"
-          ],
-          "adv_no": "12926172229698088960",
-          "link": "https://c2c.binance.com/en/adv?code=12926172229698088960"
+          "price": 0.996,
+          "merchant_name": "SBFast-payment",
+          "completion_rate": 0.99,
+          "order_count": 595,
+          "min_limit": 30.0,
+          "max_limit": 95.931,
+          "available": 96.3171,
+          "payment_methods": [],
+          "adv_no": "2080333328311201792",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
