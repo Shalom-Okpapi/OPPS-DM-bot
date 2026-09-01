@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788285013.1093462,
+      "fetched_at": 1788285576.6466413,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.0,
-          "merchant_name": "Buks_baby",
-          "completion_rate": 0.98,
-          "order_count": 69,
-          "min_limit": 10000.0,
-          "max_limit": 816935.0,
-          "available": 595.0,
+          "price": 1374.0,
+          "merchant_name": "RayEx",
+          "completion_rate": 0.96,
+          "order_count": 193,
+          "min_limit": 50000.0,
+          "max_limit": 75000.0,
+          "available": 70.0,
           "payment_methods": [],
-          "adv_no": "1982419335224979456",
+          "adv_no": "2094845842632237056",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -152,24 +152,24 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788281521.3041306,
+      "fetched_at": 1788285341.4440937,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.86,
-          "merchant_name": "FastdealsCH",
+          "price": 0.856,
+          "merchant_name": "SwissValutaExchange",
           "completion_rate": 1.0,
-          "order_count": 46,
-          "min_limit": 50.0,
+          "order_count": 27,
+          "min_limit": 10.0,
           "max_limit": 10000.0,
-          "available": 1387.34,
+          "available": 1023.83,
           "payment_methods": [
             "Twint"
           ],
-          "adv_no": "12912583512670539776",
-          "link": "https://c2c.binance.com/en/adv?code=12912583512670539776"
+          "adv_no": "12915849653880389632",
+          "link": "https://c2c.binance.com/en/adv?code=12915849653880389632"
         },
         "sell": {
           "platform": "Binance",
@@ -178,7 +178,7 @@
           "price": 0.796,
           "merchant_name": "SwissValutaExchange",
           "completion_rate": 1.0,
-          "order_count": 26,
+          "order_count": 27,
           "min_limit": 10.0,
           "max_limit": 10000.0,
           "available": 2200.08,
@@ -228,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788285011.3713887,
+      "fetched_at": 1788285577.907091,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -252,10 +252,10 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 378,
+          "order_count": 379,
           "min_limit": 10.0,
-          "max_limit": 12545.193,
-          "available": 10454.3279,
+          "max_limit": 11967.598,
+          "available": 9972.9989,
           "payment_methods": [],
           "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
