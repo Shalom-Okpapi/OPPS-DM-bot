@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788251971.302186,
+      "fetched_at": 1788252276.7187781,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1375.0,
           "merchant_name": "ANNUR_EMLANIS",
           "completion_rate": 1.0,
-          "order_count": 5653,
+          "order_count": 5660,
           "min_limit": 4500.0,
           "max_limit": 100000.0,
-          "available": 900.9714,
+          "available": 802.6079,
           "payment_methods": [],
           "adv_no": "2000244340755316736",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -152,27 +152,24 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788248576.2543335,
+      "fetched_at": 1788252198.373767,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.87,
-          "merchant_name": "User-63027",
+          "price": 0.861,
+          "merchant_name": "SwissValutaExchange",
           "completion_rate": 1.0,
-          "order_count": 74,
-          "min_limit": 20.0,
-          "max_limit": 1050.0,
-          "available": 998.71,
+          "order_count": 23,
+          "min_limit": 10.0,
+          "max_limit": 10000.0,
+          "available": 1003.89,
           "payment_methods": [
-            "Bank Transfer",
-            "Cash Deposit to Bank",
-            "Instant Transfer",
             "Twint"
           ],
-          "adv_no": "12915291931766640640",
-          "link": "https://c2c.binance.com/en/adv?code=12915291931766640640"
+          "adv_no": "12915849653880389632",
+          "link": "https://c2c.binance.com/en/adv?code=12915849653880389632"
         },
         "sell": {
           "platform": "Binance",
@@ -233,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788251973.089099,
+      "fetched_at": 1788252275.964554,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
