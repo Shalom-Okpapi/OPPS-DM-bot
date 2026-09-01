@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788274172.6094875,
+      "fetched_at": 1788274475.6286423,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1376.0,
           "merchant_name": "ANNUR_EMLANIS",
           "completion_rate": 1.0,
-          "order_count": 5830,
+          "order_count": 5834,
           "min_limit": 4500.0,
-          "max_limit": 100000.0,
-          "available": 99.368,
+          "max_limit": 78730.45,
+          "available": 57.2169,
           "payment_methods": [],
           "adv_no": "2000244340755316736",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -152,27 +152,24 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788270578.044076,
+      "fetched_at": 1788274240.1114829,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.925,
-          "merchant_name": "Best_Twint_Exchange",
-          "completion_rate": 0.992,
-          "order_count": 118,
+          "price": 0.869,
+          "merchant_name": "FastdealsCH",
+          "completion_rate": 1.0,
+          "order_count": 45,
           "min_limit": 50.0,
-          "max_limit": 3000.0,
-          "available": 23719.24,
+          "max_limit": 10000.0,
+          "available": 1562.92,
           "payment_methods": [
-            "Instant Transfer",
-            "Bank Transfer",
-            "Cash Deposit to Bank",
             "Twint"
           ],
-          "adv_no": "13894664478762012672",
-          "link": "https://c2c.binance.com/en/adv?code=13894664478762012672"
+          "adv_no": "12912583512670539776",
+          "link": "https://c2c.binance.com/en/adv?code=12912583512670539776"
         },
         "sell": {
           "platform": "Binance",
@@ -229,7 +226,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788274171.5348396,
+      "fetched_at": 1788274477.2171254,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -240,8 +237,8 @@
           "completion_rate": 1.0,
           "order_count": 125,
           "min_limit": 50.0,
-          "max_limit": 1604.379,
-          "available": 2005.4739,
+          "max_limit": 1154.379,
+          "available": 1442.9739,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
