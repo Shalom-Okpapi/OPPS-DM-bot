@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788288874.2733154,
+      "fetched_at": 1788289107.1010506,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1377.5,
-          "merchant_name": "Iyeos1",
-          "completion_rate": 1.0,
-          "order_count": 565,
-          "min_limit": 50000.0,
-          "max_limit": 999680.53,
-          "available": 725.7209,
+          "price": 1376.0,
+          "merchant_name": "Dominicity ",
+          "completion_rate": 0.97,
+          "order_count": 141,
+          "min_limit": 5000.0,
+          "max_limit": 136101.53,
+          "available": 98.911,
           "payment_methods": [],
-          "adv_no": "2049801154086170624",
+          "adv_no": "1841423272442908672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -152,41 +152,43 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788285341.4440937,
+      "fetched_at": 1788288947.1076035,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.856,
-          "merchant_name": "SwissValutaExchange",
+          "price": 0.884,
+          "merchant_name": "User-63027",
           "completion_rate": 1.0,
-          "order_count": 27,
-          "min_limit": 10.0,
-          "max_limit": 10000.0,
-          "available": 1023.83,
+          "order_count": 84,
+          "min_limit": 20.0,
+          "max_limit": 650.0,
+          "available": 737.25,
           "payment_methods": [
-            "Twint"
+            "Bank Transfer",
+            "Cash Deposit to Bank",
+            "Instant Transfer"
           ],
-          "adv_no": "12915849653880389632",
-          "link": "https://c2c.binance.com/en/adv?code=12915849653880389632"
+          "adv_no": "12915291931766640640",
+          "link": "https://c2c.binance.com/en/adv?code=12915291931766640640"
         },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.796,
-          "merchant_name": "SwissValutaExchange",
+          "price": 0.79,
+          "merchant_name": "User-63027",
           "completion_rate": 1.0,
-          "order_count": 27,
-          "min_limit": 10.0,
-          "max_limit": 10000.0,
-          "available": 2200.08,
+          "order_count": 84,
+          "min_limit": 50.0,
+          "max_limit": 1700.0,
+          "available": 2150.0,
           "payment_methods": [
             "Twint"
           ],
-          "adv_no": "12915019271018102784",
-          "link": "https://c2c.binance.com/en/adv?code=12915019271018102784"
+          "adv_no": "12908101883721568256",
+          "link": "https://c2c.binance.com/en/adv?code=12908101883721568256"
         }
       }
     },
@@ -228,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788288873.1163278,
+      "fetched_at": 1788289108.8335025,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
