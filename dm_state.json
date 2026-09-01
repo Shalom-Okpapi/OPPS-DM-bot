@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788302979.1915503,
+      "fetched_at": 1788303280.3501275,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1377.0,
-          "merchant_name": "Meliss4",
-          "completion_rate": 0.99,
-          "order_count": 476,
+          "price": 1375.9,
+          "merchant_name": "Dadi_bulee",
+          "completion_rate": 1.0,
+          "order_count": 124,
           "min_limit": 4500.0,
           "max_limit": 50000.0,
-          "available": 222.4827,
+          "available": 711.7179,
           "payment_methods": [],
-          "adv_no": "2094905207205244928",
+          "adv_no": "2094848553159254016",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,22 +239,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1788302980.333576,
+      "fetched_at": 1788303279.430868,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.996,
-          "merchant_name": "SBFast-payment",
-          "completion_rate": 0.99,
-          "order_count": 593,
-          "min_limit": 30.0,
-          "max_limit": 380.363,
-          "available": 381.8907,
-          "payment_methods": [],
-          "adv_no": "2080333328311201792",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.998,
+          "merchant_name": "\u91d1\u8bda-usdt",
+          "completion_rate": 1.0,
+          "order_count": 385,
+          "min_limit": 10.0,
+          "max_limit": 650.0,
+          "available": 378.43,
+          "payment_methods": [
+            "ABA",
+            "KHQR"
+          ],
+          "adv_no": "12926172229698088960",
+          "link": "https://c2c.binance.com/en/adv?code=12926172229698088960"
         },
         "sell": {
           "platform": "Bybit",
