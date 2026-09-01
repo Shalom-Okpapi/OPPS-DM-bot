@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788222880.2301385,
+      "fetched_at": 1788223174.710144,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1377.5,
-          "merchant_name": "DEOO",
-          "completion_rate": 0.97,
-          "order_count": 34,
-          "min_limit": 50000.0,
-          "max_limit": 178725.52,
-          "available": 129.7463,
+          "price": 1378.0,
+          "merchant_name": "PIO2917",
+          "completion_rate": 1.0,
+          "order_count": 213,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 85.9921,
           "payment_methods": [],
-          "adv_no": "2093599140353327104",
+          "adv_no": "2091158978522816512",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -152,7 +152,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788219473.3448439,
+      "fetched_at": 1788223097.4369524,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -160,8 +160,8 @@
           "fiat": "CHF",
           "price": 0.88,
           "merchant_name": "SwissFastChange",
-          "completion_rate": 0.963,
-          "order_count": 26,
+          "completion_rate": 0.962,
+          "order_count": 25,
           "min_limit": 50.0,
           "max_limit": 230.0,
           "available": 263.66,
@@ -177,8 +177,8 @@
           "fiat": "CHF",
           "price": 0.773,
           "merchant_name": "Best_Twint_Exchange",
-          "completion_rate": 0.993,
-          "order_count": 125,
+          "completion_rate": 0.992,
+          "order_count": 118,
           "min_limit": 50.0,
           "max_limit": 100000.0,
           "available": 1940135.33,
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788222881.5037975,
+      "fetched_at": 1788223175.8215268,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,7 +256,7 @@
           "price": 1.2,
           "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 1147,
+          "order_count": 1135,
           "min_limit": 10.0,
           "max_limit": 100000.0,
           "available": 99709.8425,
