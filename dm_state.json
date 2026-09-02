@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788383975.7804716,
+      "fetched_at": 1788384226.7595851,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1376.5,
           "merchant_name": "Iyeos1",
           "completion_rate": 1.0,
-          "order_count": 562,
+          "order_count": 563,
           "min_limit": 50000.0,
           "max_limit": 173727.37,
           "available": 126.2095,
@@ -156,26 +156,25 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788380525.2819536,
+      "fetched_at": 1788384148.348928,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.9,
-          "merchant_name": "User-63027",
-          "completion_rate": 1.0,
-          "order_count": 92,
+          "price": 0.875,
+          "merchant_name": "AhmadzaiExchange247",
+          "completion_rate": 0.959,
+          "order_count": 115,
           "min_limit": 50.0,
-          "max_limit": 118.0,
-          "available": 132.05,
+          "max_limit": 89.0,
+          "available": 102.15,
           "payment_methods": [
-            "Bank Transfer",
-            "Instant Transfer",
-            "Twint"
+            "Twint",
+            "Bank Transfer"
           ],
-          "adv_no": "12915291931766640640",
-          "link": "https://c2c.binance.com/en/adv?code=12915291931766640640"
+          "adv_no": "12919831062342901760",
+          "link": "https://c2c.binance.com/en/adv?code=12919831062342901760"
         },
         "sell": {
           "platform": "Binance",
@@ -236,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788383973.994076,
+      "fetched_at": 1788384225.74976,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -258,14 +257,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Aliyous",
+          "merchant_name": "Adi_Melo",
           "completion_rate": 1.0,
-          "order_count": 380,
-          "min_limit": 10.0,
-          "max_limit": 13002.387,
-          "available": 10835.3231,
+          "order_count": 72,
+          "min_limit": 50.0,
+          "max_limit": 100000.0,
+          "available": 90907.6966,
           "payment_methods": [],
-          "adv_no": "1969417928054837248",
+          "adv_no": "1971136860101709824",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
