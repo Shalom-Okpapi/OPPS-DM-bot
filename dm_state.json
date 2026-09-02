@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788379688.9852605,
+      "fetched_at": 1788380215.0078807,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1376.99,
-          "merchant_name": "RAJJ-TECH",
-          "completion_rate": 1.0,
-          "order_count": 5463,
-          "min_limit": 4500.0,
-          "max_limit": 100000.0,
-          "available": 2860.6382,
+          "price": 1376.9,
+          "merchant_name": "Ricch-exchange",
+          "completion_rate": 0.95,
+          "order_count": 2687,
+          "min_limit": 50000.0,
+          "max_limit": 826140.0,
+          "available": 600.0,
           "payment_methods": [],
-          "adv_no": "2050658016876621824",
+          "adv_no": "1627632154568613888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788379690.0839965,
+      "fetched_at": 1788380216.0078523,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -248,8 +248,8 @@
           "completion_rate": 1.0,
           "order_count": 125,
           "min_limit": 50.0,
-          "max_limit": 1431.241,
-          "available": 1789.052,
+          "max_limit": 1381.241,
+          "available": 1726.552,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
