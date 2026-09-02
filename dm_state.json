@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788344074.9643466,
+      "fetched_at": 1788344374.2812297,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1376.8,
-          "merchant_name": "BitcoinMaster..",
-          "completion_rate": 0.99,
-          "order_count": 1472,
+          "price": 1376.0,
+          "merchant_name": "BITFORCE",
+          "completion_rate": 1.0,
+          "order_count": 48,
           "min_limit": 20000.0,
-          "max_limit": 100000.0,
-          "available": 353.9618,
+          "max_limit": 440306.37,
+          "available": 319.9901,
           "payment_methods": [],
-          "adv_no": "2077038206362677248",
+          "adv_no": "2056062628198739968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1381.0,
-          "merchant_name": "KEENG.YEARHAYER",
-          "completion_rate": 0.99,
-          "order_count": 868,
-          "min_limit": 20000.0,
-          "max_limit": 5000000.0,
-          "available": 46708.9935,
+          "price": 1380.0,
+          "merchant_name": "TommyXchange",
+          "completion_rate": 1.0,
+          "order_count": 34,
+          "min_limit": 32000.0,
+          "max_limit": 52000.0,
+          "available": 20000.0,
           "payment_methods": [],
-          "adv_no": "2086056495635931136",
+          "adv_no": "2093979003843088384",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788344074.2613387,
+      "fetched_at": 1788344375.5102577,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
