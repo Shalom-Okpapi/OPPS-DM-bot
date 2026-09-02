@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788351822.4302046,
+      "fetched_at": 1788352170.4389372,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1377.0,
-          "merchant_name": "Kryptogenix",
-          "completion_rate": 1.0,
-          "order_count": 195,
-          "min_limit": 20000.0,
-          "max_limit": 60799.23,
-          "available": 44.1534,
+          "price": 1377.98,
+          "merchant_name": "Ricch-exchange",
+          "completion_rate": 0.95,
+          "order_count": 2654,
+          "min_limit": 50000.0,
+          "max_limit": 1690912.5,
+          "available": 1227.0951,
           "payment_methods": [],
-          "adv_no": "1785203880432259072",
+          "adv_no": "1627632154568613888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1380.09,
-          "merchant_name": "bashy001",
-          "completion_rate": 0.96,
-          "order_count": 433,
-          "min_limit": 30000.0,
-          "max_limit": 50000.0,
-          "available": 1140.4584,
+          "price": 1380.0,
+          "merchant_name": "TommyXchange",
+          "completion_rate": 1.0,
+          "order_count": 34,
+          "min_limit": 32000.0,
+          "max_limit": 52000.0,
+          "available": 20000.0,
           "payment_methods": [],
-          "adv_no": "2093830314223247360",
+          "adv_no": "2093979003843088384",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788351821.375036,
+      "fetched_at": 1788352171.4965603,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -272,7 +272,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 0,
+  "consecutive_poll_failures": 1,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
     "at": 1787535397.781533,
