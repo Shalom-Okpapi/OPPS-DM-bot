@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788336571.0065868,
+      "fetched_at": 1788336881.1491935,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1374.0,
-          "merchant_name": "AmirrrrAfzallll",
-          "completion_rate": 1.0,
-          "order_count": 93,
+          "price": 1376.5,
+          "merchant_name": "DEAL~EXPRESS",
+          "completion_rate": 0.99,
+          "order_count": 1204,
           "min_limit": 50000.0,
-          "max_limit": 60000.0,
-          "available": 111.6698,
+          "max_limit": 250000.0,
+          "available": 656.9663,
           "payment_methods": [],
-          "adv_no": "2081357797632847872",
+          "adv_no": "2085284964263866368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -152,25 +152,24 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788332975.8092299,
+      "fetched_at": 1788336644.6052847,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.875,
-          "merchant_name": "AhmadzaiExchange247",
-          "completion_rate": 0.958,
-          "order_count": 113,
+          "price": 0.868,
+          "merchant_name": "SwissValutaExchange",
+          "completion_rate": 1.0,
+          "order_count": 30,
           "min_limit": 10.0,
-          "max_limit": 55.0,
-          "available": 63.1,
+          "max_limit": 10000.0,
+          "available": 2605.2,
           "payment_methods": [
-            "Twint",
-            "Bank Transfer"
+            "Twint"
           ],
-          "adv_no": "12919831062342901760",
-          "link": "https://c2c.binance.com/en/adv?code=12919831062342901760"
+          "adv_no": "12915849653880389632",
+          "link": "https://c2c.binance.com/en/adv?code=12915849653880389632"
         },
         "sell": {
           "platform": "Binance",
@@ -179,7 +178,7 @@
           "price": 0.787,
           "merchant_name": "User-63027",
           "completion_rate": 1.0,
-          "order_count": 85,
+          "order_count": 89,
           "min_limit": 50.0,
           "max_limit": 1300.0,
           "available": 1670.0,
@@ -231,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788336572.0168338,
+      "fetched_at": 1788336879.807854,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
