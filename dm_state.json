@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788332679.9001582,
+      "fetched_at": 1788332975.0325732,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -152,7 +152,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788329297.6878967,
+      "fetched_at": 1788332975.8092299,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -176,22 +176,18 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.773,
-          "merchant_name": "Best_Twint_Exchange",
-          "completion_rate": 0.992,
-          "order_count": 121,
+          "price": 0.787,
+          "merchant_name": "User-63027",
+          "completion_rate": 1.0,
+          "order_count": 85,
           "min_limit": 50.0,
-          "max_limit": 100000.0,
-          "available": 1940135.33,
+          "max_limit": 1300.0,
+          "available": 1670.0,
           "payment_methods": [
-            "Twint",
-            "Instant Transfer",
-            "Bank Transfer",
-            "Cash Deposit to Bank",
-            "ZEN"
+            "Twint"
           ],
-          "adv_no": "12883507269642735616",
-          "link": "https://c2c.binance.com/en/adv?code=12883507269642735616"
+          "adv_no": "12908101883721568256",
+          "link": "https://c2c.binance.com/en/adv?code=12908101883721568256"
         }
       }
     },
@@ -235,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788332679.1005068,
+      "fetched_at": 1788332974.2579408,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -244,7 +240,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 996,
+          "order_count": 997,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 38042.6043,
