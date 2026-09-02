@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788352170.4389372,
+      "fetched_at": 1788352479.693564,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1377.98,
-          "merchant_name": "Ricch-exchange",
-          "completion_rate": 0.95,
-          "order_count": 2654,
+          "price": 1374.0,
+          "merchant_name": "AmirrrrAfzallll",
+          "completion_rate": 1.0,
+          "order_count": 99,
           "min_limit": 50000.0,
-          "max_limit": 1690912.5,
-          "available": 1227.0951,
+          "max_limit": 60000.0,
+          "available": 278.3239,
           "payment_methods": [],
-          "adv_no": "1627632154568613888",
+          "adv_no": "2081357797632847872",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788352171.4965603,
+      "fetched_at": 1788352481.0646398,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -261,7 +261,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 373,
+          "order_count": 374,
           "min_limit": 10.0,
           "max_limit": 12164.787,
           "available": 10137.3231,
@@ -272,7 +272,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 1,
+  "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
     "at": 1787535397.781533,
