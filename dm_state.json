@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788378277.9015949,
+      "fetched_at": 1788378578.6979563,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1377.0,
-          "merchant_name": "FAST_PAY_",
-          "completion_rate": 0.99,
-          "order_count": 13839,
-          "min_limit": 20000.0,
-          "max_limit": 1000000.0,
-          "available": 1293.6728,
+          "price": 1376.0,
+          "merchant_name": "shugarxchange",
+          "completion_rate": 1.0,
+          "order_count": 85,
+          "min_limit": 50000.0,
+          "max_limit": 53183.63,
+          "available": 38.6509,
           "payment_methods": [],
-          "adv_no": "2046603189319974912",
+          "adv_no": "2065625994660515840",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788378276.8268354,
+      "fetched_at": 1788378577.3908463,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
