@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788327875.9824843,
+      "fetched_at": 1788328180.5210133,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1377.0,
-          "merchant_name": "Eyesheart",
+          "price": 1376.99,
+          "merchant_name": "Barbie exchange",
           "completion_rate": 0.99,
-          "order_count": 110,
+          "order_count": 562,
           "min_limit": 50000.0,
-          "max_limit": 196560.55,
-          "available": 142.7455,
+          "max_limit": 100000.0,
+          "available": 334.4041,
           "payment_methods": [],
-          "adv_no": "1895411500275671040",
+          "adv_no": "2093237938064760832",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1788324508.9002564,
+      "fetched_at": 1788328184.0742388,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,10 +91,10 @@
           "price": 0.864,
           "merchant_name": "B_O_R_Z",
           "completion_rate": 1.0,
-          "order_count": 741,
+          "order_count": 742,
           "min_limit": 2.0,
-          "max_limit": 25888.478,
-          "available": 29963.5173,
+          "max_limit": 25689.198,
+          "available": 29732.8692,
           "payment_methods": [],
           "adv_no": "2085425593136709632",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -104,20 +104,20 @@
           "trade_type": "SELL",
           "fiat": "EUR",
           "price": 1.036,
-          "merchant_name": "126779@CariG",
+          "merchant_name": "Vlasta",
           "completion_rate": 1.0,
-          "order_count": 27,
+          "order_count": 24,
           "min_limit": 50.0,
-          "max_limit": 99.0,
-          "available": 20000.0,
+          "max_limit": 100.0,
+          "available": 19758.2672,
           "payment_methods": [],
-          "adv_no": "2074405966960529408",
+          "adv_no": "2069131833855619072",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "JPY": {
-      "fetched_at": 1788324506.3603156,
+      "fetched_at": 1788328181.7038116,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -141,10 +141,10 @@
           "price": 178.57,
           "merchant_name": "Takara68",
           "completion_rate": 0.98,
-          "order_count": 710,
+          "order_count": 718,
           "min_limit": 3000.0,
           "max_limit": 500000.0,
-          "available": 33150.12,
+          "available": 32457.69,
           "payment_methods": [
             "PayPay Money"
           ],
@@ -198,24 +198,24 @@
       }
     },
     "GBP": {
-      "fetched_at": 1788324507.9275186,
+      "fetched_at": 1788328182.8951,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "GBP",
-          "price": 0.775,
-          "merchant_name": "Wise-PrimeFlow",
-          "completion_rate": 0.996,
-          "order_count": 400,
-          "min_limit": 20.0,
-          "max_limit": 500.0,
-          "available": 1669.77,
+          "price": 0.766,
+          "merchant_name": "Wise\u767d\u6cfd-Instant",
+          "completion_rate": 0.997,
+          "order_count": 291,
+          "min_limit": 10.0,
+          "max_limit": 3000.0,
+          "available": 14056.23,
           "payment_methods": [
             "Bank Transfer"
           ],
-          "adv_no": "13919237276624265216",
-          "link": "https://c2c.binance.com/en/adv?code=13919237276624265216"
+          "adv_no": "13885729988932505600",
+          "link": "https://c2c.binance.com/en/adv?code=13885729988932505600"
         },
         "sell": {
           "platform": "Binance",
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788327876.734816,
+      "fetched_at": 1788328178.9535654,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
