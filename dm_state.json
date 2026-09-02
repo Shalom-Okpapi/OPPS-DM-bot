@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788350973.5477848,
+      "fetched_at": 1788351277.26546,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1377.96,
-          "merchant_name": "S\u2019BrightXchange",
-          "completion_rate": 0.97,
-          "order_count": 1722,
-          "min_limit": 4500.0,
-          "max_limit": 100000.0,
-          "available": 76.1875,
+          "price": 1377.0,
+          "merchant_name": "Kryptogenix",
+          "completion_rate": 1.0,
+          "order_count": 194,
+          "min_limit": 20000.0,
+          "max_limit": 60799.23,
+          "available": 44.1534,
           "payment_methods": [],
-          "adv_no": "1861445960236425216",
+          "adv_no": "1785203880432259072",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 431,
           "min_limit": 30000.0,
           "max_limit": 150000.0,
-          "available": 1120.5778,
+          "available": 1064.3765,
           "payment_methods": [],
           "adv_no": "2093830314223247360",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -154,27 +154,25 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788347524.1966374,
+      "fetched_at": 1788351200.1183758,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.925,
-          "merchant_name": "Best_Twint_Exchange",
-          "completion_rate": 0.985,
-          "order_count": 124,
+          "price": 0.895,
+          "merchant_name": "Aura_Change",
+          "completion_rate": 1.0,
+          "order_count": 37,
           "min_limit": 50.0,
-          "max_limit": 3000.0,
-          "available": 23719.24,
+          "max_limit": 2000.0,
+          "available": 99.1,
           "payment_methods": [
-            "Instant Transfer",
-            "Bank Transfer",
-            "Cash Deposit to Bank",
-            "Twint"
+            "Twint",
+            "Bank Transfer"
           ],
-          "adv_no": "13894664478762012672",
-          "link": "https://c2c.binance.com/en/adv?code=13894664478762012672"
+          "adv_no": "12915872893755219968",
+          "link": "https://c2c.binance.com/en/adv?code=12915872893755219968"
         },
         "sell": {
           "platform": "Binance",
@@ -239,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788350972.5925658,
+      "fetched_at": 1788351278.1530452,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
