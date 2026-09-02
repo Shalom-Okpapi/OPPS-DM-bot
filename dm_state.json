@@ -47,18 +47,18 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788366504.5706367,
+      "fetched_at": 1788367051.9476113,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1377.0,
+          "price": 1374.5,
           "merchant_name": "AngelExRub",
           "completion_rate": 0.99,
           "order_count": 492,
-          "min_limit": 50000.0,
-          "max_limit": 150000.0,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
           "available": 120.0,
           "payment_methods": [],
           "adv_no": "2087163730472017920",
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788366502.9477801,
+      "fetched_at": 1788367051.0376208,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -260,8 +260,8 @@
           "completion_rate": 1.0,
           "order_count": 376,
           "min_limit": 10.0,
-          "max_limit": 13134.387,
-          "available": 10945.3231,
+          "max_limit": 13014.387,
+          "available": 10845.3231,
           "payment_methods": [],
           "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
