@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788355988.9066021,
+      "fetched_at": 1788356463.7426748,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1377.29,
-          "merchant_name": "PMarts-SG",
+          "price": 1377.3,
+          "merchant_name": "GLOBAL-EXCHANG",
           "completion_rate": 1.0,
-          "order_count": 218,
-          "min_limit": 10000.0,
-          "max_limit": 110000.0,
-          "available": 128.8229,
+          "order_count": 332,
+          "min_limit": 5000.0,
+          "max_limit": 200000.0,
+          "available": 729.0567,
           "payment_methods": [],
-          "adv_no": "2095134816754610176",
+          "adv_no": "2089132110764191744",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1380.09,
           "merchant_name": "bashy001",
           "completion_rate": 0.96,
-          "order_count": 438,
+          "order_count": 440,
           "min_limit": 30000.0,
           "max_limit": 120000.0,
-          "available": 1010.0322,
+          "available": 936.364,
           "payment_methods": [],
           "adv_no": "2093830314223247360",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788355989.740256,
+      "fetched_at": 1788356465.1001801,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
