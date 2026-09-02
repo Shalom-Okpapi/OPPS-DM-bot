@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788343774.3143077,
+      "fetched_at": 1788344074.9643466,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1377.0,
-          "merchant_name": "Ems Global ",
-          "completion_rate": 1.0,
-          "order_count": 368,
-          "min_limit": 50000.0,
-          "max_limit": 5348882.55,
-          "available": 3884.4463,
+          "price": 1376.8,
+          "merchant_name": "BitcoinMaster..",
+          "completion_rate": 0.99,
+          "order_count": 1472,
+          "min_limit": 20000.0,
+          "max_limit": 100000.0,
+          "available": 353.9618,
           "payment_methods": [],
-          "adv_no": "1979121959575638016",
+          "adv_no": "2077038206362677248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1380.0,
-          "merchant_name": "TommyXchange",
-          "completion_rate": 1.0,
-          "order_count": 34,
-          "min_limit": 32000.0,
-          "max_limit": 52000.0,
-          "available": 20000.0,
+          "price": 1381.0,
+          "merchant_name": "KEENG.YEARHAYER",
+          "completion_rate": 0.99,
+          "order_count": 868,
+          "min_limit": 20000.0,
+          "max_limit": 5000000.0,
+          "available": 46708.9935,
           "payment_methods": [],
-          "adv_no": "2093979003843088384",
+          "adv_no": "2086056495635931136",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -154,24 +154,26 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788340284.1884534,
+      "fetched_at": 1788343918.6562624,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.868,
-          "merchant_name": "SwissValutaExchange",
+          "price": 0.87,
+          "merchant_name": "User-63027",
           "completion_rate": 1.0,
-          "order_count": 33,
-          "min_limit": 10.0,
-          "max_limit": 10000.0,
-          "available": 2144.38,
+          "order_count": 90,
+          "min_limit": 50.0,
+          "max_limit": 1550.0,
+          "available": 143.4,
           "payment_methods": [
+            "Bank Transfer",
+            "Instant Transfer",
             "Twint"
           ],
-          "adv_no": "12915849653880389632",
-          "link": "https://c2c.binance.com/en/adv?code=12915849653880389632"
+          "adv_no": "12915291931766640640",
+          "link": "https://c2c.binance.com/en/adv?code=12915291931766640640"
         },
         "sell": {
           "platform": "Binance",
@@ -179,8 +181,8 @@
           "fiat": "CHF",
           "price": 0.773,
           "merchant_name": "Best_Twint_Exchange",
-          "completion_rate": 0.984,
-          "order_count": 122,
+          "completion_rate": 0.985,
+          "order_count": 124,
           "min_limit": 50.0,
           "max_limit": 100000.0,
           "available": 1940135.33,
@@ -236,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788343775.0350075,
+      "fetched_at": 1788344074.2613387,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
