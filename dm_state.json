@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788406175.3998687,
+      "fetched_at": 1788406477.9501297,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -156,26 +156,9 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788402668.7246053,
+      "fetched_at": 1788406480.0718722,
       "snapshot": {
-        "buy": {
-          "platform": "Binance",
-          "trade_type": "BUY",
-          "fiat": "CHF",
-          "price": 0.875,
-          "merchant_name": "AhmadzaiExchange247",
-          "completion_rate": 0.958,
-          "order_count": 113,
-          "min_limit": 50.0,
-          "max_limit": 89.0,
-          "available": 102.15,
-          "payment_methods": [
-            "Twint",
-            "Bank Transfer"
-          ],
-          "adv_no": "12919831062342901760",
-          "link": "https://c2c.binance.com/en/adv?code=12919831062342901760"
-        },
+        "buy": null,
         "sell": null
       }
     },
@@ -219,7 +202,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788406177.3126228,
+      "fetched_at": 1788406479.0173845,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
