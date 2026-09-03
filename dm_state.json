@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788440380.5651472,
+      "fetched_at": 1788440685.555803,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1375.67,
-          "merchant_name": "Bolzingar",
-          "completion_rate": 1.0,
-          "order_count": 86,
-          "min_limit": 4500.0,
-          "max_limit": 275134.0,
-          "available": 200.0,
+          "price": 1375.5,
+          "merchant_name": "Ab_xchange",
+          "completion_rate": 0.96,
+          "order_count": 106,
+          "min_limit": 20000.0,
+          "max_limit": 63052.23,
+          "available": 45.8395,
           "payment_methods": [],
-          "adv_no": "2092614855571562496",
+          "adv_no": "2095432927064367104",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -154,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788436933.2761712,
+      "fetched_at": 1788440605.4392855,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -163,10 +163,10 @@
           "price": 0.89,
           "merchant_name": "User-63027",
           "completion_rate": 1.0,
-          "order_count": 95,
+          "order_count": 96,
           "min_limit": 50.0,
           "max_limit": 360.0,
-          "available": 405.0,
+          "available": 337.59,
           "payment_methods": [
             "Bank Transfer",
             "Instant Transfer",
@@ -182,7 +182,7 @@
           "price": 0.785,
           "merchant_name": "User-63027",
           "completion_rate": 1.0,
-          "order_count": 95,
+          "order_count": 96,
           "min_limit": 50.0,
           "max_limit": 2700.0,
           "available": 2682.27,
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788440379.6554127,
+      "fetched_at": 1788440686.6058292,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
