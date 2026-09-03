@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788472775.353034,
+      "fetched_at": 1788473330.845331,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.0,
-          "merchant_name": "Kryptogenix",
+          "price": 1374.0,
+          "merchant_name": "Olaykfx",
           "completion_rate": 1.0,
-          "order_count": 198,
+          "order_count": 596,
           "min_limit": 20000.0,
-          "max_limit": 3147017.19,
-          "available": 2292.0737,
+          "max_limit": 116252.9,
+          "available": 84.6091,
           "payment_methods": [],
-          "adv_no": "1785203880432259072",
+          "adv_no": "2094799369106550784",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1381.0,
           "merchant_name": "Olaykfx",
           "completion_rate": 1.0,
-          "order_count": 593,
+          "order_count": 596,
           "min_limit": 50000.0,
           "max_limit": 200000.0,
           "available": 500.0,
@@ -236,22 +236,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1788472774.6287844,
+      "fetched_at": 1788473332.1498578,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.985,
-          "merchant_name": "an.noor104",
-          "completion_rate": 0.99,
-          "order_count": 1001,
-          "min_limit": 20.0,
-          "max_limit": 1676.026,
-          "available": 1701.5494,
-          "payment_methods": [],
-          "adv_no": "2079526113396768768",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.996,
+          "merchant_name": "User-fe4b2dhq",
+          "completion_rate": 1.0,
+          "order_count": 32,
+          "min_limit": 30.0,
+          "max_limit": 200.0,
+          "available": 688.23,
+          "payment_methods": [
+            "ABA",
+            "KHQR"
+          ],
+          "adv_no": "12915616891951333376",
+          "link": "https://c2c.binance.com/en/adv?code=12915616891951333376"
         },
         "sell": {
           "platform": "Bybit",
