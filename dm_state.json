@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788455376.723844,
+      "fetched_at": 1788455937.8195546,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1374.5,
           "merchant_name": "Iyeos1",
           "completion_rate": 1.0,
-          "order_count": 575,
+          "order_count": 576,
           "min_limit": 50000.0,
           "max_limit": 569136.87,
           "available": 414.0683,
@@ -154,42 +154,46 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788451779.9489615,
+      "fetched_at": 1788455698.82623,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.875,
-          "merchant_name": "AhmadzaiExchange247",
-          "completion_rate": 0.959,
-          "order_count": 115,
+          "price": 0.925,
+          "merchant_name": "Best_Twint_Exchange",
+          "completion_rate": 0.986,
+          "order_count": 137,
           "min_limit": 50.0,
-          "max_limit": 93.0,
-          "available": 107.36,
+          "max_limit": 3000.0,
+          "available": 21276.02,
           "payment_methods": [
-            "Twint",
-            "Bank Transfer"
+            "Instant Transfer",
+            "Bank Transfer",
+            "Cash Deposit to Bank",
+            "Twint"
           ],
-          "adv_no": "12919831062342901760",
-          "link": "https://c2c.binance.com/en/adv?code=12919831062342901760"
+          "adv_no": "13894664478762012672",
+          "link": "https://c2c.binance.com/en/adv?code=13894664478762012672"
         },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.785,
-          "merchant_name": "User-63027",
-          "completion_rate": 1.0,
-          "order_count": 98,
+          "price": 0.825,
+          "merchant_name": "AhmadzaiExchange247",
+          "completion_rate": 0.959,
+          "order_count": 116,
           "min_limit": 50.0,
-          "max_limit": 2700.0,
-          "available": 2582.35,
+          "max_limit": 58.0,
+          "available": 70.0,
           "payment_methods": [
-            "Twint"
+            "Twint",
+            "Bank Transfer",
+            "Cash Deposit to Bank"
           ],
-          "adv_no": "12908101883721568256",
-          "link": "https://c2c.binance.com/en/adv?code=12908101883721568256"
+          "adv_no": "12905395337477709824",
+          "link": "https://c2c.binance.com/en/adv?code=12905395337477709824"
         }
       }
     },
@@ -231,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788455375.810415,
+      "fetched_at": 1788455936.9330242,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -255,7 +259,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 374,
+          "order_count": 375,
           "min_limit": 10.0,
           "max_limit": 12443.59,
           "available": 10369.6584,
