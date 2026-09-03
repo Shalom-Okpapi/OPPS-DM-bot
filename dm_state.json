@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788477279.649175,
+      "fetched_at": 1788477574.0961742,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1374.0,
-          "merchant_name": "Zubbywill",
-          "completion_rate": 1.0,
-          "order_count": 155,
+          "price": 1373.0,
+          "merchant_name": "CONFIRM_ME",
+          "completion_rate": 0.99,
+          "order_count": 631,
           "min_limit": 20000.0,
-          "max_limit": 216769.52,
-          "available": 157.7653,
+          "max_limit": 200000.0,
+          "available": 2120.8884,
           "payment_methods": [],
-          "adv_no": "1823812150778957824",
+          "adv_no": "2089406363004067840",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788477278.5033402,
+      "fetched_at": 1788477575.1751013,
       "snapshot": {
         "buy": {
           "platform": "Binance",
