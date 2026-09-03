@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788478491.3717604,
+      "fetched_at": 1788478775.0585725,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1372.3,
-          "merchant_name": "ALLYMAN",
+          "price": 1373.0,
+          "merchant_name": "CONFIRM_ME",
           "completion_rate": 0.99,
-          "order_count": 147,
-          "min_limit": 12000.0,
-          "max_limit": 121252.03,
-          "available": 88.3568,
+          "order_count": 639,
+          "min_limit": 20000.0,
+          "max_limit": 200000.0,
+          "available": 1429.0501,
           "payment_methods": [],
-          "adv_no": "2031322264863911936",
+          "adv_no": "2089406363004067840",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788478490.2837,
+      "fetched_at": 1788478776.1131518,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
