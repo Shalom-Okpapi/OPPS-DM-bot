@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788471211.9982238,
+      "fetched_at": 1788471520.5518954,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1374.0,
-          "merchant_name": "Olaykfx",
-          "completion_rate": 1.0,
-          "order_count": 585,
-          "min_limit": 20000.0,
-          "max_limit": 52832.22,
-          "available": 38.4514,
+          "merchant_name": "Decorator",
+          "completion_rate": 0.99,
+          "order_count": 1916,
+          "min_limit": 9000.0,
+          "max_limit": 150000.0,
+          "available": 676.1316,
           "payment_methods": [],
-          "adv_no": "2094799369106550784",
+          "adv_no": "1968570697613799424",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1381.0,
           "merchant_name": "Olaykfx",
           "completion_rate": 1.0,
-          "order_count": 585,
+          "order_count": 588,
           "min_limit": 50000.0,
           "max_limit": 200000.0,
           "available": 500.0,
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788471210.3372247,
+      "fetched_at": 1788471519.5008562,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -245,7 +245,7 @@
           "price": 0.985,
           "merchant_name": "an.noor104",
           "completion_rate": 0.99,
-          "order_count": 1000,
+          "order_count": 1001,
           "min_limit": 20.0,
           "max_limit": 1676.026,
           "available": 1701.5494,
