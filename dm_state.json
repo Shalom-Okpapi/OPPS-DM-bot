@@ -47,19 +47,19 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788473873.2232468,
+      "fetched_at": 1788474429.002312,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1374.5,
+          "price": 1374.0,
           "merchant_name": "Decorator",
           "completion_rate": 0.99,
-          "order_count": 1937,
+          "order_count": 1938,
           "min_limit": 9000.0,
           "max_limit": 150000.0,
-          "available": 541.0929,
+          "available": 511.988,
           "payment_methods": [],
           "adv_no": "1968570697613799424",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1381.0,
-          "merchant_name": "Olaykfx",
+          "price": 1380.0,
+          "merchant_name": "TommyXchange",
           "completion_rate": 1.0,
-          "order_count": 598,
-          "min_limit": 50000.0,
-          "max_limit": 200000.0,
-          "available": 500.0,
+          "order_count": 34,
+          "min_limit": 32000.0,
+          "max_limit": 52000.0,
+          "available": 20000.0,
           "payment_methods": [],
-          "adv_no": "2095602179264225280",
+          "adv_no": "2093979003843088384",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -156,7 +156,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788470297.9930632,
+      "fetched_at": 1788474194.8573425,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788473874.3291116,
+      "fetched_at": 1788474430.2087796,
       "snapshot": {
         "buy": {
           "platform": "Binance",
