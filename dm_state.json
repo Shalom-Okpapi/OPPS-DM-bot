@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788462881.3307192,
+      "fetched_at": 1788463180.344013,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1374.0,
-          "merchant_name": "Dadi_bulee",
-          "completion_rate": 0.99,
-          "order_count": 300,
-          "min_limit": 4500.0,
-          "max_limit": 189871.96,
-          "available": 138.1892,
+          "price": 1374.5,
+          "merchant_name": "Iyeos1",
+          "completion_rate": 1.0,
+          "order_count": 580,
+          "min_limit": 50000.0,
+          "max_limit": 797821.24,
+          "available": 580.4447,
           "payment_methods": [],
-          "adv_no": "2094848553159254016",
+          "adv_no": "2049801154086170624",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -156,7 +156,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788459345.9515839,
+      "fetched_at": 1788463023.5719342,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -166,7 +166,7 @@
           "merchant_name": "User-63027",
           "completion_rate": 1.0,
           "order_count": 101,
-          "min_limit": 49.0,
+          "min_limit": 50.0,
           "max_limit": 565.0,
           "available": 634.98,
           "payment_methods": [
@@ -181,13 +181,13 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.785,
+          "price": 0.79,
           "merchant_name": "User-63027",
           "completion_rate": 1.0,
           "order_count": 101,
           "min_limit": 50.0,
-          "max_limit": 2700.0,
-          "available": 2582.35,
+          "max_limit": 1350.0,
+          "available": 1710.0,
           "payment_methods": [
             "Twint"
           ],
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788462882.254846,
+      "fetched_at": 1788463182.0030575,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
