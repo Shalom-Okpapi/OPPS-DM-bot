@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788459274.7740297,
+      "fetched_at": 1788459580.5812235,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1374.0,
-          "merchant_name": "fast_chuks",
-          "completion_rate": 1.0,
-          "order_count": 155,
+          "merchant_name": "Rock_Crypto",
+          "completion_rate": 0.97,
+          "order_count": 37,
           "min_limit": 5000.0,
-          "max_limit": 662366.24,
-          "available": 482.0715,
+          "max_limit": 131429.97,
+          "available": 95.655,
           "payment_methods": [],
-          "adv_no": "1731719823147819008",
+          "adv_no": "2046829999897337856",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -154,46 +154,43 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788455698.82623,
+      "fetched_at": 1788459345.9515839,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.925,
-          "merchant_name": "Best_Twint_Exchange",
-          "completion_rate": 0.986,
-          "order_count": 137,
-          "min_limit": 50.0,
-          "max_limit": 3000.0,
-          "available": 21276.02,
+          "price": 0.89,
+          "merchant_name": "User-63027",
+          "completion_rate": 1.0,
+          "order_count": 101,
+          "min_limit": 49.0,
+          "max_limit": 565.0,
+          "available": 634.98,
           "payment_methods": [
-            "Instant Transfer",
             "Bank Transfer",
             "Cash Deposit to Bank",
-            "Twint"
+            "Instant Transfer"
           ],
-          "adv_no": "13894664478762012672",
-          "link": "https://c2c.binance.com/en/adv?code=13894664478762012672"
+          "adv_no": "12915291931766640640",
+          "link": "https://c2c.binance.com/en/adv?code=12915291931766640640"
         },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.825,
-          "merchant_name": "AhmadzaiExchange247",
-          "completion_rate": 0.959,
-          "order_count": 116,
+          "price": 0.785,
+          "merchant_name": "User-63027",
+          "completion_rate": 1.0,
+          "order_count": 101,
           "min_limit": 50.0,
-          "max_limit": 58.0,
-          "available": 70.0,
+          "max_limit": 2700.0,
+          "available": 2582.35,
           "payment_methods": [
-            "Twint",
-            "Bank Transfer",
-            "Cash Deposit to Bank"
+            "Twint"
           ],
-          "adv_no": "12905395337477709824",
-          "link": "https://c2c.binance.com/en/adv?code=12905395337477709824"
+          "adv_no": "12908101883721568256",
+          "link": "https://c2c.binance.com/en/adv?code=12908101883721568256"
         }
       }
     },
@@ -235,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788459275.8344035,
+      "fetched_at": 1788459581.6074939,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
