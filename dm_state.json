@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788418177.2651687,
+      "fetched_at": 1788418477.2869277,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -58,8 +58,8 @@
           "completion_rate": 1.0,
           "order_count": 36,
           "min_limit": 4500.0,
-          "max_limit": 137500.0,
-          "available": 100.0,
+          "max_limit": 97500.01,
+          "available": 70.9091,
           "payment_methods": [],
           "adv_no": "2092344522264305664",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -154,27 +154,26 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788414796.8861353,
+      "fetched_at": 1788418399.7276437,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 1.07,
-          "merchant_name": "X_C_H_A_N_G_E_R__PRO",
+          "price": 0.9,
+          "merchant_name": "User-63027",
           "completion_rate": 1.0,
-          "order_count": 40,
-          "min_limit": 40.0,
-          "max_limit": 1300.0,
-          "available": 4000.0,
+          "order_count": 94,
+          "min_limit": 50.0,
+          "max_limit": 360.0,
+          "available": 400.0,
           "payment_methods": [
-            "Twint",
+            "Bank Transfer",
             "Instant Transfer",
-            "Cash Deposit to Bank",
-            "Bank Transfer"
+            "Twint"
           ],
-          "adv_no": "13789066974213386240",
-          "link": "https://c2c.binance.com/en/adv?code=13789066974213386240"
+          "adv_no": "12915291931766640640",
+          "link": "https://c2c.binance.com/en/adv?code=12915291931766640640"
         },
         "sell": {
           "platform": "Binance",
@@ -235,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788418176.2793298,
+      "fetched_at": 1788418478.2166831,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -244,7 +243,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1001,
+          "order_count": 1002,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 40766.3261,
