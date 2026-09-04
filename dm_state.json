@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788506687.0365593,
+      "fetched_at": 1788506922.4652803,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1372.0,
-          "merchant_name": "selflex",
-          "completion_rate": 0.98,
-          "order_count": 290,
-          "min_limit": 50000.0,
-          "max_limit": 136278.29,
-          "available": 99.3282,
+          "merchant_name": "AHMAD_XCHANGE",
+          "completion_rate": 0.99,
+          "order_count": 785,
+          "min_limit": 4500.0,
+          "max_limit": 663540.36,
+          "available": 483.63,
           "payment_methods": [],
-          "adv_no": "2000890633183678464",
+          "adv_no": "2085793051735158784",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -154,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788503253.210419,
+      "fetched_at": 1788506924.618905,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -185,7 +185,7 @@
           "order_count": 97,
           "min_limit": 50.0,
           "max_limit": 1350.0,
-          "available": 1710.0,
+          "available": 1610.08,
           "payment_methods": [
             "Twint"
           ],
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788506686.1866527,
+      "fetched_at": 1788506923.756835,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
