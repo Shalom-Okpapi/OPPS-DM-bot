@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788561579.8077452,
+      "fetched_at": 1788562073.8110938,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1370.0,
-          "merchant_name": "Dadi_bulee",
+          "price": 1370.99,
+          "merchant_name": "Hopetrade",
           "completion_rate": 0.99,
-          "order_count": 326,
-          "min_limit": 4500.0,
-          "max_limit": 100000.13,
-          "available": 72.9928,
+          "order_count": 743,
+          "min_limit": 5000.0,
+          "max_limit": 200000.0,
+          "available": 431.5667,
           "payment_methods": [],
-          "adv_no": "2094848553159254016",
+          "adv_no": "2081075349460168704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -154,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788558011.3658621,
+      "fetched_at": 1788561918.281637,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -177,7 +177,7 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.775,
+          "price": 0.786,
           "merchant_name": "PRO_Twint_Exchange",
           "completion_rate": 0.957,
           "order_count": 22,
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788561578.7082145,
+      "fetched_at": 1788562075.099533,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
