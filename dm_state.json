@@ -47,10 +47,38 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788485878.8665783,
+      "fetched_at": 1788486458.9271312,
       "snapshot": {
-        "buy": null,
-        "sell": null
+        "buy": {
+          "platform": "Bybit",
+          "trade_type": "BUY",
+          "fiat": "NGN",
+          "price": 1373.0,
+          "merchant_name": "Buks_baby",
+          "completion_rate": 0.98,
+          "order_count": 72,
+          "min_limit": 10000.0,
+          "max_limit": 130426.76,
+          "available": 94.994,
+          "payment_methods": [],
+          "adv_no": "1982419335224979456",
+          "link": "https://www.bybit.com/fiat/trade/otc"
+        },
+        "sell": {
+          "platform": "Bybit",
+          "trade_type": "SELL",
+          "fiat": "NGN",
+          "price": 1380.0,
+          "merchant_name": "TommyXchange",
+          "completion_rate": 1.0,
+          "order_count": 34,
+          "min_limit": 32000.0,
+          "max_limit": 52000.0,
+          "available": 20000.0,
+          "payment_methods": [],
+          "adv_no": "2093979003843088384",
+          "link": "https://www.bybit.com/fiat/trade/otc"
+        }
       }
     },
     "EUR": {
@@ -196,45 +224,37 @@
       }
     },
     "USD": {
-      "fetched_at": 1788485883.2986977,
+      "fetched_at": 1788486456.5659232,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.997,
-          "merchant_name": "FAST RELEASE USDT",
-          "completion_rate": 1.0,
-          "order_count": 8467,
-          "min_limit": 10.0,
-          "max_limit": 5123.0,
-          "available": 588.01,
-          "payment_methods": [
-            "ABA",
-            "ACLEDA Bank",
-            "Wing Money",
-            "KHQR",
-            "Bank Transfer (Cambodia)"
-          ],
-          "adv_no": "13801253115894480896",
-          "link": "https://c2c.binance.com/en/adv?code=13801253115894480896"
+          "price": 0.8,
+          "merchant_name": "JackyChee",
+          "completion_rate": 0.99,
+          "order_count": 1011,
+          "min_limit": 2.0,
+          "max_limit": 10000.0,
+          "available": 42199.06,
+          "payment_methods": [],
+          "adv_no": "2080967302742315008",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "USD",
-          "price": 1.056,
-          "merchant_name": "Anfer",
-          "completion_rate": 0.959,
-          "order_count": 46,
-          "min_limit": 20.0,
-          "max_limit": 473.0,
-          "available": 368.05,
-          "payment_methods": [
-            "Pipol Pay"
-          ],
-          "adv_no": "12872499341001228288",
-          "link": "https://c2c.binance.com/en/adv?code=12872499341001228288"
+          "price": 1.2,
+          "merchant_name": "Corporate_Fx",
+          "completion_rate": 1.0,
+          "order_count": 1260,
+          "min_limit": 10.0,
+          "max_limit": 100000.0,
+          "available": 99671.474,
+          "payment_methods": [],
+          "adv_no": "2083213882945777664",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     }
