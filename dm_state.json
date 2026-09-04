@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788546801.7759244,
+      "fetched_at": 1788547283.368025,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1371.0,
-          "merchant_name": "Ivan8640",
-          "completion_rate": 1.0,
-          "order_count": 488,
-          "min_limit": 50000.0,
-          "max_limit": 400000.0,
-          "available": 1990.0,
+          "price": 1371.5,
+          "merchant_name": "Whitedragoness1",
+          "completion_rate": 0.96,
+          "order_count": 1580,
+          "min_limit": 4500.0,
+          "max_limit": 76052.41,
+          "available": 55.452,
           "payment_methods": [],
-          "adv_no": "2066778240691224576",
+          "adv_no": "2009865382950469632",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -156,19 +156,19 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788543494.9966512,
+      "fetched_at": 1788547120.6505282,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.913,
+          "price": 0.912,
           "merchant_name": "FastdealsCH",
           "completion_rate": 1.0,
-          "order_count": 45,
+          "order_count": 46,
           "min_limit": 50.0,
           "max_limit": 10000.0,
-          "available": 2330.75,
+          "available": 2275.93,
           "payment_methods": [
             "Twint"
           ],
@@ -179,7 +179,7 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.779,
+          "price": 0.775,
           "merchant_name": "PRO_Twint_Exchange",
           "completion_rate": 0.957,
           "order_count": 22,
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788546800.372435,
+      "fetched_at": 1788547285.0458584,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
