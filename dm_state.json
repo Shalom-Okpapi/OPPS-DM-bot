@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788554029.1498704,
+      "fetched_at": 1788554377.175791,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1371.2,
-          "merchant_name": "Iyeos1",
+          "price": 1371.0,
+          "merchant_name": "Ivan8640",
           "completion_rate": 1.0,
-          "order_count": 583,
+          "order_count": 488,
           "min_limit": 50000.0,
-          "max_limit": 1484055.79,
-          "available": 1082.3044,
+          "max_limit": 400000.0,
+          "available": 1466.9001,
           "payment_methods": [],
-          "adv_no": "2049801154086170624",
+          "adv_no": "2066778240691224576",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -156,19 +156,19 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788550722.1610088,
+      "fetched_at": 1788554378.2360048,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.912,
+          "price": 0.907,
           "merchant_name": "FastdealsCH",
           "completion_rate": 1.0,
           "order_count": 46,
           "min_limit": 50.0,
           "max_limit": 10000.0,
-          "available": 2275.93,
+          "available": 2166.29,
           "payment_methods": [
             "Twint"
           ],
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788554027.805371,
+      "fetched_at": 1788554375.9780898,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
