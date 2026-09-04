@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788481040.6494672,
+      "fetched_at": 1788481609.002221,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1373.0,
           "merchant_name": "Buks_baby",
           "completion_rate": 0.98,
-          "order_count": 73,
+          "order_count": 72,
           "min_limit": 10000.0,
           "max_limit": 130426.76,
           "available": 94.994,
@@ -152,28 +152,9 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788477802.476614,
+      "fetched_at": 1788481453.357208,
       "snapshot": {
-        "buy": {
-          "platform": "Binance",
-          "trade_type": "BUY",
-          "fiat": "CHF",
-          "price": 0.925,
-          "merchant_name": "Best_Twint_Exchange",
-          "completion_rate": 0.987,
-          "order_count": 144,
-          "min_limit": 50.0,
-          "max_limit": 3000.0,
-          "available": 21027.38,
-          "payment_methods": [
-            "Instant Transfer",
-            "Bank Transfer",
-            "Cash Deposit to Bank",
-            "Twint"
-          ],
-          "adv_no": "13894664478762012672",
-          "link": "https://c2c.binance.com/en/adv?code=13894664478762012672"
-        },
+        "buy": null,
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
@@ -233,7 +214,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788481041.9127998,
+      "fetched_at": 1788481609.718245,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
