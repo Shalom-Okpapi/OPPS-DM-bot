@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788551073.8110042,
+      "fetched_at": 1788551375.4580956,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1370.5,
-          "merchant_name": "Prosperous xcha",
-          "completion_rate": 1.0,
-          "order_count": 856,
-          "min_limit": 10000.0,
-          "max_limit": 1231973.28,
-          "available": 898.9225,
+          "price": 1370.0,
+          "merchant_name": "ATAKAH01",
+          "completion_rate": 0.99,
+          "order_count": 2538,
+          "min_limit": 50000.0,
+          "max_limit": 84963.29,
+          "available": 62.017,
           "payment_methods": [],
-          "adv_no": "2022215431080714240",
+          "adv_no": "2072301402137391104",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1788547729.3123934,
+      "fetched_at": 1788551379.8365731,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -117,22 +117,24 @@
       }
     },
     "JPY": {
-      "fetched_at": 1788547727.5818627,
+      "fetched_at": 1788551377.796623,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 161.0,
-          "merchant_name": "investorrocky21",
-          "completion_rate": 0.96,
-          "order_count": 315,
-          "min_limit": 250.0,
-          "max_limit": 80500.0,
-          "available": 500.0,
-          "payment_methods": [],
-          "adv_no": "2095754586976018432",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 182.0,
+          "merchant_name": "Virat Kohli 1 8",
+          "completion_rate": 0.963,
+          "order_count": 26,
+          "min_limit": 5000.0,
+          "max_limit": 30000.0,
+          "available": 142.7,
+          "payment_methods": [
+            "PayPay Money"
+          ],
+          "adv_no": "12928124521768091648",
+          "link": "https://c2c.binance.com/en/adv?code=12928124521768091648"
         },
         "sell": {
           "platform": "Binance",
@@ -195,7 +197,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1788547728.4265804,
+      "fetched_at": 1788551378.8569431,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -221,7 +223,7 @@
           "price": 0.738,
           "merchant_name": "Fast-USDT10",
           "completion_rate": 0.995,
-          "order_count": 369,
+          "order_count": 370,
           "min_limit": 35.0,
           "max_limit": 177.0,
           "available": 117.08,
@@ -234,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788551074.8555617,
+      "fetched_at": 1788551376.682907,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
