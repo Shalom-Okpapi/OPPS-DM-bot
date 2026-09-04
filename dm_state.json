@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788541482.402752,
+      "fetched_at": 1788541718.3121328,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1370.0,
-          "merchant_name": "\ud835\udc00\ud835\udc0b\ud835\udc0f\ud835\udc07\ud835\udc00-\ud835\udc06\ud835\udc07\ud835\udc0e\ud835\udc12\ud835\udc13",
-          "completion_rate": 1.0,
-          "order_count": 40,
-          "min_limit": 4500.0,
-          "max_limit": 61585.06,
-          "available": 44.9526,
+          "price": 1371.0,
+          "merchant_name": "Jerrys xchange",
+          "completion_rate": 0.95,
+          "order_count": 164,
+          "min_limit": 20000.0,
+          "max_limit": 69137.47,
+          "available": 50.4285,
           "payment_methods": [],
-          "adv_no": "2095920921156157440",
+          "adv_no": "2067663724041302016",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788541483.1957347,
+      "fetched_at": 1788541719.5481985,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -254,14 +254,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Aliyous",
+          "merchant_name": "\ud835\udd40\ud835\udd5f\ud835\udd64\ud835\udd65\ud835\udd52\ud835\udd5f\ud835\udd65-\u2119\ud835\udd52\ud835\udd6a\ud835\udd5e\ud835\udd56\ud835\udd5f\ud835\udd65",
           "completion_rate": 1.0,
-          "order_count": 386,
+          "order_count": 662,
           "min_limit": 10.0,
-          "max_limit": 11362.09,
-          "available": 9468.4089,
+          "max_limit": 50000.0,
+          "available": 46445.9025,
           "payment_methods": [],
-          "adv_no": "1969417928054837248",
+          "adv_no": "2010777414108569600",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
