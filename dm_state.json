@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788593371.4377975,
+      "fetched_at": 1788593622.0420318,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1370.7,
-          "merchant_name": "Whitedragoness1",
-          "completion_rate": 0.96,
-          "order_count": 1594,
+          "price": 1370.19,
+          "merchant_name": "BLOCK_MERCHANT",
+          "completion_rate": 0.99,
+          "order_count": 2798,
           "min_limit": 4500.0,
-          "max_limit": 111037.52,
-          "available": 81.0079,
+          "max_limit": 715644.48,
+          "available": 522.2958,
           "payment_methods": [],
-          "adv_no": "2009865382950469632",
+          "adv_no": "2084241630778032128",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1380.0,
-          "merchant_name": "TommyXchange",
+          "price": 1381.0,
+          "merchant_name": "Olaykfx",
           "completion_rate": 1.0,
-          "order_count": 34,
-          "min_limit": 32000.0,
-          "max_limit": 52000.0,
-          "available": 20000.0,
+          "order_count": 622,
+          "min_limit": 50000.0,
+          "max_limit": 200000.0,
+          "available": 500.0,
           "payment_methods": [],
-          "adv_no": "2093979003843088384",
+          "adv_no": "2095602179264225280",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -212,7 +212,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788593372.3613997,
+      "fetched_at": 1788593621.0725276,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
