@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788604421.235381,
+      "fetched_at": 1788604717.8906028,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1369.0,
-          "merchant_name": "CodedXchangeT",
-          "completion_rate": 1.0,
-          "order_count": 88,
-          "min_limit": 50000.0,
-          "max_limit": 230053.46,
-          "available": 168.0449,
+          "price": 1370.8,
+          "merchant_name": "MARV_PAYS",
+          "completion_rate": 0.99,
+          "order_count": 34346,
+          "min_limit": 5000.0,
+          "max_limit": 100000.0,
+          "available": 653.8088,
           "payment_methods": [],
-          "adv_no": "2040344913417068544",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788604422.4072382,
+      "fetched_at": 1788604719.2111692,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -245,8 +245,8 @@
           "completion_rate": 1.0,
           "order_count": 110,
           "min_limit": 50.0,
-          "max_limit": 1354.236,
-          "available": 1692.7959,
+          "max_limit": 1362.236,
+          "available": 1702.7959,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
