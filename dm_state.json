@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788650221.3889964,
+      "fetched_at": 1788650799.4924698,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1369.8,
           "merchant_name": "OTT",
           "completion_rate": 0.99,
-          "order_count": 2005,
+          "order_count": 2007,
           "min_limit": 30000.0,
           "max_limit": 99000.0,
-          "available": 502.6826,
+          "available": 367.6265,
           "payment_methods": [],
           "adv_no": "2048291389755785216",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -82,21 +82,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1788646867.3460112,
+      "fetched_at": 1788650565.5285013,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
-          "price": 0.863,
-          "merchant_name": "COINBroker",
-          "completion_rate": 0.99,
-          "order_count": 1697,
-          "min_limit": 2.0,
-          "max_limit": 3881.723,
-          "available": 4497.942,
+          "price": 0.862,
+          "merchant_name": "ltd",
+          "completion_rate": 1.0,
+          "order_count": 1634,
+          "min_limit": 18.0,
+          "max_limit": 1486.618,
+          "available": 1724.6159,
           "payment_methods": [],
-          "adv_no": "1716019415112892416",
+          "adv_no": "1943455665883377664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1788646865.4808707,
+      "fetched_at": 1788650563.990982,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -138,18 +138,18 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 162.0,
-          "merchant_name": "Dracula_99",
-          "completion_rate": 0.987,
-          "order_count": 146,
+          "price": 158.0,
+          "merchant_name": "Virat Kohli 1 8",
+          "completion_rate": 0.972,
+          "order_count": 34,
           "min_limit": 5000.0,
-          "max_limit": 15000.0,
-          "available": 15536.01,
+          "max_limit": 20000.0,
+          "available": 130.0,
           "payment_methods": [
             "PayPay Money"
           ],
-          "adv_no": "12905810156590796800",
-          "link": "https://c2c.binance.com/en/adv?code=12905810156590796800"
+          "adv_no": "12928244072200318976",
+          "link": "https://c2c.binance.com/en/adv?code=12928244072200318976"
         }
       }
     },
@@ -197,7 +197,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1788646866.4567723,
+      "fetched_at": 1788650564.7678561,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788650222.1275046,
+      "fetched_at": 1788650800.3303351,
       "snapshot": {
         "buy": {
           "platform": "Binance",
