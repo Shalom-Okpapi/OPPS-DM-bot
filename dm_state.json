@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788645881.5846944,
+      "fetched_at": 1788646193.4886556,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -236,36 +236,39 @@
       }
     },
     "USD": {
-      "fetched_at": 1788645882.5031667,
+      "fetched_at": 1788646192.7259314,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.985,
-          "merchant_name": "an.noor104",
-          "completion_rate": 0.99,
-          "order_count": 1155,
-          "min_limit": 20.0,
-          "max_limit": 1172.152,
-          "available": 1190.0023,
-          "payment_methods": [],
-          "adv_no": "2079526113396768768",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.997,
+          "merchant_name": "528888",
+          "completion_rate": 0.966,
+          "order_count": 140,
+          "min_limit": 10.0,
+          "max_limit": 807.0,
+          "available": 642.62,
+          "payment_methods": [
+            "ABA",
+            "KHQR"
+          ],
+          "adv_no": "12914607638205431808",
+          "link": "https://c2c.binance.com/en/adv?code=12914607638205431808"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Zoloto",
+          "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 587,
-          "min_limit": 50.0,
-          "max_limit": 3200.0,
-          "available": 54655.3003,
+          "order_count": 401,
+          "min_limit": 10.0,
+          "max_limit": 10837.69,
+          "available": 9031.4089,
           "payment_methods": [],
-          "adv_no": "2033544081232252928",
+          "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
