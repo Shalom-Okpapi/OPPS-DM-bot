@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788634718.7991557,
+      "fetched_at": 1788635023.3888147,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1369.5,
-          "merchant_name": "INSTANTPAYY",
-          "completion_rate": 0.99,
-          "order_count": 817,
-          "min_limit": 50000.0,
-          "max_limit": 109363.2,
-          "available": 79.8563,
+          "price": 1369.8,
+          "merchant_name": "ANNUR_EMLANIS",
+          "completion_rate": 1.0,
+          "order_count": 6350,
+          "min_limit": 4500.0,
+          "max_limit": 80000.0,
+          "available": 2195.4265,
           "payment_methods": [],
-          "adv_no": "2055977322564939776",
+          "adv_no": "2000244340755316736",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -154,19 +154,19 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788631289.7806528,
+      "fetched_at": 1788634946.1927528,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.895,
+          "price": 0.917,
           "merchant_name": "FastdealsCH",
           "completion_rate": 1.0,
           "order_count": 46,
           "min_limit": 50.0,
           "max_limit": 1000.0,
-          "available": 1941.87,
+          "available": 1832.82,
           "payment_methods": [
             "Twint"
           ],
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788634719.8204691,
+      "fetched_at": 1788635024.571491,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -245,8 +245,8 @@
           "completion_rate": 1.0,
           "order_count": 113,
           "min_limit": 50.0,
-          "max_limit": 1292.032,
-          "available": 1615.041,
+          "max_limit": 1392.032,
+          "available": 1740.041,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
