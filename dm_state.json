@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788700117.9198906,
+      "fetched_at": 1788700698.9644156,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1369.5,
-          "merchant_name": "Ivan8640",
+          "price": 1369.69,
+          "merchant_name": "SpeedFX",
           "completion_rate": 1.0,
-          "order_count": 578,
+          "order_count": 23,
           "min_limit": 50000.0,
-          "max_limit": 500000.0,
-          "available": 3226.2963,
+          "max_limit": 234107.68,
+          "available": 170.9202,
           "payment_methods": [],
-          "adv_no": "2066778240691224576",
+          "adv_no": "2096318649178685440",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 420,
           "min_limit": 30000.0,
           "max_limit": 200000.0,
-          "available": 50000.0,
+          "available": 49860.0088,
           "payment_methods": [],
           "adv_no": "2093830314223247360",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -152,7 +152,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788697020.3900592,
+      "fetched_at": 1788700621.6039479,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -175,22 +175,18 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.773,
-          "merchant_name": "Best_Twint_Exchange",
-          "completion_rate": 0.989,
-          "order_count": 168,
-          "min_limit": 50.0,
-          "max_limit": 100000.0,
-          "available": 1940135.33,
+          "price": 0.792,
+          "merchant_name": "SwissValutaExchange",
+          "completion_rate": 1.0,
+          "order_count": 35,
+          "min_limit": 10.0,
+          "max_limit": 10000.0,
+          "available": 3888.25,
           "payment_methods": [
-            "Twint",
-            "Instant Transfer",
-            "Bank Transfer",
-            "Cash Deposit to Bank",
-            "ZEN"
+            "Twint"
           ],
-          "adv_no": "12883507269642735616",
-          "link": "https://c2c.binance.com/en/adv?code=12883507269642735616"
+          "adv_no": "12915019271018102784",
+          "link": "https://c2c.binance.com/en/adv?code=12915019271018102784"
         }
       }
     },
@@ -232,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788700116.7245364,
+      "fetched_at": 1788700700.0950425,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
