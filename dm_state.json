@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788692375.9381669,
+      "fetched_at": 1788692678.2043333,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1369.05,
-          "merchant_name": "GREENDIGPAY",
+          "price": 1369.9,
+          "merchant_name": "MARV_PAYS",
           "completion_rate": 0.99,
-          "order_count": 615,
-          "min_limit": 50000.0,
-          "max_limit": 220000.0,
-          "available": 604.5481,
+          "order_count": 34037,
+          "min_limit": 5000.0,
+          "max_limit": 100000.0,
+          "available": 749.6315,
           "payment_methods": [],
-          "adv_no": "2062081939874082816",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788692375.1132853,
+      "fetched_at": 1788692677.175829,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
