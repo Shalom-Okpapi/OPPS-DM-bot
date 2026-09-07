@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788763423.7099667,
+      "fetched_at": 1788763778.0412514,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1368.5,
-          "merchant_name": "UMAAROlUFX",
-          "completion_rate": 0.96,
-          "order_count": 157,
-          "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 454.1744,
+          "price": 1367.0,
+          "merchant_name": "Pezzy exchange",
+          "completion_rate": 1.0,
+          "order_count": 40,
+          "min_limit": 50000.0,
+          "max_limit": 68350.0,
+          "available": 50.0,
           "payment_methods": [],
-          "adv_no": "1952497839512838144",
+          "adv_no": "2078573328146821120",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -152,7 +152,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788759965.5919697,
+      "fetched_at": 1788763621.4420784,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -164,7 +164,7 @@
           "order_count": 45,
           "min_limit": 50.0,
           "max_limit": 1000.0,
-          "available": 1712.95,
+          "available": 1168.29,
           "payment_methods": [
             "Twint"
           ],
@@ -229,7 +229,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788763422.9772058,
+      "fetched_at": 1788763777.3112507,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -238,10 +238,10 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1041,
+          "order_count": 1042,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 39219.4963,
+          "available": 39273.7772,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
