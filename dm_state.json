@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788807277.2224953,
+      "fetched_at": 1788807497.1578693,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1368.5,
-          "merchant_name": "ALLYMAN",
-          "completion_rate": 0.99,
-          "order_count": 162,
-          "min_limit": 12000.0,
-          "max_limit": 150510.23,
-          "available": 109.9819,
+          "price": 1368.95,
+          "merchant_name": "EuroXpress",
+          "completion_rate": 1.0,
+          "order_count": 881,
+          "min_limit": 4500.0,
+          "max_limit": 300000.0,
+          "available": 1276.8086,
           "payment_methods": [],
-          "adv_no": "2031322264863911936",
+          "adv_no": "2096706409873965056",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -156,7 +156,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1788803843.1029735,
+      "fetched_at": 1788807499.3166099,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -165,10 +165,10 @@
           "price": 0.925,
           "merchant_name": "Best_Twint_Exchange",
           "completion_rate": 0.983,
-          "order_count": 170,
+          "order_count": 171,
           "min_limit": 50.0,
           "max_limit": 3000.0,
-          "available": 13575.91,
+          "available": 13511.05,
           "payment_methods": [
             "Instant Transfer",
             "Bank Transfer",
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788807276.210597,
+      "fetched_at": 1788807495.100144,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
