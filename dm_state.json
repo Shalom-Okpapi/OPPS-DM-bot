@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788773071.6890614,
+      "fetched_at": 1788773320.8757293,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1365.0,
-          "merchant_name": "Gbreezyexchange",
-          "completion_rate": 1.0,
-          "order_count": 41,
+          "price": 1367.7,
+          "merchant_name": "BitcoinMaster..",
+          "completion_rate": 0.99,
+          "order_count": 1489,
           "min_limit": 20000.0,
-          "max_limit": 56562.46,
-          "available": 41.4377,
+          "max_limit": 100000.0,
+          "available": 380.0,
           "payment_methods": [],
-          "adv_no": "1827996907667116032",
+          "adv_no": "2077038206362677248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 23,
           "min_limit": 10000.0,
           "max_limit": 100000.0,
-          "available": 466.7206,
+          "available": 453.6203,
           "payment_methods": [],
           "adv_no": "2096884199060004864",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788773072.7992125,
+      "fetched_at": 1788773322.0159955,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
