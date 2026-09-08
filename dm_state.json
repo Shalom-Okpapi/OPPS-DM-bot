@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788910420.6320496,
+      "fetched_at": 1788910722.267994,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.99,
-          "merchant_name": "quick-payment",
-          "completion_rate": 0.98,
-          "order_count": 3699,
+          "price": 1374.0,
+          "merchant_name": "Meliss4",
+          "completion_rate": 0.99,
+          "order_count": 1011,
           "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 59.8107,
+          "max_limit": 94311.08,
+          "available": 68.6398,
           "payment_methods": [],
-          "adv_no": "1987424388710076416",
+          "adv_no": "2096016644799848448",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788910421.7371852,
+      "fetched_at": 1788910723.5724435,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -254,14 +254,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Aliyous",
+          "merchant_name": "Zoloto",
           "completion_rate": 1.0,
-          "order_count": 413,
-          "min_limit": 10.0,
-          "max_limit": 7573.093,
-          "available": 6310.9111,
+          "order_count": 585,
+          "min_limit": 50.0,
+          "max_limit": 3200.0,
+          "available": 54655.3003,
           "payment_methods": [],
-          "adv_no": "1969417928054837248",
+          "adv_no": "2033544081232252928",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
