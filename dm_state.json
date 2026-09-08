@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788902684.0024362,
+      "fetched_at": 1788902899.9197006,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1373.49,
           "merchant_name": "obsy20",
           "completion_rate": 0.99,
-          "order_count": 13871,
+          "order_count": 13876,
           "min_limit": 20000.0,
-          "max_limit": 80087.1,
-          "available": 58.3092,
+          "max_limit": 77275.84,
+          "available": 56.2624,
           "payment_methods": [],
           "adv_no": "2059540599427629056",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1788899125.3873138,
+      "fetched_at": 1788902742.4766269,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,7 +91,7 @@
           "price": 0.861,
           "merchant_name": "ltd",
           "completion_rate": 1.0,
-          "order_count": 1747,
+          "order_count": 1755,
           "min_limit": 18.0,
           "max_limit": 2744.341,
           "available": 3187.3889,
@@ -106,10 +106,10 @@
           "price": 1.032,
           "merchant_name": "Juddie",
           "completion_rate": 0.98,
-          "order_count": 93,
+          "order_count": 95,
           "min_limit": 49.0,
           "max_limit": 50.0,
-          "available": 1756.9967,
+          "available": 1708.547,
           "payment_methods": [],
           "adv_no": "2091068401392742400",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1788899121.8384776,
+      "fetched_at": 1788902739.4096105,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -138,23 +138,23 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 154.01,
-          "merchant_name": "Crypto_HuyVN",
-          "completion_rate": 0.974,
-          "order_count": 74,
-          "min_limit": 500.0,
-          "max_limit": 6999.0,
-          "available": 48488.41,
+          "price": 154.0,
+          "merchant_name": "TrustedNinja",
+          "completion_rate": 1.0,
+          "order_count": 44,
+          "min_limit": 5000.0,
+          "max_limit": 40000.0,
+          "available": 224.68,
           "payment_methods": [
             "PayPay Money"
           ],
-          "adv_no": "12899122919401668608",
-          "link": "https://c2c.binance.com/en/adv?code=12899122919401668608"
+          "adv_no": "12914306385823567872",
+          "link": "https://c2c.binance.com/en/adv?code=12914306385823567872"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1788899122.9844398,
+      "fetched_at": 1788902740.5834055,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -177,24 +177,25 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.79,
-          "merchant_name": "Aura_Change",
-          "completion_rate": 0.974,
-          "order_count": 37,
-          "min_limit": 50.0,
-          "max_limit": 1500.0,
-          "available": 898.38,
+          "price": 0.78,
+          "merchant_name": "PRO_Twint_Exchange",
+          "completion_rate": 0.96,
+          "order_count": 24,
+          "min_limit": 10.0,
+          "max_limit": 10000.0,
+          "available": 31381.85,
           "payment_methods": [
             "Twint",
+            "Instant Transfer",
             "Bank Transfer"
           ],
-          "adv_no": "12903219218253856768",
-          "link": "https://c2c.binance.com/en/adv?code=12903219218253856768"
+          "adv_no": "12889324237618114560",
+          "link": "https://c2c.binance.com/en/adv?code=12889324237618114560"
         }
       }
     },
     "GBP": {
-      "fetched_at": 1788899124.1908526,
+      "fetched_at": 1788902741.5466847,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -220,7 +221,7 @@
           "price": 0.886,
           "merchant_name": "Juddie",
           "completion_rate": 0.98,
-          "order_count": 93,
+          "order_count": 95,
           "min_limit": 17.0,
           "max_limit": 43.0,
           "available": 2000.0,
@@ -231,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788902685.7924936,
+      "fetched_at": 1788902899.006089,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
