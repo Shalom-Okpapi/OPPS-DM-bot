@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788885576.5956893,
+      "fetched_at": 1788885881.1786273,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.9,
-          "merchant_name": "MARV_PAYS",
-          "completion_rate": 0.99,
-          "order_count": 33482,
-          "min_limit": 5000.0,
-          "max_limit": 100000.0,
-          "available": 788.0,
+          "price": 1373.0,
+          "merchant_name": "SOPTEKFX",
+          "completion_rate": 0.96,
+          "order_count": 480,
+          "min_limit": 30000.0,
+          "max_limit": 74348.08,
+          "available": 54.1501,
           "payment_methods": [],
-          "adv_no": "1767833474110619648",
+          "adv_no": "2079436233483079680",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -229,7 +229,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788885575.82625,
+      "fetched_at": 1788885880.0512702,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
