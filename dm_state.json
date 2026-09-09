@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788997776.632436,
+      "fetched_at": 1788998082.0091949,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1372.0,
-          "merchant_name": "Dadi_bulee",
-          "completion_rate": 0.99,
-          "order_count": 829,
-          "min_limit": 4500.0,
-          "max_limit": 300000.0,
-          "available": 2108.1627,
+          "price": 1370.0,
+          "merchant_name": "Ceekay770",
+          "completion_rate": 0.97,
+          "order_count": 831,
+          "min_limit": 10000.0,
+          "max_limit": 200000.0,
+          "available": 808.1899,
           "payment_methods": [],
-          "adv_no": "2094848553159254016",
+          "adv_no": "2033460190823006208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,22 +235,26 @@
       }
     },
     "USD": {
-      "fetched_at": 1788997777.733959,
+      "fetched_at": 1788998080.434446,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.997,
-          "merchant_name": "Henry_exchange",
-          "completion_rate": 0.99,
-          "order_count": 3178,
-          "min_limit": 50.0,
-          "max_limit": 4452.59,
-          "available": 4465.9888,
-          "payment_methods": [],
-          "adv_no": "1903442554672709632",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "merchant_name": "VentasDigitales",
+          "completion_rate": 1.0,
+          "order_count": 43,
+          "min_limit": 10.0,
+          "max_limit": 150.0,
+          "available": 200.0,
+          "payment_methods": [
+            "Produbanco",
+            "Banco Guayaquil",
+            "Banco Bolivariano"
+          ],
+          "adv_no": "12916539964670894080",
+          "link": "https://c2c.binance.com/en/adv?code=12916539964670894080"
         },
         "sell": {
           "platform": "Bybit",
