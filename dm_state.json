@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788992682.5467172,
+      "fetched_at": 1788992923.2507308,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1372.4,
           "merchant_name": "MARV_PAYS",
           "completion_rate": 0.99,
-          "order_count": 34005,
+          "order_count": 34010,
           "min_limit": 5000.0,
           "max_limit": 100000.0,
-          "available": 512.3331,
+          "available": 369.8789,
           "payment_methods": [],
           "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,25 +235,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1788992681.3371563,
+      "fetched_at": 1788992921.6247153,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.997,
-          "merchant_name": "UsdtjotaG",
-          "completion_rate": 1.0,
-          "order_count": 829,
-          "min_limit": 40.0,
-          "max_limit": 240.0,
-          "available": 1947.26,
+          "merchant_name": "TecniServiciosSTH",
+          "completion_rate": 0.965,
+          "order_count": 55,
+          "min_limit": 10.0,
+          "max_limit": 350.0,
+          "available": 355.0,
           "payment_methods": [
-            "Banco Guayaquil",
-            "Banco Pichincha"
+            "Banco del Austro"
           ],
-          "adv_no": "12893126771650355200",
-          "link": "https://c2c.binance.com/en/adv?code=12893126771650355200"
+          "adv_no": "12931129026307534848",
+          "link": "https://c2c.binance.com/en/adv?code=12931129026307534848"
         },
         "sell": {
           "platform": "Bybit",
