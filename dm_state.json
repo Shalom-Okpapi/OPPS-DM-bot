@@ -47,19 +47,19 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788992923.2507308,
+      "fetched_at": 1788993527.6653373,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1372.4,
+          "price": 1372.92,
           "merchant_name": "MARV_PAYS",
           "completion_rate": 0.99,
-          "order_count": 34010,
+          "order_count": 34026,
           "min_limit": 5000.0,
           "max_limit": 100000.0,
-          "available": 369.8789,
+          "available": 727.2317,
           "payment_methods": [],
           "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,24 +235,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1788992921.6247153,
+      "fetched_at": 1788993526.9035,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.997,
-          "merchant_name": "TecniServiciosSTH",
-          "completion_rate": 0.965,
-          "order_count": 55,
-          "min_limit": 10.0,
-          "max_limit": 350.0,
-          "available": 355.0,
-          "payment_methods": [
-            "Banco del Austro"
-          ],
-          "adv_no": "12931129026307534848",
-          "link": "https://c2c.binance.com/en/adv?code=12931129026307534848"
+          "merchant_name": "SBFast-payment",
+          "completion_rate": 0.99,
+          "order_count": 652,
+          "min_limit": 30.0,
+          "max_limit": 320.739,
+          "available": 321.7045,
+          "payment_methods": [],
+          "adv_no": "2080333328311201792",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
@@ -264,7 +262,7 @@
           "order_count": 593,
           "min_limit": 50.0,
           "max_limit": 3200.0,
-          "available": 54555.3003,
+          "available": 54655.3003,
           "payment_methods": [],
           "adv_no": "2033544081232252928",
           "link": "https://www.bybit.com/fiat/trade/otc"
