@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788997174.8736186,
+      "fetched_at": 1788997422.7578824,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1372.99,
-          "merchant_name": "tasrab3",
-          "completion_rate": 1.0,
-          "order_count": 2431,
-          "min_limit": 50000.0,
-          "max_limit": 400000.0,
-          "available": 456.7216,
+          "price": 1372.0,
+          "merchant_name": "Dadi_bulee",
+          "completion_rate": 0.99,
+          "order_count": 823,
+          "min_limit": 4500.0,
+          "max_limit": 300000.0,
+          "available": 2502.4773,
           "payment_methods": [],
-          "adv_no": "2044153013683044352",
+          "adv_no": "2094848553159254016",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1788997173.749324,
+      "fetched_at": 1788997423.8271713,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -244,12 +244,11 @@
           "price": 0.997,
           "merchant_name": "VentasDigitales",
           "completion_rate": 1.0,
-          "order_count": 41,
+          "order_count": 42,
           "min_limit": 10.0,
           "max_limit": 150.0,
-          "available": 157.74,
+          "available": 82.26,
           "payment_methods": [
-            "Banco Pichincha",
             "Produbanco",
             "Banco Guayaquil",
             "Banco Bolivariano"
