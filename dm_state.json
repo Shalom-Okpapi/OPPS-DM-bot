@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788996879.6119745,
+      "fetched_at": 1788997174.8736186,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -59,7 +59,7 @@
           "order_count": 2431,
           "min_limit": 50000.0,
           "max_limit": 400000.0,
-          "available": 402.0971,
+          "available": 456.7216,
           "payment_methods": [],
           "adv_no": "2044153013683044352",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,22 +235,27 @@
       }
     },
     "USD": {
-      "fetched_at": 1788996878.4385328,
+      "fetched_at": 1788997173.749324,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.997,
-          "merchant_name": "SBFast-payment",
-          "completion_rate": 0.99,
-          "order_count": 652,
-          "min_limit": 30.0,
-          "max_limit": 320.739,
-          "available": 321.7045,
-          "payment_methods": [],
-          "adv_no": "2080333328311201792",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "merchant_name": "VentasDigitales",
+          "completion_rate": 1.0,
+          "order_count": 41,
+          "min_limit": 10.0,
+          "max_limit": 150.0,
+          "available": 157.74,
+          "payment_methods": [
+            "Banco Pichincha",
+            "Produbanco",
+            "Banco Guayaquil",
+            "Banco Bolivariano"
+          ],
+          "adv_no": "12916539964670894080",
+          "link": "https://c2c.binance.com/en/adv?code=12916539964670894080"
         },
         "sell": {
           "platform": "Bybit",
