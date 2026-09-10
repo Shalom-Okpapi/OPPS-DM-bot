@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1788998326.4157233,
+      "fetched_at": 1788998684.8493824,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1372.0,
           "merchant_name": "Dadi_bulee",
           "completion_rate": 0.99,
-          "order_count": 833,
+          "order_count": 836,
           "min_limit": 4500.0,
           "max_limit": 300000.0,
-          "available": 1953.2065,
+          "available": 1697.3758,
           "payment_methods": [],
           "adv_no": "2094848553159254016",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,26 +235,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1788998325.2873087,
+      "fetched_at": 1788998686.0917158,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.997,
-          "merchant_name": "VentasDigitales",
-          "completion_rate": 1.0,
-          "order_count": 44,
-          "min_limit": 10.0,
-          "max_limit": 150.0,
-          "available": 200.0,
-          "payment_methods": [
-            "Produbanco",
-            "Banco Guayaquil",
-            "Banco Bolivariano"
-          ],
-          "adv_no": "12916539964670894080",
-          "link": "https://c2c.binance.com/en/adv?code=12916539964670894080"
+          "merchant_name": "Henry_exchange",
+          "completion_rate": 0.99,
+          "order_count": 3178,
+          "min_limit": 50.0,
+          "max_limit": 4452.59,
+          "available": 4465.9888,
+          "payment_methods": [],
+          "adv_no": "1903442554672709632",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
