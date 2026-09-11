@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789109075.2020335,
+      "fetched_at": 1789109383.765592,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1369.15,
-          "merchant_name": "Nissi@blink_",
-          "completion_rate": 0.97,
-          "order_count": 39,
-          "min_limit": 8000.0,
-          "max_limit": 139653.3,
-          "available": 102.0,
+          "price": 1369.0,
+          "merchant_name": "Barbie exchange",
+          "completion_rate": 0.99,
+          "order_count": 1240,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 239.6702,
           "payment_methods": [],
-          "adv_no": "1994464074339860480",
+          "adv_no": "2093237938064760832",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789109074.196747,
+      "fetched_at": 1789109384.9766698,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -242,7 +242,7 @@
           "order_count": 1036,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 25542.0167,
+          "available": 25417.0167,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
