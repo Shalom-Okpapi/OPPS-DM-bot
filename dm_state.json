@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789122276.8756785,
+      "fetched_at": 1789122595.8373854,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -59,7 +59,7 @@
           "order_count": 123,
           "min_limit": 50000.0,
           "max_limit": 60000.0,
-          "available": 708.3368,
+          "available": 671.7604,
           "payment_methods": [],
           "adv_no": "2081357797632847872",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -82,21 +82,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1789118906.3695974,
+      "fetched_at": 1789122518.6640284,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
-          "price": 0.861,
-          "merchant_name": "CUBA43M",
-          "completion_rate": 1.0,
-          "order_count": 100,
-          "min_limit": 35.0,
-          "max_limit": 80.0,
-          "available": 309.4077,
+          "price": 0.86,
+          "merchant_name": "ApexxChange",
+          "completion_rate": 0.97,
+          "order_count": 1046,
+          "min_limit": 10.0,
+          "max_limit": 70.0,
+          "available": 150.0,
           "payment_methods": [],
-          "adv_no": "2097256914723921920",
+          "adv_no": "2006304020925509632",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1789118903.453803,
+      "fetched_at": 1789122515.3987572,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -138,23 +138,23 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 150.1,
-          "merchant_name": "Dracula_99",
-          "completion_rate": 0.989,
-          "order_count": 177,
+          "price": 150.0,
+          "merchant_name": "DGxPr0",
+          "completion_rate": 1.0,
+          "order_count": 129,
           "min_limit": 5000.0,
-          "max_limit": 49999.0,
-          "available": 12030.23,
+          "max_limit": 120000.0,
+          "available": 258.41,
           "payment_methods": [
             "PayPay Money"
           ],
-          "adv_no": "12905810156590796800",
-          "link": "https://c2c.binance.com/en/adv?code=12905810156590796800"
+          "adv_no": "12898643488370798592",
+          "link": "https://c2c.binance.com/en/adv?code=12898643488370798592"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1789118904.207252,
+      "fetched_at": 1789122516.455527,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -198,7 +198,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1789118905.6270952,
+      "fetched_at": 1789122517.615987,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -224,7 +224,7 @@
           "price": 0.888,
           "merchant_name": "Juddie",
           "completion_rate": 0.98,
-          "order_count": 131,
+          "order_count": 132,
           "min_limit": 17.0,
           "max_limit": 43.0,
           "available": 2000.0,
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789122278.055485,
+      "fetched_at": 1789122597.0722978,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
