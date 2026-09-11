@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789118584.635707,
+      "fetched_at": 1789119141.228476,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -59,7 +59,7 @@
           "order_count": 122,
           "min_limit": 50000.0,
           "max_limit": 60000.0,
-          "available": 704.8254,
+          "available": 748.5708,
           "payment_methods": [],
           "adv_no": "2081357797632847872",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -71,7 +71,7 @@
           "price": 1374.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.96,
-          "order_count": 352,
+          "order_count": 353,
           "min_limit": 4500.0,
           "max_limit": 6734508.89,
           "available": 4901.3893,
@@ -82,30 +82,28 @@
       }
     },
     "EUR": {
-      "fetched_at": 1789115300.1723292,
+      "fetched_at": 1789118906.3695974,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
           "price": 0.861,
-          "merchant_name": "ApexxChange",
-          "completion_rate": 0.979,
-          "order_count": 742,
-          "min_limit": 10.0,
-          "max_limit": 70.0,
-          "available": 165.16,
-          "payment_methods": [
-            "Wise"
-          ],
-          "adv_no": "13917507850059231232",
-          "link": "https://c2c.binance.com/en/adv?code=13917507850059231232"
+          "merchant_name": "CUBA43M",
+          "completion_rate": 1.0,
+          "order_count": 100,
+          "min_limit": 35.0,
+          "max_limit": 80.0,
+          "available": 309.4077,
+          "payment_methods": [],
+          "adv_no": "2097256914723921920",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.033,
+          "price": 1.034,
           "merchant_name": "Btcboy23",
           "completion_rate": 1.0,
           "order_count": 32,
@@ -119,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1789115297.2915556,
+      "fetched_at": 1789118903.453803,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -140,23 +138,23 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 149.42,
-          "merchant_name": "PK_CRYPTO_PRO2026",
-          "completion_rate": 0.975,
-          "order_count": 195,
-          "min_limit": 500.0,
-          "max_limit": 100000.0,
-          "available": 480.13,
+          "price": 150.1,
+          "merchant_name": "Dracula_99",
+          "completion_rate": 0.989,
+          "order_count": 177,
+          "min_limit": 5000.0,
+          "max_limit": 49999.0,
+          "available": 12030.23,
           "payment_methods": [
             "PayPay Money"
           ],
-          "adv_no": "12822939400706605056",
-          "link": "https://c2c.binance.com/en/adv?code=12822939400706605056"
+          "adv_no": "12905810156590796800",
+          "link": "https://c2c.binance.com/en/adv?code=12905810156590796800"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1789115298.2999744,
+      "fetched_at": 1789118904.207252,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -183,11 +181,11 @@
           "fiat": "CHF",
           "price": 0.797,
           "merchant_name": "Fast_Schweiz_Exchange",
-          "completion_rate": 0.96,
-          "order_count": 120,
+          "completion_rate": 0.953,
+          "order_count": 121,
           "min_limit": 5.0,
           "max_limit": 10000.0,
-          "available": 3074.54,
+          "available": 2949.07,
           "payment_methods": [
             "Twint",
             "Instant Transfer",
@@ -200,7 +198,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1789115299.233863,
+      "fetched_at": 1789118905.6270952,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -226,7 +224,7 @@
           "price": 0.888,
           "merchant_name": "Juddie",
           "completion_rate": 0.98,
-          "order_count": 130,
+          "order_count": 131,
           "min_limit": 17.0,
           "max_limit": 43.0,
           "available": 2000.0,
@@ -237,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789118583.1938078,
+      "fetched_at": 1789119140.516906,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
