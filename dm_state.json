@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789166665.6924217,
+      "fetched_at": 1789167277.2561698,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1370.0,
-          "merchant_name": "Abelian",
-          "completion_rate": 1.0,
-          "order_count": 20,
+          "merchant_name": "Eyesheart",
+          "completion_rate": 0.99,
+          "order_count": 124,
           "min_limit": 50000.0,
-          "max_limit": 90981.01,
-          "available": 66.4095,
+          "max_limit": 224056.51,
+          "available": 163.5449,
           "payment_methods": [],
-          "adv_no": "1842973419541704704",
+          "adv_no": "1895411500275671040",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789166664.844273,
+      "fetched_at": 1789167278.7330906,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -248,8 +248,8 @@
           "completion_rate": 1.0,
           "order_count": 44,
           "min_limit": 10.0,
-          "max_limit": 295.5,
-          "available": 300.0,
+          "max_limit": 500.0,
+          "available": 699.96,
           "payment_methods": [],
           "adv_no": "2097977670172794880",
           "link": "https://www.bybit.com/fiat/trade/otc"
