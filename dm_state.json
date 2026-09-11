@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789088897.01333,
+      "fetched_at": 1789089271.392925,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789088901.5755618,
+      "fetched_at": 1789089272.3616664,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -273,11 +273,7 @@
   },
   "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
-  "last_admin_notify_failure": {
-    "at": 1788397879.3031604,
-    "target": "5503157793",
-    "reason": "HTTP 502: Bad Gateway"
-  },
+  "last_admin_notify_failure": null,
   "market_cache": {
     "BTC": {
       "fetched_at": 1785305961.2624185,
