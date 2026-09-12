@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789228983.1911128,
+      "fetched_at": 1789229509.979447,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1369.0,
-          "merchant_name": "Muhdsani",
-          "completion_rate": 1.0,
-          "order_count": 388,
-          "min_limit": 4500.0,
-          "max_limit": 100000.0,
-          "available": 508.4137,
+          "price": 1369.24,
+          "merchant_name": "kagawa",
+          "completion_rate": 0.97,
+          "order_count": 2264,
+          "min_limit": 20000.0,
+          "max_limit": 330000.0,
+          "available": 594.8532,
           "payment_methods": [],
-          "adv_no": "2064211168548233216",
+          "adv_no": "2097438182161416192",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789228982.4150052,
+      "fetched_at": 1789229508.9537616,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -245,8 +245,8 @@
           "completion_rate": 1.0,
           "order_count": 125,
           "min_limit": 50.0,
-          "max_limit": 1075.354,
-          "available": 1344.1929,
+          "max_limit": 1125.354,
+          "available": 1406.6929,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
