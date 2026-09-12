@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789173841.3704622,
+      "fetched_at": 1789174175.958326,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1368.0,
-          "merchant_name": "KPFXCHANGE",
-          "completion_rate": 1.0,
-          "order_count": 91,
-          "min_limit": 10000.0,
-          "max_limit": 132350.58,
-          "available": 96.7475,
+          "price": 1370.0,
+          "merchant_name": "Real1exchange1",
+          "completion_rate": 0.99,
+          "order_count": 13302,
+          "min_limit": 50000.0,
+          "max_limit": 90000.0,
+          "available": 479.0595,
           "payment_methods": [],
-          "adv_no": "1998161065729064960",
+          "adv_no": "2022484633432698880",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789173840.2352211,
+      "fetched_at": 1789174176.827209,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
