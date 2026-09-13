@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789274975.1039746,
+      "fetched_at": 1789275222.9843335,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1369.0,
-          "merchant_name": "selflex",
-          "completion_rate": 0.99,
-          "order_count": 231,
-          "min_limit": 20000.0,
-          "max_limit": 67451.99,
-          "available": 49.271,
+          "price": 1369.3,
+          "merchant_name": "AUTOPAY",
+          "completion_rate": 1.0,
+          "order_count": 44,
+          "min_limit": 4500.0,
+          "max_limit": 200000.0,
+          "available": 950.2865,
           "payment_methods": [],
-          "adv_no": "2000890633183678464",
+          "adv_no": "2098906292363063296",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789274974.0158055,
+      "fetched_at": 1789275222.1460154,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
