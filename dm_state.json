@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789311198.8876047,
+      "fetched_at": 1789311573.8221445,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1369.0,
-          "merchant_name": "DAVIDLOOYE.NG",
+          "price": 1368.0,
+          "merchant_name": "Kryptogenix",
           "completion_rate": 1.0,
-          "order_count": 541,
-          "min_limit": 40000.0,
-          "max_limit": 200000.0,
-          "available": 406.9312,
+          "order_count": 188,
+          "min_limit": 20000.0,
+          "max_limit": 114098.72,
+          "available": 83.4055,
           "payment_methods": [],
-          "adv_no": "2079139719121518592",
+          "adv_no": "1785203880432259072",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -229,7 +229,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789311200.5023196,
+      "fetched_at": 1789311575.6833572,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -264,7 +264,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 1,
+  "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": null,
   "market_cache": {
