@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789291776.5413659,
+      "fetched_at": 1789292390.8359413,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1368.0,
-          "merchant_name": "Noble_Usman",
-          "completion_rate": 0.98,
-          "order_count": 730,
-          "min_limit": 50000.0,
-          "max_limit": 60000.0,
-          "available": 86.5796,
+          "price": 1368.3,
+          "merchant_name": "lamid",
+          "completion_rate": 1.0,
+          "order_count": 137,
+          "min_limit": 10000.0,
+          "max_limit": 50000.0,
+          "available": 70.1119,
           "payment_methods": [],
-          "adv_no": "2092192731754901504",
+          "adv_no": "2083149310727077888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789291777.6282873,
+      "fetched_at": 1789292389.7617044,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,8 +243,8 @@
           "completion_rate": 1.0,
           "order_count": 125,
           "min_limit": 50.0,
-          "max_limit": 1262.818,
-          "available": 1578.5225,
+          "max_limit": 1312.818,
+          "available": 1641.0225,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
