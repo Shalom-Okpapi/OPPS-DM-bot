@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789310974.2189558,
+      "fetched_at": 1789311198.8876047,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1368.99,
-          "merchant_name": "ONYX4EVER",
-          "completion_rate": 0.98,
-          "order_count": 1045,
-          "min_limit": 4500.0,
-          "max_limit": 1408039.61,
-          "available": 1028.5244,
+          "price": 1369.0,
+          "merchant_name": "DAVIDLOOYE.NG",
+          "completion_rate": 1.0,
+          "order_count": 541,
+          "min_limit": 40000.0,
+          "max_limit": 200000.0,
+          "available": 406.9312,
           "payment_methods": [],
-          "adv_no": "2022252193348513792",
+          "adv_no": "2079139719121518592",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -229,7 +229,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789310973.1621768,
+      "fetched_at": 1789311200.5023196,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -251,20 +251,20 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Aliyous",
+          "merchant_name": "\ud835\udd40\ud835\udd5f\ud835\udd64\ud835\udd65\ud835\udd52\ud835\udd5f\ud835\udd65-\u2119\ud835\udd52\ud835\udd6a\ud835\udd5e\ud835\udd56\ud835\udd5f\ud835\udd65",
           "completion_rate": 1.0,
-          "order_count": 447,
+          "order_count": 682,
           "min_limit": 10.0,
-          "max_limit": 5100.274,
-          "available": 4250.2286,
+          "max_limit": 50000.0,
+          "available": 46282.1109,
           "payment_methods": [],
-          "adv_no": "1969417928054837248",
+          "adv_no": "2010777414108569600",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     }
   },
-  "consecutive_poll_failures": 0,
+  "consecutive_poll_failures": 1,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": null,
   "market_cache": {
