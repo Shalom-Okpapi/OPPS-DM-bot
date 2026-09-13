@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789306211.1126978,
+      "fetched_at": 1789306777.3194935,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1368.99,
-          "merchant_name": "ONYX4EVER",
-          "completion_rate": 0.98,
-          "order_count": 1028,
-          "min_limit": 4500.0,
-          "max_limit": 461807.42,
-          "available": 337.3344,
+          "price": 1369.0,
+          "merchant_name": "DAVIDLOOYE.NG",
+          "completion_rate": 1.0,
+          "order_count": 512,
+          "min_limit": 40000.0,
+          "max_limit": 200000.0,
+          "available": 2943.1227,
           "payment_methods": [],
-          "adv_no": "2022252193348513792",
+          "adv_no": "2079139719121518592",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1374.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.97,
-          "order_count": 380,
+          "order_count": 381,
           "min_limit": 4500.0,
           "max_limit": 6734508.89,
           "available": 4901.3893,
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789306212.7271426,
+      "fetched_at": 1789306778.8122685,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -242,8 +242,8 @@
           "completion_rate": 1.0,
           "order_count": 125,
           "min_limit": 50.0,
-          "max_limit": 1262.818,
-          "available": 1578.5225,
+          "max_limit": 1312.818,
+          "available": 1641.0225,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
