@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789513423.3973148,
+      "fetched_at": 1789513778.174511,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -71,7 +71,7 @@
           "price": 1374.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.97,
-          "order_count": 389,
+          "order_count": 390,
           "min_limit": 4500.0,
           "max_limit": 6734508.89,
           "available": 4901.3893,
@@ -232,22 +232,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1789513424.5380986,
+      "fetched_at": 1789513779.3413389,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.998,
-          "merchant_name": "MaDam_GB",
-          "completion_rate": 0.99,
-          "order_count": 671,
-          "min_limit": 2.0,
-          "max_limit": 2409.094,
-          "available": 2413.9227,
-          "payment_methods": [],
-          "adv_no": "2089255728311578624",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "merchant_name": "MA-only-wise",
+          "completion_rate": 1.0,
+          "order_count": 77,
+          "min_limit": 10.0,
+          "max_limit": 4100.0,
+          "available": 3203.54,
+          "payment_methods": [
+            "ABA",
+            "KHQR"
+          ],
+          "adv_no": "12913094126928027648",
+          "link": "https://c2c.binance.com/en/adv?code=12913094126928027648"
         },
         "sell": {
           "platform": "Bybit",
