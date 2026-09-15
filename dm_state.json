@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789468774.3204608,
+      "fetched_at": 1789469077.937733,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1370.99,
-          "merchant_name": "MARV_PAYS",
-          "completion_rate": 0.99,
-          "order_count": 32654,
-          "min_limit": 5000.0,
-          "max_limit": 100000.0,
-          "available": 397.3737,
+          "price": 1370.9,
+          "merchant_name": "MOMODU",
+          "completion_rate": 1.0,
+          "order_count": 129,
+          "min_limit": 50000.0,
+          "max_limit": 120000.0,
+          "available": 120.0764,
           "payment_methods": [],
-          "adv_no": "1767833474110619648",
+          "adv_no": "2050509335966056448",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789468775.4799857,
+      "fetched_at": 1789469077.217384,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
