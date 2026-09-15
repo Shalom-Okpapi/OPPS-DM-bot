@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789474475.549877,
+      "fetched_at": 1789474720.426634,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1372.3,
-          "merchant_name": "UMAAROlUFX",
-          "completion_rate": 0.98,
-          "order_count": 377,
+          "price": 1372.4,
+          "merchant_name": "MARV_PAYS",
+          "completion_rate": 0.99,
+          "order_count": 32796,
           "min_limit": 5000.0,
-          "max_limit": 50000.0,
-          "available": 42.3748,
+          "max_limit": 100000.0,
+          "available": 583.9966,
           "payment_methods": [],
-          "adv_no": "1952497839512838144",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1376.0,
           "merchant_name": "Akuelisielisi",
           "completion_rate": 0.99,
-          "order_count": 1178,
+          "order_count": 1179,
           "min_limit": 50000.0,
           "max_limit": 50000000.0,
           "available": 100000.0,
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789474474.4962668,
+      "fetched_at": 1789474721.6591294,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -255,7 +255,7 @@
           "price": 1.2,
           "merchant_name": "\ud835\udd40\ud835\udd5f\ud835\udd64\ud835\udd65\ud835\udd52\ud835\udd5f\ud835\udd65-\u2119\ud835\udd52\ud835\udd6a\ud835\udd5e\ud835\udd56\ud835\udd5f\ud835\udd65",
           "completion_rate": 1.0,
-          "order_count": 705,
+          "order_count": 706,
           "min_limit": 10.0,
           "max_limit": 50000.0,
           "available": 46272.0109,
