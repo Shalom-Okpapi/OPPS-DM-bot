@@ -47,31 +47,31 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789463675.3092306,
+      "fetched_at": 1789463975.669444,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1371.98,
-          "merchant_name": "Ricch-exchange",
+          "price": 1371.8,
+          "merchant_name": "FAST_PAY_",
           "completion_rate": 0.99,
-          "order_count": 2696,
-          "min_limit": 50000.0,
-          "max_limit": 189357.52,
-          "available": 138.0177,
+          "order_count": 12520,
+          "min_limit": 20000.0,
+          "max_limit": 400000.0,
+          "available": 2177.2083,
           "payment_methods": [],
-          "adv_no": "1627632154568613888",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1375.8,
+          "price": 1376.0,
           "merchant_name": "Akuelisielisi",
           "completion_rate": 0.99,
-          "order_count": 1167,
+          "order_count": 1168,
           "min_limit": 50000.0,
           "max_limit": 50000000.0,
           "available": 100000.0,
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789463676.3928158,
+      "fetched_at": 1789463976.433298,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,7 +246,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1022,
+          "order_count": 1023,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 40356.56,
