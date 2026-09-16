@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789544067.9022293,
+      "fetched_at": 1789544675.626369,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1372.69,
-          "merchant_name": "MARV_PAYS",
+          "price": 1372.5,
+          "merchant_name": "Decorator",
           "completion_rate": 0.99,
-          "order_count": 32421,
-          "min_limit": 5000.0,
-          "max_limit": 100000.0,
-          "available": 704.2343,
+          "order_count": 1623,
+          "min_limit": 30000.0,
+          "max_limit": 150000.0,
+          "available": 153.9302,
           "payment_methods": [],
-          "adv_no": "1767833474110619648",
+          "adv_no": "1968570697613799424",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789544066.7656505,
+      "fetched_at": 1789544676.5777388,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
