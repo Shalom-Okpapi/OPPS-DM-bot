@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789594717.7346375,
+      "fetched_at": 1789595079.0210123,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1372.0,
-          "merchant_name": "FadaAbraham",
-          "completion_rate": 1.0,
-          "order_count": 192,
+          "merchant_name": "EuroXpress",
+          "completion_rate": 0.99,
+          "order_count": 1451,
           "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 442.0329,
+          "max_limit": 362829.92,
+          "available": 264.4533,
           "payment_methods": [],
-          "adv_no": "2097080708323606528",
+          "adv_no": "2096706409873965056",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789594718.8535988,
+      "fetched_at": 1789595077.506128,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,8 +256,8 @@
           "completion_rate": 1.0,
           "order_count": 39,
           "min_limit": 30.0,
-          "max_limit": 95108.994,
-          "available": 79257.4954,
+          "max_limit": 95038.194,
+          "available": 79198.4954,
           "payment_methods": [],
           "adv_no": "2029883488154591232",
           "link": "https://www.bybit.com/fiat/trade/otc"
