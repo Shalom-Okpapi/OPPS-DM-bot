@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789566221.3542724,
+      "fetched_at": 1789566576.6722028,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.49,
-          "merchant_name": "MARV_PAYS",
+          "price": 1373.5,
+          "merchant_name": "FAST_PAY_",
           "completion_rate": 0.99,
-          "order_count": 32993,
-          "min_limit": 5000.0,
-          "max_limit": 100000.0,
-          "available": 360.6633,
+          "order_count": 12736,
+          "min_limit": 20000.0,
+          "max_limit": 79780.7,
+          "available": 58.0857,
           "payment_methods": [],
-          "adv_no": "1767833474110619648",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789566220.2354832,
+      "fetched_at": 1789566575.8087256,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -239,10 +239,10 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1047,
+          "order_count": 1049,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 32236.1448,
+          "available": 32306.1448,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -254,10 +254,10 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 420,
+          "order_count": 421,
           "min_limit": 10.0,
-          "max_limit": 3989.881,
-          "available": 3324.9012,
+          "max_limit": 3943.081,
+          "available": 3285.9012,
           "payment_methods": [],
           "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
