@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789635274.2163315,
+      "fetched_at": 1789635572.7744281,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1372.0,
-          "merchant_name": "apostle Thiago",
-          "completion_rate": 1.0,
-          "order_count": 49,
-          "min_limit": 50000.0,
-          "max_limit": 130187.43,
-          "available": 94.8888,
+          "merchant_name": "ReduxPay",
+          "completion_rate": 0.97,
+          "order_count": 38,
+          "min_limit": 4500.0,
+          "max_limit": 136998.31,
+          "available": 99.853,
           "payment_methods": [],
-          "adv_no": "2100506459058626560",
+          "adv_no": "2099786548304314368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789635275.3050447,
+      "fetched_at": 1789635573.9800296,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -252,14 +252,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "\ud835\udd40\ud835\udd5f\ud835\udd64\ud835\udd65\ud835\udd52\ud835\udd5f\ud835\udd65-\u2119\ud835\udd52\ud835\udd6a\ud835\udd5e\ud835\udd56\ud835\udd5f\ud835\udd65",
+          "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 717,
+          "order_count": 409,
           "min_limit": 10.0,
-          "max_limit": 50000.0,
-          "available": 46222.6079,
+          "max_limit": 3907.081,
+          "available": 3255.9012,
           "payment_methods": [],
-          "adv_no": "2010777414108569600",
+          "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
