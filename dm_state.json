@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789658922.9300857,
+      "fetched_at": 1789659276.5702806,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1372.99,
-          "merchant_name": "Oak",
+          "price": 1373.5,
+          "merchant_name": "MARV_PAYS",
           "completion_rate": 0.99,
-          "order_count": 2141,
+          "order_count": 32963,
           "min_limit": 5000.0,
-          "max_limit": 50000.0,
-          "available": 46.6065,
+          "max_limit": 100000.0,
+          "available": 386.1897,
           "payment_methods": [],
-          "adv_no": "2095828402033520640",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789658921.5849528,
+      "fetched_at": 1789659275.582398,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
