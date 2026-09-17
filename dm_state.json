@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789683229.1563203,
+      "fetched_at": 1789683810.3356266,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1371.0,
           "merchant_name": "HASSAN+01",
           "completion_rate": 1.0,
-          "order_count": 595,
+          "order_count": 598,
           "min_limit": 40000.0,
           "max_limit": 60000.0,
-          "available": 539.9931,
+          "available": 330.1467,
           "payment_methods": [],
           "adv_no": "2066080976440672256",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -234,22 +234,25 @@
       }
     },
     "USD": {
-      "fetched_at": 1789683228.0493312,
+      "fetched_at": 1789683812.0240445,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.99,
-          "merchant_name": "an.noor104",
-          "completion_rate": 0.99,
-          "order_count": 3138,
-          "min_limit": 20.0,
-          "max_limit": 1233.84,
-          "available": 1246.304,
-          "payment_methods": [],
-          "adv_no": "2088352470604853248",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.999,
+          "merchant_name": "P2P-bbbff3xv",
+          "completion_rate": 0.963,
+          "order_count": 409,
+          "min_limit": 10.0,
+          "max_limit": 100.0,
+          "available": 466.74,
+          "payment_methods": [
+            "ABA",
+            "KHQR"
+          ],
+          "adv_no": "12924374113136111616",
+          "link": "https://c2c.binance.com/en/adv?code=12924374113136111616"
         },
         "sell": {
           "platform": "Bybit",
