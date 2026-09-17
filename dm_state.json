@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789687121.5327513,
+      "fetched_at": 1789687483.4720428,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1371.0,
-          "merchant_name": "HASSAN+01",
-          "completion_rate": 1.0,
-          "order_count": 610,
-          "min_limit": 40000.0,
-          "max_limit": 60000.0,
-          "available": 67.9067,
+          "price": 1372.99,
+          "merchant_name": "Bboller",
+          "completion_rate": 0.99,
+          "order_count": 701,
+          "min_limit": 10000.0,
+          "max_limit": 82231.25,
+          "available": 59.8921,
           "payment_methods": [],
-          "adv_no": "2066080976440672256",
+          "adv_no": "2059437848328732672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,25 +239,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1789687120.4486072,
+      "fetched_at": 1789687484.8953245,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.999,
-          "merchant_name": "P2P-bbbff3xv",
-          "completion_rate": 0.963,
-          "order_count": 409,
-          "min_limit": 10.0,
-          "max_limit": 100.0,
-          "available": 466.74,
-          "payment_methods": [
-            "ABA",
-            "KHQR"
-          ],
-          "adv_no": "12924374113136111616",
-          "link": "https://c2c.binance.com/en/adv?code=12924374113136111616"
+          "price": 0.985,
+          "merchant_name": "MYR_DUITNOW_MYR",
+          "completion_rate": 0.98,
+          "order_count": 566,
+          "min_limit": 8.0,
+          "max_limit": 2464.4,
+          "available": 2501.9294,
+          "payment_methods": [],
+          "adv_no": "2033932454111576064",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
