@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789729720.4296253,
+      "fetched_at": 1789730076.5209055,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1372.98,
-          "merchant_name": "K-BOY_001",
-          "completion_rate": 0.95,
-          "order_count": 22,
-          "min_limit": 20000.0,
-          "max_limit": 100000.0,
-          "available": 130.0407,
+          "price": 1373.4,
+          "merchant_name": "EXPANDABLE",
+          "completion_rate": 0.99,
+          "order_count": 5286,
+          "min_limit": 10000.0,
+          "max_limit": 61379.85,
+          "available": 44.6919,
           "payment_methods": [],
-          "adv_no": "1977401039056904192",
+          "adv_no": "2100233604426891264",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789729719.577082,
+      "fetched_at": 1789730077.674123,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -251,7 +251,7 @@
           "order_count": 1052,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 29924.7053,
+          "available": 29984.7053,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
