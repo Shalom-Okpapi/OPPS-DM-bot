@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789768174.452731,
+      "fetched_at": 1789768479.3657923,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.5,
-          "merchant_name": "auwerl",
+          "price": 1374.4,
+          "merchant_name": "Hopetrade",
           "completion_rate": 0.99,
-          "order_count": 468,
-          "min_limit": 50000.0,
-          "max_limit": 500000.0,
-          "available": 1586.9833,
+          "order_count": 750,
+          "min_limit": 5000.0,
+          "max_limit": 200000.0,
+          "available": 892.8434,
           "payment_methods": [],
-          "adv_no": "2099922511065116672",
+          "adv_no": "2081075349460168704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789768175.5437303,
+      "fetched_at": 1789768478.5030098,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,8 +246,8 @@
           "completion_rate": 1.0,
           "order_count": 246,
           "min_limit": 50.0,
-          "max_limit": 1768.645,
-          "available": 1791.941,
+          "max_limit": 1739.035,
+          "available": 1761.941,
           "payment_methods": [],
           "adv_no": "2028034604168007680",
           "link": "https://www.bybit.com/fiat/trade/otc"
