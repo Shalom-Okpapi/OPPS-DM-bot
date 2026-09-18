@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789769547.0234277,
+      "fetched_at": 1789770156.0951874,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1373.5,
           "merchant_name": "auwerl",
           "completion_rate": 0.99,
-          "order_count": 474,
+          "order_count": 476,
           "min_limit": 50000.0,
-          "max_limit": 500000.0,
-          "available": 444.8831,
+          "max_limit": 347047.05,
+          "available": 252.6735,
           "payment_methods": [],
           "adv_no": "2099922511065116672",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,21 +235,21 @@
       }
     },
     "USD": {
-      "fetched_at": 1789769548.1711066,
+      "fetched_at": 1789770155.293606,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.987,
-          "merchant_name": "ArbatTrade",
+          "price": 0.999,
+          "merchant_name": "SH_GLOBAL_METAL",
           "completion_rate": 1.0,
-          "order_count": 246,
-          "min_limit": 50.0,
-          "max_limit": 1489.035,
-          "available": 1508.6482,
+          "order_count": 1761,
+          "min_limit": 2.0,
+          "max_limit": 200.0,
+          "available": 1543.5936,
           "payment_methods": [],
-          "adv_no": "2028034604168007680",
+          "adv_no": "2086251627516002304",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
