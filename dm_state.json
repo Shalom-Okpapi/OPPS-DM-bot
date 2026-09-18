@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789701873.9552248,
+      "fetched_at": 1789702173.986616,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1371.5,
-          "merchant_name": "Phemix",
+          "price": 1373.0,
+          "merchant_name": "FAST_PAY_",
           "completion_rate": 0.99,
-          "order_count": 108,
-          "min_limit": 40000.0,
-          "max_limit": 61623.27,
-          "available": 44.9313,
+          "order_count": 12146,
+          "min_limit": 20000.0,
+          "max_limit": 400000.0,
+          "available": 1213.6161,
           "payment_methods": [],
-          "adv_no": "1976305324006141952",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789701872.8667889,
+      "fetched_at": 1789702175.1394918,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -241,7 +241,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1033,
+          "order_count": 1034,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 31331.8108,
