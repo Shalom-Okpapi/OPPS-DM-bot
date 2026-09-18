@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789751627.1128302,
+      "fetched_at": 1789751973.6621306,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1374.75,
-          "merchant_name": "freetrade@12",
-          "completion_rate": 1.0,
-          "order_count": 20,
-          "min_limit": 50000.0,
-          "max_limit": 71814.05,
-          "available": 52.2379,
+          "price": 1374.5,
+          "merchant_name": "Decorator",
+          "completion_rate": 0.99,
+          "order_count": 1687,
+          "min_limit": 30000.0,
+          "max_limit": 150000.0,
+          "available": 142.4783,
           "payment_methods": [],
-          "adv_no": "2100169797058953216",
+          "adv_no": "1968570697613799424",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789751626.1671202,
+      "fetched_at": 1789751974.5644662,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -249,8 +249,8 @@
           "completion_rate": 1.0,
           "order_count": 142,
           "min_limit": 50.0,
-          "max_limit": 1750.0,
-          "available": 2187.5,
+          "max_limit": 1800.0,
+          "available": 2250.0,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
