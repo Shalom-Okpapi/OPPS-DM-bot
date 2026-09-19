@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789798120.2967582,
+      "fetched_at": 1789798510.8305025,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.8,
-          "merchant_name": "SWITCH-PAYMENT",
-          "completion_rate": 0.99,
-          "order_count": 1116,
-          "min_limit": 4500.0,
-          "max_limit": 99999.0,
-          "available": 104.9332,
+          "price": 1373.92,
+          "merchant_name": "\ud835\udc40\ud835\udc62\ud835\udc59\ud835\udc61\ud835\udc56\ud835\udc5d\ud835\udc59\ud835\udc52_\ud835\udc46\ud835\udc5c\ud835\udc59",
+          "completion_rate": 1.0,
+          "order_count": 40,
+          "min_limit": 50000.0,
+          "max_limit": 62643.74,
+          "available": 45.5949,
           "payment_methods": [],
-          "adv_no": "2095269461636595712",
+          "adv_no": "2099824491601977344",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789798121.3066247,
+      "fetched_at": 1789798510.1179383,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,14 +259,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "ABnasReen\u2014Fx",
+          "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 53,
-          "min_limit": 30.0,
-          "max_limit": 94877.391,
-          "available": 79064.493,
+          "order_count": 399,
+          "min_limit": 10.0,
+          "max_limit": 3264.681,
+          "available": 2720.5681,
           "payment_methods": [],
-          "adv_no": "2029883488154591232",
+          "adv_no": "1969417928054837248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
