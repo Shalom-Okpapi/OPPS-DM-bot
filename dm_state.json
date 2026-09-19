@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789833826.7671826,
+      "fetched_at": 1789834120.528811,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.4,
-          "merchant_name": "weela",
-          "completion_rate": 0.98,
-          "order_count": 675,
-          "min_limit": 20000.0,
-          "max_limit": 100000.0,
-          "available": 198.6772,
+          "price": 1373.5,
+          "merchant_name": "EliteLiquidity",
+          "completion_rate": 0.99,
+          "order_count": 281,
+          "min_limit": 4500.0,
+          "max_limit": 455933.46,
+          "available": 331.9501,
           "payment_methods": [],
-          "adv_no": "2101340772274765824",
+          "adv_no": "2062559082994905088",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789833825.846341,
+      "fetched_at": 1789834119.7951357,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,8 +246,8 @@
           "completion_rate": 1.0,
           "order_count": 136,
           "min_limit": 50.0,
-          "max_limit": 1700.0,
-          "available": 2125.0,
+          "max_limit": 1750.0,
+          "available": 2187.5,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
