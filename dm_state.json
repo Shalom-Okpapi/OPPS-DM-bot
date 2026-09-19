@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789809873.5681887,
+      "fetched_at": 1789810177.998118,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1372.0,
-          "merchant_name": "bookxy_FX",
+          "price": 1373.2,
+          "merchant_name": "Anomfx4",
           "completion_rate": 0.98,
-          "order_count": 659,
-          "min_limit": 50000.0,
-          "max_limit": 92387.87,
-          "available": 67.3381,
+          "order_count": 391,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 4958.272,
           "payment_methods": [],
-          "adv_no": "2101240646010806272",
+          "adv_no": "2099266795517632512",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789809872.7513118,
+      "fetched_at": 1789810177.106885,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,8 +243,8 @@
           "completion_rate": 1.0,
           "order_count": 135,
           "min_limit": 50.0,
-          "max_limit": 750.0,
-          "available": 937.5,
+          "max_limit": 650.0,
+          "available": 812.5,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
