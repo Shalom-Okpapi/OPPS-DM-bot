@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789866590.625503,
+      "fetched_at": 1789866875.8312147,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1373.5,
           "merchant_name": "Real1exchange1",
           "completion_rate": 0.99,
-          "order_count": 8215,
+          "order_count": 8216,
           "min_limit": 50000.0,
           "max_limit": 70000.0,
           "available": 274.8308,
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789866591.8339493,
+      "fetched_at": 1789866877.2907815,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -275,7 +275,11 @@
   },
   "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
-  "last_admin_notify_failure": null,
+  "last_admin_notify_failure": {
+    "at": 1789866723.042095,
+    "target": "5503157793",
+    "reason": "network/request error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)"
+  },
   "market_cache": {
     "BTC": {
       "fetched_at": 1785305961.2624185,
