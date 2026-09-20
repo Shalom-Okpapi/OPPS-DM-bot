@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789919379.9407103,
+      "fetched_at": 1789919673.9648528,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.0,
-          "merchant_name": "DG HUB",
+          "price": 1372.0,
+          "merchant_name": "LEXXYPAY",
           "completion_rate": 1.0,
-          "order_count": 84,
-          "min_limit": 10000.0,
-          "max_limit": 50437.42,
-          "available": 36.7352,
+          "order_count": 5308,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 70.1167,
           "payment_methods": [],
-          "adv_no": "1788577954890608640",
+          "adv_no": "2086186063363649536",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789919378.7408612,
+      "fetched_at": 1789919675.090833,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,8 +246,8 @@
           "completion_rate": 1.0,
           "order_count": 128,
           "min_limit": 50.0,
-          "max_limit": 1650.0,
-          "available": 2062.5,
+          "max_limit": 1550.0,
+          "available": 1937.5,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
