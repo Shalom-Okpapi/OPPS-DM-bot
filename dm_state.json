@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789886371.6176941,
+      "fetched_at": 1789886674.0705166,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.5,
-          "merchant_name": "BEST_CHOICE",
-          "completion_rate": 0.99,
-          "order_count": 1938,
-          "min_limit": 4500.0,
-          "max_limit": 439438.27,
-          "available": 319.9405,
+          "price": 1373.4,
+          "merchant_name": "SKINNYLYON",
+          "completion_rate": 1.0,
+          "order_count": 125,
+          "min_limit": 10000.0,
+          "max_limit": 281805.47,
+          "available": 205.1882,
           "payment_methods": [],
-          "adv_no": "1992989887095361536",
+          "adv_no": "2047625185799761920",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.99,
           "order_count": 663,
           "min_limit": 10000.0,
-          "max_limit": 67072279.5,
-          "available": 48708.9902,
+          "max_limit": 67341032.45,
+          "available": 48904.163,
           "payment_methods": [],
           "adv_no": "2098049712675483648",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789886370.660918,
+      "fetched_at": 1789886672.885935,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
