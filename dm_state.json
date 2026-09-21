@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789968574.5302467,
+      "fetched_at": 1789968884.2057216,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.5,
-          "merchant_name": "Decorator",
+          "price": 1373.4,
+          "merchant_name": "Phemix",
           "completion_rate": 0.99,
-          "order_count": 1603,
-          "min_limit": 30000.0,
-          "max_limit": 150000.0,
-          "available": 619.2489,
+          "order_count": 108,
+          "min_limit": 19000.0,
+          "max_limit": 311258.17,
+          "available": 226.6333,
           "payment_methods": [],
-          "adv_no": "1968570697613799424",
+          "adv_no": "1976305324006141952",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1789965285.7244093,
+      "fetched_at": 1789968888.8120377,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -119,7 +119,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1789965282.845195,
+      "fetched_at": 1789968885.2686272,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -145,8 +145,8 @@
           "completion_rate": 0.99,
           "order_count": 187,
           "min_limit": 2000.0,
-          "max_limit": 30020.0,
-          "available": 190.0,
+          "max_limit": 27492.0,
+          "available": 174.0,
           "payment_methods": [],
           "adv_no": "1851939089113677824",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -154,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1789965283.6408665,
+      "fetched_at": 1789968886.452591,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -196,7 +196,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1789965284.9186583,
+      "fetched_at": 1789968887.591921,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -222,10 +222,10 @@
           "price": 0.737,
           "merchant_name": "YSChowdary",
           "completion_rate": 0.959,
-          "order_count": 324,
+          "order_count": 327,
           "min_limit": 30.0,
           "max_limit": 2000.0,
-          "available": 17524.41,
+          "available": 16656.59,
           "payment_methods": [
             "Instant Transfer",
             "Bank Transfer",
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789968573.7184613,
+      "fetched_at": 1789968883.1267476,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -251,7 +251,7 @@
           "order_count": 996,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 37119.6104,
+          "available": 37144.6104,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
