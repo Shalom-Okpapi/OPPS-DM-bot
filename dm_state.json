@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790007224.3350756,
+      "fetched_at": 1790007576.0037243,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.55,
-          "merchant_name": "\ud835\ude97\ud835\ude70\ud835\ude9d\ud835\ude77\ud835\ude71\ud835\udea2\ud835\ude9d\ud835\ude8e",
-          "completion_rate": 0.99,
-          "order_count": 1051,
-          "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 614.7413,
+          "price": 1373.0,
+          "merchant_name": "JovicAI",
+          "completion_rate": 1.0,
+          "order_count": 27,
+          "min_limit": 50000.0,
+          "max_limit": 137300.0,
+          "available": 100.0,
           "payment_methods": [],
-          "adv_no": "2086058598196506624",
+          "adv_no": "1996033867067445248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790007222.6417317,
+      "fetched_at": 1790007575.0470245,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
