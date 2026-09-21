@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1789979686.561662,
+      "fetched_at": 1789979902.6309624,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1373.0,
-          "merchant_name": "auwerl",
-          "completion_rate": 0.99,
-          "order_count": 535,
-          "min_limit": 40000.0,
-          "max_limit": 150000.0,
-          "available": 6324.5745,
+          "merchant_name": "FadaAbraham",
+          "completion_rate": 1.0,
+          "order_count": 296,
+          "min_limit": 5000.0,
+          "max_limit": 50000.0,
+          "available": 500.0,
           "payment_methods": [],
-          "adv_no": "2099922511065116672",
+          "adv_no": "2097080708323606528",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,21 +82,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1789976141.9849324,
+      "fetched_at": 1789979745.8527672,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
           "price": 0.871,
-          "merchant_name": "bestchange.kh",
-          "completion_rate": 0.99,
-          "order_count": 792,
-          "min_limit": 25.0,
-          "max_limit": 2464.409,
-          "available": 2829.4027,
+          "merchant_name": "GEO_PAPA",
+          "completion_rate": 1.0,
+          "order_count": 3142,
+          "min_limit": 18.0,
+          "max_limit": 1000.0,
+          "available": 18311.1521,
           "payment_methods": [],
-          "adv_no": "1944632819764613120",
+          "adv_no": "1774441374821371904",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -109,7 +109,7 @@
           "order_count": 20,
           "min_limit": 40.0,
           "max_limit": 255.0,
-          "available": 20000.0,
+          "available": 19950.0,
           "payment_methods": [],
           "adv_no": "2095948048439046144",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1789976138.7237866,
+      "fetched_at": 1789979742.213891,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -129,7 +129,7 @@
           "order_count": 422,
           "min_limit": 5000.0,
           "max_limit": 150000.0,
-          "available": 800.0,
+          "available": 770.2,
           "payment_methods": [
             "Bank Transfer"
           ],
@@ -143,7 +143,7 @@
           "price": 160.0,
           "merchant_name": "BestSeller999",
           "completion_rate": 0.985,
-          "order_count": 189,
+          "order_count": 190,
           "min_limit": 4000.0,
           "max_limit": 200000.0,
           "available": 7436.7,
@@ -156,7 +156,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1789976139.7523987,
+      "fetched_at": 1789979743.4179008,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -182,10 +182,10 @@
           "price": 0.782,
           "merchant_name": "Helvetic",
           "completion_rate": 0.95,
-          "order_count": 94,
+          "order_count": 95,
           "min_limit": 50.0,
           "max_limit": 20000.0,
-          "available": 24060.63,
+          "available": 22458.65,
           "payment_methods": [
             "Twint",
             "Instant Transfer",
@@ -198,13 +198,13 @@
       }
     },
     "GBP": {
-      "fetched_at": 1789976140.8248494,
+      "fetched_at": 1789979744.6329694,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "GBP",
-          "price": 0.639,
+          "price": 0.638,
           "merchant_name": "COSME-FULANITO",
           "completion_rate": 0.989,
           "order_count": 973,
@@ -224,10 +224,10 @@
           "price": 0.736,
           "merchant_name": "whale",
           "completion_rate": 0.972,
-          "order_count": 201,
+          "order_count": 202,
           "min_limit": 15.0,
           "max_limit": 5000.0,
-          "available": 25100.49,
+          "available": 24468.7,
           "payment_methods": [
             "Starling Bank",
             "Monzo",
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1789979688.3142416,
+      "fetched_at": 1789979901.4595754,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
