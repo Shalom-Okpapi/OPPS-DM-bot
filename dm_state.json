@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790048372.0365074,
+      "fetched_at": 1790048678.171791,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1373.0,
-          "merchant_name": "Decorator",
+          "merchant_name": "\ud835\ude97\ud835\ude70\ud835\ude9d\ud835\ude77\ud835\ude71\ud835\udea2\ud835\ude9d\ud835\ude8e",
           "completion_rate": 0.99,
-          "order_count": 1639,
-          "min_limit": 30000.0,
-          "max_limit": 150000.0,
-          "available": 480.5842,
+          "order_count": 1021,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 1098.7773,
           "payment_methods": [],
-          "adv_no": "1968570697613799424",
+          "adv_no": "2086058598196506624",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790048373.206249,
+      "fetched_at": 1790048677.2604024,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -257,14 +257,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "INV.PEACEMAN",
-          "completion_rate": 0.99,
-          "order_count": 293,
-          "min_limit": 20.0,
-          "max_limit": 100000.0,
-          "available": 99771.7809,
+          "merchant_name": "FastpaymentNG",
+          "completion_rate": 1.0,
+          "order_count": 52,
+          "min_limit": 10.0,
+          "max_limit": 50000.0,
+          "available": 99575.2637,
           "payment_methods": [],
-          "adv_no": "2065151590312304640",
+          "adv_no": "2034512711995813888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
