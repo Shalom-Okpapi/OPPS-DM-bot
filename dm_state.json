@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790093082.9169934,
+      "fetched_at": 1790093376.5538974,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,30 +82,28 @@
       }
     },
     "EUR": {
-      "fetched_at": 1790089568.9243395,
+      "fetched_at": 1790093221.1352336,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
           "price": 0.874,
-          "merchant_name": "Labubu-wise",
-          "completion_rate": 1.0,
-          "order_count": 75,
+          "merchant_name": "PhoenixEx2",
+          "completion_rate": 0.99,
+          "order_count": 623,
           "min_limit": 50.0,
-          "max_limit": 200.0,
-          "available": 1063.46,
-          "payment_methods": [
-            "Wise"
-          ],
-          "adv_no": "12935682473843834880",
-          "link": "https://c2c.binance.com/en/adv?code=12935682473843834880"
+          "max_limit": 8814.317,
+          "available": 10085.0315,
+          "payment_methods": [],
+          "adv_no": "2057742907860910080",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.048,
+          "price": 1.05,
           "merchant_name": "Jallie",
           "completion_rate": 1.0,
           "order_count": 24,
@@ -119,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1790089565.6074426,
+      "fetched_at": 1790093218.733112,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -128,9 +126,9 @@
           "price": 167.5,
           "merchant_name": "DCMNB",
           "completion_rate": 0.998,
-          "order_count": 747,
+          "order_count": 748,
           "min_limit": 4000.0,
-          "max_limit": 20000.0,
+          "max_limit": 10000.0,
           "available": 62.05,
           "payment_methods": [
             "Bank Transfer"
@@ -142,12 +140,12 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 157.24,
+          "price": 157.33,
           "merchant_name": "Booooooooooooss",
           "completion_rate": 0.98,
           "order_count": 65,
           "min_limit": 5000.0,
-          "max_limit": 7862000.0,
+          "max_limit": 7866500.0,
           "available": 50000.0,
           "payment_methods": [],
           "adv_no": "2080677229975343104",
@@ -156,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1790089566.64205,
+      "fetched_at": 1790093219.566988,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -181,7 +179,7 @@
           "fiat": "CHF",
           "price": 0.773,
           "merchant_name": "Best_Twint_Exchange",
-          "completion_rate": 0.986,
+          "completion_rate": 0.981,
           "order_count": 201,
           "min_limit": 50.0,
           "max_limit": 100000.0,
@@ -199,16 +197,16 @@
       }
     },
     "GBP": {
-      "fetched_at": 1790089567.8283482,
+      "fetched_at": 1790093220.3599396,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "GBP",
-          "price": 0.64,
+          "price": 0.641,
           "merchant_name": "COSME-FULANITO",
           "completion_rate": 0.989,
-          "order_count": 979,
+          "order_count": 980,
           "min_limit": 2.0,
           "max_limit": 100000.0,
           "available": 500.0,
@@ -222,7 +220,7 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.898,
+          "price": 0.9,
           "merchant_name": "Jallie",
           "completion_rate": 1.0,
           "order_count": 24,
@@ -236,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790093081.851281,
+      "fetched_at": 1790093377.370893,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
