@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790184825.7135859,
+      "fetched_at": 1790185120.1096175,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -234,22 +234,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1790184824.1668642,
+      "fetched_at": 1790185121.565931,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.8,
-          "merchant_name": "DagestanDentist",
-          "completion_rate": 1.0,
-          "order_count": 127,
-          "min_limit": 50.0,
-          "max_limit": 1136.0,
-          "available": 1420.0,
-          "payment_methods": [],
-          "adv_no": "1768869022963105792",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 1.0,
+          "merchant_name": "24helper",
+          "completion_rate": 0.98,
+          "order_count": 48,
+          "min_limit": 10.0,
+          "max_limit": 575.0,
+          "available": 575.0,
+          "payment_methods": [
+            "Bank Transfer"
+          ],
+          "adv_no": "12936088777605009408",
+          "link": "https://c2c.binance.com/en/adv?code=12936088777605009408"
         },
         "sell": {
           "platform": "Bybit",
