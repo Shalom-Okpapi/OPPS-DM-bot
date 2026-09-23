@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790162075.7954068,
+      "fetched_at": 1790162380.901764,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1375.0,
-          "merchant_name": "Pettexx",
+          "price": 1374.79,
+          "merchant_name": "Zikconnect",
           "completion_rate": 1.0,
-          "order_count": 59,
-          "min_limit": 23300.0,
-          "max_limit": 414896.07,
-          "available": 301.7426,
+          "order_count": 252,
+          "min_limit": 30000.0,
+          "max_limit": 252437.15,
+          "available": 183.6187,
           "payment_methods": [],
-          "adv_no": "1880374713185476608",
+          "adv_no": "2031760777403531264",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1374.0,
           "merchant_name": "Zikconnect",
           "completion_rate": 1.0,
-          "order_count": 251,
+          "order_count": 252,
           "min_limit": 50000.0,
           "max_limit": 1000000.0,
           "available": 3000.0,
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790162074.787075,
+      "fetched_at": 1790162382.4633632,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
