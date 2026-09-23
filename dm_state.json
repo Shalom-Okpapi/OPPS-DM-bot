@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790175913.7652245,
+      "fetched_at": 1790176473.6033208,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1374.98,
-          "merchant_name": "\ud835\ude97\ud835\ude70\ud835\ude9d\ud835\ude77\ud835\ude71\ud835\udea2\ud835\ude9d\ud835\ude8e",
-          "completion_rate": 0.99,
-          "order_count": 1044,
-          "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 1200.0245,
+          "price": 1374.0,
+          "merchant_name": "Snypah",
+          "completion_rate": 1.0,
+          "order_count": 151,
+          "min_limit": 20000.0,
+          "max_limit": 50519.91,
+          "available": 36.7685,
           "payment_methods": [],
-          "adv_no": "2086058598196506624",
+          "adv_no": "2102758760791810048",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790175912.6070063,
+      "fetched_at": 1790176474.4983485,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,8 +243,8 @@
           "completion_rate": 1.0,
           "order_count": 125,
           "min_limit": 50.0,
-          "max_limit": 1136.0,
-          "available": 1420.0,
+          "max_limit": 1186.0,
+          "available": 1482.5,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
