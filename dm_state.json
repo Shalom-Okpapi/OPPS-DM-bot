@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790122374.4659126,
+      "fetched_at": 1790122849.1735876,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1370.0,
           "merchant_name": "RENTPAYMENT",
           "completion_rate": 0.99,
-          "order_count": 224,
+          "order_count": 233,
           "min_limit": 4500.0,
           "max_limit": 200000.0,
-          "available": 2569.6028,
+          "available": 1479.6058,
           "payment_methods": [],
           "adv_no": "2100904776228098048",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -82,21 +82,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1790119100.090283,
+      "fetched_at": 1790122771.9056902,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
-          "price": 0.874,
-          "merchant_name": "XCHANGER_PRO",
+          "price": 0.875,
+          "merchant_name": "alvik",
           "completion_rate": 1.0,
-          "order_count": 221,
-          "min_limit": 2.0,
-          "max_limit": 300.0,
-          "available": 400.0,
+          "order_count": 6763,
+          "min_limit": 35.0,
+          "max_limit": 24356.873,
+          "available": 27836.4272,
           "payment_methods": [],
-          "adv_no": "2100387195779284992",
+          "adv_no": "2015767511592116224",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -106,7 +106,7 @@
           "price": 0.879,
           "merchant_name": "-CryptoFree-",
           "completion_rate": 0.997,
-          "order_count": 1151,
+          "order_count": 1123,
           "min_limit": 30.0,
           "max_limit": 318.0,
           "available": 305.54,
@@ -119,7 +119,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1790119096.5679412,
+      "fetched_at": 1790122768.849926,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -140,23 +140,23 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 141.05,
-          "merchant_name": "PK_CRYPTO_PRO2026",
-          "completion_rate": 0.978,
-          "order_count": 220,
-          "min_limit": 5000.0,
-          "max_limit": 100000.0,
-          "available": 361.67,
+          "price": 150.0,
+          "merchant_name": "LKRcrypto",
+          "completion_rate": 0.976,
+          "order_count": 202,
+          "min_limit": 1000.0,
+          "max_limit": 150000.0,
+          "available": 92.38,
           "payment_methods": [
             "PayPay Money"
           ],
-          "adv_no": "12822939400706605056",
-          "link": "https://c2c.binance.com/en/adv?code=12822939400706605056"
+          "adv_no": "12919509005719654400",
+          "link": "https://c2c.binance.com/en/adv?code=12919509005719654400"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1790119097.6178901,
+      "fetched_at": 1790122770.1901548,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -182,7 +182,7 @@
           "price": 0.76,
           "merchant_name": "07_Exchange",
           "completion_rate": 0.974,
-          "order_count": 656,
+          "order_count": 657,
           "min_limit": 50.0,
           "max_limit": 100000.0,
           "available": 1979745.98,
@@ -198,7 +198,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1790119098.8585296,
+      "fetched_at": 1790122771.0463076,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -207,7 +207,7 @@
           "price": 0.64,
           "merchant_name": "COSME-FULANITO",
           "completion_rate": 0.989,
-          "order_count": 982,
+          "order_count": 966,
           "min_limit": 2.0,
           "max_limit": 100000.0,
           "available": 500.0,
@@ -221,23 +221,26 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.737,
-          "merchant_name": "Sallam_96",
-          "completion_rate": 0.983,
-          "order_count": 56,
-          "min_limit": 40.0,
-          "max_limit": 500.0,
-          "available": 368.16,
+          "price": 0.731,
+          "merchant_name": "SAS_Emperor10",
+          "completion_rate": 0.968,
+          "order_count": 721,
+          "min_limit": 10.0,
+          "max_limit": 50.0,
+          "available": 222.71,
           "payment_methods": [
-            "Skrill"
+            "Lloyds Bank",
+            "Faster Payments",
+            "Bank Transfer",
+            "Instant Transfer"
           ],
-          "adv_no": "12883532449332105216",
-          "link": "https://c2c.binance.com/en/adv?code=12883532449332105216"
+          "adv_no": "12905771697563680768",
+          "link": "https://c2c.binance.com/en/adv?code=12905771697563680768"
         }
       }
     },
     "USD": {
-      "fetched_at": 1790122375.5215523,
+      "fetched_at": 1790122850.3090754,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
