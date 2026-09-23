@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790173478.6760848,
+      "fetched_at": 1790173776.8412445,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1374.26,
-          "merchant_name": "Flashpay1",
-          "completion_rate": 1.0,
-          "order_count": 85,
-          "min_limit": 9500.0,
-          "max_limit": 89676.37,
-          "available": 65.2543,
+          "price": 1374.85,
+          "merchant_name": "\ud835\ude97\ud835\ude70\ud835\ude9d\ud835\ude77\ud835\ude71\ud835\udea2\ud835\ude9d\ud835\ude8e",
+          "completion_rate": 0.99,
+          "order_count": 1036,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 1204.082,
           "payment_methods": [],
-          "adv_no": "2102763418875285504",
+          "adv_no": "2086058598196506624",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -69,14 +69,14 @@
           "trade_type": "SELL",
           "fiat": "NGN",
           "price": 1374.0,
-          "merchant_name": "Zikconnect",
-          "completion_rate": 1.0,
-          "order_count": 256,
-          "min_limit": 50000.0,
-          "max_limit": 1000000.0,
-          "available": 2871.1791,
+          "merchant_name": "Unstopable",
+          "completion_rate": 0.98,
+          "order_count": 371,
+          "min_limit": 4500.0,
+          "max_limit": 6734508.89,
+          "available": 4901.3893,
           "payment_methods": [],
-          "adv_no": "2077769467030605824",
+          "adv_no": "2040154052394418176",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790173477.690819,
+      "fetched_at": 1790173776.1037886,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
