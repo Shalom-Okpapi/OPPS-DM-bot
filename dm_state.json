@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790205277.7327578,
+      "fetched_at": 1790205830.4915802,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.8,
-          "merchant_name": "PRESIDENT+Bola",
-          "completion_rate": 0.99,
-          "order_count": 823,
-          "min_limit": 50000.0,
-          "max_limit": 414290.68,
-          "available": 301.5655,
+          "price": 1373.0,
+          "merchant_name": "NORTHMAN",
+          "completion_rate": 1.0,
+          "order_count": 326,
+          "min_limit": 20000.0,
+          "max_limit": 50000.0,
+          "available": 123.9539,
           "payment_methods": [],
-          "adv_no": "2092248656659230720",
+          "adv_no": "2102900084925161472",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790205278.573934,
+      "fetched_at": 1790205831.2777314,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,14 +256,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "\ud835\udc01\ud835\udc1a\ud835\udc1b\ud835\udc1a\ud835\udc1a\ud835\udc25\ud835\udc22\ud835\udc2c\ud835\udc1a\ud835\udc2b\ud835\udc24\ud835\udc22",
+          "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 406,
-          "min_limit": 20.0,
+          "order_count": 1389,
+          "min_limit": 10.0,
           "max_limit": 100000.0,
-          "available": 100000.0,
+          "available": 98943.1009,
           "payment_methods": [],
-          "adv_no": "2099102323209043968",
+          "adv_no": "2083213882945777664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
