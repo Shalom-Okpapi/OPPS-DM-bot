@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790126322.1549907,
+      "fetched_at": 1790126681.6019518,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1374.4,
           "merchant_name": "Icon01",
           "completion_rate": 0.99,
-          "order_count": 1499,
+          "order_count": 1500,
           "min_limit": 4500.0,
           "max_limit": 100000.0,
           "available": 920.0363,
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1790122771.9056902,
+      "fetched_at": 1790126445.790235,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,10 +91,10 @@
           "price": 0.875,
           "merchant_name": "alvik",
           "completion_rate": 1.0,
-          "order_count": 6763,
+          "order_count": 6767,
           "min_limit": 35.0,
-          "max_limit": 24356.873,
-          "available": 27836.4272,
+          "max_limit": 24209.248,
+          "available": 27667.713,
           "payment_methods": [],
           "adv_no": "2015767511592116224",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -119,7 +119,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1790122768.849926,
+      "fetched_at": 1790126442.9926794,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -137,26 +137,24 @@
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 150.0,
-          "merchant_name": "LKRcrypto",
-          "completion_rate": 0.976,
-          "order_count": 202,
-          "min_limit": 1000.0,
-          "max_limit": 150000.0,
-          "available": 92.38,
-          "payment_methods": [
-            "PayPay Money"
-          ],
-          "adv_no": "12919509005719654400",
-          "link": "https://c2c.binance.com/en/adv?code=12919509005719654400"
+          "price": 155.0,
+          "merchant_name": "LUCKYMEN",
+          "completion_rate": 0.99,
+          "order_count": 183,
+          "min_limit": 2000.0,
+          "max_limit": 11160.0,
+          "available": 72.0,
+          "payment_methods": [],
+          "adv_no": "1851939089113677824",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1790122770.1901548,
+      "fetched_at": 1790126443.8173597,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -179,32 +177,32 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.76,
-          "merchant_name": "07_Exchange",
-          "completion_rate": 0.974,
-          "order_count": 657,
+          "price": 0.74,
+          "merchant_name": "Helvetic",
+          "completion_rate": 0.951,
+          "order_count": 97,
           "min_limit": 50.0,
-          "max_limit": 100000.0,
-          "available": 1979745.98,
+          "max_limit": 10000.0,
+          "available": 18397.61,
           "payment_methods": [
             "Twint",
             "Instant Transfer",
             "Bank Transfer",
             "Cash Deposit to Bank"
           ],
-          "adv_no": "12918342128406675456",
-          "link": "https://c2c.binance.com/en/adv?code=12918342128406675456"
+          "adv_no": "12897329260887670784",
+          "link": "https://c2c.binance.com/en/adv?code=12897329260887670784"
         }
       }
     },
     "GBP": {
-      "fetched_at": 1790122771.0463076,
+      "fetched_at": 1790126445.01868,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "GBP",
-          "price": 0.64,
+          "price": 0.641,
           "merchant_name": "COSME-FULANITO",
           "completion_rate": 0.989,
           "order_count": 966,
@@ -240,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790126323.0215778,
+      "fetched_at": 1790126682.3899174,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
