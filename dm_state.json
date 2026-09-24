@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790239423.5895815,
+      "fetched_at": 1790239775.2749,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790239424.397672,
+      "fetched_at": 1790239776.2704926,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -252,19 +252,21 @@
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "USD",
-          "price": 1.2,
-          "merchant_name": "Aliyous",
-          "completion_rate": 1.0,
-          "order_count": 375,
-          "min_limit": 10.0,
-          "max_limit": 1440.656,
-          "available": 1200.5472,
-          "payment_methods": [],
-          "adv_no": "1969417928054837248",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 1.048,
+          "merchant_name": "Anfer",
+          "completion_rate": 0.961,
+          "order_count": 49,
+          "min_limit": 20.0,
+          "max_limit": 473.0,
+          "available": 207.95,
+          "payment_methods": [
+            "Pipol Pay"
+          ],
+          "adv_no": "12872499341001228288",
+          "link": "https://c2c.binance.com/en/adv?code=12872499341001228288"
         }
       }
     }
