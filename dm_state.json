@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790276384.0581863,
+      "fetched_at": 1790276602.4744341,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,30 +82,28 @@
       }
     },
     "EUR": {
-      "fetched_at": 1790272854.7028482,
+      "fetched_at": 1790276523.6446772,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
-          "price": 0.878,
-          "merchant_name": "24-Wise-To-Wise-7",
-          "completion_rate": 0.996,
-          "order_count": 242,
-          "min_limit": 50.0,
-          "max_limit": 500.0,
-          "available": 287.93,
-          "payment_methods": [
-            "Wise"
-          ],
-          "adv_no": "12912883391234060288",
-          "link": "https://c2c.binance.com/en/adv?code=12912883391234060288"
+          "price": 0.879,
+          "merchant_name": "WALLxCHANGE",
+          "completion_rate": 1.0,
+          "order_count": 67,
+          "min_limit": 2.0,
+          "max_limit": 50.0,
+          "available": 216.5757,
+          "payment_methods": [],
+          "adv_no": "2095490545469222912",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.056,
+          "price": 1.054,
           "merchant_name": "Kineticxchange",
           "completion_rate": 0.96,
           "order_count": 24,
@@ -119,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1790272851.3035274,
+      "fetched_at": 1790276520.357487,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -158,7 +156,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1790272852.4666626,
+      "fetched_at": 1790276521.587393,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -184,7 +182,7 @@
           "price": 0.773,
           "merchant_name": "Best_Twint_Exchange",
           "completion_rate": 0.975,
-          "order_count": 191,
+          "order_count": 194,
           "min_limit": 50.0,
           "max_limit": 100000.0,
           "available": 1935799.98,
@@ -201,7 +199,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1790272853.639612,
+      "fetched_at": 1790276522.6457567,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -227,7 +225,7 @@
           "price": 0.748,
           "merchant_name": "CRIPTOCAMBIOX-TRADER",
           "completion_rate": 0.995,
-          "order_count": 948,
+          "order_count": 955,
           "min_limit": 20.0,
           "max_limit": 1000.0,
           "available": 139.0,
@@ -240,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790276382.9911668,
+      "fetched_at": 1790276601.2389555,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
