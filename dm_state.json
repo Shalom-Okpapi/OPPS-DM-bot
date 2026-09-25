@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790319959.1719007,
+      "fetched_at": 1790320566.0308487,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1370.0,
           "merchant_name": "Sandi2",
           "completion_rate": 1.0,
-          "order_count": 243,
+          "order_count": 251,
           "min_limit": 4500.0,
           "max_limit": 50000.0,
-          "available": 486.7146,
+          "available": 348.6143,
           "payment_methods": [],
           "adv_no": "2103370195821989888",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -82,21 +82,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1790316829.2128332,
+      "fetched_at": 1790320487.7980702,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
           "price": 0.879,
-          "merchant_name": "WALLxCHANGE",
+          "merchant_name": "GEO_PAPA",
           "completion_rate": 1.0,
-          "order_count": 67,
-          "min_limit": 2.0,
-          "max_limit": 50.0,
-          "available": 216.5757,
+          "order_count": 3212,
+          "min_limit": 22.0,
+          "max_limit": 500.0,
+          "available": 17856.0328,
           "payment_methods": [],
-          "adv_no": "2095490545469222912",
+          "adv_no": "1594230834713755648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1790316825.6004264,
+      "fetched_at": 1790320485.3016706,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -152,7 +152,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1790316826.8647444,
+      "fetched_at": 1790320486.0786378,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -175,26 +175,27 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.74,
-          "merchant_name": "Helvetic",
-          "completion_rate": 0.951,
-          "order_count": 97,
+          "price": 0.773,
+          "merchant_name": "Best_Twint_Exchange",
+          "completion_rate": 0.975,
+          "order_count": 192,
           "min_limit": 50.0,
-          "max_limit": 10000.0,
-          "available": 18194.92,
+          "max_limit": 100000.0,
+          "available": 1935799.98,
           "payment_methods": [
             "Twint",
             "Instant Transfer",
             "Bank Transfer",
-            "Cash Deposit to Bank"
+            "Cash Deposit to Bank",
+            "ZEN"
           ],
-          "adv_no": "12897329260887670784",
-          "link": "https://c2c.binance.com/en/adv?code=12897329260887670784"
+          "adv_no": "12883507269642735616",
+          "link": "https://c2c.binance.com/en/adv?code=12883507269642735616"
         }
       }
     },
     "GBP": {
-      "fetched_at": 1790316828.0341747,
+      "fetched_at": 1790320486.9977198,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -231,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790319960.2807307,
+      "fetched_at": 1790320565.2543483,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -240,7 +241,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 996,
+          "order_count": 997,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 24821.0912,
