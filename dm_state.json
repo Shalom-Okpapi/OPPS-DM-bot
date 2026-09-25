@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790316282.6228416,
+      "fetched_at": 1790316576.2941608,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1371.5,
-          "merchant_name": "Ultimate_Safiyo",
-          "completion_rate": 1.0,
-          "order_count": 34,
-          "min_limit": 50000.0,
-          "max_limit": 137747.56,
-          "available": 100.4357,
+          "price": 1373.0,
+          "merchant_name": "Decorator",
+          "completion_rate": 0.99,
+          "order_count": 1562,
+          "min_limit": 30000.0,
+          "max_limit": 150000.0,
+          "available": 682.6333,
           "payment_methods": [],
-          "adv_no": "2103112153024569344",
+          "adv_no": "1968570697613799424",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790316281.5528526,
+      "fetched_at": 1790316575.152812,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,7 +243,7 @@
           "order_count": 995,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 25111.8107,
+          "available": 25128.9537,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
