@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790297008.8897038,
+      "fetched_at": 1790297376.3949187,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1372.0,
-          "merchant_name": "ZAGANE",
+          "price": 1372.9,
+          "merchant_name": "Ukabdul01",
           "completion_rate": 0.99,
-          "order_count": 696,
-          "min_limit": 4500.0,
-          "max_limit": 1372000.0,
-          "available": 1000.0,
+          "order_count": 1887,
+          "min_limit": 5000.0,
+          "max_limit": 50000.0,
+          "available": 38.2339,
           "payment_methods": [],
-          "adv_no": "2102415821381459968",
+          "adv_no": "2094115800650375168",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790297007.3379397,
+      "fetched_at": 1790297377.151292,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -253,14 +253,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "FastpaymentNG",
+          "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 76,
+          "order_count": 1293,
           "min_limit": 10.0,
-          "max_limit": 50000.0,
-          "available": 99556.2637,
+          "max_limit": 100000.0,
+          "available": 98913.1009,
           "payment_methods": [],
-          "adv_no": "2034512711995813888",
+          "adv_no": "2083213882945777664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
