@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790440617.3069158,
+      "fetched_at": 1790441225.0551379,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1369.0,
-          "merchant_name": "AWAL2025",
-          "completion_rate": 1.0,
+          "merchant_name": "benzelo",
+          "completion_rate": 0.95,
           "order_count": 161,
-          "min_limit": 5000.0,
-          "max_limit": 52994.26,
-          "available": 38.7102,
+          "min_limit": 50000.0,
+          "max_limit": 88884.24,
+          "available": 64.9264,
           "payment_methods": [],
-          "adv_no": "2084837203718701056",
+          "adv_no": "2047972398663270400",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790440616.2932022,
+      "fetched_at": 1790441224.2230136,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
