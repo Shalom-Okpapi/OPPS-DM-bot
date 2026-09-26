@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790433277.9190176,
+      "fetched_at": 1790433575.179306,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1368.82,
-          "merchant_name": "GoldenPrimeEx",
-          "completion_rate": 0.98,
-          "order_count": 467,
-          "min_limit": 4500.0,
+          "price": 1368.7,
+          "merchant_name": "FlowstrideLtd",
+          "completion_rate": 1.0,
+          "order_count": 75,
+          "min_limit": 20000.0,
           "max_limit": 50000.0,
-          "available": 60.4123,
+          "available": 150.0876,
           "payment_methods": [],
-          "adv_no": "2020101987217580032",
+          "adv_no": "2092180340000878592",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790433276.4869711,
+      "fetched_at": 1790433576.2663717,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
