@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790437173.5979388,
+      "fetched_at": 1790437484.9724693,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1368.99,
-          "merchant_name": "NORTHMAN",
-          "completion_rate": 1.0,
-          "order_count": 893,
-          "min_limit": 4500.0,
-          "max_limit": 304440.92,
-          "available": 222.3836,
+          "price": 1369.29,
+          "merchant_name": "DEAL~EXPRESS",
+          "completion_rate": 0.99,
+          "order_count": 1134,
+          "min_limit": 9999.0,
+          "max_limit": 150000.0,
+          "available": 555.1418,
           "payment_methods": [],
-          "adv_no": "2103554287305367552",
+          "adv_no": "2085284964263866368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1374.0,
           "merchant_name": "Unstopable",
           "completion_rate": 0.98,
-          "order_count": 373,
+          "order_count": 374,
           "min_limit": 4500.0,
           "max_limit": 6734508.89,
           "available": 4901.3893,
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790437174.811793,
+      "fetched_at": 1790437483.75751,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
