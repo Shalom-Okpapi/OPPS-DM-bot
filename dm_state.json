@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790468021.2522452,
+      "fetched_at": 1790468377.170461,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1370.0,
-          "merchant_name": "Sandi2",
-          "completion_rate": 1.0,
-          "order_count": 405,
-          "min_limit": 50000.0,
-          "max_limit": 500000.0,
-          "available": 3252.9034,
+          "price": 1367.0,
+          "merchant_name": "Vinddiecate",
+          "completion_rate": 0.95,
+          "order_count": 61,
+          "min_limit": 10000.0,
+          "max_limit": 57026.86,
+          "available": 41.7168,
           "payment_methods": [],
-          "adv_no": "2103987480410423296",
+          "adv_no": "2103994291433836544",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 61,
           "min_limit": 5000.0,
           "max_limit": 500000.0,
-          "available": 49596.1579,
+          "available": 49588.9011,
           "payment_methods": [],
           "adv_no": "2103996935845584896",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790468020.423496,
+      "fetched_at": 1790468378.2510939,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -247,10 +247,10 @@
           "price": 0.999,
           "merchant_name": "Superfaster",
           "completion_rate": 1.0,
-          "order_count": 4453,
+          "order_count": 4454,
           "min_limit": 15.0,
-          "max_limit": 999.0,
-          "available": 1000.0,
+          "max_limit": 940.0,
+          "available": 940.941,
           "payment_methods": [],
           "adv_no": "2056351306999824384",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -262,7 +262,7 @@
           "price": 1.2,
           "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 1244,
+          "order_count": 1247,
           "min_limit": 10.0,
           "max_limit": 100000.0,
           "available": 98738.101,
