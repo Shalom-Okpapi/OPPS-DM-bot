@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790485723.8166997,
+      "fetched_at": 1790486074.0842607,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1369.99,
-          "merchant_name": "NORTHMAN",
-          "completion_rate": 1.0,
-          "order_count": 1090,
-          "min_limit": 4500.0,
-          "max_limit": 81681.81,
-          "available": 59.6222,
+          "price": 1371.0,
+          "merchant_name": "Decorator",
+          "completion_rate": 0.99,
+          "order_count": 1433,
+          "min_limit": 30000.0,
+          "max_limit": 150000.0,
+          "available": 598.0703,
           "payment_methods": [],
-          "adv_no": "2103554287305367552",
+          "adv_no": "1968570697613799424",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790485722.6506557,
+      "fetched_at": 1790486074.8555207,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
