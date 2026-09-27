@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790509174.9631863,
+      "fetched_at": 1790509475.312571,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1369.0,
           "merchant_name": "SIRHAMISFX@",
           "completion_rate": 0.99,
-          "order_count": 1118,
+          "order_count": 1119,
           "min_limit": 4500.0,
           "max_limit": 50000.0,
-          "available": 144.473,
+          "available": 63.392,
           "payment_methods": [],
           "adv_no": "2101682647869038592",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -72,8 +72,8 @@
           "merchant_name": "Yusufpay",
           "completion_rate": 0.97,
           "order_count": 42,
-          "min_limit": 15000.0,
-          "max_limit": 100000.0,
+          "min_limit": 10000.0,
+          "max_limit": 150000.0,
           "available": 1000.0,
           "payment_methods": [],
           "adv_no": "2104173636508590080",
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790509174.0786662,
+      "fetched_at": 1790509474.1830008,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -241,8 +241,8 @@
           "completion_rate": 1.0,
           "order_count": 116,
           "min_limit": 50.0,
-          "max_limit": 597.467,
-          "available": 746.8341,
+          "max_limit": 547.467,
+          "available": 684.3341,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
