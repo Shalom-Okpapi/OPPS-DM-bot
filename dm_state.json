@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790620423.363169,
+      "fetched_at": 1790620721.8866842,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.0,
-          "merchant_name": "El_khaliiliy",
-          "completion_rate": 0.97,
-          "order_count": 107,
-          "min_limit": 4500.0,
-          "max_limit": 686500.0,
-          "available": 500.0,
+          "price": 1373.48,
+          "merchant_name": "Westxchange",
+          "completion_rate": 0.99,
+          "order_count": 1838,
+          "min_limit": 5000.0,
+          "max_limit": 100000.0,
+          "available": 615.0022,
           "payment_methods": [],
-          "adv_no": "1921249824117551104",
+          "adv_no": "2088944785893470208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 1.0,
           "order_count": 42,
           "min_limit": 20000.0,
-          "max_limit": 681604.96,
-          "available": 495.7127,
+          "max_limit": 146574.72,
+          "available": 106.5998,
           "payment_methods": [],
           "adv_no": "2102000639098101760",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790620425.0716157,
+      "fetched_at": 1790620720.8235257,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -242,8 +242,8 @@
           "completion_rate": 1.0,
           "order_count": 116,
           "min_limit": 50.0,
-          "max_limit": 496.0,
-          "available": 620.0004,
+          "max_limit": 546.0,
+          "available": 682.5004,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
