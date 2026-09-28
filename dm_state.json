@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790575437.374221,
+      "fetched_at": 1790575990.321769,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1371.0,
-          "merchant_name": "GMBrussian",
-          "completion_rate": 0.95,
-          "order_count": 164,
-          "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 489.9633,
+          "price": 1370.64,
+          "merchant_name": "CandorX",
+          "completion_rate": 0.97,
+          "order_count": 83,
+          "min_limit": 50000.0,
+          "max_limit": 523584.48,
+          "available": 382.0,
           "payment_methods": [],
-          "adv_no": "1850866260150796288",
+          "adv_no": "1783249390166626304",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790575436.1203122,
+      "fetched_at": 1790575991.5250552,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -247,7 +247,7 @@
           "order_count": 982,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 27054.2134,
+          "available": 26850.9614,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
