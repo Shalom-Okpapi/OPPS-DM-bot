@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790613875.7110922,
+      "fetched_at": 1790614121.4827356,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1372.79,
-          "merchant_name": "FUTURE_EXCHANGE",
-          "completion_rate": 1.0,
-          "order_count": 90,
-          "min_limit": 50000.0,
-          "max_limit": 55121.08,
-          "available": 40.1526,
+          "price": 1372.0,
+          "merchant_name": "Brownzay",
+          "completion_rate": 0.99,
+          "order_count": 3033,
+          "min_limit": 4500.0,
+          "max_limit": 100000.14,
+          "available": 72.8864,
           "payment_methods": [],
-          "adv_no": "2034179451765051392",
+          "adv_no": "1775648675121057792",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790613876.5102358,
+      "fetched_at": 1790614120.7325602,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
