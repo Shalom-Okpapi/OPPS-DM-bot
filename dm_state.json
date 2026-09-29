@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790689423.2077153,
+      "fetched_at": 1790689726.8110394,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1372.5,
-          "merchant_name": "Odanye",
-          "completion_rate": 1.0,
-          "order_count": 784,
+          "price": 1372.0,
+          "merchant_name": "Barbie exchange",
+          "completion_rate": 0.99,
+          "order_count": 2180,
           "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 303.4688,
+          "max_limit": 250000.0,
+          "available": 208.6709,
           "payment_methods": [],
-          "adv_no": "2067910093682946048",
+          "adv_no": "2093237938064760832",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790689422.3819048,
+      "fetched_at": 1790689725.665576,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
