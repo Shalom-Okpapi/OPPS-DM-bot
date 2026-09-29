@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790669321.1523983,
+      "fetched_at": 1790669619.9823575,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.0,
-          "merchant_name": "\ud835\ude97\ud835\ude70\ud835\ude9d\ud835\ude77\ud835\ude71\ud835\udea2\ud835\ude9d\ud835\ude8e",
-          "completion_rate": 0.99,
-          "order_count": 1304,
-          "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 3151.6798,
+          "price": 1372.0,
+          "merchant_name": "Maco",
+          "completion_rate": 0.96,
+          "order_count": 52,
+          "min_limit": 50000.0,
+          "max_limit": 50078.0,
+          "available": 36.5,
           "payment_methods": [],
-          "adv_no": "2086058598196506624",
+          "adv_no": "1890416802818236416",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790669320.1091297,
+      "fetched_at": 1790669621.1325073,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -260,7 +260,7 @@
           "order_count": 382,
           "min_limit": 10.0,
           "max_limit": 50000.0,
-          "available": 48284.9587,
+          "available": 47774.4254,
           "payment_methods": [],
           "adv_no": "2034609609343692800",
           "link": "https://www.bybit.com/fiat/trade/otc"
