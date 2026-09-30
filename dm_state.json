@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790802225.7233355,
+      "fetched_at": 1790802522.609121,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1362.0,
-          "merchant_name": "LUQMANBH",
-          "completion_rate": 0.97,
-          "order_count": 165,
+          "price": 1363.5,
+          "merchant_name": "FAST_PAY_",
+          "completion_rate": 0.99,
+          "order_count": 9339,
           "min_limit": 20000.0,
-          "max_limit": 61846.51,
-          "available": 45.4086,
+          "max_limit": 400000.0,
+          "available": 2466.4583,
           "payment_methods": [],
-          "adv_no": "2066139331343433728",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790802226.6281002,
+      "fetched_at": 1790802523.732379,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -241,8 +241,8 @@
           "completion_rate": 1.0,
           "order_count": 171,
           "min_limit": 50.0,
-          "max_limit": 2422.714,
-          "available": 2467.1228,
+          "max_limit": 2472.714,
+          "available": 2518.0392,
           "payment_methods": [],
           "adv_no": "2012856286790742016",
           "link": "https://www.bybit.com/fiat/trade/otc"
