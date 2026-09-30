@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790765676.686855,
+      "fetched_at": 1790765971.719571,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1369.5,
-          "merchant_name": "obawaya",
+          "price": 1369.48,
+          "merchant_name": "FUTURE_EXCHANGE",
           "completion_rate": 1.0,
-          "order_count": 55,
-          "min_limit": 10000.0,
-          "max_limit": 157501.81,
-          "available": 115.0068,
+          "order_count": 98,
+          "min_limit": 50000.0,
+          "max_limit": 142006.31,
+          "available": 103.6936,
           "payment_methods": [],
-          "adv_no": "1790674753951973376",
+          "adv_no": "2034179451765051392",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790765677.7557106,
+      "fetched_at": 1790765972.8788338,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -254,10 +254,10 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 382,
+          "order_count": 383,
           "min_limit": 10.0,
           "max_limit": 50000.0,
-          "available": 47491.8489,
+          "available": 47741.8489,
           "payment_methods": [],
           "adv_no": "2034609609343692800",
           "link": "https://www.bybit.com/fiat/trade/otc"
