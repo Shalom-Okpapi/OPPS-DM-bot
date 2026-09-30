@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790768675.0623946,
+      "fetched_at": 1790768976.7083025,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1790765148.4519312,
+      "fetched_at": 1790768821.1609101,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -106,7 +106,7 @@
           "price": 1.056,
           "merchant_name": "ombudsman",
           "completion_rate": 1.0,
-          "order_count": 27,
+          "order_count": 28,
           "min_limit": 30.0,
           "max_limit": 250.0,
           "available": 17876.7701,
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1790765144.9591913,
+      "fetched_at": 1790768818.3768077,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -126,10 +126,10 @@
           "price": 168.0,
           "merchant_name": "WUN-USDT-STORE",
           "completion_rate": 1.0,
-          "order_count": 171,
+          "order_count": 174,
           "min_limit": 1000.0,
-          "max_limit": 176521.61,
-          "available": 1050.7239,
+          "max_limit": 163121.63,
+          "available": 970.9621,
           "payment_methods": [],
           "adv_no": "1568966526221668352",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -138,13 +138,13 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 166.6,
+          "price": 166.7,
           "merchant_name": "BestSeller999",
           "completion_rate": 0.991,
-          "order_count": 206,
+          "order_count": 207,
           "min_limit": 5000.0,
           "max_limit": 200000.0,
-          "available": 16934.14,
+          "available": 16895.75,
           "payment_methods": [
             "PayPay Money"
           ],
@@ -154,24 +154,25 @@
       }
     },
     "CHF": {
-      "fetched_at": 1790765146.1642787,
+      "fetched_at": 1790768819.3773196,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.908,
-          "merchant_name": "FastdealsCH",
-          "completion_rate": 1.0,
-          "order_count": 32,
-          "min_limit": 19.0,
+          "price": 0.878,
+          "merchant_name": "Twint_USDT",
+          "completion_rate": 0.971,
+          "order_count": 33,
+          "min_limit": 5.0,
           "max_limit": 10000.0,
-          "available": 281.95,
+          "available": 345.65,
           "payment_methods": [
+            "Twint",
             "Instant Transfer"
           ],
-          "adv_no": "12912583512670539776",
-          "link": "https://c2c.binance.com/en/adv?code=12912583512670539776"
+          "adv_no": "12938569656682704896",
+          "link": "https://c2c.binance.com/en/adv?code=12938569656682704896"
         },
         "sell": {
           "platform": "Binance",
@@ -193,7 +194,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1790765147.2983618,
+      "fetched_at": 1790768820.2285507,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -216,10 +217,10 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.904,
+          "price": 0.902,
           "merchant_name": "ombudsman",
           "completion_rate": 1.0,
-          "order_count": 27,
+          "order_count": 28,
           "min_limit": 20.0,
           "max_limit": 200.0,
           "available": 18926.0,
@@ -230,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790768675.804868,
+      "fetched_at": 1790768975.8066506,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -254,7 +255,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 384,
+          "order_count": 385,
           "min_limit": 10.0,
           "max_limit": 50000.0,
           "available": 47706.8489,
