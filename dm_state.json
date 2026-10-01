@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790842123.4969065,
+      "fetched_at": 1790842424.1109202,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1361.5,
           "merchant_name": "Abrizzy",
           "completion_rate": 0.99,
-          "order_count": 3761,
+          "order_count": 3762,
           "min_limit": 20000.0,
           "max_limit": 200000.0,
-          "available": 974.3803,
+          "available": 807.0166,
           "payment_methods": [],
           "adv_no": "2105325954948849664",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -82,28 +82,28 @@
       }
     },
     "EUR": {
-      "fetched_at": 1790838825.2592967,
+      "fetched_at": 1790842428.4003756,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
-          "price": 0.882,
-          "merchant_name": "Ozzyk",
-          "completion_rate": 1.0,
-          "order_count": 2114,
-          "min_limit": 15.0,
-          "max_limit": 200.0,
-          "available": 1000.0,
+          "price": 0.884,
+          "merchant_name": "\u0424\u0435\u0440\u0437\u044c",
+          "completion_rate": 0.98,
+          "order_count": 155,
+          "min_limit": 2.0,
+          "max_limit": 50.0,
+          "available": 6136.6753,
           "payment_methods": [],
-          "adv_no": "2102702183497998336",
+          "adv_no": "2101550507158884352",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.059,
+          "price": 1.06,
           "merchant_name": "ombudsman",
           "completion_rate": 1.0,
           "order_count": 28,
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1790838822.904767,
+      "fetched_at": 1790842425.2555914,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -139,22 +139,22 @@
           "trade_type": "SELL",
           "fiat": "JPY",
           "price": 167.01,
-          "merchant_name": "Takara68",
-          "completion_rate": 0.961,
-          "order_count": 170,
+          "merchant_name": "Dracula_99",
+          "completion_rate": 0.984,
+          "order_count": 244,
           "min_limit": 5000.0,
-          "max_limit": 29207.0,
-          "available": 7084.34,
+          "max_limit": 49990.0,
+          "available": 43611.53,
           "payment_methods": [
             "PayPay Money"
           ],
-          "adv_no": "12918910698740441088",
-          "link": "https://c2c.binance.com/en/adv?code=12918910698740441088"
+          "adv_no": "12905810156590796800",
+          "link": "https://c2c.binance.com/en/adv?code=12905810156590796800"
         }
       }
     },
     "CHF": {
-      "fetched_at": 1790838823.6733263,
+      "fetched_at": 1790842426.2963715,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -178,24 +178,27 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.79,
-          "merchant_name": "Swisssmdbundnerchurr",
-          "completion_rate": 0.988,
-          "order_count": 77,
-          "min_limit": 10.0,
-          "max_limit": 1000.0,
-          "available": 1500.0,
+          "price": 0.773,
+          "merchant_name": "Best_Twint_Exchange",
+          "completion_rate": 0.976,
+          "order_count": 197,
+          "min_limit": 50.0,
+          "max_limit": 100000.0,
+          "available": 1934149.28,
           "payment_methods": [
             "Twint",
-            "Instant Transfer"
+            "Instant Transfer",
+            "Bank Transfer",
+            "Cash Deposit to Bank",
+            "ZEN"
           ],
-          "adv_no": "12913990212051726336",
-          "link": "https://c2c.binance.com/en/adv?code=12913990212051726336"
+          "adv_no": "12883507269642735616",
+          "link": "https://c2c.binance.com/en/adv?code=12883507269642735616"
         }
       }
     },
     "GBP": {
-      "fetched_at": 1790838824.4698648,
+      "fetched_at": 1790842427.2436874,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -218,7 +221,7 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.906,
+          "price": 0.904,
           "merchant_name": "ombudsman",
           "completion_rate": 1.0,
           "order_count": 28,
@@ -232,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790842124.4973054,
+      "fetched_at": 1790842422.8431332,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
