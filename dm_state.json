@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790875175.7027888,
+      "fetched_at": 1790875478.6752145,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1790871582.5827544,
+      "fetched_at": 1790875244.7554214,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,10 +91,10 @@
           "price": 0.88,
           "merchant_name": "SWITCHBACK",
           "completion_rate": 1.0,
-          "order_count": 31,
+          "order_count": 32,
           "min_limit": 50.0,
-          "max_limit": 530.0,
-          "available": 602.2729,
+          "max_limit": 830.0,
+          "available": 943.1819,
           "payment_methods": [],
           "adv_no": "2103066091579199488",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -103,21 +103,21 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.065,
-          "merchant_name": "ombudsman",
-          "completion_rate": 1.0,
-          "order_count": 29,
-          "min_limit": 30.0,
+          "price": 1.042,
+          "merchant_name": "Aikoh",
+          "completion_rate": 0.95,
+          "order_count": 21,
+          "min_limit": 40.0,
           "max_limit": 250.0,
-          "available": 17733.9942,
+          "available": 20000.0,
           "payment_methods": [],
-          "adv_no": "2103517426510168064",
+          "adv_no": "2104897828548857856",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "JPY": {
-      "fetched_at": 1790871579.278333,
+      "fetched_at": 1790875242.533956,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -154,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1790871580.355306,
+      "fetched_at": 1790875243.2726943,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -197,7 +197,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1790871581.440741,
+      "fetched_at": 1790875244.002733,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -221,20 +221,20 @@
           "trade_type": "SELL",
           "fiat": "GBP",
           "price": 0.909,
-          "merchant_name": "ombudsman",
-          "completion_rate": 1.0,
-          "order_count": 29,
-          "min_limit": 20.0,
-          "max_limit": 200.0,
-          "available": 18808.1591,
+          "merchant_name": "Aikoh",
+          "completion_rate": 0.95,
+          "order_count": 21,
+          "min_limit": 40.0,
+          "max_limit": 300.0,
+          "available": 20000.0,
           "payment_methods": [],
-          "adv_no": "2103571289220091904",
+          "adv_no": "2104221832191971328",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "USD": {
-      "fetched_at": 1790875176.445099,
+      "fetched_at": 1790875477.9832118,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
