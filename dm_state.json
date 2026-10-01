@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790856877.2713597,
+      "fetched_at": 1790857181.4412153,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1790853348.9081736,
+      "fetched_at": 1790857024.0985336,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -103,7 +103,7 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.064,
+          "price": 1.063,
           "merchant_name": "ombudsman",
           "completion_rate": 1.0,
           "order_count": 28,
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1790853345.3258908,
+      "fetched_at": 1790857020.9615893,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -126,10 +126,10 @@
           "price": 168.0,
           "merchant_name": "WUN-USDT-STORE",
           "completion_rate": 1.0,
-          "order_count": 191,
+          "order_count": 192,
           "min_limit": 1000.0,
-          "max_limit": 226257.98,
-          "available": 1346.7737,
+          "max_limit": 224557.98,
+          "available": 1336.6547,
           "payment_methods": [],
           "adv_no": "1568966526221668352",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -138,13 +138,13 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 169.0,
+          "price": 169.1,
           "merchant_name": "BestSeller999",
           "completion_rate": 0.995,
-          "order_count": 197,
+          "order_count": 198,
           "min_limit": 5000.0,
           "max_limit": 200000.0,
-          "available": 12519.14,
+          "available": 11519.14,
           "payment_methods": [
             "PayPay Money"
           ],
@@ -154,26 +154,24 @@
       }
     },
     "CHF": {
-      "fetched_at": 1790853346.8217542,
+      "fetched_at": 1790857022.0731413,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.876,
-          "merchant_name": "User-63027",
-          "completion_rate": 0.983,
-          "order_count": 55,
+          "price": 0.877,
+          "merchant_name": "SwissValutaExchange",
+          "completion_rate": 1.0,
+          "order_count": 20,
           "min_limit": 10.0,
-          "max_limit": 465.0,
-          "available": 336.96,
+          "max_limit": 10000.0,
+          "available": 2090.78,
           "payment_methods": [
-            "Bank Transfer",
-            "Instant Transfer",
             "Twint"
           ],
-          "adv_no": "12915291931766640640",
-          "link": "https://c2c.binance.com/en/adv?code=12915291931766640640"
+          "adv_no": "12915849653880389632",
+          "link": "https://c2c.binance.com/en/adv?code=12915849653880389632"
         },
         "sell": {
           "platform": "Binance",
@@ -182,10 +180,10 @@
           "price": 0.79,
           "merchant_name": "Swisssmdbundnerchurr",
           "completion_rate": 0.988,
-          "order_count": 78,
+          "order_count": 79,
           "min_limit": 10.0,
           "max_limit": 1000.0,
-          "available": 1476.91,
+          "available": 1454.02,
           "payment_methods": [
             "Twint",
             "Instant Transfer"
@@ -196,7 +194,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1790853347.9194484,
+      "fetched_at": 1790857023.0543103,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -219,7 +217,7 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.907,
+          "price": 0.906,
           "merchant_name": "ombudsman",
           "completion_rate": 1.0,
           "order_count": 28,
@@ -233,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790856876.0447993,
+      "fetched_at": 1790857180.1968598,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -257,7 +255,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 394,
+          "order_count": 395,
           "min_limit": 10.0,
           "max_limit": 50000.0,
           "available": 46720.5575,
