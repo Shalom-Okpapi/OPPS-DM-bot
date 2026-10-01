@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790875723.2351315,
+      "fetched_at": 1790876078.656298,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1357.0,
-          "merchant_name": "GetSwyft",
-          "completion_rate": 1.0,
-          "order_count": 59,
-          "min_limit": 50000.0,
-          "max_limit": 542800.0,
-          "available": 400.0,
+          "price": 1356.0,
+          "merchant_name": "asharppayalways",
+          "completion_rate": 0.99,
+          "order_count": 1441,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 90.8934,
           "payment_methods": [],
-          "adv_no": "1946714247507566592",
+          "adv_no": "2023758485050773504",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790875724.3643794,
+      "fetched_at": 1790876079.5667279,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -245,8 +245,8 @@
           "completion_rate": 1.0,
           "order_count": 112,
           "min_limit": 50.0,
-          "max_limit": 1106.0,
-          "available": 1382.5,
+          "max_limit": 1056.0,
+          "available": 1320.0,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
