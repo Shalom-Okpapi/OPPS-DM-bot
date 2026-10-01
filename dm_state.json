@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790862226.0490577,
+      "fetched_at": 1790862581.0098925,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1362.0,
-          "merchant_name": "FAST_PAY_",
-          "completion_rate": 0.99,
-          "order_count": 9233,
-          "min_limit": 20000.0,
-          "max_limit": 400000.0,
-          "available": 1242.5288,
+          "price": 1361.0,
+          "merchant_name": "CandorX",
+          "completion_rate": 0.97,
+          "order_count": 92,
+          "min_limit": 50000.0,
+          "max_limit": 272200.0,
+          "available": 200.0,
           "payment_methods": [],
-          "adv_no": "2046603189319974912",
+          "adv_no": "1783249390166626304",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790862227.2665462,
+      "fetched_at": 1790862582.3089225,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
