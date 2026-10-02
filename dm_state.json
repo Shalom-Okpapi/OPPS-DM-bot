@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790926771.5509677,
+      "fetched_at": 1790927072.9614303,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1357.65,
-          "merchant_name": "FUTURE_EXCHANGE",
-          "completion_rate": 1.0,
-          "order_count": 122,
+          "price": 1357.0,
+          "merchant_name": "DAVIDLOOYE.NG",
+          "completion_rate": 0.99,
+          "order_count": 647,
           "min_limit": 50000.0,
-          "max_limit": 937083.83,
-          "available": 690.2249,
+          "max_limit": 200000.0,
+          "available": 234.5565,
           "payment_methods": [],
-          "adv_no": "2034179451765051392",
+          "adv_no": "2079139719121518592",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790926772.7534306,
+      "fetched_at": 1790927072.1503968,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -261,7 +261,7 @@
           "order_count": 392,
           "min_limit": 10.0,
           "max_limit": 50000.0,
-          "available": 45410.815,
+          "available": 45359.1484,
           "payment_methods": [],
           "adv_no": "2034609609343692800",
           "link": "https://www.bybit.com/fiat/trade/otc"
