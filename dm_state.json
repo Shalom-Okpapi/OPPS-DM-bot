@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790920772.8355856,
+      "fetched_at": 1790921079.2524445,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1357.4,
-          "merchant_name": "CandorX",
-          "completion_rate": 0.97,
-          "order_count": 91,
+          "price": 1357.35,
+          "merchant_name": "FUTURE_EXCHANGE",
+          "completion_rate": 1.0,
+          "order_count": 118,
           "min_limit": 50000.0,
-          "max_limit": 301451.93,
-          "available": 222.0804,
+          "max_limit": 1616643.34,
+          "available": 1191.0291,
           "payment_methods": [],
-          "adv_no": "1783249390166626304",
+          "adv_no": "2034179451765051392",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790920773.720985,
+      "fetched_at": 1790921078.3440807,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -254,14 +254,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Matawalleh",
+          "merchant_name": "Kartoshka",
           "completion_rate": 1.0,
-          "order_count": 255,
-          "min_limit": 10.0,
-          "max_limit": 65456.204,
-          "available": 54546.8369,
+          "order_count": 163,
+          "min_limit": 40.0,
+          "max_limit": 3500.0,
+          "available": 29311.3443,
           "payment_methods": [],
-          "adv_no": "2053101252106842112",
+          "adv_no": "2020583953124225024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
