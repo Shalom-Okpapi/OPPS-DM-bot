@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790929477.1023629,
+      "fetched_at": 1790929776.5663667,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1356.7,
-          "merchant_name": "Suremaxtrade",
-          "completion_rate": 1.0,
-          "order_count": 1874,
-          "min_limit": 7000.0,
-          "max_limit": 2051110.2,
-          "available": 1511.8377,
+          "price": 1356.0,
+          "merchant_name": "Abrizzy",
+          "completion_rate": 0.99,
+          "order_count": 3777,
+          "min_limit": 20000.0,
+          "max_limit": 200000.0,
+          "available": 500.0,
           "payment_methods": [],
-          "adv_no": "1767298644582563840",
+          "adv_no": "2105325954948849664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790929478.082411,
+      "fetched_at": 1790929777.7029219,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
