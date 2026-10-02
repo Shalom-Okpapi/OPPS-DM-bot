@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790963975.8699539,
+      "fetched_at": 1790964280.815663,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1345.0,
-          "merchant_name": "UMAR JR",
-          "completion_rate": 0.99,
-          "order_count": 2258,
-          "min_limit": 4500.0,
-          "max_limit": 7454674.47,
-          "available": 5542.5089,
+          "price": 1345.99,
+          "merchant_name": "FUTURE_EXCHANGE",
+          "completion_rate": 1.0,
+          "order_count": 149,
+          "min_limit": 50000.0,
+          "max_limit": 157310.42,
+          "available": 116.8734,
           "payment_methods": [],
-          "adv_no": "2070143196110917632",
+          "adv_no": "2034179451765051392",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1790963974.4735389,
+      "fetched_at": 1790964280.116389,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
