@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1790985228.4245045,
+      "fetched_at": 1790985812.1653633,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1348.3,
-          "merchant_name": "ABK_EXCHANGEE",
-          "completion_rate": 1.0,
-          "order_count": 318,
-          "min_limit": 40000.0,
-          "max_limit": 1000000.0,
-          "available": 809.8513,
+          "merchant_name": "Lumipay",
+          "completion_rate": 0.99,
+          "order_count": 192,
+          "min_limit": 4500.0,
+          "max_limit": 150000.0,
+          "available": 1327.0698,
           "payment_methods": [],
-          "adv_no": "2106134950588506112",
+          "adv_no": "2105715930979033088",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -231,21 +231,21 @@
       }
     },
     "USD": {
-      "fetched_at": 1790985229.4134111,
+      "fetched_at": 1790985813.0566826,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.999,
-          "merchant_name": "abomakha",
-          "completion_rate": 0.98,
-          "order_count": 141,
-          "min_limit": 50.0,
-          "max_limit": 1998.0,
-          "available": 2000.0,
+          "price": 0.8,
+          "merchant_name": "JackyChee",
+          "completion_rate": 0.99,
+          "order_count": 1039,
+          "min_limit": 2.0,
+          "max_limit": 10000.0,
+          "available": 27988.96,
           "payment_methods": [],
-          "adv_no": "2105725769474039808",
+          "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
