@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791070305.631334,
+      "fetched_at": 1791070855.905967,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1353.0,
-          "merchant_name": "ABK_EXCHANGEE",
-          "completion_rate": 0.99,
-          "order_count": 364,
+          "merchant_name": "Brikksmacs",
+          "completion_rate": 1.0,
+          "order_count": 30,
           "min_limit": 50000.0,
-          "max_limit": 500000.0,
-          "available": 1702.3685,
+          "max_limit": 50061.0,
+          "available": 37.0,
           "payment_methods": [],
-          "adv_no": "2106485118697922560",
+          "adv_no": "1974228273065525248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791070304.47266,
+      "fetched_at": 1791070856.6725469,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -261,7 +261,7 @@
           "price": 1.2,
           "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 936,
+          "order_count": 937,
           "min_limit": 10.0,
           "max_limit": 100000.0,
           "available": 98350.8194,
