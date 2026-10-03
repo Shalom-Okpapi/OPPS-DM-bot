@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791026319.4192142,
+      "fetched_at": 1791026623.7627141,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1344.5,
-          "merchant_name": "SwiftVault",
-          "completion_rate": 0.97,
-          "order_count": 69,
-          "min_limit": 30000.0,
-          "max_limit": 65686.48,
-          "available": 48.8557,
+          "price": 1345.47,
+          "merchant_name": "RAFEX-JET_PAY",
+          "completion_rate": 1.0,
+          "order_count": 148,
+          "min_limit": 4500.0,
+          "max_limit": 106601.99,
+          "available": 79.2303,
           "payment_methods": [],
-          "adv_no": "2106029568804937728",
+          "adv_no": "2064017215915573248",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791026320.6828184,
+      "fetched_at": 1791026625.672182,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -244,8 +244,8 @@
           "completion_rate": 1.0,
           "order_count": 108,
           "min_limit": 50.0,
-          "max_limit": 1103.326,
-          "available": 1379.1579,
+          "max_limit": 1403.326,
+          "available": 1754.1579,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
