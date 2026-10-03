@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791069211.5388165,
+      "fetched_at": 1791069705.684945,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1353.9,
-          "merchant_name": "Lumipay",
+          "price": 1353.5,
+          "merchant_name": "Olaexchange1",
           "completion_rate": 0.99,
-          "order_count": 407,
+          "order_count": 460,
           "min_limit": 4500.0,
-          "max_limit": 150000.0,
-          "available": 1258.3199,
+          "max_limit": 79811.96,
+          "available": 58.9671,
           "payment_methods": [],
-          "adv_no": "2105715930979033088",
+          "adv_no": "2045323116362084353",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791069212.5111685,
+      "fetched_at": 1791069706.762086,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,7 +246,7 @@
           "price": 0.999,
           "merchant_name": "Superfaster",
           "completion_rate": 1.0,
-          "order_count": 5620,
+          "order_count": 5622,
           "min_limit": 15.0,
           "max_limit": 499.5,
           "available": 500.0,
@@ -259,14 +259,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Noorah_trades",
+          "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 134,
-          "min_limit": 20.0,
+          "order_count": 936,
+          "min_limit": 10.0,
           "max_limit": 100000.0,
-          "available": 97383.4534,
+          "available": 98523.3194,
           "payment_methods": [],
-          "adv_no": "2047913984541130752",
+          "adv_no": "2083213882945777664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
