@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791138467.6139622,
+      "fetched_at": 1791139080.8757176,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1357.0,
           "merchant_name": "Lumipay",
           "completion_rate": 0.99,
-          "order_count": 522,
+          "order_count": 523,
           "min_limit": 4500.0,
           "max_limit": 50000.0,
           "available": 384.9664,
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1791135123.3714375,
+      "fetched_at": 1791138846.213558,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -91,7 +91,7 @@
           "price": 0.89,
           "merchant_name": "SmoothOps",
           "completion_rate": 0.995,
-          "order_count": 1876,
+          "order_count": 1885,
           "min_limit": 25.0,
           "max_limit": 2500.0,
           "available": 3863.27,
@@ -121,7 +121,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1791135121.117944,
+      "fetched_at": 1791138843.7053742,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -158,7 +158,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1791135121.8771574,
+      "fetched_at": 1791138844.598327,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -167,10 +167,10 @@
           "price": 0.93,
           "merchant_name": "Helvetic",
           "completion_rate": 0.962,
-          "order_count": 74,
+          "order_count": 75,
           "min_limit": 20.0,
           "max_limit": 50000.0,
-          "available": 2736.87,
+          "available": 2715.37,
           "payment_methods": [
             "Twint"
           ],
@@ -197,24 +197,24 @@
       }
     },
     "GBP": {
-      "fetched_at": 1791135122.6355224,
+      "fetched_at": 1791138845.4213645,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "GBP",
-          "price": 0.793,
-          "merchant_name": "McDonalds_Wise",
-          "completion_rate": 0.985,
-          "order_count": 1374,
-          "min_limit": 30.0,
-          "max_limit": 2000.0,
-          "available": 3558.21,
+          "price": 0.794,
+          "merchant_name": "ALI_BABA_USDT",
+          "completion_rate": 0.978,
+          "order_count": 85,
+          "min_limit": 10.0,
+          "max_limit": 1000.0,
+          "available": 122.74,
           "payment_methods": [
-            "Bank Transfer"
+            "Skrill"
           ],
-          "adv_no": "13938500440638664704",
-          "link": "https://c2c.binance.com/en/adv?code=13938500440638664704"
+          "adv_no": "12939071079418130432",
+          "link": "https://c2c.binance.com/en/adv?code=12939071079418130432"
         },
         "sell": {
           "platform": "Bybit",
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791138468.3832922,
+      "fetched_at": 1791139080.02036,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,14 +256,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Aliyous",
+          "merchant_name": "Adi_Melo",
           "completion_rate": 1.0,
-          "order_count": 384,
-          "min_limit": 10.0,
-          "max_limit": 50000.0,
-          "available": 44713.5404,
+          "order_count": 161,
+          "min_limit": 50.0,
+          "max_limit": 100000.0,
+          "available": 90744.6966,
           "payment_methods": [],
-          "adv_no": "2034609609343692800",
+          "adv_no": "1971136860101709824",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
