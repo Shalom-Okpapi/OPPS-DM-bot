@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791153498.3300655,
+      "fetched_at": 1791153878.5697215,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1360.8,
-          "merchant_name": "ODOFIN",
-          "completion_rate": 1.0,
-          "order_count": 292,
-          "min_limit": 5000.0,
-          "max_limit": 115413.93,
-          "available": 84.8133,
+          "price": 1359.98,
+          "merchant_name": "QUICK@EXCHANGER",
+          "completion_rate": 0.99,
+          "order_count": 1160,
+          "min_limit": 4500.0,
+          "max_limit": 74520.64,
+          "available": 54.7954,
           "payment_methods": [],
-          "adv_no": "1969417435914362880",
+          "adv_no": "2089370054416510976",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791153497.2215497,
+      "fetched_at": 1791153877.7878299,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -239,10 +239,10 @@
           "price": 0.999,
           "merchant_name": "Crypto mart",
           "completion_rate": 0.99,
-          "order_count": 494,
+          "order_count": 495,
           "min_limit": 10.0,
           "max_limit": 1100.0,
-          "available": 4850.3562,
+          "available": 4840.3462,
           "payment_methods": [],
           "adv_no": "2104564332843376640",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -252,14 +252,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Aliyous",
+          "merchant_name": "Kartoshka",
           "completion_rate": 1.0,
-          "order_count": 385,
-          "min_limit": 10.0,
-          "max_limit": 50000.0,
-          "available": 44696.8738,
+          "order_count": 173,
+          "min_limit": 40.0,
+          "max_limit": 3500.0,
+          "available": 29058.3973,
           "payment_methods": [],
-          "adv_no": "2034609609343692800",
+          "adv_no": "2020583953124225024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
