@@ -47,19 +47,19 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791139611.3646855,
+      "fetched_at": 1791140105.2642226,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1357.0,
+          "price": 1355.0,
           "merchant_name": "Lumipay",
           "completion_rate": 0.99,
-          "order_count": 523,
+          "order_count": 525,
           "min_limit": 4500.0,
           "max_limit": 50000.0,
-          "available": 337.0668,
+          "available": 289.8497,
           "payment_methods": [],
           "adv_no": "2105715930979033088",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791139610.0927255,
+      "fetched_at": 1791140106.567176,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,14 +256,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Adi_Melo",
+          "merchant_name": "Kartoshka",
           "completion_rate": 1.0,
-          "order_count": 161,
-          "min_limit": 50.0,
-          "max_limit": 100000.0,
-          "available": 90744.6966,
+          "order_count": 173,
+          "min_limit": 40.0,
+          "max_limit": 3500.0,
+          "available": 29058.3973,
           "payment_methods": [],
-          "adv_no": "1971136860101709824",
+          "adv_no": "2020583953124225024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
