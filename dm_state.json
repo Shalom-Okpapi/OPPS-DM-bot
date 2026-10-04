@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791092406.7036524,
+      "fetched_at": 1791092921.356314,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1353.0,
-          "merchant_name": "Brikksmacs",
-          "completion_rate": 1.0,
-          "order_count": 30,
-          "min_limit": 50000.0,
-          "max_limit": 50061.0,
-          "available": 37.0,
+          "price": 1352.0,
+          "merchant_name": "Lumipay",
+          "completion_rate": 0.99,
+          "order_count": 423,
+          "min_limit": 4500.0,
+          "max_limit": 150000.0,
+          "available": 880.8248,
           "payment_methods": [],
-          "adv_no": "1974228273065525248",
+          "adv_no": "2105715930979033088",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -228,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791092407.8043602,
+      "fetched_at": 1791092920.4266782,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -237,10 +237,10 @@
           "price": 0.8,
           "merchant_name": "DagestanDentist",
           "completion_rate": 1.0,
-          "order_count": 109,
+          "order_count": 110,
           "min_limit": 50.0,
-          "max_limit": 598.968,
-          "available": 748.7101,
+          "max_limit": 1353.326,
+          "available": 1691.6579,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
