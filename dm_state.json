@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791167905.070086,
+      "fetched_at": 1791168222.6177578,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,32 +82,28 @@
       }
     },
     "EUR": {
-      "fetched_at": 1791164599.0688481,
+      "fetched_at": 1791168228.105591,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
           "price": 0.89,
-          "merchant_name": "SmoothOps",
-          "completion_rate": 0.995,
-          "order_count": 1843,
-          "min_limit": 25.0,
-          "max_limit": 2500.0,
-          "available": 3863.27,
-          "payment_methods": [
-            "Bank of Georgia",
-            "TBC Bank",
-            "Fastoo wallet"
-          ],
-          "adv_no": "13939668668536156160",
-          "link": "https://c2c.binance.com/en/adv?code=13939668668536156160"
+          "merchant_name": "Abid_Enterpris",
+          "completion_rate": 1.0,
+          "order_count": 31,
+          "min_limit": 2.0,
+          "max_limit": 105.056,
+          "available": 118.0414,
+          "payment_methods": [],
+          "adv_no": "2088312015840194560",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.066,
+          "price": 1.068,
           "merchant_name": "Aikoh",
           "completion_rate": 0.95,
           "order_count": 21,
@@ -121,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1791164596.3690448,
+      "fetched_at": 1791168224.904446,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -158,27 +154,24 @@
       }
     },
     "CHF": {
-      "fetched_at": 1791164597.2273402,
+      "fetched_at": 1791168225.969012,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.984,
-          "merchant_name": "Helvetic",
-          "completion_rate": 0.96,
-          "order_count": 72,
-          "min_limit": 20.0,
-          "max_limit": 50000.0,
-          "available": 2758.37,
+          "price": 0.97,
+          "merchant_name": "Swisssmdbundnerchurr",
+          "completion_rate": 0.989,
+          "order_count": 83,
+          "min_limit": 10.0,
+          "max_limit": 800.0,
+          "available": 1004.35,
           "payment_methods": [
-            "Instant Transfer",
-            "Twint",
-            "Bank Transfer",
-            "Cash Deposit to Bank"
+            "Instant Transfer"
           ],
-          "adv_no": "13897218462356951040",
-          "link": "https://c2c.binance.com/en/adv?code=13897218462356951040"
+          "adv_no": "12914349396190855168",
+          "link": "https://c2c.binance.com/en/adv?code=12914349396190855168"
         },
         "sell": {
           "platform": "Binance",
@@ -200,7 +193,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1791164598.1637402,
+      "fetched_at": 1791168227.073594,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -223,7 +216,7 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.906,
+          "price": 0.907,
           "merchant_name": "Aikoh",
           "completion_rate": 0.95,
           "order_count": 21,
@@ -237,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791167903.9909256,
+      "fetched_at": 1791168223.7240002,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
