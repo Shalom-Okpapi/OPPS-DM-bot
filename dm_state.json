@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791171223.192205,
+      "fetched_at": 1791171519.9974608,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1360.0,
-          "merchant_name": "TS Vision",
+          "price": 1359.99,
+          "merchant_name": "ROBOT-PAYMENT",
           "completion_rate": 1.0,
-          "order_count": 27,
-          "min_limit": 50000.0,
-          "max_limit": 100000.12,
-          "available": 73.5295,
+          "order_count": 38,
+          "min_limit": 4500.0,
+          "max_limit": 70000.0,
+          "available": 135.4706,
           "payment_methods": [],
-          "adv_no": "2035097198302220288",
+          "adv_no": "2106123824520798208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791171224.2400122,
+      "fetched_at": 1791171518.8787544,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -252,14 +252,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Cubes55a",
+          "merchant_name": "ADAM_EX_ENGIEER",
           "completion_rate": 0.99,
-          "order_count": 196,
-          "min_limit": 20.0,
-          "max_limit": 100000.0,
-          "available": 96631.3704,
+          "order_count": 2838,
+          "min_limit": 2.0,
+          "max_limit": 50000.0,
+          "available": 97737.0481,
           "payment_methods": [],
-          "adv_no": "2088271054130098176",
+          "adv_no": "2040223605297463296",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
