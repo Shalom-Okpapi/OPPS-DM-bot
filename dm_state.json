@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791321076.4725757,
+      "fetched_at": 1791321605.177297,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1364.99,
-          "merchant_name": "INSTITUTION",
-          "completion_rate": 1.0,
-          "order_count": 474,
-          "min_limit": 50000.0,
-          "max_limit": 150000.0,
-          "available": 200.3466,
+          "price": 1364.0,
+          "merchant_name": "DON-BABA",
+          "completion_rate": 0.99,
+          "order_count": 591,
+          "min_limit": 4500.0,
+          "max_limit": 69945.92,
+          "available": 51.28,
           "payment_methods": [],
-          "adv_no": "2083990034620104704",
+          "adv_no": "1908403293708460032",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1366.4,
           "merchant_name": "Unstopable",
           "completion_rate": 0.98,
-          "order_count": 314,
+          "order_count": 315,
           "min_limit": 4500.0,
           "max_limit": 6697258.33,
           "available": 4901.3893,
@@ -244,7 +244,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791321077.6564639,
+      "fetched_at": 1791321603.528289,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
