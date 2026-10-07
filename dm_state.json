@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791409176.8635027,
+      "fetched_at": 1791409677.4993742,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1363.4,
-          "merchant_name": "INSTITUTION",
+          "price": 1363.0,
+          "merchant_name": "MHub",
           "completion_rate": 1.0,
-          "order_count": 498,
-          "min_limit": 50000.0,
-          "max_limit": 150000.0,
-          "available": 371.4582,
+          "order_count": 609,
+          "min_limit": 10000.0,
+          "max_limit": 592350.12,
+          "available": 434.5929,
           "payment_methods": [],
-          "adv_no": "2083990034620104704",
+          "adv_no": "2065655919654502400",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791409176.1321988,
+      "fetched_at": 1791409679.2968442,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,14 +256,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "MJAYEXCHANGE",
+          "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 6514,
-          "min_limit": 5.0,
+          "order_count": 677,
+          "min_limit": 10.0,
           "max_limit": 100000.0,
-          "available": 99213.7137,
+          "available": 97843.8423,
           "payment_methods": [],
-          "adv_no": "2094844245177032704",
+          "adv_no": "2083213882945777664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
