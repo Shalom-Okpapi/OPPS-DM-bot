@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791359023.654772,
+      "fetched_at": 1791359412.1315417,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1365.0,
-          "merchant_name": "GMBrussian",
-          "completion_rate": 0.98,
-          "order_count": 312,
+          "price": 1363.0,
+          "merchant_name": "LeleX",
+          "completion_rate": 1.0,
+          "order_count": 2386,
           "min_limit": 50000.0,
-          "max_limit": 100000.0,
-          "available": 1990.1641,
+          "max_limit": 68150.0,
+          "available": 50.0,
           "payment_methods": [],
-          "adv_no": "1850866260150796288",
+          "adv_no": "2010256011308171264",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791359022.471269,
+      "fetched_at": 1791359413.1384547,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
