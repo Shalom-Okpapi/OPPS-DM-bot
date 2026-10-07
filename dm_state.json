@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791374372.285833,
+      "fetched_at": 1791374680.802562,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1364.0,
-          "merchant_name": "BrevadoGlobal",
-          "completion_rate": 1.0,
-          "order_count": 29,
-          "min_limit": 50000.0,
-          "max_limit": 54560.0,
-          "available": 40.0,
+          "merchant_name": "Jerrys xchange",
+          "completion_rate": 0.99,
+          "order_count": 180,
+          "min_limit": 20000.0,
+          "max_limit": 400000.0,
+          "available": 774.431,
           "payment_methods": [],
-          "adv_no": "2048092433427791872",
+          "adv_no": "2067663724041302016",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791374373.7526596,
+      "fetched_at": 1791374682.045844,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
