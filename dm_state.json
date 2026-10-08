@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791464025.4415185,
+      "fetched_at": 1791464371.579729,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1363.5,
-          "merchant_name": "Empressdiamond",
-          "completion_rate": 1.0,
-          "order_count": 873,
-          "min_limit": 10000.0,
-          "max_limit": 60000.0,
-          "available": 254.7943,
+          "price": 1360.0,
+          "merchant_name": "fairN",
+          "completion_rate": 0.95,
+          "order_count": 23,
+          "min_limit": 50000.0,
+          "max_limit": 99560.84,
+          "available": 73.2065,
           "payment_methods": [],
-          "adv_no": "2081727456447610880",
+          "adv_no": "2108125971064070144",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791464026.464374,
+      "fetched_at": 1791464372.826881,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -242,7 +242,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 999,
+          "order_count": 1000,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 25758.835,
