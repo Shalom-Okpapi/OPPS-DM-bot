@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791495518.2199554,
+      "fetched_at": 1791495823.0657797,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1360.0,
-          "merchant_name": "QUICK_PAY",
+          "price": 1362.99,
+          "merchant_name": "whiteangle_xcha",
           "completion_rate": 0.98,
-          "order_count": 707,
-          "min_limit": 4500.0,
-          "max_limit": 58746.56,
-          "available": 43.196,
+          "order_count": 758,
+          "min_limit": 20000.0,
+          "max_limit": 175151.57,
+          "available": 128.5054,
           "payment_methods": [],
-          "adv_no": "2105282575443615744",
+          "adv_no": "1941214909965307904",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1366.4,
           "merchant_name": "Unstopable",
           "completion_rate": 0.98,
-          "order_count": 320,
+          "order_count": 321,
           "min_limit": 4500.0,
           "max_limit": 6697258.33,
           "available": 4901.3893,
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791495519.5700295,
+      "fetched_at": 1791495824.1366649,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -245,10 +245,10 @@
           "price": 0.999,
           "merchant_name": "Lovchaya",
           "completion_rate": 1.0,
-          "order_count": 405,
+          "order_count": 406,
           "min_limit": 6.0,
           "max_limit": 200.0,
-          "available": 5286.5528,
+          "available": 5161.4277,
           "payment_methods": [],
           "adv_no": "2108077066256834560",
           "link": "https://www.bybit.com/fiat/trade/otc"
