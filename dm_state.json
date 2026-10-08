@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791421173.4299688,
+      "fetched_at": 1791421403.325522,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,21 +82,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1791417650.542574,
+      "fetched_at": 1791421325.764872,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
-          "price": 0.894,
-          "merchant_name": "alvik",
+          "price": 0.893,
+          "merchant_name": "Superfaster",
           "completion_rate": 1.0,
-          "order_count": 6772,
-          "min_limit": 50.0,
-          "max_limit": 300.0,
-          "available": 28982.36,
+          "order_count": 6049,
+          "min_limit": 15.0,
+          "max_limit": 94.68,
+          "available": 106.0247,
           "payment_methods": [],
-          "adv_no": "2038225274208436224",
+          "adv_no": "2086451541822152704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1791417646.7624278,
+      "fetched_at": 1791421322.4736843,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -138,10 +138,10 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 164.05,
+          "price": 161.0,
           "merchant_name": "Dracula_99",
-          "completion_rate": 0.984,
-          "order_count": 234,
+          "completion_rate": 0.983,
+          "order_count": 231,
           "min_limit": 5000.0,
           "max_limit": 49990.0,
           "available": 40783.33,
@@ -154,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1791417647.8214037,
+      "fetched_at": 1791421323.5287728,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -162,8 +162,8 @@
           "fiat": "CHF",
           "price": 0.996,
           "merchant_name": "Helvetic",
-          "completion_rate": 0.96,
-          "order_count": 71,
+          "completion_rate": 0.958,
+          "order_count": 68,
           "min_limit": 20.0,
           "max_limit": 50000.0,
           "available": 2242.24,
@@ -197,7 +197,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1791417649.1721768,
+      "fetched_at": 1791421324.5841134,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -205,8 +205,8 @@
           "fiat": "GBP",
           "price": 0.78,
           "merchant_name": "LouisConsolidate",
-          "completion_rate": 0.988,
-          "order_count": 158,
+          "completion_rate": 0.987,
+          "order_count": 147,
           "min_limit": 10.0,
           "max_limit": 1000.0,
           "available": 168.0,
@@ -223,7 +223,7 @@
           "price": 0.745,
           "merchant_name": "Fast-Trading-W1SE",
           "completion_rate": 0.997,
-          "order_count": 641,
+          "order_count": 621,
           "min_limit": 30.0,
           "max_limit": 2000.0,
           "available": 177860.11,
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791421172.3334084,
+      "fetched_at": 1791421404.5843577,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
