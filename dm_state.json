@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791497025.0857136,
+      "fetched_at": 1791497371.5037096,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1361.0,
-          "merchant_name": "Digitalexhange",
-          "completion_rate": 0.99,
-          "order_count": 138,
-          "min_limit": 50000.0,
-          "max_limit": 52000.0,
-          "available": 111.7928,
+          "price": 1361.8,
+          "merchant_name": "Kryptogenix",
+          "completion_rate": 1.0,
+          "order_count": 149,
+          "min_limit": 20000.0,
+          "max_limit": 2052276.17,
+          "available": 1507.032,
           "payment_methods": [],
-          "adv_no": "2099436290500100096",
+          "adv_no": "1785203880432259072",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1366.4,
           "merchant_name": "Unstopable",
           "completion_rate": 0.98,
-          "order_count": 322,
+          "order_count": 323,
           "min_limit": 4500.0,
           "max_limit": 6697258.33,
           "available": 4901.3893,
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791497024.005575,
+      "fetched_at": 1791497372.4106486,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -244,11 +244,11 @@
           "fiat": "USD",
           "price": 0.98,
           "merchant_name": "liamsi00",
-          "completion_rate": 0.98,
-          "order_count": 196,
+          "completion_rate": 0.981,
+          "order_count": 197,
           "min_limit": 20.0,
           "max_limit": 100.0,
-          "available": 180.4,
+          "available": 78.01,
           "payment_methods": [
             "Skrill"
           ],
