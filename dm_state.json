@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791501273.8776546,
+      "fetched_at": 1791501575.9491718,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1361.9,
-          "merchant_name": "BEEN ALY",
-          "completion_rate": 0.99,
-          "order_count": 622,
-          "min_limit": 20000.0,
-          "max_limit": 208720.02,
-          "available": 153.2565,
+          "price": 1360.0,
+          "merchant_name": "QUICK_PAY",
+          "completion_rate": 0.98,
+          "order_count": 711,
+          "min_limit": 4500.0,
+          "max_limit": 50309.52,
+          "available": 36.9923,
           "payment_methods": [],
-          "adv_no": "2072034266420703232",
+          "adv_no": "2105282575443615744",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791501275.045246,
+      "fetched_at": 1791501574.8578577,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -247,8 +247,8 @@
           "completion_rate": 1.0,
           "order_count": 405,
           "min_limit": 2.0,
-          "max_limit": 169.8,
-          "available": 169.97,
+          "max_limit": 157.8,
+          "available": 157.958,
           "payment_methods": [],
           "adv_no": "2009944351183069184",
           "link": "https://www.bybit.com/fiat/trade/otc"
