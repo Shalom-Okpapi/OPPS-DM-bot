@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791453879.6176374,
+      "fetched_at": 1791454119.4572086,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1361.9,
-          "merchant_name": "Roygbiv",
-          "completion_rate": 1.0,
-          "order_count": 64,
+          "price": 1361.0,
+          "merchant_name": "MayorFundz",
+          "completion_rate": 0.99,
+          "order_count": 211,
           "min_limit": 4500.0,
-          "max_limit": 104990.09,
-          "available": 77.0909,
+          "max_limit": 50000.0,
+          "available": 48.6344,
           "payment_methods": [],
-          "adv_no": "1795705852479840256",
+          "adv_no": "2108099346952937472",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1366.4,
           "merchant_name": "Unstopable",
           "completion_rate": 0.98,
-          "order_count": 305,
+          "order_count": 306,
           "min_limit": 4500.0,
           "max_limit": 6697258.33,
           "available": 4901.3893,
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791453878.6205637,
+      "fetched_at": 1791454118.3120708,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
