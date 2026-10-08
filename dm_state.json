@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791486873.7010312,
+      "fetched_at": 1791487175.6430697,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1362.67,
-          "merchant_name": "ODOFIN",
-          "completion_rate": 1.0,
-          "order_count": 281,
-          "min_limit": 20000.0,
-          "max_limit": 2027717.14,
-          "available": 1488.0471,
+          "price": 1362.5,
+          "merchant_name": "Ems Global ",
+          "completion_rate": 0.99,
+          "order_count": 213,
+          "min_limit": 50000.0,
+          "max_limit": 23000000.0,
+          "available": 20239.8304,
           "payment_methods": [],
-          "adv_no": "1969417435914362880",
+          "adv_no": "1979121959575638016",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791486872.934405,
+      "fetched_at": 1791487174.8069556,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -258,7 +258,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 366,
+          "order_count": 368,
           "min_limit": 10.0,
           "max_limit": 50000.0,
           "available": 42488.409,
