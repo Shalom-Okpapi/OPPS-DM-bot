@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791496176.4436762,
+      "fetched_at": 1791496428.1012378,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1362.99,
-          "merchant_name": "whiteangle_xcha",
-          "completion_rate": 0.98,
-          "order_count": 758,
-          "min_limit": 20000.0,
-          "max_limit": 130704.47,
-          "available": 95.8954,
+          "price": 1360.89,
+          "merchant_name": "cmexchange001",
+          "completion_rate": 0.99,
+          "order_count": 481,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 1358.8862,
           "payment_methods": [],
-          "adv_no": "1941214909965307904",
+          "adv_no": "2103633887784407040",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,22 +236,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1791496175.72785,
+      "fetched_at": 1791496426.9686337,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.999,
-          "merchant_name": "Lovchaya",
-          "completion_rate": 1.0,
-          "order_count": 406,
-          "min_limit": 6.0,
-          "max_limit": 200.0,
-          "available": 5161.4277,
-          "payment_methods": [],
-          "adv_no": "2108077066256834560",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "price": 0.98,
+          "merchant_name": "liamsi00",
+          "completion_rate": 0.98,
+          "order_count": 194,
+          "min_limit": 20.0,
+          "max_limit": 100.0,
+          "available": 282.79,
+          "payment_methods": [
+            "Skrill"
+          ],
+          "adv_no": "12941630916806725632",
+          "link": "https://c2c.binance.com/en/adv?code=12941630916806725632"
         },
         "sell": {
           "platform": "Bybit",
