@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791452082.6475945,
+      "fetched_at": 1791452380.7388794,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1362.9,
-          "merchant_name": "INSTITUTION",
-          "completion_rate": 1.0,
-          "order_count": 488,
-          "min_limit": 12000.0,
-          "max_limit": 50000.0,
-          "available": 334.7718,
+          "price": 1362.8,
+          "merchant_name": "Wheels",
+          "completion_rate": 0.98,
+          "order_count": 64,
+          "min_limit": 9999.0,
+          "max_limit": 78602.35,
+          "available": 57.6771,
           "payment_methods": [],
-          "adv_no": "2083990034620104704",
+          "adv_no": "2107242093723049984",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791452081.4643188,
+      "fetched_at": 1791452381.8279111,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,7 +246,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 995,
+          "order_count": 996,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 25758.835,
@@ -264,7 +264,7 @@
           "order_count": 363,
           "min_limit": 10.0,
           "max_limit": 50000.0,
-          "available": 42612.5756,
+          "available": 42604.2423,
           "payment_methods": [],
           "adv_no": "2034609609343692800",
           "link": "https://www.bybit.com/fiat/trade/otc"
