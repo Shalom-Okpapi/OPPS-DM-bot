@@ -47,18 +47,18 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791503024.6817672,
+      "fetched_at": 1791503377.6035156,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1361.0,
+          "price": 1360.9,
           "merchant_name": "ViCrypt",
           "completion_rate": 1.0,
           "order_count": 36,
-          "min_limit": 50000.0,
-          "max_limit": 132530.5,
+          "min_limit": 10000.0,
+          "max_limit": 132520.76,
           "available": 97.3773,
           "payment_methods": [],
           "adv_no": "1685017909589516288",
@@ -236,21 +236,21 @@
       }
     },
     "USD": {
-      "fetched_at": 1791503023.5930347,
+      "fetched_at": 1791503378.7694197,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.999,
-          "merchant_name": "Xpr55",
-          "completion_rate": 1.0,
-          "order_count": 405,
+          "price": 0.8,
+          "merchant_name": "JackyChee",
+          "completion_rate": 0.99,
+          "order_count": 1024,
           "min_limit": 2.0,
-          "max_limit": 199.8,
-          "available": 200.0,
+          "max_limit": 10000.0,
+          "available": 20680.8389,
           "payment_methods": [],
-          "adv_no": "2009944351183069184",
+          "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
