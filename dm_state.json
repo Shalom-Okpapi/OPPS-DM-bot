@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791497677.849033,
+      "fetched_at": 1791497921.912271,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1362.1,
-          "merchant_name": "ABK_EXCHANGEE",
+          "price": 1360.89,
+          "merchant_name": "cmexchange001",
           "completion_rate": 0.99,
-          "order_count": 765,
-          "min_limit": 20000.0,
-          "max_limit": 708615.22,
-          "available": 520.2373,
+          "order_count": 484,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 1158.3397,
           "payment_methods": [],
-          "adv_no": "2106884149600903168",
+          "adv_no": "2103633887784407040",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,24 +236,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1791497676.7473896,
+      "fetched_at": 1791497923.1841297,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.98,
-          "merchant_name": "liamsi00",
-          "completion_rate": 0.981,
-          "order_count": 197,
-          "min_limit": 20.0,
-          "max_limit": 100.0,
-          "available": 78.01,
-          "payment_methods": [
-            "Skrill"
-          ],
-          "adv_no": "12941630916806725632",
-          "link": "https://c2c.binance.com/en/adv?code=12941630916806725632"
+          "price": 0.999,
+          "merchant_name": "Lovchaya",
+          "completion_rate": 1.0,
+          "order_count": 406,
+          "min_limit": 6.0,
+          "max_limit": 200.0,
+          "available": 5161.4277,
+          "payment_methods": [],
+          "adv_no": "2108077066256834560",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
