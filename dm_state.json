@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791581078.400625,
+      "fetched_at": 1791581374.9131978,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1359.69,
-          "merchant_name": "ODOFIN",
-          "completion_rate": 1.0,
-          "order_count": 278,
-          "min_limit": 50000.0,
-          "max_limit": 147934.4,
-          "available": 108.8001,
+          "price": 1359.5,
+          "merchant_name": "RoyalDeluxe",
+          "completion_rate": 0.96,
+          "order_count": 253,
+          "min_limit": 20000.0,
+          "max_limit": 123684.31,
+          "available": 90.9778,
           "payment_methods": [],
-          "adv_no": "1969417435914362880",
+          "adv_no": "1975837552237629440",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791581079.3764923,
+      "fetched_at": 1791581376.029426,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,14 +259,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Aliyous",
+          "merchant_name": "Kartoshka",
           "completion_rate": 1.0,
-          "order_count": 366,
-          "min_limit": 10.0,
-          "max_limit": 50000.0,
-          "available": 42099.4091,
+          "order_count": 174,
+          "min_limit": 40.0,
+          "max_limit": 3500.0,
+          "available": 28767.3973,
           "payment_methods": [],
-          "adv_no": "2034609609343692800",
+          "adv_no": "2020583953124225024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
