@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791572021.8013818,
+      "fetched_at": 1791572374.8809433,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1359.15,
-          "merchant_name": "MrPossibleGH",
-          "completion_rate": 0.97,
-          "order_count": 89,
-          "min_limit": 20000.0,
-          "max_limit": 112916.0,
-          "available": 83.0784,
+          "price": 1359.5,
+          "merchant_name": "-INTENT-",
+          "completion_rate": 1.0,
+          "order_count": 28,
+          "min_limit": 50000.0,
+          "max_limit": 150000.0,
+          "available": 461.0758,
           "payment_methods": [],
-          "adv_no": "2108630998686523392",
+          "adv_no": "2108548172025225216",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791572020.6757545,
+      "fetched_at": 1791572373.8639522,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -245,8 +245,8 @@
           "completion_rate": 0.99,
           "order_count": 130,
           "min_limit": 50.0,
-          "max_limit": 1203.326,
-          "available": 1504.1579,
+          "max_limit": 1103.326,
+          "available": 1379.1579,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -258,7 +258,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 362,
+          "order_count": 363,
           "min_limit": 10.0,
           "max_limit": 50000.0,
           "available": 42186.0757,
