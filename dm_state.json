@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791578023.1425683,
+      "fetched_at": 1791578374.9347985,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1360.47,
-          "merchant_name": "GREENDIGPAY",
+          "price": 1360.0,
+          "merchant_name": "Empressdiamond",
           "completion_rate": 1.0,
-          "order_count": 453,
-          "min_limit": 25000.0,
-          "max_limit": 220000.0,
-          "available": 315.0,
+          "order_count": 851,
+          "min_limit": 10000.0,
+          "max_limit": 60000.0,
+          "available": 487.777,
           "payment_methods": [],
-          "adv_no": "2062081939874082816",
+          "adv_no": "2081727456447610880",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791578022.3449802,
+      "fetched_at": 1791578373.9162548,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
