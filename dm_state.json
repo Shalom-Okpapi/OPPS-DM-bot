@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791658477.2324493,
+      "fetched_at": 1791658712.5874686,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1359.0,
-          "merchant_name": "Zeeco1",
-          "completion_rate": 0.97,
-          "order_count": 35,
+          "price": 1362.95,
+          "merchant_name": "INSTITUTION",
+          "completion_rate": 1.0,
+          "order_count": 563,
           "min_limit": 50000.0,
-          "max_limit": 375072.17,
-          "available": 275.9913,
+          "max_limit": 150000.0,
+          "available": 334.3601,
           "payment_methods": [],
-          "adv_no": "2108994399346941952",
+          "adv_no": "2083990034620104704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791658478.3183908,
+      "fetched_at": 1791658713.7481692,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
