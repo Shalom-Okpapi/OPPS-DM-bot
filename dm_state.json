@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791620974.3853881,
+      "fetched_at": 1791621223.3750417,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1358.5,
-          "merchant_name": "Apex24",
-          "completion_rate": 1.0,
-          "order_count": 206,
-          "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 321.8365,
+          "price": 1358.0,
+          "merchant_name": "ATVEXCHANGE",
+          "completion_rate": 0.99,
+          "order_count": 807,
+          "min_limit": 20000.0,
+          "max_limit": 102710.29,
+          "available": 75.6335,
           "payment_methods": [],
-          "adv_no": "2101338034002427904",
+          "adv_no": "2061068408431443968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -229,7 +229,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791620975.2417417,
+      "fetched_at": 1791621222.6169047,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,7 +256,7 @@
           "order_count": 350,
           "min_limit": 10.0,
           "max_limit": 50000.0,
-          "available": 42082.7425,
+          "available": 42099.4091,
           "payment_methods": [],
           "adv_no": "2034609609343692800",
           "link": "https://www.bybit.com/fiat/trade/otc"
