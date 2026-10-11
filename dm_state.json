@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791697775.995575,
+      "fetched_at": 1791698073.7512288,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1363.5,
-          "merchant_name": "GoldenXchange",
-          "completion_rate": 0.99,
-          "order_count": 187,
-          "min_limit": 50000.0,
-          "max_limit": 104502.04,
-          "available": 76.6425,
+          "merchant_name": "\ud835\udd4a\ud835\udd38\ud835\udd4d\ud835\udd40\ud835\udd4f\u2102\u210d\ud835\udd38\u2115\ud835\udd3e\ud835\udd3c",
+          "completion_rate": 1.0,
+          "order_count": 41,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 1000.0,
           "payment_methods": [],
-          "adv_no": "1964190593967955968",
+          "adv_no": "2109160362553532416",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -228,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791697774.7724383,
+      "fetched_at": 1791698074.87893,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -252,7 +252,7 @@
           "price": 1.2,
           "merchant_name": "Aliyous",
           "completion_rate": 1.0,
-          "order_count": 360,
+          "order_count": 361,
           "min_limit": 10.0,
           "max_limit": 50000.0,
           "available": 41746.7142,
