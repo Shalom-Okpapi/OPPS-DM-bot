@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791745922.6952252,
+      "fetched_at": 1791746418.1818004,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1362.59,
-          "merchant_name": "Ahmreads",
-          "completion_rate": 0.99,
-          "order_count": 686,
+          "price": 1362.5,
+          "merchant_name": "INSTITUTION",
+          "completion_rate": 1.0,
+          "order_count": 620,
           "min_limit": 50000.0,
-          "max_limit": 242308.28,
-          "available": 177.8292,
+          "max_limit": 150000.0,
+          "available": 370.2477,
           "payment_methods": [],
-          "adv_no": "2096932551612596224",
+          "adv_no": "2083990034620104704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791745921.6579635,
+      "fetched_at": 1791746417.237955,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
