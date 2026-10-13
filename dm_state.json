@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791928122.254967,
+      "fetched_at": 1791928482.9074097,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1364.5,
-          "merchant_name": "kppa",
-          "completion_rate": 1.0,
-          "order_count": 29,
-          "min_limit": 10000.0,
-          "max_limit": 310205.83,
-          "available": 227.3403,
+          "price": 1363.0,
+          "merchant_name": "YemzyXchange",
+          "completion_rate": 0.98,
+          "order_count": 180,
+          "min_limit": 4500.0,
+          "max_limit": 104366.54,
+          "available": 76.5712,
           "payment_methods": [],
-          "adv_no": "2109716784656211968",
+          "adv_no": "2100983872196599808",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1791928120.578236,
+      "fetched_at": 1791928483.8038702,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,10 +246,10 @@
           "price": 0.998,
           "merchant_name": "Lovchaya",
           "completion_rate": 1.0,
-          "order_count": 665,
+          "order_count": 668,
           "min_limit": 10.0,
           "max_limit": 53.91,
-          "available": 2430.5363,
+          "available": 2376.5183,
           "payment_methods": [],
           "adv_no": "2108520413910573056",
           "link": "https://www.bybit.com/fiat/trade/otc"
