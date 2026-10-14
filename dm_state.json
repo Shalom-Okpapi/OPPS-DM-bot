@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1791987573.0941355,
+      "fetched_at": 1791987807.2441363,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1362.5,
-          "merchant_name": "cryptobozAmount",
-          "completion_rate": 0.96,
-          "order_count": 182,
-          "min_limit": 30000.0,
-          "max_limit": 136626.32,
-          "available": 100.2762,
+          "price": 1363.0,
+          "merchant_name": "Ayreal1",
+          "completion_rate": 0.99,
+          "order_count": 5206,
+          "min_limit": 4500.0,
+          "max_limit": 95864.56,
+          "available": 70.3335,
           "payment_methods": [],
-          "adv_no": "1831369443114663936",
+          "adv_no": "2061106351627960320",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1791984048.289499,
+      "fetched_at": 1791987648.4288151,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -91,10 +91,10 @@
           "price": 0.896,
           "merchant_name": "SmoothOps",
           "completion_rate": 0.995,
-          "order_count": 1859,
+          "order_count": 1869,
           "min_limit": 25.0,
           "max_limit": 3000.0,
-          "available": 5344.45,
+          "available": 4889.01,
           "payment_methods": [
             "Bank of Georgia",
             "TBC Bank",
@@ -107,7 +107,7 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.071,
+          "price": 1.077,
           "merchant_name": "Chette",
           "completion_rate": 1.0,
           "order_count": 25,
@@ -121,7 +121,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1791984044.6508942,
+      "fetched_at": 1791987644.9977875,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -142,12 +142,12 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 158.79,
+          "price": 158.92,
           "merchant_name": "Booooooooooooss",
           "completion_rate": 0.97,
           "order_count": 117,
           "min_limit": 5000.0,
-          "max_limit": 7939500.0,
+          "max_limit": 7946000.0,
           "available": 50000.0,
           "payment_methods": [],
           "adv_no": "2080677229975343104",
@@ -156,7 +156,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1791984045.8090081,
+      "fetched_at": 1791987646.0351822,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -201,7 +201,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1791984047.1092155,
+      "fetched_at": 1791987647.2929356,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -224,23 +224,27 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.765,
-          "merchant_name": "Stevejb50",
-          "completion_rate": 0.953,
-          "order_count": 159,
-          "min_limit": 10.0,
-          "max_limit": 100.0,
-          "available": 100.0,
+          "price": 0.741,
+          "merchant_name": "YSChowdary",
+          "completion_rate": 0.971,
+          "order_count": 333,
+          "min_limit": 30.0,
+          "max_limit": 2500.0,
+          "available": 27954.75,
           "payment_methods": [
-            "Skrill"
+            "Instant Transfer",
+            "Bank Transfer",
+            "Faster Payments",
+            "Monzo",
+            "Lloyds Bank"
           ],
-          "adv_no": "12943666302760366080",
-          "link": "https://c2c.binance.com/en/adv?code=12943666302760366080"
+          "adv_no": "12720476892752785408",
+          "link": "https://c2c.binance.com/en/adv?code=12720476892752785408"
         }
       }
     },
     "USD": {
-      "fetched_at": 1791987574.2883258,
+      "fetched_at": 1791987805.9871736,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
