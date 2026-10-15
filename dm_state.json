@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792065579.0746877,
+      "fetched_at": 1792065880.8829913,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1361.95,
-          "merchant_name": "NITRO-X",
+          "price": 1361.5,
+          "merchant_name": "Phemix",
           "completion_rate": 1.0,
-          "order_count": 48,
-          "min_limit": 10000.0,
-          "max_limit": 100000.0,
-          "available": 544.2639,
+          "order_count": 50,
+          "min_limit": 20000.0,
+          "max_limit": 155138.7,
+          "available": 113.9469,
           "payment_methods": [],
-          "adv_no": "2110664021171138560",
+          "adv_no": "1976305324006141952",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -243,7 +243,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792065580.3102632,
+      "fetched_at": 1792065879.7333477,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -255,7 +255,7 @@
           "order_count": 1002,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 20011.335,
+          "available": 20136.335,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
