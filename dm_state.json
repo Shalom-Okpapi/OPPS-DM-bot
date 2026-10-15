@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792027182.9318905,
+      "fetched_at": 1792027475.4385204,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1362.95,
-          "merchant_name": "Mamatu001",
-          "completion_rate": 0.98,
-          "order_count": 1297,
-          "min_limit": 4500.0,
-          "max_limit": 90044.1,
-          "available": 66.0656,
+          "price": 1362.8,
+          "merchant_name": "ROBOT-PAYMENT",
+          "completion_rate": 1.0,
+          "order_count": 75,
+          "min_limit": 10000.0,
+          "max_limit": 500000.0,
+          "available": 400.0,
           "payment_methods": [],
-          "adv_no": "2101569774302482432",
+          "adv_no": "2106123824520798208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792027181.6381993,
+      "fetched_at": 1792027474.3097525,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -250,7 +250,7 @@
           "order_count": 969,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 20896.335,
+          "available": 22146.335,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
