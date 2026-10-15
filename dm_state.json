@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792106328.7066345,
+      "fetched_at": 1792106878.4209952,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1361.0,
-          "merchant_name": "Ems Global ",
-          "completion_rate": 0.99,
-          "order_count": 259,
-          "min_limit": 50000.0,
-          "max_limit": 194965.97,
-          "available": 143.252,
+          "price": 1361.3,
+          "merchant_name": "NITRO-X",
+          "completion_rate": 1.0,
+          "order_count": 158,
+          "min_limit": 10000.0,
+          "max_limit": 544520.0,
+          "available": 400.0,
           "payment_methods": [],
-          "adv_no": "1979121959575638016",
+          "adv_no": "2110664021171138560",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792106329.5111427,
+      "fetched_at": 1792106879.677311,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,14 +259,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Kartoshka",
+          "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 166,
-          "min_limit": 40.0,
-          "max_limit": 3500.0,
-          "available": 26490.2843,
+          "order_count": 457,
+          "min_limit": 10.0,
+          "max_limit": 100000.0,
+          "available": 96514.834,
           "payment_methods": [],
-          "adv_no": "2020583953124225024",
+          "adv_no": "2083213882945777664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
