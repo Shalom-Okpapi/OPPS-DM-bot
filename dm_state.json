@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792130369.4034348,
+      "fetched_at": 1792130918.8869066,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1360.0,
-          "merchant_name": "Hopetrade",
-          "completion_rate": 0.99,
-          "order_count": 527,
-          "min_limit": 20000.0,
-          "max_limit": 99343.78,
-          "available": 73.0469,
+          "price": 1360.97,
+          "merchant_name": "EuroXpress",
+          "completion_rate": 0.96,
+          "order_count": 2425,
+          "min_limit": 45000.0,
+          "max_limit": 4228422.87,
+          "available": 3106.9185,
           "payment_methods": [],
-          "adv_no": "2081075349460168704",
+          "adv_no": "2096706409873965056",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792130370.261288,
+      "fetched_at": 1792130918.0536797,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -262,14 +262,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Sharp Xpress ",
+          "merchant_name": "Kartoshka",
           "completion_rate": 1.0,
-          "order_count": 97,
-          "min_limit": 20.0,
-          "max_limit": 100000.0,
-          "available": 95623.9296,
+          "order_count": 157,
+          "min_limit": 40.0,
+          "max_limit": 3500.0,
+          "available": 26490.2843,
           "payment_methods": [],
-          "adv_no": "2054009476309970944",
+          "adv_no": "2020583953124225024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
