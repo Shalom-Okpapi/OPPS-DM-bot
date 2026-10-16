@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792161873.3332267,
+      "fetched_at": 1792162179.7958589,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1360.15,
-          "merchant_name": "NITRO-X",
+          "price": 1360.0,
+          "merchant_name": "MINARETEXCHANGE",
           "completion_rate": 1.0,
-          "order_count": 187,
-          "min_limit": 10000.0,
-          "max_limit": 494060.06,
-          "available": 363.2394,
+          "order_count": 44,
+          "min_limit": 50000.0,
+          "max_limit": 161372.7,
+          "available": 118.6564,
           "payment_methods": [],
-          "adv_no": "2110664021171138560",
+          "adv_no": "2111106732523835392",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -217,7 +217,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792161874.1242678,
+      "fetched_at": 1792162178.5675502,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -226,7 +226,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 989,
+          "order_count": 990,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 18626.335,
