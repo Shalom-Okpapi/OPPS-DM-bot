@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792257275.2806146,
+      "fetched_at": 1792257578.6588793,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1360.84,
-          "merchant_name": "BRIGHT_XCHANGE.",
-          "completion_rate": 1.0,
-          "order_count": 103,
-          "min_limit": 4500.0,
+          "price": 1360.0,
+          "merchant_name": "luxch14",
+          "completion_rate": 0.98,
+          "order_count": 98,
+          "min_limit": 50000.0,
           "max_limit": 100000.0,
-          "available": 894.0554,
+          "available": 75.0,
           "payment_methods": [],
-          "adv_no": "2109942615683874816",
+          "adv_no": "2105364339717496832",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792257273.9826047,
+      "fetched_at": 1792257577.5045419,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -248,7 +248,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 985,
+          "order_count": 986,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 17884.4725,
