@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792365277.072642,
+      "fetched_at": 1792365827.5939384,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1360.9,
-          "merchant_name": "LVCKYJR01",
-          "completion_rate": 1.0,
-          "order_count": 20,
-          "min_limit": 20000.0,
-          "max_limit": 87565.74,
-          "available": 64.344,
+          "price": 1361.0,
+          "merchant_name": "Ems Global ",
+          "completion_rate": 0.99,
+          "order_count": 290,
+          "min_limit": 50000.0,
+          "max_limit": 1893099.69,
+          "available": 1390.9623,
           "payment_methods": [],
-          "adv_no": "2111911462440583168",
+          "adv_no": "1979121959575638016",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792365276.1756392,
+      "fetched_at": 1792365828.6780272,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,14 +259,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Kartoshka",
+          "merchant_name": "kruglovich",
           "completion_rate": 1.0,
-          "order_count": 159,
-          "min_limit": 40.0,
-          "max_limit": 3500.0,
-          "available": 26490.2843,
+          "order_count": 457,
+          "min_limit": 50.0,
+          "max_limit": 50000.0,
+          "available": 87171.7158,
           "payment_methods": [],
-          "adv_no": "2020583953124225024",
+          "adv_no": "2024759816913854464",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
