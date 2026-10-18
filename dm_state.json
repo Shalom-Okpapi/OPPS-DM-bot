@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792328974.726655,
+      "fetched_at": 1792329272.7439013,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1360.0,
-          "merchant_name": "JACKBOYEXCHANGE",
-          "completion_rate": 1.0,
-          "order_count": 23,
-          "min_limit": 10000.0,
-          "max_limit": 73217.5,
-          "available": 53.8364,
+          "price": 1361.0,
+          "merchant_name": "TCA",
+          "completion_rate": 0.99,
+          "order_count": 261,
+          "min_limit": 50000.0,
+          "max_limit": 52432.11,
+          "available": 38.5247,
           "payment_methods": [],
-          "adv_no": "2037534882538299392",
+          "adv_no": "1993000987980554240",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792328973.5877056,
+      "fetched_at": 1792329271.5976086,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
