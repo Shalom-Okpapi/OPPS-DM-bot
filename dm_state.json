@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792372171.1428318,
+      "fetched_at": 1792372458.287602,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792372172.2567914,
+      "fetched_at": 1792372459.1684752,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -271,11 +271,7 @@
   },
   "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
-  "last_admin_notify_failure": {
-    "at": 1789866723.042095,
-    "target": "5503157793",
-    "reason": "network/request error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)"
-  },
+  "last_admin_notify_failure": null,
   "market_cache": {
     "BTC": {
       "fetched_at": 1785305961.2624185,
