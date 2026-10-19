@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792373631.251018,
+      "fetched_at": 1792374101.3670661,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1361.3,
-          "merchant_name": "JEET-PAYMENT",
-          "completion_rate": 0.99,
-          "order_count": 675,
-          "min_limit": 4500.0,
-          "max_limit": 799354.13,
-          "available": 587.1991,
+          "price": 1361.0,
+          "merchant_name": "Eyesheart",
+          "completion_rate": 1.0,
+          "order_count": 104,
+          "min_limit": 50000.0,
+          "max_limit": 344360.62,
+          "available": 253.0203,
           "payment_methods": [],
-          "adv_no": "2111470522554228736",
+          "adv_no": "1895411500275671040",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792373632.4762838,
+      "fetched_at": 1792374100.2336597,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -258,10 +258,10 @@
           "price": 1.2,
           "merchant_name": "kruglovich",
           "completion_rate": 1.0,
-          "order_count": 457,
+          "order_count": 452,
           "min_limit": 50.0,
           "max_limit": 50000.0,
-          "available": 87171.7158,
+          "available": 87125.8825,
           "payment_methods": [],
           "adv_no": "2024759816913854464",
           "link": "https://www.bybit.com/fiat/trade/otc"
