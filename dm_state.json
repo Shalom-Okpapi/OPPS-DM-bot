@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792371575.622187,
+      "fetched_at": 1792371820.9726748,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1360.95,
-          "merchant_name": "MINARETEXCHANGE",
-          "completion_rate": 1.0,
-          "order_count": 43,
-          "min_limit": 10000.0,
-          "max_limit": 99970.35,
-          "available": 73.4563,
+          "price": 1361.9,
+          "merchant_name": "fast(S)trade",
+          "completion_rate": 0.98,
+          "order_count": 273,
+          "min_limit": 50000.0,
+          "max_limit": 200000.0,
+          "available": 500.5533,
           "payment_methods": [],
-          "adv_no": "2111980672457949184",
+          "adv_no": "2020797855124865024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792371574.4996881,
+      "fetched_at": 1792371821.9488018,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
