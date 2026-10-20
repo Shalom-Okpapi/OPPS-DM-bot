@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792515575.5252838,
+      "fetched_at": 1792515830.6148255,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1361.0,
-          "merchant_name": "MISANI",
+          "price": 1361.95,
+          "merchant_name": "INSTITUTION",
           "completion_rate": 1.0,
-          "order_count": 804,
-          "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 250.2879,
+          "order_count": 872,
+          "min_limit": 50000.0,
+          "max_limit": 150000.0,
+          "available": 570.9477,
           "payment_methods": [],
-          "adv_no": "2108796103453728768",
+          "adv_no": "2112201173179932672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792515574.6047747,
+      "fetched_at": 1792515829.60404,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,7 +246,7 @@
           "price": 0.8,
           "merchant_name": "KING_OF_MYR",
           "completion_rate": 0.99,
-          "order_count": 355,
+          "order_count": 356,
           "min_limit": 10.0,
           "max_limit": 1152.095,
           "available": 1440.1188,
