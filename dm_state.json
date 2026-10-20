@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792472679.7395701,
+      "fetched_at": 1792472933.9092884,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1361.49,
-          "merchant_name": "ROBOT-PAYMENT",
-          "completion_rate": 0.99,
-          "order_count": 372,
+          "price": 1361.5,
+          "merchant_name": "MISANI",
+          "completion_rate": 1.0,
+          "order_count": 800,
           "min_limit": 4500.0,
-          "max_limit": 124999.21,
-          "available": 91.8106,
+          "max_limit": 50000.0,
+          "available": 366.6185,
           "payment_methods": [],
-          "adv_no": "2112397972197654528",
+          "adv_no": "2108796103453728768",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -242,7 +242,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792472679.0132577,
+      "fetched_at": 1792472931.3871408,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
