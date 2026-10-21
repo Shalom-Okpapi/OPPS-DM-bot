@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792558421.5024018,
+      "fetched_at": 1792558776.7788723,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1360.5,
-          "merchant_name": "AIEXCHANGE",
-          "completion_rate": 0.99,
-          "order_count": 199,
-          "min_limit": 50000.0,
-          "max_limit": 1000552.65,
-          "available": 735.4301,
+          "price": 1360.87,
+          "merchant_name": "EROSPARK",
+          "completion_rate": 1.0,
+          "order_count": 48,
+          "min_limit": 15000.0,
+          "max_limit": 137447.87,
+          "available": 101.0,
           "payment_methods": [],
-          "adv_no": "2110317194525589504",
+          "adv_no": "1791101454816104448",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792558422.6372035,
+      "fetched_at": 1792558775.6036892,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -248,7 +248,7 @@
           "order_count": 959,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 16840.7225,
+          "available": 16215.7225,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
