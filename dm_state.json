@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792632275.0264297,
+      "fetched_at": 1792632572.0257833,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1361.89,
-          "merchant_name": "RIDOOSKI",
-          "completion_rate": 0.99,
-          "order_count": 214,
-          "min_limit": 4500.0,
-          "max_limit": 1895525.89,
-          "available": 1391.8348,
+          "price": 1361.3,
+          "merchant_name": "SARKONZY",
+          "completion_rate": 1.0,
+          "order_count": 189,
+          "min_limit": 50000.0,
+          "max_limit": 91797.76,
+          "available": 67.4339,
           "payment_methods": [],
-          "adv_no": "2062591626253799424",
+          "adv_no": "2003627698434465792",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792632275.9911695,
+      "fetched_at": 1792632570.966474,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,14 +259,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Sharp Xpress ",
+          "merchant_name": "Corporate_Fx",
           "completion_rate": 1.0,
-          "order_count": 416,
-          "min_limit": 20.0,
+          "order_count": 403,
+          "min_limit": 10.0,
           "max_limit": 100000.0,
-          "available": 87219.1723,
+          "available": 96115.7517,
           "payment_methods": [],
-          "adv_no": "2054009476309970944",
+          "adv_no": "2083213882945777664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
