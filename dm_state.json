@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792688077.1586766,
+      "fetched_at": 1792688374.5139072,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1359.4,
-          "merchant_name": "\u00c6PH\u00ccZY",
-          "completion_rate": 0.95,
-          "order_count": 67,
-          "min_limit": 20000.0,
-          "max_limit": 67834.19,
-          "available": 49.9001,
+          "price": 1361.5,
+          "merchant_name": "INSTITUTION",
+          "completion_rate": 1.0,
+          "order_count": 950,
+          "min_limit": 50000.0,
+          "max_limit": 150000.0,
+          "available": 430.1629,
           "payment_methods": [],
-          "adv_no": "2111917458630275072",
+          "adv_no": "2112201173179932672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1366.88,
-          "merchant_name": "Platogen ",
-          "completion_rate": 0.99,
-          "order_count": 604,
-          "min_limit": 5000.0,
-          "max_limit": 50000.0,
-          "available": 9781.1507,
+          "price": 1367.01,
+          "merchant_name": "Zippy.",
+          "completion_rate": 1.0,
+          "order_count": 352,
+          "min_limit": 50000.0,
+          "max_limit": 129220489.7,
+          "available": 94527.8306,
           "payment_methods": [],
-          "adv_no": "1820195417429794816",
+          "adv_no": "2113042316957106176",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792688079.0318067,
+      "fetched_at": 1792688375.8520195,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
