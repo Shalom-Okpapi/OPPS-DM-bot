@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792878221.9150891,
+      "fetched_at": 1792878770.1921887,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1380.39,
-          "merchant_name": "Unstopable",
+          "price": 1377.0,
+          "merchant_name": "SLACKER_1",
           "completion_rate": 0.98,
-          "order_count": 256,
-          "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 320.4175,
+          "order_count": 58,
+          "min_limit": 30000.0,
+          "max_limit": 200000.0,
+          "available": 311.032,
           "payment_methods": [],
-          "adv_no": "2050112831149473792",
+          "adv_no": "2082077272015671296",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1377.55,
           "merchant_name": "Elon_D_Father",
           "completion_rate": 0.99,
-          "order_count": 858,
+          "order_count": 861,
           "min_limit": 30000.0,
           "max_limit": 3000000.0,
-          "available": 2847.3435,
+          "available": 2818.5435,
           "payment_methods": [],
           "adv_no": "2103988041029484544",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -221,7 +221,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792878222.8559132,
+      "fetched_at": 1792878771.0122802,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
