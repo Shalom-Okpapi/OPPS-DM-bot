@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792874023.7451775,
+      "fetched_at": 1792874372.9956744,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1378.0,
-          "merchant_name": "JET+PAYMENT@",
+          "price": 1374.8,
+          "merchant_name": "HK_QUICKPAY",
           "completion_rate": 1.0,
-          "order_count": 81,
+          "order_count": 866,
           "min_limit": 4500.0,
-          "max_limit": 55099.88,
-          "available": 39.9854,
+          "max_limit": 50000.0,
+          "available": 293.4516,
           "payment_methods": [],
-          "adv_no": "2107255942408462336",
+          "adv_no": "2097684276205187072",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1380.0,
           "merchant_name": "Elon_D_Father",
           "completion_rate": 0.99,
-          "order_count": 845,
+          "order_count": 846,
           "min_limit": 30000.0,
           "max_limit": 3000000.0,
-          "available": 2978.2609,
+          "available": 2942.0291,
           "payment_methods": [],
           "adv_no": "2103988041029484544",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -221,7 +221,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792874024.8058884,
+      "fetched_at": 1792874372.1279757,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
