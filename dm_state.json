@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792846476.1555145,
+      "fetched_at": 1792846718.6820686,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1383.0,
-          "merchant_name": "benzelo",
-          "completion_rate": 0.96,
-          "order_count": 199,
-          "min_limit": 10000.0,
-          "max_limit": 1365926.03,
-          "available": 987.6544,
+          "price": 1385.9,
+          "merchant_name": "ABULSAHIBULKHAI",
+          "completion_rate": 0.95,
+          "order_count": 44,
+          "min_limit": 4500.0,
+          "max_limit": 1500000.0,
+          "available": 1163.0939,
           "payment_methods": [],
-          "adv_no": "2047972398663270400",
+          "adv_no": "2082519758998798336",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1380.5,
           "merchant_name": "idEx",
           "completion_rate": 0.98,
-          "order_count": 285,
+          "order_count": 287,
           "min_limit": 50000.0,
-          "max_limit": 818246.09,
-          "available": 592.7172,
+          "max_limit": 653246.24,
+          "available": 473.1954,
           "payment_methods": [],
           "adv_no": "2095099603799793664",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792846474.4555814,
+      "fetched_at": 1792846717.5789335,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -249,7 +249,7 @@
           "order_count": 989,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 16235.7225,
+          "available": 15935.7225,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
