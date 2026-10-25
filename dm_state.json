@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792919373.9335842,
+      "fetched_at": 1792919676.644641,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1380.0,
-          "merchant_name": "Cashswift",
+          "price": 1379.0,
+          "merchant_name": "Kryptogenix",
           "completion_rate": 1.0,
-          "order_count": 31,
-          "min_limit": 50000.0,
-          "max_limit": 276000.0,
-          "available": 200.0,
+          "order_count": 128,
+          "min_limit": 20000.0,
+          "max_limit": 4498200.09,
+          "available": 3261.929,
           "payment_methods": [],
-          "adv_no": "2105701647083823104",
+          "adv_no": "1785203880432259072",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1375.5,
-          "merchant_name": "GoodFunds_Only",
+          "price": 1375.1,
+          "merchant_name": "jaguarosky",
           "completion_rate": 0.99,
-          "order_count": 816,
-          "min_limit": 5000.0,
-          "max_limit": 519700.07,
-          "available": 377.8263,
+          "order_count": 3483,
+          "min_limit": 50000.0,
+          "max_limit": 6817015.75,
+          "available": 4957.4691,
           "payment_methods": [],
-          "adv_no": "2112474176871251968",
+          "adv_no": "1914010719968763904",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792919373.1256614,
+      "fetched_at": 1792919675.818697,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
