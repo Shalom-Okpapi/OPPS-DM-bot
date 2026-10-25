@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792906475.7328267,
+      "fetched_at": 1792906771.3438115,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1379.89,
-          "merchant_name": "ROBOT-PAYMENT",
-          "completion_rate": 0.99,
-          "order_count": 641,
+          "price": 1379.5,
+          "merchant_name": "Eyesheart",
+          "completion_rate": 1.0,
+          "order_count": 104,
           "min_limit": 50000.0,
-          "max_limit": 2193017.22,
-          "available": 1589.2696,
+          "max_limit": 271566.99,
+          "available": 196.859,
           "payment_methods": [],
-          "adv_no": "2112397972197654528",
+          "adv_no": "1895411500275671040",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.99,
           "order_count": 877,
           "min_limit": 30000.0,
-          "max_limit": 9012163.94,
-          "available": 6542.1683,
+          "max_limit": 8977459.87,
+          "available": 6516.9757,
           "payment_methods": [],
           "adv_no": "2103988041029484544",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792906477.0336757,
+      "fetched_at": 1792906770.2598944,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
