@@ -47,33 +47,33 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792920873.6453292,
+      "fetched_at": 1792921171.917844,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1379.8,
-          "merchant_name": "Cashswift",
-          "completion_rate": 1.0,
-          "order_count": 32,
-          "min_limit": 50000.0,
-          "max_limit": 275960.0,
-          "available": 200.0,
+          "price": 1379.5,
+          "merchant_name": "SLACKER_1",
+          "completion_rate": 0.98,
+          "order_count": 136,
+          "min_limit": 4500.0,
+          "max_limit": 200000.0,
+          "available": 919.5911,
           "payment_methods": [],
-          "adv_no": "2105701647083823104",
+          "adv_no": "2082077272015671296",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1376.5,
+          "price": 1376.3,
           "merchant_name": "F.O.G_Ex",
           "completion_rate": 0.98,
-          "order_count": 72,
+          "order_count": 73,
           "min_limit": 30000.0,
-          "max_limit": 26496953.13,
+          "max_limit": 26493103.22,
           "available": 19249.5119,
           "payment_methods": [],
           "adv_no": "2114101595729862656",
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792920874.7383864,
+      "fetched_at": 1792921171.1567528,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
