@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792920223.3859127,
+      "fetched_at": 1792920570.9763637,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1379.0,
-          "merchant_name": "Migpluss",
-          "completion_rate": 0.99,
-          "order_count": 213,
-          "min_limit": 40000.0,
-          "max_limit": 100000.0,
-          "available": 74.6519,
+          "price": 1379.8,
+          "merchant_name": "Cashswift",
+          "completion_rate": 1.0,
+          "order_count": 31,
+          "min_limit": 50000.0,
+          "max_limit": 275960.0,
+          "available": 200.0,
           "payment_methods": [],
-          "adv_no": "2110278045315678208",
+          "adv_no": "2105701647083823104",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792920222.2134688,
+      "fetched_at": 1792920571.693629,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
