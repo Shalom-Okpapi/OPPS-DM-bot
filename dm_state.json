@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792900181.7175677,
+      "fetched_at": 1792900474.5194557,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1380.79,
-          "merchant_name": "TOPMAN-EXCHANG1",
-          "completion_rate": 0.95,
-          "order_count": 45,
+          "price": 1379.0,
+          "merchant_name": "FASTPAYbigR",
+          "completion_rate": 1.0,
+          "order_count": 139,
           "min_limit": 20000.0,
-          "max_limit": 81279.23,
-          "available": 58.8643,
+          "max_limit": 500000.0,
+          "available": 1461.4939,
           "payment_methods": [],
-          "adv_no": "2089134242728611840",
+          "adv_no": "2053222985937776640",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792900183.5108535,
+      "fetched_at": 1792900475.5285685,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
