@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792924173.0631213,
+      "fetched_at": 1792924420.472252,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1379.0,
-          "merchant_name": "Cashswift",
-          "completion_rate": 1.0,
-          "order_count": 39,
-          "min_limit": 50000.0,
-          "max_limit": 112302.31,
-          "available": 81.4375,
+          "price": 1372.0,
+          "merchant_name": "famous_exchang",
+          "completion_rate": 0.98,
+          "order_count": 115,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 52.8718,
           "payment_methods": [],
-          "adv_no": "2105701647083823104",
+          "adv_no": "2108063371899592704",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1375.35,
-          "merchant_name": "THE-CELEBRTY001",
+          "price": 1376.0,
+          "merchant_name": "SharptradeAI",
           "completion_rate": 0.99,
-          "order_count": 14210,
-          "min_limit": 50000.0,
-          "max_limit": 23564227.62,
-          "available": 17133.2589,
+          "order_count": 516,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 200.0,
           "payment_methods": [],
-          "adv_no": "2038602559549710336",
+          "adv_no": "2111191575606173696",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792924174.290686,
+      "fetched_at": 1792924421.5600317,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
