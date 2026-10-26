@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793026634.5769002,
+      "fetched_at": 1793027238.8308961,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1383.0,
-          "merchant_name": "Legan_Xchange",
+          "merchant_name": "SheddyXchange",
           "completion_rate": 1.0,
-          "order_count": 30,
-          "min_limit": 4500.0,
-          "max_limit": 74636.49,
-          "available": 53.9671,
+          "order_count": 53,
+          "min_limit": 50000.0,
+          "max_limit": 259366.71,
+          "available": 187.5392,
           "payment_methods": [],
-          "adv_no": "2113734618997891072",
+          "adv_no": "2006416015799222272",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1381.0,
           "merchant_name": "GoodFunds_Only",
           "completion_rate": 0.99,
-          "order_count": 805,
+          "order_count": 806,
           "min_limit": 50000.0,
-          "max_limit": 966700.0,
-          "available": 700.0,
+          "max_limit": 907317.0,
+          "available": 657.0,
           "payment_methods": [],
           "adv_no": "2112474176871251968",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793026633.1762958,
+      "fetched_at": 1793027237.588241,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
