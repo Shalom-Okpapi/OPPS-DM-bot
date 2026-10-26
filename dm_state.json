@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793053774.6837378,
+      "fetched_at": 1793054027.6698472,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1385.99,
-          "merchant_name": "fast(S)trade",
-          "completion_rate": 0.99,
-          "order_count": 424,
-          "min_limit": 50000.0,
-          "max_limit": 150000.0,
-          "available": 400.5533,
+          "price": 1385.0,
+          "merchant_name": "ibcoin",
+          "completion_rate": 0.98,
+          "order_count": 167,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 492.0,
           "payment_methods": [],
-          "adv_no": "2020797855124865024",
+          "adv_no": "2094362353670172672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1381.5,
           "merchant_name": "SARAUNIYAX",
           "completion_rate": 1.0,
-          "order_count": 802,
+          "order_count": 809,
           "min_limit": 4500.0,
-          "max_limit": 124741291.68,
-          "available": 90294.0946,
+          "max_limit": 124067589.12,
+          "available": 89806.4344,
           "payment_methods": [],
           "adv_no": "2088409002484613120",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793053773.1653981,
+      "fetched_at": 1793054026.0416946,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
