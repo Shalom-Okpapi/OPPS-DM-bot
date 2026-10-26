@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793015757.8720067,
+      "fetched_at": 1793016303.7629123,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1381.0,
-          "merchant_name": "BeinGoingHarder",
+          "price": 1381.8,
+          "merchant_name": "smileexchange",
           "completion_rate": 1.0,
-          "order_count": 31,
-          "min_limit": 5000.0,
-          "max_limit": 53764.12,
-          "available": 38.9313,
+          "order_count": 40,
+          "min_limit": 4500.0,
+          "max_limit": 69090.0,
+          "available": 50.0,
           "payment_methods": [],
-          "adv_no": "2109815893753257984",
+          "adv_no": "2114403349570822144",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1378.05,
           "merchant_name": "WAZOBIA",
           "completion_rate": 0.99,
-          "order_count": 7730,
+          "order_count": 7735,
           "min_limit": 50000.0,
           "max_limit": 23000000.0,
-          "available": 19267.4582,
+          "available": 18924.4942,
           "payment_methods": [],
           "adv_no": "1914292366911438848",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793015756.0722933,
+      "fetched_at": 1793016305.0078006,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
