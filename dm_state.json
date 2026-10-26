@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793016303.7629123,
+      "fetched_at": 1793016879.345936,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1381.8,
-          "merchant_name": "smileexchange",
-          "completion_rate": 1.0,
-          "order_count": 40,
+          "price": 1381.5,
+          "merchant_name": "Dencoman ",
+          "completion_rate": 0.99,
+          "order_count": 139,
           "min_limit": 4500.0,
-          "max_limit": 69090.0,
-          "available": 50.0,
+          "max_limit": 50340.06,
+          "available": 36.4387,
           "payment_methods": [],
-          "adv_no": "2114403349570822144",
+          "adv_no": "1938078965156085760",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1378.05,
           "merchant_name": "WAZOBIA",
           "completion_rate": 0.99,
-          "order_count": 7735,
+          "order_count": 7744,
           "min_limit": 50000.0,
           "max_limit": 23000000.0,
-          "available": 18924.4942,
+          "available": 18513.5747,
           "payment_methods": [],
           "adv_no": "1914292366911438848",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793016305.0078006,
+      "fetched_at": 1793016878.1999793,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
