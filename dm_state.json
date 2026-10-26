@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1792986524.7787936,
+      "fetched_at": 1792986875.624956,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1375.0,
-          "merchant_name": "imehde3rd",
+          "price": 1377.0,
+          "merchant_name": "NITRO-X",
           "completion_rate": 1.0,
-          "order_count": 131,
+          "order_count": 780,
           "min_limit": 5000.0,
-          "max_limit": 94875.0,
-          "available": 69.0,
+          "max_limit": 100000.0,
+          "available": 168.8029,
           "payment_methods": [],
-          "adv_no": "1984682174850469888",
+          "adv_no": "2110664021171138560",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1373.0,
-          "merchant_name": "ZeroBlock",
-          "completion_rate": 1.0,
-          "order_count": 45846,
-          "min_limit": 4500.0,
-          "max_limit": 109738345.13,
-          "available": 79925.9615,
+          "price": 1373.06,
+          "merchant_name": "DeBryTrade",
+          "completion_rate": 0.99,
+          "order_count": 7526,
+          "min_limit": 40000.0,
+          "max_limit": 22483787.61,
+          "available": 16374.9491,
           "payment_methods": [],
-          "adv_no": "1984512505480941568",
+          "adv_no": "2097894597839814656",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1792986523.5622919,
+      "fetched_at": 1792986876.6401203,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
