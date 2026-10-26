@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793041175.454078,
+      "fetched_at": 1793041426.195855,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1384.0,
-          "merchant_name": "JovicAI",
-          "completion_rate": 1.0,
-          "order_count": 30,
-          "min_limit": 50000.0,
-          "max_limit": 77504.13,
-          "available": 56.0001,
+          "price": 1383.6,
+          "merchant_name": "Jerrys xchange",
+          "completion_rate": 0.99,
+          "order_count": 178,
+          "min_limit": 20000.0,
+          "max_limit": 400000.0,
+          "available": 697.7884,
           "payment_methods": [],
-          "adv_no": "1996033867067445248",
+          "adv_no": "2067663724041302016",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793041177.0846198,
+      "fetched_at": 1793041425.2843025,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,8 +246,8 @@
           "completion_rate": 0.99,
           "order_count": 118,
           "min_limit": 50.0,
-          "max_limit": 632.926,
-          "available": 791.1579,
+          "max_limit": 562.926,
+          "available": 703.6579,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
