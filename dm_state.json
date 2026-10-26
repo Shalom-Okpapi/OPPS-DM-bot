@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793017176.2600763,
+      "fetched_at": 1793017477.4018095,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1381.8,
-          "merchant_name": "smileexchange",
-          "completion_rate": 1.0,
-          "order_count": 40,
-          "min_limit": 4500.0,
-          "max_limit": 69090.0,
-          "available": 50.0,
+          "price": 1381.0,
+          "merchant_name": "Akuelisielisi",
+          "completion_rate": 0.99,
+          "order_count": 1194,
+          "min_limit": 50000.0,
+          "max_limit": 66100.04,
+          "available": 47.8639,
           "payment_methods": [],
-          "adv_no": "2114403349570822144",
+          "adv_no": "1957727414549364736",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1378.05,
           "merchant_name": "WAZOBIA",
           "completion_rate": 0.99,
-          "order_count": 7747,
+          "order_count": 7752,
           "min_limit": 50000.0,
           "max_limit": 23000000.0,
-          "available": 18025.9885,
+          "available": 17703.3504,
           "payment_methods": [],
           "adv_no": "1914292366911438848",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793017175.285974,
+      "fetched_at": 1793017476.3472326,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
