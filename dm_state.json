@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793114329.9192386,
+      "fetched_at": 1793114785.86482,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1383.0,
-          "merchant_name": "\ud835\udd381-\ud835\udd3c\ud835\udd4f\u2102\u210d\ud835\udd38\u2115\ud835\udd3e",
-          "completion_rate": 1.0,
-          "order_count": 1211,
+          "price": 1383.16,
+          "merchant_name": "NASAGROUP",
+          "completion_rate": 0.98,
+          "order_count": 4067,
           "min_limit": 50000.0,
-          "max_limit": 200000.0,
-          "available": 78739.3916,
+          "max_limit": 113523747.47,
+          "available": 82075.6438,
           "payment_methods": [],
-          "adv_no": "2110796465478881280",
+          "adv_no": "2066008347041456128",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793114329.0961895,
+      "fetched_at": 1793114786.8010225,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
