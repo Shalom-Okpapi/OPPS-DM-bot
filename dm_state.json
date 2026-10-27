@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793099302.0566976,
+      "fetched_at": 1793099674.856852,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1383.6,
-          "merchant_name": "Frontlink",
-          "completion_rate": 1.0,
-          "order_count": 16395,
+          "price": 1383.64,
+          "merchant_name": "WAZOBIA",
+          "completion_rate": 0.99,
+          "order_count": 7784,
           "min_limit": 50000.0,
-          "max_limit": 1569002.4,
-          "available": 1134.0,
+          "max_limit": 23000000.0,
+          "available": 17231.1048,
           "payment_methods": [],
-          "adv_no": "2048877510132559872",
+          "adv_no": "1914292366911438848",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793099302.9192545,
+      "fetched_at": 1793099674.1374629,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -247,8 +247,8 @@
           "completion_rate": 0.99,
           "order_count": 118,
           "min_limit": 50.0,
-          "max_limit": 132.926,
-          "available": 166.1579,
+          "max_limit": 632.926,
+          "available": 791.1579,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -260,7 +260,7 @@
           "price": 1.2,
           "merchant_name": "Kartoshka",
           "completion_rate": 1.0,
-          "order_count": 162,
+          "order_count": 163,
           "min_limit": 40.0,
           "max_limit": 3500.0,
           "available": 25853.6177,
