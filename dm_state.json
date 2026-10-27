@@ -47,34 +47,34 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793079276.740385,
+      "fetched_at": 1793079510.7193875,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1385.5,
-          "merchant_name": "Ayreal1",
+          "price": 1386.0,
+          "merchant_name": "ibcoin",
           "completion_rate": 0.99,
-          "order_count": 4349,
+          "order_count": 205,
           "min_limit": 4500.0,
-          "max_limit": 57393.09,
-          "available": 41.4241,
+          "max_limit": 100000.0,
+          "available": 311.0457,
           "payment_methods": [],
-          "adv_no": "2061106351627960320",
+          "adv_no": "2094362353670172672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1381.2,
+          "price": 1381.21,
           "merchant_name": "ADETONAZ",
           "completion_rate": 0.99,
-          "order_count": 1755,
+          "order_count": 1762,
           "min_limit": 40000.0,
-          "max_limit": 3280648.2,
-          "available": 2375.2159,
+          "max_limit": 2523146.91,
+          "available": 1826.7656,
           "payment_methods": [],
           "adv_no": "2067168772600750080",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793079277.5460541,
+      "fetched_at": 1793079511.7881467,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
