@@ -47,28 +47,28 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793093076.5938995,
+      "fetched_at": 1793093373.7015471,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1385.5,
-          "merchant_name": "D-WHALE",
-          "completion_rate": 0.95,
-          "order_count": 21,
-          "min_limit": 10000.0,
-          "max_limit": 54850.69,
-          "available": 39.5891,
+          "price": 1386.0,
+          "merchant_name": "UCY",
+          "completion_rate": 1.0,
+          "order_count": 199,
+          "min_limit": 50000.0,
+          "max_limit": 150000.0,
+          "available": 361.52,
           "payment_methods": [],
-          "adv_no": "2105968472676409344",
+          "adv_no": "2114993737893404672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1382.62,
+          "price": 1382.23,
           "merchant_name": "Popular_trades",
           "completion_rate": 1.0,
           "order_count": 96,
@@ -237,21 +237,21 @@
       }
     },
     "USD": {
-      "fetched_at": 1793093075.3219507,
+      "fetched_at": 1793093372.5408647,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
           "price": 0.8,
-          "merchant_name": "JackyChee",
+          "merchant_name": "DagestanDentist",
           "completion_rate": 0.99,
-          "order_count": 1011,
-          "min_limit": 2.0,
-          "max_limit": 10000.0,
-          "available": 51857.3498,
+          "order_count": 118,
+          "min_limit": 50.0,
+          "max_limit": 632.926,
+          "available": 791.1579,
           "payment_methods": [],
-          "adv_no": "2080967302742315008",
+          "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
