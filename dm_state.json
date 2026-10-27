@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793138025.349191,
+      "fetched_at": 1793138321.830562,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1382.0,
-          "merchant_name": "Mhizstah_Store",
+          "merchant_name": "MARV_PAYS",
           "completion_rate": 0.99,
-          "order_count": 4006,
+          "order_count": 34568,
           "min_limit": 5000.0,
-          "max_limit": 99272.92,
-          "available": 71.8328,
+          "max_limit": 100000.0,
+          "available": 1822.0207,
           "payment_methods": [],
-          "adv_no": "2049807479541198848",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1378.05,
           "merchant_name": "WAZOBIA",
           "completion_rate": 0.99,
-          "order_count": 8015,
+          "order_count": 8016,
           "min_limit": 50000.0,
-          "max_limit": 18278421.85,
-          "available": 13263.9758,
+          "max_limit": 18215307.16,
+          "available": 13218.1758,
           "payment_methods": [],
           "adv_no": "1914292366911438848",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793138034.0407758,
+      "fetched_at": 1793138323.8949633,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
