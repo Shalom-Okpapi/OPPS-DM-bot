@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793107122.4071774,
+      "fetched_at": 1793107425.39682,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1387.0,
-          "merchant_name": "REAL_N4SIR",
-          "completion_rate": 1.0,
-          "order_count": 67,
-          "min_limit": 4500.0,
-          "max_limit": 64609.78,
-          "available": 46.5824,
+          "price": 1387.5,
+          "merchant_name": "RAPIDCASH",
+          "completion_rate": 0.97,
+          "order_count": 318,
+          "min_limit": 9999.0,
+          "max_limit": 400000.0,
+          "available": 539.36,
           "payment_methods": [],
-          "adv_no": "2114683714100314112",
+          "adv_no": "2093630482139164672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1384.01,
           "merchant_name": "Uguru_Michael",
           "completion_rate": 0.99,
-          "order_count": 11223,
+          "order_count": 11234,
           "min_limit": 50000.0,
-          "max_limit": 2394470.71,
-          "available": 1730.0964,
+          "max_limit": 1365943.27,
+          "available": 986.9461,
           "payment_methods": [],
           "adv_no": "1909593819274326016",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793107123.3366275,
+      "fetched_at": 1793107426.6425686,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
