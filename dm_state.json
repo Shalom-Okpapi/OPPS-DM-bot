@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793119121.9712877,
+      "fetched_at": 1793119477.5525236,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1386.0,
-          "merchant_name": "shugarxchange",
-          "completion_rate": 1.0,
-          "order_count": 83,
-          "min_limit": 47000.0,
-          "max_limit": 50458.3,
-          "available": 36.4057,
+          "price": 1385.0,
+          "merchant_name": "SLACKER_1",
+          "completion_rate": 0.98,
+          "order_count": 227,
+          "min_limit": 30000.0,
+          "max_limit": 100376.21,
+          "available": 72.4738,
           "payment_methods": [],
-          "adv_no": "2065625994660515840",
+          "adv_no": "2082077272015671296",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1382.67,
-          "merchant_name": "NASAGROUP",
+          "price": 1382.5,
+          "merchant_name": "SLACKER_1",
           "completion_rate": 0.98,
-          "order_count": 4234,
-          "min_limit": 50000.0,
-          "max_limit": 93232518.9,
-          "available": 67429.3352,
+          "order_count": 227,
+          "min_limit": 4500.0,
+          "max_limit": 1000000.0,
+          "available": 19923.6983,
           "payment_methods": [],
-          "adv_no": "2066008347041456128",
+          "adv_no": "2115111707282104320",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793119120.8853433,
+      "fetched_at": 1793119476.7409925,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
