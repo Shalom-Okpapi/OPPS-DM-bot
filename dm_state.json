@@ -47,19 +47,19 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793141081.1546795,
+      "fetched_at": 1793141376.1587448,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1381.6,
+          "price": 1381.9,
           "merchant_name": "JET+PAYMENT@",
           "completion_rate": 1.0,
           "order_count": 154,
           "min_limit": 4500.0,
-          "max_limit": 150000.0,
-          "available": 160.5492,
+          "max_limit": 71862.94,
+          "available": 52.003,
           "payment_methods": [],
           "adv_no": "2107255942408462336",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -73,8 +73,8 @@
           "completion_rate": 0.95,
           "order_count": 228,
           "min_limit": 50000.0,
-          "max_limit": 275608.0,
-          "available": 200.0,
+          "max_limit": 206706.0,
+          "available": 150.0,
           "payment_methods": [],
           "adv_no": "2046585973904064512",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793141082.4444387,
+      "fetched_at": 1793141375.2483146,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
