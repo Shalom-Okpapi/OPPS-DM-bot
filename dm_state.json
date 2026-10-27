@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793129621.7939878,
+      "fetched_at": 1793130230.407841,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1383.0,
-          "merchant_name": "ZAGANE",
-          "completion_rate": 0.99,
-          "order_count": 568,
-          "min_limit": 10000.0,
-          "max_limit": 469136.69,
-          "available": 339.2167,
+          "price": 1381.0,
+          "merchant_name": "GoldenXchange",
+          "completion_rate": 0.98,
+          "order_count": 181,
+          "min_limit": 50000.0,
+          "max_limit": 300000.0,
+          "available": 326.6537,
           "payment_methods": [],
-          "adv_no": "2111784095412023296",
+          "adv_no": "1964190593967955968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 632,
           "min_limit": 5000.0,
           "max_limit": 1380000.0,
-          "available": 1439.74,
+          "available": 1355.3713,
           "payment_methods": [],
           "adv_no": "2113806322600288256",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793129620.3007505,
+      "fetched_at": 1793130229.4243042,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
