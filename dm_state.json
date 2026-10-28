@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793204331.3815389,
+      "fetched_at": 1793204627.746106,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1382.0,
-          "merchant_name": "RoyalDeluxe",
-          "completion_rate": 0.96,
-          "order_count": 219,
-          "min_limit": 20000.0,
-          "max_limit": 146121.2,
-          "available": 105.7317,
+          "price": 1384.5,
+          "merchant_name": "INSTITUTION",
+          "completion_rate": 1.0,
+          "order_count": 1095,
+          "min_limit": 50000.0,
+          "max_limit": 721119.87,
+          "available": 520.8522,
           "payment_methods": [],
-          "adv_no": "1975837552237629440",
+          "adv_no": "2112201173179932672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1382.21,
-          "merchant_name": "Lecture Fx ",
+          "price": 1382.32,
+          "merchant_name": "badoo",
           "completion_rate": 0.95,
-          "order_count": 178,
-          "min_limit": 50000.0,
-          "max_limit": 324819.35,
-          "available": 235.0,
+          "order_count": 20,
+          "min_limit": 30000.0,
+          "max_limit": 1500000.0,
+          "available": 19885.2025,
           "payment_methods": [],
-          "adv_no": "2103791275358953472",
+          "adv_no": "2115246376333860864",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793204329.7381442,
+      "fetched_at": 1793204626.552309,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
