@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793170771.7345004,
+      "fetched_at": 1793171023.4181166,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1382.9,
-          "merchant_name": "BUBUNSEEE",
-          "completion_rate": 1.0,
-          "order_count": 204,
-          "min_limit": 9999.0,
-          "max_limit": 120000.0,
-          "available": 526.8458,
+          "price": 1383.0,
+          "merchant_name": "GMBrussian",
+          "completion_rate": 0.99,
+          "order_count": 534,
+          "min_limit": 50000.0,
+          "max_limit": 158202.89,
+          "available": 114.3911,
           "payment_methods": [],
-          "adv_no": "2108865648583401472",
+          "adv_no": "1850866260150796288",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -70,11 +70,11 @@
           "fiat": "NGN",
           "price": 1381.5,
           "merchant_name": "Meksglobal",
-          "completion_rate": 0.96,
-          "order_count": 704,
+          "completion_rate": 0.97,
+          "order_count": 715,
           "min_limit": 4500.0,
           "max_limit": 1000000.0,
-          "available": 1996.3118,
+          "available": 1036.8168,
           "payment_methods": [],
           "adv_no": "2115328559375572992",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793170770.8069105,
+      "fetched_at": 1793171024.6840532,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
