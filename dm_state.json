@@ -47,33 +47,33 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793216033.6652184,
+      "fetched_at": 1793216328.779119,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1383.0,
-          "merchant_name": "DG HUB",
+          "merchant_name": "shugarxchange",
           "completion_rate": 1.0,
-          "order_count": 28,
-          "min_limit": 10000.0,
-          "max_limit": 128348.62,
-          "available": 92.8045,
+          "order_count": 87,
+          "min_limit": 40000.0,
+          "max_limit": 1100000.0,
+          "available": 1554.1822,
           "payment_methods": [],
-          "adv_no": "1788577954890608640",
+          "adv_no": "2065625994660515840",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1382.0,
+          "price": 1382.5,
           "merchant_name": "Primed_Fund",
           "completion_rate": 0.99,
           "order_count": 128,
           "min_limit": 49500.0,
-          "max_limit": 192374.4,
+          "max_limit": 192444.0,
           "available": 139.2,
           "payment_methods": [],
           "adv_no": "2115055149794639872",
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793216034.8325305,
+      "fetched_at": 1793216327.4565492,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
