@@ -47,34 +47,34 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793164122.826019,
+      "fetched_at": 1793164474.772971,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1382.99,
-          "merchant_name": "GoldenXchange",
-          "completion_rate": 0.98,
-          "order_count": 190,
-          "min_limit": 50000.0,
-          "max_limit": 367739.66,
-          "available": 265.9019,
+          "price": 1383.44,
+          "merchant_name": "1-MINUTE-MAN",
+          "completion_rate": 1.0,
+          "order_count": 14999,
+          "min_limit": 6000.0,
+          "max_limit": 199000.0,
+          "available": 4038.4704,
           "payment_methods": [],
-          "adv_no": "1964190593967955968",
+          "adv_no": "2098021109183148032",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1378.77,
+          "price": 1377.36,
           "merchant_name": "NASAGROUP",
           "completion_rate": 0.98,
-          "order_count": 4079,
+          "order_count": 4084,
           "min_limit": 50000.0,
-          "max_limit": 82789319.67,
-          "available": 60045.7797,
+          "max_limit": 82231441.19,
+          "available": 59702.2138,
           "payment_methods": [],
           "adv_no": "2066008347041456128",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793164121.7062178,
+      "fetched_at": 1793164473.8037422,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
