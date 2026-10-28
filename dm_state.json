@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793205875.9943526,
+      "fetched_at": 1793206125.8452375,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1382.5,
-          "merchant_name": "Roygbiv",
-          "completion_rate": 0.98,
-          "order_count": 59,
-          "min_limit": 4500.0,
-          "max_limit": 55300.0,
-          "available": 40.0,
+          "price": 1384.5,
+          "merchant_name": "INSTITUTION",
+          "completion_rate": 1.0,
+          "order_count": 1097,
+          "min_limit": 50000.0,
+          "max_limit": 721300.4,
+          "available": 520.9826,
           "payment_methods": [],
-          "adv_no": "1795705852479840256",
+          "adv_no": "2112201173179932672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1382.32,
           "merchant_name": "badoo",
           "completion_rate": 0.95,
-          "order_count": 20,
+          "order_count": 21,
           "min_limit": 30000.0,
           "max_limit": 1500000.0,
           "available": 19516.0811,
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793205876.9536877,
+      "fetched_at": 1793206126.9477732,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
