@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793172229.8023453,
+      "fetched_at": 1793172524.8590827,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1381.9,
-          "merchant_name": "BUBUNSEEE",
-          "completion_rate": 1.0,
-          "order_count": 204,
-          "min_limit": 9999.0,
-          "max_limit": 120000.0,
-          "available": 526.8458,
+          "price": 1381.0,
+          "merchant_name": "GoodLifeVent",
+          "completion_rate": 0.98,
+          "order_count": 215,
+          "min_limit": 10000.0,
+          "max_limit": 50000.0,
+          "available": 400.0,
           "payment_methods": [],
-          "adv_no": "2108865648583401472",
+          "adv_no": "2115344604173819904",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1378.9,
           "merchant_name": "ELITE_XCHANGE",
           "completion_rate": 0.99,
-          "order_count": 10322,
+          "order_count": 10330,
           "min_limit": 40000.0,
-          "max_limit": 129124015.55,
-          "available": 93642.77,
+          "max_limit": 128559039.95,
+          "available": 93233.0408,
           "payment_methods": [],
           "adv_no": "2103380789826387968",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793172228.7062104,
+      "fetched_at": 1793172523.729352,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -258,7 +258,7 @@
           "price": 1.2,
           "merchant_name": "Kartoshka",
           "completion_rate": 1.0,
-          "order_count": 160,
+          "order_count": 161,
           "min_limit": 40.0,
           "max_limit": 3500.0,
           "available": 25853.6177,
