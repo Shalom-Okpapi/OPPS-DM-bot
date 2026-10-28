@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793180371.886731,
+      "fetched_at": 1793180678.381353,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1382.0,
-          "merchant_name": "Echoe",
+          "price": 1381.0,
+          "merchant_name": "FlowstrideLtd",
           "completion_rate": 0.99,
-          "order_count": 620,
+          "order_count": 1242,
           "min_limit": 20000.0,
-          "max_limit": 50000.0,
-          "available": 50.0,
+          "max_limit": 100000.0,
+          "available": 2000.0,
           "payment_methods": [],
-          "adv_no": "2110130484508520448",
+          "adv_no": "2067716637300281344",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1381.65,
           "merchant_name": "BhantiiX",
           "completion_rate": 1.0,
-          "order_count": 50,
+          "order_count": 51,
           "min_limit": 30000.0,
           "max_limit": 1959126.23,
           "available": 1417.9613,
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793180372.91799,
+      "fetched_at": 1793180677.2220933,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
