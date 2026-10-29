@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793269121.585199,
+      "fetched_at": 1793269476.580177,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1381.5,
-          "merchant_name": "rich511",
-          "completion_rate": 1.0,
-          "order_count": 35,
-          "min_limit": 4500.0,
-          "max_limit": 111320.3,
-          "available": 80.5793,
+          "price": 1381.0,
+          "merchant_name": "tunnesty",
+          "completion_rate": 0.97,
+          "order_count": 432,
+          "min_limit": 50000.0,
+          "max_limit": 70000.0,
+          "available": 684.6843,
           "payment_methods": [],
-          "adv_no": "2107010989963796480",
+          "adv_no": "1765451367600037888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1380.29,
           "merchant_name": "GoodFunds_Only",
           "completion_rate": 0.99,
-          "order_count": 825,
+          "order_count": 826,
           "min_limit": 10000.0,
           "max_limit": 221325.08,
           "available": 160.3468,
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793269120.7889998,
+      "fetched_at": 1793269477.5184643,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
