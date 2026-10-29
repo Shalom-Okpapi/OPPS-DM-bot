@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793303971.1698468,
+      "fetched_at": 1793304229.4818823,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1793300551.5063212,
+      "fetched_at": 1793304151.8279922,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -104,20 +104,20 @@
           "trade_type": "SELL",
           "fiat": "EUR",
           "price": 1.075,
-          "merchant_name": "Reliableme",
-          "completion_rate": 0.95,
-          "order_count": 22,
-          "min_limit": 30.0,
-          "max_limit": 250.0,
-          "available": 15000.0,
+          "merchant_name": "FKIRAN33",
+          "completion_rate": 0.96,
+          "order_count": 29,
+          "min_limit": 50.0,
+          "max_limit": 500.0,
+          "available": 15636.5494,
           "payment_methods": [],
-          "adv_no": "2111366308906450944",
+          "adv_no": "2111343105001811968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "JPY": {
-      "fetched_at": 1793300548.4107542,
+      "fetched_at": 1793304148.4874344,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -154,27 +154,25 @@
       }
     },
     "CHF": {
-      "fetched_at": 1793300549.4826183,
+      "fetched_at": 1793304149.5867567,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.975,
-          "merchant_name": "Best_Twint_Exchange",
-          "completion_rate": 1.0,
-          "order_count": 194,
-          "min_limit": 5.0,
-          "max_limit": 3000.0,
-          "available": 5128.93,
+          "price": 0.927,
+          "merchant_name": "Aura_Change",
+          "completion_rate": 0.979,
+          "order_count": 45,
+          "min_limit": 50.0,
+          "max_limit": 2000.0,
+          "available": 179.97,
           "payment_methods": [
-            "Instant Transfer",
-            "Bank Transfer",
-            "Cash Deposit to Bank",
-            "Twint"
+            "Twint",
+            "Bank Transfer"
           ],
-          "adv_no": "13894664478762012672",
-          "link": "https://c2c.binance.com/en/adv?code=13894664478762012672"
+          "adv_no": "12915872893755219968",
+          "link": "https://c2c.binance.com/en/adv?code=12915872893755219968"
         },
         "sell": {
           "platform": "Binance",
@@ -182,11 +180,11 @@
           "fiat": "CHF",
           "price": 0.802,
           "merchant_name": "Aura_Change",
-          "completion_rate": 0.978,
-          "order_count": 43,
+          "completion_rate": 0.979,
+          "order_count": 45,
           "min_limit": 50.0,
           "max_limit": 3000.0,
-          "available": 310.0,
+          "available": 103.32,
           "payment_methods": [
             "Twint",
             "Bank Transfer"
@@ -197,7 +195,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1793300550.4533694,
+      "fetched_at": 1793304150.7302072,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -206,7 +204,7 @@
           "price": 0.639,
           "merchant_name": "COSME-FULANITO",
           "completion_rate": 0.953,
-          "order_count": 259,
+          "order_count": 260,
           "min_limit": 2.0,
           "max_limit": 100000.0,
           "available": 500.0,
@@ -234,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793303972.5047693,
+      "fetched_at": 1793304231.1424844,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
