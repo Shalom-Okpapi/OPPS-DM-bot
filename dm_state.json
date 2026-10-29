@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793276155.7504842,
+      "fetched_at": 1793276705.932582,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1382.0,
-          "merchant_name": "JustDoz",
+          "price": 1381.0,
+          "merchant_name": "Sandrin",
           "completion_rate": 1.0,
-          "order_count": 479,
-          "min_limit": 30000.0,
-          "max_limit": 111710.65,
-          "available": 80.8326,
+          "order_count": 230,
+          "min_limit": 4500.0,
+          "max_limit": 200000.0,
+          "available": 4498.6264,
           "payment_methods": [],
-          "adv_no": "2065226539912429568",
+          "adv_no": "2115780443735318528",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1380.0,
           "merchant_name": "GoodFunds_Only",
           "completion_rate": 0.99,
-          "order_count": 838,
+          "order_count": 840,
           "min_limit": 10000.0,
-          "max_limit": 325164.84,
-          "available": 235.6267,
+          "max_limit": 311364.84,
+          "available": 225.6267,
           "payment_methods": [],
           "adv_no": "2112474176871251968",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793276157.0922654,
+      "fetched_at": 1793276707.8687322,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
