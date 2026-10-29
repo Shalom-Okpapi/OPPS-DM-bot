@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793287722.1396282,
+      "fetched_at": 1793288022.317957,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1375.8,
-          "merchant_name": "WEmpire",
+          "price": 1376.0,
+          "merchant_name": "Divinetrader",
           "completion_rate": 1.0,
-          "order_count": 58,
-          "min_limit": 50000.0,
-          "max_limit": 253382.32,
-          "available": 184.1709,
+          "order_count": 333,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 7283.9793,
           "payment_methods": [],
-          "adv_no": "2089092638861467648",
+          "adv_no": "2090818489691910144",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1378.5,
           "merchant_name": "GoodFunds_Only",
           "completion_rate": 0.99,
-          "order_count": 854,
+          "order_count": 856,
           "min_limit": 10000.0,
-          "max_limit": 116436.24,
-          "available": 84.4659,
+          "max_limit": 52336.4,
+          "available": 37.9662,
           "payment_methods": [],
           "adv_no": "2112474176871251968",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793287721.2974453,
+      "fetched_at": 1793288023.9128993,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
