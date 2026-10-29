@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793292577.8659205,
+      "fetched_at": 1793292823.724191,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1378.98,
-          "merchant_name": "PMarts-SG",
+          "price": 1378.0,
+          "merchant_name": "Galadima_fx",
           "completion_rate": 1.0,
-          "order_count": 51,
-          "min_limit": 20000.0,
-          "max_limit": 689490.0,
-          "available": 500.0,
+          "order_count": 109,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 245.3057,
           "payment_methods": [],
-          "adv_no": "2115727939451404288",
+          "adv_no": "2065070639448502272",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.99,
           "order_count": 466,
           "min_limit": 4500.0,
-          "max_limit": 233835.0,
-          "available": 170.0,
+          "max_limit": 228835.05,
+          "available": 166.365,
           "payment_methods": [],
           "adv_no": "2115846658365448192",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793292576.282828,
+      "fetched_at": 1793292824.6406665,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
