@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793400224.3195307,
+      "fetched_at": 1793400524.1933217,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1374.8,
-          "merchant_name": "Kenny2",
-          "completion_rate": 0.98,
-          "order_count": 676,
-          "min_limit": 4500.0,
-          "max_limit": 300000.0,
-          "available": 5020.1052,
+          "price": 1373.9,
+          "merchant_name": "Zikconnect",
+          "completion_rate": 1.0,
+          "order_count": 226,
+          "min_limit": 30000.0,
+          "max_limit": 336655.78,
+          "available": 245.0366,
           "payment_methods": [],
-          "adv_no": "2116171502224986112",
+          "adv_no": "2031760777403531264",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,24 +239,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1793400223.585457,
+      "fetched_at": 1793400522.1679149,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.995,
-          "merchant_name": "HalaGo App",
+          "price": 0.8,
+          "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 96,
-          "min_limit": 10.0,
-          "max_limit": 100.0,
-          "available": 300.0,
-          "payment_methods": [
-            "Sham Cash"
-          ],
-          "adv_no": "12949571747335618560",
-          "link": "https://c2c.binance.com/en/adv?code=12949571747335618560"
+          "order_count": 1087,
+          "min_limit": 2.0,
+          "max_limit": 10000.0,
+          "available": 35778.7025,
+          "payment_methods": [],
+          "adv_no": "2080967302742315008",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
@@ -265,7 +263,7 @@
           "price": 1.2,
           "merchant_name": "Kartoshka",
           "completion_rate": 1.0,
-          "order_count": 167,
+          "order_count": 168,
           "min_limit": 40.0,
           "max_limit": 3500.0,
           "available": 25813.7674,
