@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793382875.858801,
+      "fetched_at": 1793383122.4715402,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1374.3,
-          "merchant_name": "Zikconnect",
+          "price": 1374.0,
+          "merchant_name": "lamid",
           "completion_rate": 1.0,
-          "order_count": 219,
-          "min_limit": 30000.0,
-          "max_limit": 114345.74,
-          "available": 83.2029,
+          "order_count": 20,
+          "min_limit": 10000.0,
+          "max_limit": 50000.0,
+          "available": 54.2174,
           "payment_methods": [],
-          "adv_no": "2031760777403531264",
+          "adv_no": "2083149310727077888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793382876.8344698,
+      "fetched_at": 1793383121.4045877,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
