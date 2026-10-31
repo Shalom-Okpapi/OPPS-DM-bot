@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793490822.909399,
+      "fetched_at": 1793491173.3230014,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1374.0,
-          "merchant_name": "ZAGANE",
-          "completion_rate": 0.99,
-          "order_count": 733,
-          "min_limit": 10000.0,
-          "max_limit": 75946.88,
-          "available": 55.2743,
+          "price": 1373.0,
+          "merchant_name": "fella",
+          "completion_rate": 1.0,
+          "order_count": 102,
+          "min_limit": 50000.0,
+          "max_limit": 724100.01,
+          "available": 527.3853,
           "payment_methods": [],
-          "adv_no": "2111784095412023296",
+          "adv_no": "2116680125219201024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793490824.0182524,
+      "fetched_at": 1793491174.207389,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -251,7 +251,7 @@
           "order_count": 1807,
           "min_limit": 25.0,
           "max_limit": 5000.0,
-          "available": 5664.81,
+          "available": 5866.57,
           "payment_methods": [
             "Bank of Georgia",
             "TBC Bank",
