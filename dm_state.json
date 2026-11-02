@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793607234.2237754,
+      "fetched_at": 1793607575.2477145,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.99,
-          "merchant_name": "ODOFIN",
+          "price": 1373.55,
+          "merchant_name": "flashPayments",
           "completion_rate": 1.0,
-          "order_count": 242,
-          "min_limit": 30000.0,
-          "max_limit": 57309.26,
-          "available": 41.7101,
+          "order_count": 32,
+          "min_limit": 4500.0,
+          "max_limit": 57359.86,
+          "available": 41.7603,
           "payment_methods": [],
-          "adv_no": "1969417435914362880",
+          "adv_no": "1901561213782970368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -213,7 +213,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793607233.1395025,
+      "fetched_at": 1793607574.4429204,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -225,7 +225,7 @@
           "order_count": 1073,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 32227.481,
+          "available": 31211.2209,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
