@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793600977.0670884,
+      "fetched_at": 1793601277.130885,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1373.99,
-          "merchant_name": "ODOFIN",
-          "completion_rate": 1.0,
-          "order_count": 242,
-          "min_limit": 30000.0,
-          "max_limit": 57309.26,
-          "available": 41.7101,
+          "price": 1373.5,
+          "merchant_name": "SWIFTT",
+          "completion_rate": 0.99,
+          "order_count": 640,
+          "min_limit": 50000.0,
+          "max_limit": 1000000.0,
+          "available": 942.5372,
           "payment_methods": [],
-          "adv_no": "1969417435914362880",
+          "adv_no": "2074639896365375488",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -211,7 +211,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793600976.0938704,
+      "fetched_at": 1793601275.6523302,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -220,7 +220,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 0.99,
-          "order_count": 1065,
+          "order_count": 1066,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 30987.1372,
