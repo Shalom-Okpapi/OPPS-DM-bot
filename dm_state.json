@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793601277.130885,
+      "fetched_at": 1793601521.3447683,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1373.5,
-          "merchant_name": "SWIFTT",
-          "completion_rate": 0.99,
-          "order_count": 640,
-          "min_limit": 50000.0,
-          "max_limit": 1000000.0,
-          "available": 942.5372,
+          "merchant_name": "fastxchangeFX",
+          "completion_rate": 1.0,
+          "order_count": 242,
+          "min_limit": 10000.0,
+          "max_limit": 1056995.19,
+          "available": 769.5633,
           "payment_methods": [],
-          "adv_no": "2074639896365375488",
+          "adv_no": "1990303375946862592",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -211,7 +211,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793601275.6523302,
+      "fetched_at": 1793601522.4372709,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
