@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793586581.9064293,
+      "fetched_at": 1793587134.627739,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1793583369.7971168,
+      "fetched_at": 1793586977.7983642,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -103,7 +103,7 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.074,
+          "price": 1.075,
           "merchant_name": "Crane275",
           "completion_rate": 0.96,
           "order_count": 24,
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1793583366.2849433,
+      "fetched_at": 1793586974.4371376,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -141,10 +141,10 @@
           "price": 146.11,
           "merchant_name": "Umi-chan-",
           "completion_rate": 0.987,
-          "order_count": 141,
+          "order_count": 142,
           "min_limit": 1000.0,
           "max_limit": 499000.0,
-          "available": 5483.93,
+          "available": 5476.33,
           "payment_methods": [
             "PayPay Money",
             "au PAY",
@@ -156,28 +156,9 @@
       }
     },
     "CHF": {
-      "fetched_at": 1793583367.333337,
+      "fetched_at": 1793586975.5959072,
       "snapshot": {
-        "buy": {
-          "platform": "Binance",
-          "trade_type": "BUY",
-          "fiat": "CHF",
-          "price": 0.975,
-          "merchant_name": "Best_Twint_Exchange",
-          "completion_rate": 1.0,
-          "order_count": 201,
-          "min_limit": 5.0,
-          "max_limit": 3000.0,
-          "available": 2981.3,
-          "payment_methods": [
-            "Instant Transfer",
-            "Bank Transfer",
-            "Cash Deposit to Bank",
-            "Twint"
-          ],
-          "adv_no": "13894664478762012672",
-          "link": "https://c2c.binance.com/en/adv?code=13894664478762012672"
-        },
+        "buy": null,
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
@@ -199,7 +180,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1793583368.6906648,
+      "fetched_at": 1793586976.7183628,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -208,7 +189,7 @@
           "price": 0.769,
           "merchant_name": "Angel1288",
           "completion_rate": 0.991,
-          "order_count": 300,
+          "order_count": 301,
           "min_limit": 5.0,
           "max_limit": 1400.0,
           "available": 800.0,
@@ -236,7 +217,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793586582.979593,
+      "fetched_at": 1793587135.773675,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
