@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793646766.8105454,
+      "fetched_at": 1793647331.0335665,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1375.0,
-          "merchant_name": "DomNike",
-          "completion_rate": 0.96,
-          "order_count": 25,
-          "min_limit": 20000.0,
-          "max_limit": 277735.56,
-          "available": 201.9895,
+          "price": 1376.99,
+          "merchant_name": "TCA",
+          "completion_rate": 0.99,
+          "order_count": 238,
+          "min_limit": 50000.0,
+          "max_limit": 50948.63,
+          "available": 37.0,
           "payment_methods": [],
-          "adv_no": "2117327467232485376",
+          "adv_no": "1993000987980554240",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793646765.65649,
+      "fetched_at": 1793647329.9446518,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -244,8 +244,8 @@
           "completion_rate": 0.99,
           "order_count": 123,
           "min_limit": 50.0,
-          "max_limit": 1150.0,
-          "available": 1437.5,
+          "max_limit": 1200.0,
+          "available": 1500.0,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
