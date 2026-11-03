@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793686784.7596831,
+      "fetched_at": 1793687022.4540036,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1379.3,
-          "merchant_name": "SWIFTT",
-          "completion_rate": 0.99,
-          "order_count": 686,
-          "min_limit": 50000.0,
-          "max_limit": 1000000.0,
-          "available": 2101.9367,
+          "price": 1377.99,
+          "merchant_name": "UnDiluted",
+          "completion_rate": 1.0,
+          "order_count": 50,
+          "min_limit": 5000.0,
+          "max_limit": 51179.23,
+          "available": 37.1405,
           "payment_methods": [],
-          "adv_no": "2074639896365375488",
+          "adv_no": "2048048619812192256",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -212,7 +212,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793686785.5752997,
+      "fetched_at": 1793687021.353279,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -224,7 +224,7 @@
           "order_count": 1092,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 20857.4576,
+          "available": 20486.1453,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -239,7 +239,7 @@
           "order_count": 94,
           "min_limit": 10.0,
           "max_limit": 100000.0,
-          "available": 98255.0746,
+          "available": 98242.3408,
           "payment_methods": [],
           "adv_no": "2088268071567122432",
           "link": "https://www.bybit.com/fiat/trade/otc"
