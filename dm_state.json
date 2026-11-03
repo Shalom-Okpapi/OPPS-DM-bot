@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793730836.092312,
+      "fetched_at": 1793731485.0987453,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1379.5,
-          "merchant_name": "TCA",
-          "completion_rate": 0.99,
-          "order_count": 242,
-          "min_limit": 50000.0,
-          "max_limit": 55180.0,
-          "available": 40.0,
+          "price": 1381.0,
+          "merchant_name": "Sedytech",
+          "completion_rate": 1.0,
+          "order_count": 121,
+          "min_limit": 10000.0,
+          "max_limit": 276200.0,
+          "available": 200.0,
           "payment_methods": [],
-          "adv_no": "1993000987980554240",
+          "adv_no": "1866732268513189888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793730834.7171674,
+      "fetched_at": 1793731486.2351081,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
