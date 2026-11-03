@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793729324.3716166,
+      "fetched_at": 1793729688.0628161,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1381.5,
-          "merchant_name": "shugarxchange",
-          "completion_rate": 1.0,
-          "order_count": 109,
-          "min_limit": 27000.0,
-          "max_limit": 108488.91,
-          "available": 78.5298,
+          "price": 1381.0,
+          "merchant_name": "TCA",
+          "completion_rate": 0.99,
+          "order_count": 242,
+          "min_limit": 50000.0,
+          "max_limit": 55240.0,
+          "available": 40.0,
           "payment_methods": [],
-          "adv_no": "2065625994660515840",
+          "adv_no": "1993000987980554240",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793729323.4717999,
+      "fetched_at": 1793729689.7602246,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,7 +259,7 @@
           "price": 1.2,
           "merchant_name": "Kartoshka",
           "completion_rate": 1.0,
-          "order_count": 162,
+          "order_count": 163,
           "min_limit": 40.0,
           "max_limit": 3500.0,
           "available": 25628.8424,
