@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793778225.9044971,
+      "fetched_at": 1793778528.2231793,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1381.0,
-          "merchant_name": "EBOMS_GLOBAL",
+          "merchant_name": "kaapo",
           "completion_rate": 1.0,
-          "order_count": 33,
-          "min_limit": 10000.0,
-          "max_limit": 68100.01,
-          "available": 49.3121,
+          "order_count": 31,
+          "min_limit": 5000.0,
+          "max_limit": 50000.0,
+          "available": 233.5176,
           "payment_methods": [],
-          "adv_no": "2081045933292294144",
+          "adv_no": "2116302030609633280",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -210,7 +210,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793778227.0722363,
+      "fetched_at": 1793778526.9219265,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
