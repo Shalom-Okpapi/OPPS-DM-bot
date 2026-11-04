@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793820226.7463996,
+      "fetched_at": 1793820519.438132,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1378.99,
-          "merchant_name": "Potencia-EXCH",
-          "completion_rate": 0.97,
-          "order_count": 66,
-          "min_limit": 10000.0,
-          "max_limit": 51775.97,
-          "available": 37.5463,
+          "price": 1379.0,
+          "merchant_name": "UCY",
+          "completion_rate": 1.0,
+          "order_count": 128,
+          "min_limit": 50000.0,
+          "max_limit": 200000.0,
+          "available": 1000.0,
           "payment_methods": [],
-          "adv_no": "2118060361305161728",
+          "adv_no": "2118055473837899776",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793820228.4803648,
+      "fetched_at": 1793820520.5547836,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -247,8 +247,8 @@
           "completion_rate": 1.0,
           "order_count": 126,
           "min_limit": 50.0,
-          "max_limit": 1065.873,
-          "available": 1332.342,
+          "max_limit": 615.873,
+          "available": 769.842,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -263,7 +263,7 @@
           "order_count": 550,
           "min_limit": 20.0,
           "max_limit": 100000.0,
-          "available": 96696.7726,
+          "available": 96647.7726,
           "payment_methods": [],
           "adv_no": "2034478238170300416",
           "link": "https://www.bybit.com/fiat/trade/otc"
