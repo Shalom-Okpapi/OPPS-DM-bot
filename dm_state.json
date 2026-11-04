@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793822074.6518638,
+      "fetched_at": 1793822374.9911983,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1379.5,
-          "merchant_name": "CandorXchange",
-          "completion_rate": 0.96,
-          "order_count": 81,
-          "min_limit": 50000.0,
-          "max_limit": 413850.0,
-          "available": 300.0,
+          "price": 1378.0,
+          "merchant_name": "Gbreezyexchange",
+          "completion_rate": 1.0,
+          "order_count": 33,
+          "min_limit": 20000.0,
+          "max_limit": 56502.82,
+          "available": 41.0035,
           "payment_methods": [],
-          "adv_no": "1783249390166626304",
+          "adv_no": "1827996907667116032",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -215,7 +215,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793822075.7564716,
+      "fetched_at": 1793822373.932634,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -237,14 +237,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Sharp-payment",
+          "merchant_name": "\u211a\ud835\udd66\ud835\udd5a\ud835\udd54\ud835\udd5c-\ud835\udde7\ud835\udd94\ud835\udd95\u211d\ud835\udd52\ud835\udd65\ud835\udd56",
           "completion_rate": 1.0,
-          "order_count": 551,
+          "order_count": 193,
           "min_limit": 20.0,
-          "max_limit": 100000.0,
-          "available": 96647.7726,
+          "max_limit": 50000.0,
+          "available": 88325.4135,
           "payment_methods": [],
-          "adv_no": "2034478238170300416",
+          "adv_no": "2011945667173421056",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
