@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793753023.808499,
+      "fetched_at": 1793753322.1878679,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1381.98,
-          "merchant_name": "Otricia-venture",
-          "completion_rate": 1.0,
-          "order_count": 581,
-          "min_limit": 10000.0,
-          "max_limit": 50299.64,
-          "available": 36.3968,
+          "price": 1380.0,
+          "merchant_name": "NovaFastpayment",
+          "completion_rate": 0.99,
+          "order_count": 1116,
+          "min_limit": 50000.0,
+          "max_limit": 207000.13,
+          "available": 150.0001,
           "payment_methods": [],
-          "adv_no": "2116991023641124864",
+          "adv_no": "2109247524040384512",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -217,7 +217,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793753023.0547915,
+      "fetched_at": 1793753321.1311727,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
