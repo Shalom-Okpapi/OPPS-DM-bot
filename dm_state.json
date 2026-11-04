@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793836179.030543,
+      "fetched_at": 1793836399.5427768,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1381.0,
-          "merchant_name": "ForbesEmpire-2",
+          "price": 1380.9,
+          "merchant_name": "Aewhy",
           "completion_rate": 0.98,
-          "order_count": 1593,
-          "min_limit": 50000.0,
-          "max_limit": 200000.0,
-          "available": 637.8219,
+          "order_count": 124,
+          "min_limit": 4500.0,
+          "max_limit": 1179713.5,
+          "available": 854.3077,
           "payment_methods": [],
-          "adv_no": "2023290207635394560",
+          "adv_no": "2118129107604598784",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1793832751.0470295,
+      "fetched_at": 1793836404.0725863,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -103,23 +103,23 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 0.9,
-          "merchant_name": "Cambioseguro15",
-          "completion_rate": 0.995,
-          "order_count": 14227,
+          "price": 0.893,
+          "merchant_name": "lousse",
+          "completion_rate": 1.0,
+          "order_count": 63,
           "min_limit": 50.0,
-          "max_limit": 50.0,
-          "available": 100.0,
+          "max_limit": 1556.0,
+          "available": 1743.0,
           "payment_methods": [
-            "Bizum"
+            "Dukascopy Bank"
           ],
-          "adv_no": "12946290099347480576",
-          "link": "https://c2c.binance.com/en/adv?code=12946290099347480576"
+          "adv_no": "12944077285134557184",
+          "link": "https://c2c.binance.com/en/adv?code=12944077285134557184"
         }
       }
     },
     "JPY": {
-      "fetched_at": 1793832747.6274288,
+      "fetched_at": 1793836400.5777607,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -140,7 +140,7 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 143.23,
+          "price": 142.6,
           "merchant_name": "VnBoy",
           "completion_rate": 0.995,
           "order_count": 382,
@@ -157,14 +157,14 @@
       }
     },
     "CHF": {
-      "fetched_at": 1793836180.7792017,
+      "fetched_at": 1793836401.5762599,
       "snapshot": {
         "buy": null,
         "sell": null
       }
     },
     "GBP": {
-      "fetched_at": 1793832749.9299812,
+      "fetched_at": 1793836403.0382595,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -193,7 +193,7 @@
           "order_count": 177,
           "min_limit": 20.0,
           "max_limit": 2000.0,
-          "available": 1427.3,
+          "available": 1304.48,
           "payment_methods": [
             "Instant Transfer",
             "Starling Bank",
@@ -207,7 +207,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793836179.8961208,
+      "fetched_at": 1793836398.525024,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
