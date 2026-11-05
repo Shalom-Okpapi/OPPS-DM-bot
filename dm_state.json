@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793919481.1271627,
+      "fetched_at": 1793920055.3692174,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1377.0,
-          "merchant_name": "EliteLiquidity",
-          "completion_rate": 0.99,
-          "order_count": 359,
+          "price": 1376.0,
+          "merchant_name": "Kenny2",
+          "completion_rate": 0.97,
+          "order_count": 1037,
           "min_limit": 4500.0,
-          "max_limit": 67473.0,
-          "available": 49.0,
+          "max_limit": 100000.0,
+          "available": 1193.6009,
           "payment_methods": [],
-          "adv_no": "2062559082994905088",
+          "adv_no": "2118478678695829504",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1375.6,
           "merchant_name": "FATHUL_BARI01",
           "completion_rate": 1.0,
-          "order_count": 46,
+          "order_count": 47,
           "min_limit": 50000.0,
           "max_limit": 500000.0,
-          "available": 19990.0,
+          "available": 19745.5129,
           "payment_methods": [],
           "adv_no": "2118474226212175872",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793919482.9665227,
+      "fetched_at": 1793920056.4718323,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
