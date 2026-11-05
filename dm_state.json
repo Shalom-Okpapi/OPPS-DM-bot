@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793866121.5795557,
+      "fetched_at": 1793866476.2295702,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1380.0,
           "merchant_name": "HK_QUICKPAY",
           "completion_rate": 1.0,
-          "order_count": 762,
+          "order_count": 766,
           "min_limit": 5000.0,
           "max_limit": 50000.0,
-          "available": 170.7964,
+          "available": 150.3618,
           "payment_methods": [],
           "adv_no": "2097684276205187072",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -152,7 +152,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1793862670.3074274,
+      "fetched_at": 1793866319.34453,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -171,7 +171,26 @@
           "adv_no": "12914349396190855168",
           "link": "https://c2c.binance.com/en/adv?code=12914349396190855168"
         },
-        "sell": null
+        "sell": {
+          "platform": "Binance",
+          "trade_type": "SELL",
+          "fiat": "CHF",
+          "price": 0.658,
+          "merchant_name": "_RIOT_",
+          "completion_rate": 0.953,
+          "order_count": 100,
+          "min_limit": 5.0,
+          "max_limit": 100000.0,
+          "available": 1943753.2,
+          "payment_methods": [
+            "Twint",
+            "Instant Transfer",
+            "Bank Transfer",
+            "Cash Deposit to Bank"
+          ],
+          "adv_no": "12858159274355097600",
+          "link": "https://c2c.binance.com/en/adv?code=12858159274355097600"
+        }
       }
     },
     "GBP": {
@@ -213,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793866120.656217,
+      "fetched_at": 1793866475.4433954,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -222,7 +241,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 1.0,
-          "order_count": 1140,
+          "order_count": 1141,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 22563.2465,
