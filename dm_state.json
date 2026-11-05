@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793836724.468014,
+      "fetched_at": 1793837080.199226,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1380.9,
-          "merchant_name": "Aewhy",
-          "completion_rate": 0.98,
-          "order_count": 125,
-          "min_limit": 4500.0,
-          "max_limit": 322792.0,
-          "available": 233.7548,
+          "merchant_name": "Zikconnect",
+          "completion_rate": 1.0,
+          "order_count": 252,
+          "min_limit": 30000.0,
+          "max_limit": 500000.0,
+          "available": 566.5906,
           "payment_methods": [],
-          "adv_no": "2118129107604598784",
+          "adv_no": "2031760777403531264",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -157,7 +157,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1793836726.4645197,
+      "fetched_at": 1793837082.4300241,
       "snapshot": {
         "buy": null,
         "sell": null
@@ -207,7 +207,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793836725.5127718,
+      "fetched_at": 1793837081.087231,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -229,14 +229,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Kartoshka",
+          "merchant_name": "Sharp-payment",
           "completion_rate": 1.0,
-          "order_count": 158,
-          "min_limit": 40.0,
-          "max_limit": 3500.0,
-          "available": 25628.8424,
+          "order_count": 565,
+          "min_limit": 20.0,
+          "max_limit": 100000.0,
+          "available": 96128.606,
           "payment_methods": [],
-          "adv_no": "2020583953124225024",
+          "adv_no": "2034478238170300416",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
