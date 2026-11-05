@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793867382.5525525,
+      "fetched_at": 1793867625.7572992,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1380.0,
-          "merchant_name": "HK_QUICKPAY",
+          "price": 1380.89,
+          "merchant_name": "EXORA_247",
           "completion_rate": 1.0,
-          "order_count": 772,
-          "min_limit": 5000.0,
+          "order_count": 290,
+          "min_limit": 4500.0,
           "max_limit": 50000.0,
-          "available": 110.9528,
+          "available": 69.8721,
           "payment_methods": [],
-          "adv_no": "2097684276205187072",
+          "adv_no": "2118235758584004608",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793867383.4713287,
+      "fetched_at": 1793867624.4647014,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -241,10 +241,10 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 1.0,
-          "order_count": 1142,
+          "order_count": 1144,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 22420.446,
+          "available": 22595.406,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
