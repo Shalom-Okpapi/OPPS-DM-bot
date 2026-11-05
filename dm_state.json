@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793912919.3137774,
+      "fetched_at": 1793913225.4191928,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1378.5,
-          "merchant_name": "THE-SHELBYS",
-          "completion_rate": 1.0,
-          "order_count": 23,
-          "min_limit": 4500.0,
-          "max_limit": 275700.0,
-          "available": 200.0,
+          "price": 1381.0,
+          "merchant_name": "FAST_PAY_",
+          "completion_rate": 0.99,
+          "order_count": 15012,
+          "min_limit": 20000.0,
+          "max_limit": 1000000.0,
+          "available": 888.2896,
           "payment_methods": [],
-          "adv_no": "2116883134395764736",
+          "adv_no": "2046603189319974912",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793912920.3218718,
+      "fetched_at": 1793913226.4078503,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -250,8 +250,8 @@
           "completion_rate": 0.99,
           "order_count": 6618,
           "min_limit": 20.0,
-          "max_limit": 1129.753,
-          "available": 1153.9873,
+          "max_limit": 1179.753,
+          "available": 1205.0598,
           "payment_methods": [],
           "adv_no": "2088352470604853248",
           "link": "https://www.bybit.com/fiat/trade/otc"
