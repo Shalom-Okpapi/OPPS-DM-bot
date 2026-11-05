@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793876924.6115441,
+      "fetched_at": 1793877275.8014336,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -152,41 +152,48 @@
       }
     },
     "CHF": {
-      "fetched_at": 1793873600.943192,
+      "fetched_at": 1793877276.617218,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.96,
-          "merchant_name": "Swisssmdbundnerchurr",
-          "completion_rate": 0.986,
-          "order_count": 69,
+          "price": 0.933,
+          "merchant_name": "Sikario-CH-",
+          "completion_rate": 0.974,
+          "order_count": 109,
           "min_limit": 50.0,
-          "max_limit": 1800.0,
-          "available": 1428.88,
+          "max_limit": 1000.0,
+          "available": 74.38,
           "payment_methods": [
+            "Instant Transfer",
+            "Cash Deposit to Bank",
+            "Bank Transfer",
             "Twint"
           ],
-          "adv_no": "12914349396190855168",
-          "link": "https://c2c.binance.com/en/adv?code=12914349396190855168"
+          "adv_no": "12947934028679196672",
+          "link": "https://c2c.binance.com/en/adv?code=12947934028679196672"
         },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "CHF",
-          "price": 0.79,
-          "merchant_name": "Swisssmdbundnerchurr",
-          "completion_rate": 0.986,
-          "order_count": 69,
-          "min_limit": 20.0,
-          "max_limit": 100.0,
-          "available": 1310.21,
+          "price": 0.78,
+          "merchant_name": "Best_Twint_Exchange",
+          "completion_rate": 1.0,
+          "order_count": 165,
+          "min_limit": 50.0,
+          "max_limit": 100000.0,
+          "available": 1929729.98,
           "payment_methods": [
-            "Twint"
+            "Twint",
+            "Instant Transfer",
+            "Bank Transfer",
+            "Cash Deposit to Bank",
+            "ZEN"
           ],
-          "adv_no": "12913990212051726336",
-          "link": "https://c2c.binance.com/en/adv?code=12913990212051726336"
+          "adv_no": "12883507269642735616",
+          "link": "https://c2c.binance.com/en/adv?code=12883507269642735616"
         }
       }
     },
@@ -226,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793876925.8055766,
+      "fetched_at": 1793877274.625941,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -235,10 +242,10 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 1.0,
-          "order_count": 1151,
+          "order_count": 1152,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 22364.8833,
+          "available": 23130.7928,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
