@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793862573.1926365,
+      "fetched_at": 1793862827.487354,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -152,7 +152,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1793859065.5451133,
+      "fetched_at": 1793862670.3074274,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -161,33 +161,17 @@
           "price": 0.96,
           "merchant_name": "Swisssmdbundnerchurr",
           "completion_rate": 0.986,
-          "order_count": 68,
+          "order_count": 69,
           "min_limit": 50.0,
           "max_limit": 1800.0,
-          "available": 1239.09,
+          "available": 1428.88,
           "payment_methods": [
             "Twint"
           ],
           "adv_no": "12914349396190855168",
           "link": "https://c2c.binance.com/en/adv?code=12914349396190855168"
         },
-        "sell": {
-          "platform": "Binance",
-          "trade_type": "SELL",
-          "fiat": "CHF",
-          "price": 0.79,
-          "merchant_name": "Swisssmdbundnerchurr",
-          "completion_rate": 0.986,
-          "order_count": 68,
-          "min_limit": 20.0,
-          "max_limit": 150.0,
-          "available": 1500.0,
-          "payment_methods": [
-            "Twint"
-          ],
-          "adv_no": "12913990212051726336",
-          "link": "https://c2c.binance.com/en/adv?code=12913990212051726336"
-        }
+        "sell": null
       }
     },
     "GBP": {
@@ -231,7 +215,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793862572.3069236,
+      "fetched_at": 1793862828.622845,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -240,10 +224,10 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 1.0,
-          "order_count": 1137,
+          "order_count": 1138,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 20600.3438,
+          "available": 22116.9485,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
