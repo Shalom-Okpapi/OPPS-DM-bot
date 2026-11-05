@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793870372.2761922,
+      "fetched_at": 1793870675.794313,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1380.65,
-          "merchant_name": "SPEEDHUB_001",
-          "completion_rate": 0.99,
-          "order_count": 577,
+          "price": 1380.5,
+          "merchant_name": "KENOTECH",
+          "completion_rate": 0.98,
+          "order_count": 105,
           "min_limit": 50000.0,
-          "max_limit": 250000.0,
-          "available": 570.3556,
+          "max_limit": 140811.0,
+          "available": 102.0,
           "payment_methods": [],
-          "adv_no": "2106689732197801984",
+          "adv_no": "2051038672215470080",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -226,7 +226,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793870373.11081,
+      "fetched_at": 1793870674.5411725,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -235,10 +235,10 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 1.0,
-          "order_count": 1144,
+          "order_count": 1145,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 22595.406,
+          "available": 22683.9269,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
