@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793851478.1766918,
+      "fetched_at": 1793851774.3954024,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -154,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1793848127.7922587,
+      "fetched_at": 1793851775.154243,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -173,7 +173,23 @@
           "adv_no": "12914349396190855168",
           "link": "https://c2c.binance.com/en/adv?code=12914349396190855168"
         },
-        "sell": null
+        "sell": {
+          "platform": "Binance",
+          "trade_type": "SELL",
+          "fiat": "CHF",
+          "price": 0.79,
+          "merchant_name": "Swisssmdbundnerchurr",
+          "completion_rate": 0.986,
+          "order_count": 68,
+          "min_limit": 20.0,
+          "max_limit": 150.0,
+          "available": 1500.0,
+          "payment_methods": [
+            "Twint"
+          ],
+          "adv_no": "12913990212051726336",
+          "link": "https://c2c.binance.com/en/adv?code=12913990212051726336"
+        }
       }
     },
     "GBP": {
@@ -212,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793851477.2242537,
+      "fetched_at": 1793851773.1249804,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -236,7 +252,7 @@
           "price": 1.2,
           "merchant_name": "Sharp-payment",
           "completion_rate": 1.0,
-          "order_count": 567,
+          "order_count": 568,
           "min_limit": 20.0,
           "max_limit": 100000.0,
           "available": 95566.791,
