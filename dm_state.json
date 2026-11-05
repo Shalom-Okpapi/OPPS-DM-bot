@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793874222.4332907,
+      "fetched_at": 1793874574.8541667,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1380.5,
-          "merchant_name": "KENOTECH",
-          "completion_rate": 0.98,
+          "price": 1379.0,
+          "merchant_name": "Dualite",
+          "completion_rate": 1.0,
           "order_count": 106,
           "min_limit": 50000.0,
-          "max_limit": 587118.09,
-          "available": 425.2938,
+          "max_limit": 74466.0,
+          "available": 54.0,
           "payment_methods": [],
-          "adv_no": "2051038672215470080",
+          "adv_no": "1967574687267196928",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -226,7 +226,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793874221.6048226,
+      "fetched_at": 1793874573.6408372,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -238,7 +238,7 @@
           "order_count": 1147,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 22656.0153,
+          "available": 22648.2376,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
