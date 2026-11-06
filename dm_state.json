@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793951076.6069224,
+      "fetched_at": 1793951377.8803651,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1377.0,
-          "merchant_name": "REXS007",
-          "completion_rate": 1.0,
-          "order_count": 3325,
+          "merchant_name": "MARV_PAYS",
+          "completion_rate": 0.99,
+          "order_count": 30924,
           "min_limit": 5000.0,
           "max_limit": 100000.0,
-          "available": 454.0688,
+          "available": 1479.041,
           "payment_methods": [],
-          "adv_no": "2100889736758382592",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -210,7 +210,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793951077.648147,
+      "fetched_at": 1793951376.2224355,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
