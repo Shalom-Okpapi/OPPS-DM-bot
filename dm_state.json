@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1793972924.339281,
+      "fetched_at": 1793973226.540643,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1378.4,
-          "merchant_name": "INSTITUTION",
+          "price": 1378.45,
+          "merchant_name": "FATHUL_BARI01",
           "completion_rate": 1.0,
-          "order_count": 1240,
+          "order_count": 128,
           "min_limit": 50000.0,
-          "max_limit": 143808.33,
-          "available": 104.3299,
+          "max_limit": 300000.0,
+          "available": 1067.4698,
           "payment_methods": [],
-          "adv_no": "2112201173179932672",
+          "adv_no": "2118318865482457088",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1793972923.2272875,
+      "fetched_at": 1793973225.394772,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -247,7 +247,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 1.0,
-          "order_count": 1176,
+          "order_count": 1177,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 19589.5643,
