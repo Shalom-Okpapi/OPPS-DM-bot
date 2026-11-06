@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794005132.966399,
+      "fetched_at": 1794005715.2540622,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1375.0,
-          "merchant_name": "HASSAN+01",
-          "completion_rate": 0.99,
-          "order_count": 195,
-          "min_limit": 30000.0,
-          "max_limit": 120000.0,
-          "available": 118.4018,
+          "price": 1377.0,
+          "merchant_name": "HK_QUICKPAY",
+          "completion_rate": 1.0,
+          "order_count": 885,
+          "min_limit": 5000.0,
+          "max_limit": 50000.0,
+          "available": 1051.7437,
           "payment_methods": [],
-          "adv_no": "2066080976440672256",
+          "adv_no": "2097684276205187072",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -242,7 +242,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794005134.113986,
+      "fetched_at": 1794005714.5504053,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -264,14 +264,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "ADAM_EX_ENGIEER",
+          "merchant_name": "Kartoshka",
           "completion_rate": 1.0,
-          "order_count": 308,
-          "min_limit": 5.0,
-          "max_limit": 50000.0,
-          "available": 99845.2087,
+          "order_count": 157,
+          "min_limit": 40.0,
+          "max_limit": 3500.0,
+          "available": 25628.8424,
           "payment_methods": [],
-          "adv_no": "2039631087493136384",
+          "adv_no": "2020583953124225024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
