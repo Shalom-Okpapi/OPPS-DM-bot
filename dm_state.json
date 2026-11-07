@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794094163.38799,
+      "fetched_at": 1794094720.2517943,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -55,11 +55,11 @@
           "fiat": "NGN",
           "price": 1376.8,
           "merchant_name": "JET%PAYMENT@",
-          "completion_rate": 0.98,
-          "order_count": 196,
+          "completion_rate": 0.99,
+          "order_count": 198,
           "min_limit": 4500.0,
-          "max_limit": 167227.22,
-          "available": 121.4608,
+          "max_limit": 109227.46,
+          "available": 79.3343,
           "payment_methods": [],
           "adv_no": "2118405900156960768",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -240,21 +240,21 @@
       }
     },
     "USD": {
-      "fetched_at": 1794094164.5442915,
+      "fetched_at": 1794094719.5008528,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.983,
-          "merchant_name": "Adi_Melo",
-          "completion_rate": 0.96,
-          "order_count": 72,
+          "price": 0.999,
+          "merchant_name": "alvik",
+          "completion_rate": 1.0,
+          "order_count": 7247,
           "min_limit": 50.0,
-          "max_limit": 2976.429,
-          "available": 3027.9034,
+          "max_limit": 11418.805,
+          "available": 11430.2359,
           "payment_methods": [],
-          "adv_no": "2012856286790742016",
+          "adv_no": "1807122607564685312",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -267,7 +267,7 @@
           "order_count": 221,
           "min_limit": 20.0,
           "max_limit": 50000.0,
-          "available": 87882.3792,
+          "available": 87772.3792,
           "payment_methods": [],
           "adv_no": "2011945667173421056",
           "link": "https://www.bybit.com/fiat/trade/otc"
