@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794013719.4029093,
+      "fetched_at": 1794014003.7632332,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -58,8 +58,8 @@
           "completion_rate": 1.0,
           "order_count": 261,
           "min_limit": 30000.0,
-          "max_limit": 500000.0,
-          "available": 703.3098,
+          "max_limit": 467965.39,
+          "available": 340.017,
           "payment_methods": [],
           "adv_no": "2031760777403531264",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -242,7 +242,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794013720.6006324,
+      "fetched_at": 1794014002.822922,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -280,9 +280,9 @@
   "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
-    "at": 1793484971.341394,
+    "at": 1794013880.9705272,
     "target": "5503157793",
-    "reason": "network/request error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)"
+    "reason": "HTTP 502: Bad Gateway"
   },
   "market_cache": {
     "BTC": {
