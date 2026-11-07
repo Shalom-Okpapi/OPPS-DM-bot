@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794089077.1772592,
+      "fetched_at": 1794089323.0257316,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -59,7 +59,7 @@
           "order_count": 161,
           "min_limit": 4500.0,
           "max_limit": 200000.0,
-          "available": 4525.4246,
+          "available": 4437.4886,
           "payment_methods": [],
           "adv_no": "2119173566797049856",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -82,21 +82,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1794085483.1364644,
+      "fetched_at": 1794089167.745845,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
-          "price": 0.897,
-          "merchant_name": "\u0414\u0436\u0438\u043d\u0422\u043e\u043d\u0438\u043a",
-          "completion_rate": 0.99,
-          "order_count": 11245,
-          "min_limit": 2.0,
-          "max_limit": 50.0,
-          "available": 693.7063,
+          "price": 0.898,
+          "merchant_name": "alvik",
+          "completion_rate": 1.0,
+          "order_count": 7244,
+          "min_limit": 50.0,
+          "max_limit": 300.0,
+          "available": 26521.6773,
           "payment_methods": [],
-          "adv_no": "2115652200835440640",
+          "adv_no": "2038225274208436224",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1794085480.5508523,
+      "fetched_at": 1794089164.0952966,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -152,7 +152,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1794085481.4033403,
+      "fetched_at": 1794089165.375867,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -161,10 +161,10 @@
           "price": 0.95,
           "merchant_name": "Best_Twint_Exchange",
           "completion_rate": 0.995,
-          "order_count": 184,
+          "order_count": 187,
           "min_limit": 5.0,
           "max_limit": 3000.0,
-          "available": 7864.21,
+          "available": 7828.36,
           "payment_methods": [
             "Instant Transfer",
             "Bank Transfer",
@@ -182,10 +182,10 @@
           "price": 0.775,
           "merchant_name": "Best_Twint_Exchange",
           "completion_rate": 0.995,
-          "order_count": 184,
+          "order_count": 187,
           "min_limit": 50.0,
           "max_limit": 100000.0,
-          "available": 1929729.98,
+          "available": 1929630.92,
           "payment_methods": [
             "Twint",
             "Instant Transfer",
@@ -199,7 +199,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1794085482.2905204,
+      "fetched_at": 1794089166.650908,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -208,10 +208,10 @@
           "price": 0.785,
           "merchant_name": "SGTEXCHANGE",
           "completion_rate": 0.984,
-          "order_count": 176,
+          "order_count": 177,
           "min_limit": 10.0,
           "max_limit": 1000.0,
-          "available": 983.55,
+          "available": 856.17,
           "payment_methods": [
             "Faster Payments",
             "Bank Transfer",
@@ -232,7 +232,7 @@
           "order_count": 41,
           "min_limit": 30.0,
           "max_limit": 487.0,
-          "available": 18544.1953,
+          "available": 18749.9947,
           "payment_methods": [],
           "adv_no": "2118822350376026112",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794089078.303182,
+      "fetched_at": 1794089324.1094863,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -264,7 +264,7 @@
           "price": 1.2,
           "merchant_name": "ADAM_EX_ENGIEER",
           "completion_rate": 1.0,
-          "order_count": 303,
+          "order_count": 304,
           "min_limit": 5.0,
           "max_limit": 50000.0,
           "available": 99845.2087,
