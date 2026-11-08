@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794179023.6195552,
+      "fetched_at": 1794179372.9662607,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -238,22 +238,24 @@
       }
     },
     "USD": {
-      "fetched_at": 1794179024.7621822,
+      "fetched_at": 1794179374.1795187,
       "snapshot": {
         "buy": {
-          "platform": "Bybit",
+          "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.983,
-          "merchant_name": "\u0420\u041e\u0421\u0421\u0418\u042f\u0420\u0424",
+          "price": 0.99,
+          "merchant_name": "Crash Overrider",
           "completion_rate": 1.0,
-          "order_count": 122,
-          "min_limit": 2.0,
-          "max_limit": 364.718,
-          "available": 371.0257,
-          "payment_methods": [],
-          "adv_no": "2112194527989755904",
-          "link": "https://www.bybit.com/fiat/trade/otc"
+          "order_count": 167,
+          "min_limit": 15.0,
+          "max_limit": 500.0,
+          "available": 505.0,
+          "payment_methods": [
+            "BAC Costa Rica"
+          ],
+          "adv_no": "12952867881318785024",
+          "link": "https://c2c.binance.com/en/adv?code=12952867881318785024"
         },
         "sell": {
           "platform": "Bybit",
