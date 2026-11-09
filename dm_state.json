@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794190720.822239,
+      "fetched_at": 1794191020.8217564,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1378.4,
-          "merchant_name": "AUL-BAWA-NGN",
-          "completion_rate": 1.0,
-          "order_count": 53,
-          "min_limit": 4500.0,
-          "max_limit": 124702.05,
-          "available": 90.4687,
+          "price": 1379.0,
+          "merchant_name": "fast(S)trade",
+          "completion_rate": 0.99,
+          "order_count": 734,
+          "min_limit": 50000.0,
+          "max_limit": 150000.0,
+          "available": 422.9609,
           "payment_methods": [],
-          "adv_no": "2022292316125044736",
+          "adv_no": "2020797855124865024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1375.5,
           "merchant_name": "Unstopable",
           "completion_rate": 0.99,
-          "order_count": 317,
+          "order_count": 318,
           "min_limit": 4500.0,
           "max_limit": 3000000.0,
           "available": 4838.5264,
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794190722.017616,
+      "fetched_at": 1794191022.0208893,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -252,7 +252,7 @@
           "order_count": 1154,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 21229.7237,
+          "available": 21198.7237,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
