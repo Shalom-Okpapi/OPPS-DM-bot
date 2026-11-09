@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794199120.9714096,
+      "fetched_at": 1794199403.0519695,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -82,21 +82,21 @@
       }
     },
     "EUR": {
-      "fetched_at": 1794195661.7825413,
+      "fetched_at": 1794199323.6031735,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "EUR",
-          "price": 0.898,
+          "price": 0.897,
           "merchant_name": "alvik",
           "completion_rate": 1.0,
-          "order_count": 6799,
-          "min_limit": 35.0,
-          "max_limit": 20501.237,
-          "available": 22829.8858,
+          "order_count": 6800,
+          "min_limit": 50.0,
+          "max_limit": 300.0,
+          "available": 22862.2333,
           "payment_methods": [],
-          "adv_no": "2015119116726616064",
+          "adv_no": "2038225274208436224",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1794195658.701558,
+      "fetched_at": 1794199320.3462422,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -126,7 +126,7 @@
           "price": 168.0,
           "merchant_name": "WUN-USDT-STORE",
           "completion_rate": 1.0,
-          "order_count": 216,
+          "order_count": 213,
           "min_limit": 1000.0,
           "max_limit": 246052.58,
           "available": 1464.5987,
@@ -152,7 +152,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1794195659.6585705,
+      "fetched_at": 1794199321.413818,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -196,13 +196,13 @@
       }
     },
     "GBP": {
-      "fetched_at": 1794195660.8087761,
+      "fetched_at": 1794199322.580074,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "GBP",
-          "price": 0.755,
+          "price": 0.769,
           "merchant_name": "Crypto_Snipe",
           "completion_rate": 0.995,
           "order_count": 188,
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794199120.0446963,
+      "fetched_at": 1794199402.0141726,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
