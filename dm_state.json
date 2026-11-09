@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794201277.7158158,
+      "fetched_at": 1794201574.6594174,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1382.65,
-          "merchant_name": "AbimsFastpaid",
+          "price": 1382.98,
+          "merchant_name": "fast(S)trade",
           "completion_rate": 0.99,
-          "order_count": 329,
-          "min_limit": 10000.0,
-          "max_limit": 50000.0,
-          "available": 107.7908,
+          "order_count": 735,
+          "min_limit": 50000.0,
+          "max_limit": 150000.0,
+          "available": 326.5135,
           "payment_methods": [],
-          "adv_no": "2107146664725504000",
+          "adv_no": "2020797855124865024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794201276.6656125,
+      "fetched_at": 1794201573.430586,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
