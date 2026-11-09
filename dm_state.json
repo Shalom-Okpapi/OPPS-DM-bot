@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794252522.7910137,
+      "fetched_at": 1794252825.2249563,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1382.0,
-          "merchant_name": "HK_QUICKPAY",
+          "price": 1383.0,
+          "merchant_name": "REXS007",
           "completion_rate": 1.0,
-          "order_count": 874,
+          "order_count": 3917,
           "min_limit": 5000.0,
-          "max_limit": 50000.0,
-          "available": 128.835,
+          "max_limit": 90000.0,
+          "available": 413.228,
           "payment_methods": [],
-          "adv_no": "2097684276205187072",
+          "adv_no": "2100889736758382592",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1378.91,
           "merchant_name": "Flavour",
           "completion_rate": 1.0,
-          "order_count": 86,
+          "order_count": 87,
           "min_limit": 50000.0,
           "max_limit": 2000000.0,
-          "available": 3339.9394,
+          "available": 3256.5402,
           "payment_methods": [],
           "adv_no": "1954882681967665152",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794252521.5372052,
+      "fetched_at": 1794252823.8984795,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
