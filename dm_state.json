@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794250725.0371518,
+      "fetched_at": 1794251025.9105017,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1383.0,
-          "merchant_name": "REXS007",
-          "completion_rate": 1.0,
-          "order_count": 3906,
-          "min_limit": 5000.0,
-          "max_limit": 90000.0,
-          "available": 572.3753,
+          "price": 1382.5,
+          "merchant_name": "AADATA",
+          "completion_rate": 0.99,
+          "order_count": 106,
+          "min_limit": 25000.0,
+          "max_limit": 100000.0,
+          "available": 313.7062,
           "payment_methods": [],
-          "adv_no": "2100889736758382592",
+          "adv_no": "2119862065158287360",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1381.0,
           "merchant_name": "Kenny2",
           "completion_rate": 0.96,
-          "order_count": 1082,
+          "order_count": 1083,
           "min_limit": 4500.0,
           "max_limit": 100000.0,
-          "available": 2755.8549,
+          "available": 2725.7982,
           "payment_methods": [],
           "adv_no": "2119792277030379520",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794250723.7309108,
+      "fetched_at": 1794251025.1153748,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
