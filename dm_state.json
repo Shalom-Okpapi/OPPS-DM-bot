@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794267577.9543612,
+      "fetched_at": 1794267878.1373534,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1382.0,
-          "merchant_name": "AADATA",
-          "completion_rate": 0.99,
-          "order_count": 113,
-          "min_limit": 25000.0,
-          "max_limit": 100000.0,
-          "available": 345.7613,
+          "price": 1382.5,
+          "merchant_name": "abumunaifah2",
+          "completion_rate": 0.96,
+          "order_count": 378,
+          "min_limit": 50000.0,
+          "max_limit": 401776.34,
+          "available": 290.6158,
           "payment_methods": [],
-          "adv_no": "2119924668719034368",
+          "adv_no": "2098301265117831168",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1378.23,
           "merchant_name": "bigbabyboi",
           "completion_rate": 0.98,
-          "order_count": 9878,
+          "order_count": 9879,
           "min_limit": 50000.0,
-          "max_limit": 11634821.4,
-          "available": 8441.8576,
+          "max_limit": 11496998.4,
+          "available": 8341.8576,
           "payment_methods": [],
           "adv_no": "1890897767952150528",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -238,25 +238,22 @@
       }
     },
     "USD": {
-      "fetched_at": 1794267576.7907577,
+      "fetched_at": 1794267879.1171079,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 0.9,
-          "merchant_name": "Umma Hani Nilufar Yasmin",
-          "completion_rate": 0.975,
-          "order_count": 78,
-          "min_limit": 50.0,
-          "max_limit": 100.0,
-          "available": 114.29,
-          "payment_methods": [
-            "Neteller",
-            "Skrill"
-          ],
-          "adv_no": "12953247884147064832",
-          "link": "https://c2c.binance.com/en/adv?code=12953247884147064832"
+          "price": 0.979,
+          "merchant_name": "\u0420\u041e\u0421\u0421\u0418\u042f\u0420\u0424",
+          "completion_rate": 1.0,
+          "order_count": 124,
+          "min_limit": 2.0,
+          "max_limit": 123.208,
+          "available": 125.8517,
+          "payment_methods": [],
+          "adv_no": "2112792372059623424",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
