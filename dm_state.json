@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794293623.1443598,
+      "fetched_at": 1794293920.1679535,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1383.8,
-          "merchant_name": "MARV_PAYS",
-          "completion_rate": 0.99,
-          "order_count": 33926,
-          "min_limit": 5000.0,
-          "max_limit": 100000.0,
-          "available": 873.14,
+          "price": 1383.74,
+          "merchant_name": "UKASHA_MR",
+          "completion_rate": 1.0,
+          "order_count": 379,
+          "min_limit": 50000.0,
+          "max_limit": 500000.0,
+          "available": 2740.3644,
           "payment_methods": [],
-          "adv_no": "1767833474110619648",
+          "adv_no": "1908644613605363712",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1378.82,
           "merchant_name": "keengdavid",
           "completion_rate": 0.98,
-          "order_count": 7246,
+          "order_count": 7258,
           "min_limit": 50000.0,
-          "max_limit": 105764645.64,
-          "available": 76706.6373,
+          "max_limit": 102735982.16,
+          "available": 74510.0754,
           "payment_methods": [],
           "adv_no": "1967005452141383680",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794293624.2226124,
+      "fetched_at": 1794293921.4699652,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
