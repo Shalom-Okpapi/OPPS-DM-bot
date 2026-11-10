@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794305081.4585507,
+      "fetched_at": 1794305372.5632253,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1381.99,
-          "merchant_name": "RAPIDCASH",
-          "completion_rate": 0.98,
-          "order_count": 730,
-          "min_limit": 50000.0,
-          "max_limit": 400000.0,
-          "available": 400.0,
+          "price": 1382.0,
+          "merchant_name": "AADATA",
+          "completion_rate": 0.99,
+          "order_count": 117,
+          "min_limit": 25000.0,
+          "max_limit": 100000.0,
+          "available": 94.98,
           "payment_methods": [],
-          "adv_no": "2093630482139164672",
+          "adv_no": "2119924668719034368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1378.6,
-          "merchant_name": "ELITE_XCHANGE",
+          "price": 1378.36,
+          "merchant_name": "SOMICFUNDS",
           "completion_rate": 0.99,
-          "order_count": 15351,
-          "min_limit": 40000.0,
-          "max_limit": 84272687.41,
-          "available": 61129.1799,
+          "order_count": 294,
+          "min_limit": 30000.0,
+          "max_limit": 461750.6,
+          "available": 335.0,
           "payment_methods": [],
-          "adv_no": "2103380789826387968",
+          "adv_no": "2119774497811931136",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -229,7 +229,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794305082.4874988,
+      "fetched_at": 1794305373.645864,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
