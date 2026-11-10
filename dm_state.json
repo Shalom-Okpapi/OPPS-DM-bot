@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794344324.2863863,
+      "fetched_at": 1794344629.1630514,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1385.0,
-          "merchant_name": "Jprime",
-          "completion_rate": 1.0,
-          "order_count": 38,
+          "price": 1388.0,
+          "merchant_name": "SmartSols",
+          "completion_rate": 0.97,
+          "order_count": 33,
           "min_limit": 50000.0,
-          "max_limit": 379210.23,
-          "available": 273.798,
+          "max_limit": 50000.0,
+          "available": 38.8831,
           "payment_methods": [],
-          "adv_no": "2037630258568409088",
+          "adv_no": "2113999746620235776",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1384.75,
-          "merchant_name": "SOMICFUNDS",
-          "completion_rate": 0.99,
-          "order_count": 374,
-          "min_limit": 30000.0,
-          "max_limit": 51612.81,
-          "available": 37.2723,
+          "price": 1384.62,
+          "merchant_name": "Flavour",
+          "completion_rate": 1.0,
+          "order_count": 110,
+          "min_limit": 20000.0,
+          "max_limit": 2000000.0,
+          "available": 2350.2696,
           "payment_methods": [],
-          "adv_no": "2119774497811931136",
+          "adv_no": "1954882681967665152",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -226,7 +226,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794344325.4426148,
+      "fetched_at": 1794344628.2831285,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
