@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794307119.543861,
+      "fetched_at": 1794307476.0542471,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1382.0,
-          "merchant_name": "shugarxchange",
-          "completion_rate": 1.0,
-          "order_count": 113,
-          "min_limit": 35000.0,
-          "max_limit": 148134.09,
-          "available": 107.1882,
+          "price": 1382.3,
+          "merchant_name": "RAPIDCASH",
+          "completion_rate": 0.98,
+          "order_count": 737,
+          "min_limit": 50000.0,
+          "max_limit": 400000.0,
+          "available": 400.0,
           "payment_methods": [],
-          "adv_no": "2065625994660515840",
+          "adv_no": "2093630482139164672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1378.42,
-          "merchant_name": "Wheels",
-          "completion_rate": 0.99,
-          "order_count": 792,
-          "min_limit": 40000.0,
-          "max_limit": 300000.0,
-          "available": 2894.1142,
+          "price": 1378.81,
+          "merchant_name": "Flavour",
+          "completion_rate": 1.0,
+          "order_count": 103,
+          "min_limit": 50000.0,
+          "max_limit": 2000000.0,
+          "available": 2700.0,
           "payment_methods": [],
-          "adv_no": "2108402485622628352",
+          "adv_no": "1954882681967665152",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -229,7 +229,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794307120.5561168,
+      "fetched_at": 1794307475.2659512,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
