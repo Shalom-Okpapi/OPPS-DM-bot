@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794339324.0268376,
+      "fetched_at": 1794339877.065168,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1388.6,
-          "merchant_name": "Gracetrade@511",
-          "completion_rate": 1.0,
-          "order_count": 20,
-          "min_limit": 50000.0,
-          "max_limit": 72664.04,
-          "available": 52.329,
+          "price": 1389.0,
+          "merchant_name": "AADATA",
+          "completion_rate": 0.99,
+          "order_count": 123,
+          "min_limit": 25000.0,
+          "max_limit": 80665.48,
+          "available": 58.0745,
           "payment_methods": [],
-          "adv_no": "2120109228879216640",
+          "adv_no": "2120225431400448000",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.99,
           "order_count": 810,
           "min_limit": 10000.0,
-          "max_limit": 245224.65,
-          "available": 176.917,
+          "max_limit": 182850.15,
+          "available": 131.917,
           "payment_methods": [],
           "adv_no": "2120232338206769152",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794339325.0347826,
+      "fetched_at": 1794339878.1135287,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
