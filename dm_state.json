@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794321227.5672834,
+      "fetched_at": 1794321575.1135726,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1383.5,
-          "merchant_name": "Veloxverto",
-          "completion_rate": 0.99,
-          "order_count": 715,
-          "min_limit": 10000.0,
-          "max_limit": 50000.0,
-          "available": 341.3262,
+          "price": 1382.5,
+          "merchant_name": "UnDiluted",
+          "completion_rate": 1.0,
+          "order_count": 76,
+          "min_limit": 7000.0,
+          "max_limit": 105847.51,
+          "available": 76.5624,
           "payment_methods": [],
-          "adv_no": "2063940722304397312",
+          "adv_no": "2048048619812192256",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1380.76,
           "merchant_name": "SOMICFUNDS",
           "completion_rate": 0.99,
-          "order_count": 320,
+          "order_count": 321,
           "min_limit": 30000.0,
-          "max_limit": 428035.6,
-          "available": 310.0,
+          "max_limit": 331492.03,
+          "available": 240.0794,
           "payment_methods": [],
           "adv_no": "2119774497811931136",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794321226.515112,
+      "fetched_at": 1794321573.8963895,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
