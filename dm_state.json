@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794313168.710546,
+      "fetched_at": 1794313721.6392448,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1383.5,
-          "merchant_name": "Veloxverto",
-          "completion_rate": 0.99,
-          "order_count": 709,
-          "min_limit": 10000.0,
-          "max_limit": 50000.0,
-          "available": 500.9131,
+          "price": 1383.25,
+          "merchant_name": "RAPIDCASH",
+          "completion_rate": 0.98,
+          "order_count": 741,
+          "min_limit": 50000.0,
+          "max_limit": 400000.0,
+          "available": 400.0,
           "payment_methods": [],
-          "adv_no": "2063940722304397312",
+          "adv_no": "2093630482139164672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1379.5,
-          "merchant_name": "GoodFunds_Only",
-          "completion_rate": 0.99,
-          "order_count": 1062,
-          "min_limit": 40000.0,
-          "max_limit": 735799.77,
-          "available": 533.3815,
+          "price": 1379.52,
+          "merchant_name": "Flavour",
+          "completion_rate": 1.0,
+          "order_count": 106,
+          "min_limit": 50000.0,
+          "max_limit": 2000000.0,
+          "available": 2535.8928,
           "payment_methods": [],
-          "adv_no": "2112474176871251968",
+          "adv_no": "1954882681967665152",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -228,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794313167.1312068,
+      "fetched_at": 1794313720.3616822,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
