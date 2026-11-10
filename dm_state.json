@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794335677.423496,
+      "fetched_at": 1794335921.1078384,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1389.3,
-          "merchant_name": "dakins ",
-          "completion_rate": 1.0,
-          "order_count": 214,
+          "price": 1389.52,
+          "merchant_name": "Akinmadebtc",
+          "completion_rate": 0.98,
+          "order_count": 71,
           "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 1637.6804,
+          "max_limit": 74402.68,
+          "available": 53.5456,
           "payment_methods": [],
-          "adv_no": "2119934430478680064",
+          "adv_no": "2108104105391218688",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1385.0,
           "merchant_name": "Olabtc",
           "completion_rate": 0.99,
-          "order_count": 7246,
+          "order_count": 7250,
           "min_limit": 50000.0,
-          "max_limit": 119115106.49,
-          "available": 86003.687,
+          "max_limit": 118625463.84,
+          "available": 85650.1544,
           "payment_methods": [],
           "adv_no": "2090773202592051200",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794335676.3863716,
+      "fetched_at": 1794335920.1056333,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
