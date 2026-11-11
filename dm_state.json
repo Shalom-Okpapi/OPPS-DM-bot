@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794417826.6156933,
+      "fetched_at": 1794418096.5199711,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1397.75,
-          "merchant_name": "Crespo1",
-          "completion_rate": 0.99,
-          "order_count": 36074,
-          "min_limit": 45000.0,
-          "max_limit": 50201197.49,
-          "available": 35915.7199,
+          "price": 1397.8,
+          "merchant_name": "Auwalrabiu",
+          "completion_rate": 1.0,
+          "order_count": 3383,
+          "min_limit": 50000.0,
+          "max_limit": 70206515.73,
+          "available": 50226.4385,
           "payment_methods": [],
-          "adv_no": "2003376763968552960",
+          "adv_no": "1931588456949760000",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794417827.6221993,
+      "fetched_at": 1794418095.5483205,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -267,8 +267,8 @@
           "completion_rate": 1.0,
           "order_count": 1118,
           "min_limit": 10.0,
-          "max_limit": 49924.073,
-          "available": 41603.3942,
+          "max_limit": 49950.473,
+          "available": 41625.3942,
           "payment_methods": [],
           "adv_no": "2034609609343692800",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -276,7 +276,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 0,
+  "consecutive_poll_failures": 1,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": null,
   "market_cache": {
