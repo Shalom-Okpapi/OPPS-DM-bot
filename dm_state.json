@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794416644.1399055,
+      "fetched_at": 1794416921.1434631,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1397.2,
-          "merchant_name": "Jpkolax",
-          "completion_rate": 0.99,
-          "order_count": 4701,
+          "price": 1397.7,
+          "merchant_name": "AYAGI_FX",
+          "completion_rate": 1.0,
+          "order_count": 979,
           "min_limit": 50000.0,
-          "max_limit": 14792438.77,
-          "available": 10587.2021,
+          "max_limit": 349538.07,
+          "available": 250.0809,
           "payment_methods": [],
-          "adv_no": "1791001198606667777",
+          "adv_no": "1874071619403055104",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794416645.0990717,
+      "fetched_at": 1794416923.4682937,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -276,7 +276,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 1,
+  "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": null,
   "market_cache": {
