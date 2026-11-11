@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794425071.7937946,
+      "fetched_at": 1794425632.7040105,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1398.0,
-          "merchant_name": "selflex",
+          "price": 1397.99,
+          "merchant_name": "Potencia-EXCH",
           "completion_rate": 0.96,
-          "order_count": 31,
-          "min_limit": 25000.0,
-          "max_limit": 61233.93,
-          "available": 43.8011,
+          "order_count": 61,
+          "min_limit": 50000.0,
+          "max_limit": 104761.31,
+          "available": 74.9371,
           "payment_methods": [],
-          "adv_no": "2000890633183678464",
+          "adv_no": "2120597738220388352",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 1428,
           "min_limit": 30000.0,
           "max_limit": 250000.0,
-          "available": 50000.0,
+          "available": 49969.4168,
           "payment_methods": [],
           "adv_no": "2120515530169315328",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794425070.6962924,
+      "fetched_at": 1794425631.7609534,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
