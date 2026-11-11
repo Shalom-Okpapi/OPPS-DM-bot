@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794404920.1011171,
+      "fetched_at": 1794405275.3846717,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1397.0,
-          "merchant_name": "Sandrin",
-          "completion_rate": 0.95,
-          "order_count": 404,
-          "min_limit": 4500.0,
-          "max_limit": 66093.32,
-          "available": 47.3109,
+          "price": 1399.99,
+          "merchant_name": "RAPIDCASH",
+          "completion_rate": 0.98,
+          "order_count": 739,
+          "min_limit": 50000.0,
+          "max_limit": 400000.0,
+          "available": 400.0,
           "payment_methods": [],
-          "adv_no": "2120505001294921728",
+          "adv_no": "2093630482139164672",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1395.59,
           "merchant_name": "danasabe",
           "completion_rate": 0.99,
-          "order_count": 4782,
+          "order_count": 4792,
           "min_limit": 50000.0,
-          "max_limit": 133129043.2,
-          "available": 95392.6606,
+          "max_limit": 132580976.03,
+          "available": 94999.947,
           "payment_methods": [],
           "adv_no": "2120468236276965376",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794404921.1917279,
+      "fetched_at": 1794405274.253212,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
