@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794417576.8243499,
+      "fetched_at": 1794417826.6156933,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1398.0,
-          "merchant_name": "Pezzy exchange",
+          "price": 1400.0,
+          "merchant_name": "Topdawghub",
           "completion_rate": 1.0,
-          "order_count": 49,
-          "min_limit": 50000.0,
-          "max_limit": 105154.76,
-          "available": 75.218,
+          "order_count": 22,
+          "min_limit": 5000.0,
+          "max_limit": 100000.0,
+          "available": 95.5205,
           "payment_methods": [],
-          "adv_no": "2078573328146821120",
+          "adv_no": "2117132420637515776",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1397.75,
           "merchant_name": "Crespo1",
           "completion_rate": 0.99,
-          "order_count": 36064,
+          "order_count": 36074,
           "min_limit": 45000.0,
-          "max_limit": 50774253.74,
-          "available": 36325.7047,
+          "max_limit": 50201197.49,
+          "available": 35915.7199,
           "payment_methods": [],
           "adv_no": "2003376763968552960",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794417577.6025012,
+      "fetched_at": 1794417827.6221993,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
