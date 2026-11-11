@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794418096.5199711,
+      "fetched_at": 1794418480.1503067,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,21 +68,21 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1397.8,
-          "merchant_name": "Auwalrabiu",
+          "price": 1397.89,
+          "merchant_name": "BRIGHTBOY_XCH",
           "completion_rate": 1.0,
-          "order_count": 3383,
+          "order_count": 18897,
           "min_limit": 50000.0,
-          "max_limit": 70206515.73,
-          "available": 50226.4385,
+          "max_limit": 69561873.33,
+          "available": 49762.0509,
           "payment_methods": [],
-          "adv_no": "1931588456949760000",
+          "adv_no": "1808972218652561408",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "EUR": {
-      "fetched_at": 1794414881.2534387,
+      "fetched_at": 1794418485.386343,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,10 +91,10 @@
           "price": 0.899,
           "merchant_name": "PhoenixEx2",
           "completion_rate": 0.99,
-          "order_count": 473,
+          "order_count": 475,
           "min_limit": 50.0,
-          "max_limit": 7156.617,
-          "available": 7960.6426,
+          "max_limit": 5256.617,
+          "available": 5847.1833,
           "payment_methods": [],
           "adv_no": "2057742907860910080",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -103,51 +103,48 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "EUR",
-          "price": 1.081,
-          "merchant_name": "BulkotBtc78",
-          "completion_rate": 1.0,
+          "price": 1.082,
+          "merchant_name": "CapTZionRevoluT",
+          "completion_rate": 0.95,
           "order_count": 20,
           "min_limit": 50.0,
-          "max_limit": 300.0,
-          "available": 17890.708,
+          "max_limit": 600.0,
+          "available": 8551.7346,
           "payment_methods": [],
-          "adv_no": "2120257884276760576",
+          "adv_no": "2066536134173278208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "JPY": {
-      "fetched_at": 1794414877.595065,
+      "fetched_at": 1794418481.3606284,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 179.5,
-          "merchant_name": "paypay-money-only",
-          "completion_rate": 0.995,
-          "order_count": 517,
-          "min_limit": 5000.0,
-          "max_limit": 30000.0,
-          "available": 156.88,
-          "payment_methods": [
-            "Bank Transfer",
-            "PayPay Money"
-          ],
-          "adv_no": "12947088534460157952",
-          "link": "https://c2c.binance.com/en/adv?code=12947088534460157952"
+          "price": 185.0,
+          "merchant_name": "Mian traders",
+          "completion_rate": 0.98,
+          "order_count": 244,
+          "min_limit": 2000.0,
+          "max_limit": 111837.77,
+          "available": 604.5285,
+          "payment_methods": [],
+          "adv_no": "2089522133877059584",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 158.0,
+          "price": 157.0,
           "merchant_name": "paypay-money-only",
           "completion_rate": 0.995,
-          "order_count": 517,
+          "order_count": 521,
           "min_limit": 5000.0,
-          "max_limit": 20000.0,
-          "available": 200.0,
+          "max_limit": 56416.0,
+          "available": 213.2,
           "payment_methods": [
             "PayPay Money"
           ],
@@ -157,13 +154,13 @@
       }
     },
     "CHF": {
-      "fetched_at": 1794414878.7350888,
+      "fetched_at": 1794418482.5300214,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.926,
+          "price": 0.928,
           "merchant_name": "dejuredefacto",
           "completion_rate": 1.0,
           "order_count": 47,
@@ -198,7 +195,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1794414879.9166932,
+      "fetched_at": 1794418483.7225997,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -207,7 +204,7 @@
           "price": 0.769,
           "merchant_name": "Angel1288",
           "completion_rate": 0.993,
-          "order_count": 271,
+          "order_count": 275,
           "min_limit": 5.0,
           "max_limit": 1400.0,
           "available": 800.0,
@@ -221,27 +218,23 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.791,
-          "merchant_name": "AjarTrades",
-          "completion_rate": 0.974,
-          "order_count": 258,
-          "min_limit": 15.0,
-          "max_limit": 2000.0,
-          "available": 3332.88,
+          "price": 0.754,
+          "merchant_name": "Sallam_96",
+          "completion_rate": 1.0,
+          "order_count": 63,
+          "min_limit": 20.0,
+          "max_limit": 500.0,
+          "available": 190.39,
           "payment_methods": [
-            "Bank Transfer",
-            "Lloyds Bank",
-            "Monzo",
-            "Starling Bank",
-            "Instant Transfer"
+            "Neteller"
           ],
-          "adv_no": "12934176131462402048",
-          "link": "https://c2c.binance.com/en/adv?code=12934176131462402048"
+          "adv_no": "12952146659403722752",
+          "link": "https://c2c.binance.com/en/adv?code=12952146659403722752"
         }
       }
     },
     "USD": {
-      "fetched_at": 1794418095.5483205,
+      "fetched_at": 1794418479.1139808,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -276,7 +269,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 1,
+  "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": null,
   "market_cache": {
