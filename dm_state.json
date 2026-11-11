@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794423519.8649411,
+      "fetched_at": 1794423938.9114401,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1397.0,
-          "merchant_name": "SmartSols",
-          "completion_rate": 0.97,
-          "order_count": 35,
-          "min_limit": 50000.0,
-          "max_limit": 50000.0,
-          "available": 38.8055,
+          "price": 1399.0,
+          "merchant_name": "UKASHA_MR",
+          "completion_rate": 1.0,
+          "order_count": 510,
+          "min_limit": 5000.0,
+          "max_limit": 64839.59,
+          "available": 46.3471,
           "payment_methods": [],
-          "adv_no": "2113999746620235776",
+          "adv_no": "1908644613605363712",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 1426,
           "min_limit": 30000.0,
           "max_limit": 150000.0,
-          "available": 50000.0,
+          "available": 49963.7269,
           "payment_methods": [],
           "adv_no": "2120515530169315328",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794423521.4521804,
+      "fetched_at": 1794423937.8776174,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
