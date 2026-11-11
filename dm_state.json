@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794378226.7924397,
+      "fetched_at": 1794378574.862611,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1391.22,
-          "merchant_name": "obsy20",
-          "completion_rate": 0.99,
-          "order_count": 15472,
+          "price": 1392.0,
+          "merchant_name": "kaapo",
+          "completion_rate": 1.0,
+          "order_count": 42,
           "min_limit": 5000.0,
-          "max_limit": 117780.54,
-          "available": 84.6599,
+          "max_limit": 50000.0,
+          "available": 104.4507,
           "payment_methods": [],
-          "adv_no": "2059540599427629056",
+          "adv_no": "2116302030609633280",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1385.75,
-          "merchant_name": "White-Angel01",
+          "price": 1385.64,
+          "merchant_name": "VisionHub",
           "completion_rate": 0.99,
-          "order_count": 3954,
+          "order_count": 14516,
           "min_limit": 50000.0,
-          "max_limit": 1163763.24,
-          "available": 839.8075,
+          "max_limit": 137000000.0,
+          "available": 100000.0,
           "payment_methods": [],
-          "adv_no": "1979970963343589376",
+          "adv_no": "1761755709580386304",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -228,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794378227.9097118,
+      "fetched_at": 1794378574.164046,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
