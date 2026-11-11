@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794402575.2850847,
+      "fetched_at": 1794402822.0260344,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1399.67,
-          "merchant_name": "GREENDIGPAY",
-          "completion_rate": 0.99,
-          "order_count": 1051,
-          "min_limit": 25000.0,
-          "max_limit": 162494.4,
-          "available": 116.0948,
+          "price": 1397.0,
+          "merchant_name": "Sandrin",
+          "completion_rate": 0.95,
+          "order_count": 356,
+          "min_limit": 4500.0,
+          "max_limit": 200000.0,
+          "available": 6866.8372,
           "payment_methods": [],
-          "adv_no": "2062081939874082816",
+          "adv_no": "2120505001294921728",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1393.7,
-          "merchant_name": "Wavers",
+          "price": 1393.8,
+          "merchant_name": "GoodFunds_Only",
           "completion_rate": 0.99,
-          "order_count": 6146,
-          "min_limit": 20000.0,
-          "max_limit": 2996455.0,
-          "available": 2150.0,
+          "order_count": 1083,
+          "min_limit": 40000.0,
+          "max_limit": 902733.31,
+          "available": 647.6778,
           "payment_methods": [],
-          "adv_no": "1860500483901325312",
+          "adv_no": "2112474176871251968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794402576.4978275,
+      "fetched_at": 1794402820.8743663,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
