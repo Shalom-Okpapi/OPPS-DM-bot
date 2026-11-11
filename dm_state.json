@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794371975.4429896,
+      "fetched_at": 1794372521.1098444,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1392.0,
-          "merchant_name": "HK_QUICKPAY",
+          "merchant_name": "kaapo",
           "completion_rate": 1.0,
-          "order_count": 977,
+          "order_count": 42,
           "min_limit": 5000.0,
           "max_limit": 50000.0,
-          "available": 329.2986,
+          "available": 108.0426,
           "payment_methods": [],
-          "adv_no": "2097684276205187072",
+          "adv_no": "2116302030609633280",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1386.79,
           "merchant_name": "MARK EXCHANGE",
           "completion_rate": 1.0,
-          "order_count": 635,
+          "order_count": 636,
           "min_limit": 50000.0,
           "max_limit": 264531.85,
           "available": 190.7512,
@@ -228,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794371974.4232373,
+      "fetched_at": 1794372520.0723357,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -250,14 +250,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Martak_xchange",
+          "merchant_name": "ADAM_EX_ENGIEER",
           "completion_rate": 1.0,
-          "order_count": 91,
-          "min_limit": 10.0,
-          "max_limit": 100000.0,
-          "available": 97994.8743,
+          "order_count": 351,
+          "min_limit": 5.0,
+          "max_limit": 50000.0,
+          "available": 99845.2087,
           "payment_methods": [],
-          "adv_no": "2088268071567122432",
+          "adv_no": "2039631087493136384",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
