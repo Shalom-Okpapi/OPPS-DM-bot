@@ -47,32 +47,32 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794435519.7432373,
+      "fetched_at": 1794435879.3110657,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1397.99,
-          "merchant_name": "JET%PAYMENT@",
-          "completion_rate": 0.99,
-          "order_count": 335,
-          "min_limit": 4500.0,
-          "max_limit": 51588.62,
-          "available": 36.902,
+          "price": 1399.0,
+          "merchant_name": "abumunaifah2",
+          "completion_rate": 0.96,
+          "order_count": 349,
+          "min_limit": 50000.0,
+          "max_limit": 97983.3,
+          "available": 70.0381,
           "payment_methods": [],
-          "adv_no": "2118405900156960768",
+          "adv_no": "2098301265117831168",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1396.0,
+          "price": 1393.5,
           "merchant_name": "ZaedouPay",
           "completion_rate": 1.0,
           "order_count": 22,
-          "min_limit": 20000.0,
+          "min_limit": 50000.0,
           "max_limit": 50000.0,
           "available": 20000.0,
           "payment_methods": [],
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794435520.8163269,
+      "fetched_at": 1794435880.2195256,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,8 +246,8 @@
           "completion_rate": 1.0,
           "order_count": 126,
           "min_limit": 2.0,
-          "max_limit": 86.068,
-          "available": 87.5574,
+          "max_limit": 59.068,
+          "available": 60.0904,
           "payment_methods": [],
           "adv_no": "2112194527989755904",
           "link": "https://www.bybit.com/fiat/trade/otc"
