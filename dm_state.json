@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794524519.8711243,
+      "fetched_at": 1794525064.0487847,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1405.9,
-          "merchant_name": "Iyeos1",
-          "completion_rate": 0.97,
-          "order_count": 893,
-          "min_limit": 50000.0,
-          "max_limit": 494917.71,
-          "available": 352.0291,
+          "price": 1404.5,
+          "merchant_name": "Zikconnect",
+          "completion_rate": 1.0,
+          "order_count": 298,
+          "min_limit": 30000.0,
+          "max_limit": 500000.0,
+          "available": 416.7197,
           "payment_methods": [],
-          "adv_no": "2049801154086170624",
+          "adv_no": "2031760777403531264",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794524518.7884655,
+      "fetched_at": 1794525065.1676004,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,14 +259,14 @@
           "trade_type": "SELL",
           "fiat": "USD",
           "price": 1.2,
-          "merchant_name": "Kartoshka",
+          "merchant_name": "\u211a\ud835\udd66\ud835\udd5a\ud835\udd54\ud835\udd5c-\ud835\udde7\ud835\udd94\ud835\udd95\u211d\ud835\udd52\ud835\udd65\ud835\udd56",
           "completion_rate": 1.0,
-          "order_count": 171,
-          "min_limit": 40.0,
-          "max_limit": 3500.0,
-          "available": 23015.5676,
+          "order_count": 271,
+          "min_limit": 20.0,
+          "max_limit": 50000.0,
+          "available": 86801.8863,
           "payment_methods": [],
-          "adv_no": "2020583953124225024",
+          "adv_no": "2011945667173421056",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
