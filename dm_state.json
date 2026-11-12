@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794457176.4946108,
+      "fetched_at": 1794457422.8676906,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1399.4,
-          "merchant_name": "ITX_AHMERDHY001",
+          "price": 1399.99,
+          "merchant_name": "JustDoz",
           "completion_rate": 1.0,
-          "order_count": 94,
-          "min_limit": 4500.0,
-          "max_limit": 138551.93,
-          "available": 99.0081,
+          "order_count": 338,
+          "min_limit": 30000.0,
+          "max_limit": 200000.0,
+          "available": 393.2093,
           "payment_methods": [],
-          "adv_no": "2120564381471272960",
+          "adv_no": "2065226539912429568",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.99,
           "order_count": 879,
           "min_limit": 50000.0,
-          "max_limit": 555217.84,
-          "available": 398.234,
+          "max_limit": 433837.39,
+          "available": 311.173,
           "payment_methods": [],
           "adv_no": "1924831508212830208",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794457175.1952457,
+      "fetched_at": 1794457424.034289,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -261,8 +261,8 @@
           "completion_rate": 1.0,
           "order_count": 1307,
           "min_limit": 20.0,
-          "max_limit": 88503.056,
-          "available": 73752.5474,
+          "max_limit": 88539.056,
+          "available": 73782.5474,
           "payment_methods": [],
           "adv_no": "2054009476309970944",
           "link": "https://www.bybit.com/fiat/trade/otc"
