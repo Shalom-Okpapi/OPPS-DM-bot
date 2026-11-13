@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794566076.5534446,
+      "fetched_at": 1794566320.0295334,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1405.99,
           "merchant_name": "ONYX4EVER",
           "completion_rate": 0.98,
-          "order_count": 934,
+          "order_count": 936,
           "min_limit": 4500.0,
           "max_limit": 650536.1,
           "available": 462.689,
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1794562645.3042183,
+      "fetched_at": 1794566324.6611307,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,12 +91,12 @@
           "price": 0.905,
           "merchant_name": "alvik",
           "completion_rate": 1.0,
-          "order_count": 7193,
-          "min_limit": 35.0,
-          "max_limit": 25511.421,
-          "available": 28189.4162,
+          "order_count": 7205,
+          "min_limit": 50.0,
+          "max_limit": 300.0,
+          "available": 33713.3218,
           "payment_methods": [],
-          "adv_no": "2015767511592116224",
+          "adv_no": "2038225274208436224",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1794562642.8793166,
+      "fetched_at": 1794566321.2254546,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -138,13 +138,13 @@
           "platform": "Binance",
           "trade_type": "SELL",
           "fiat": "JPY",
-          "price": 146.23,
+          "price": 148.01,
           "merchant_name": "Umi-chan-",
           "completion_rate": 0.988,
-          "order_count": 245,
+          "order_count": 247,
           "min_limit": 1000.0,
           "max_limit": 490000.0,
-          "available": 5079.67,
+          "available": 5071.67,
           "payment_methods": [
             "PayPay Money",
             "au PAY",
@@ -156,18 +156,18 @@
       }
     },
     "CHF": {
-      "fetched_at": 1794562643.633423,
+      "fetched_at": 1794566322.2355034,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.944,
+          "price": 0.949,
           "merchant_name": "dejuredefacto",
           "completion_rate": 1.0,
           "order_count": 61,
           "min_limit": 50.0,
-          "max_limit": 237.0,
+          "max_limit": 238.0,
           "available": 250.79,
           "payment_methods": [
             "Twint"
@@ -195,7 +195,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1794562644.4763482,
+      "fetched_at": 1794566323.4641523,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -219,7 +219,7 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.906,
+          "price": 0.907,
           "merchant_name": "Kineticxchange",
           "completion_rate": 0.95,
           "order_count": 46,
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794566077.6852677,
+      "fetched_at": 1794566318.6038263,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
