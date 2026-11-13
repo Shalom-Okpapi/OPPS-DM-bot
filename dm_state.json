@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794572076.205718,
+      "fetched_at": 1794572376.476749,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1413.0,
-          "merchant_name": "ANNUR_EMLANIS",
+          "price": 1412.8,
+          "merchant_name": "ViCrypt",
           "completion_rate": 1.0,
-          "order_count": 6623,
-          "min_limit": 4500.0,
-          "max_limit": 100000.0,
-          "available": 250.9875,
+          "order_count": 81,
+          "min_limit": 20000.0,
+          "max_limit": 136911.48,
+          "available": 96.9079,
           "payment_methods": [],
-          "adv_no": "2000244340755316736",
+          "adv_no": "1685017909589516288",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1410.81,
           "merchant_name": "Flavour",
           "completion_rate": 1.0,
-          "order_count": 150,
+          "order_count": 151,
           "min_limit": 50000.0,
           "max_limit": 800000.0,
-          "available": 1718.2558,
+          "available": 1679.2712,
           "payment_methods": [],
           "adv_no": "1954882681967665152",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794572077.4372225,
+      "fetched_at": 1794572377.6239865,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
