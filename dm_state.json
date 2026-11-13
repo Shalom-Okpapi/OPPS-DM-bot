@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794581326.12711,
+      "fetched_at": 1794581628.5180223,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1416.0,
-          "merchant_name": "Tochiba",
-          "completion_rate": 0.98,
-          "order_count": 72,
-          "min_limit": 35000.0,
-          "max_limit": 141184.54,
-          "available": 99.7066,
+          "price": 1416.8,
+          "merchant_name": "MARV_PAYS",
+          "completion_rate": 0.99,
+          "order_count": 40237,
+          "min_limit": 5000.0,
+          "max_limit": 100000.0,
+          "available": 1597.4326,
           "payment_methods": [],
-          "adv_no": "2064073290790121472",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1411.34,
-          "merchant_name": "BotPay",
+          "price": 1411.03,
+          "merchant_name": "TITAN-GROUP",
           "completion_rate": 1.0,
-          "order_count": 52,
-          "min_limit": 50000.0,
-          "max_limit": 2000000.0,
-          "available": 3580.4151,
+          "order_count": 501,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 48959.0961,
           "payment_methods": [],
-          "adv_no": "2067319004354084864",
+          "adv_no": "2120768547642253312",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794581327.3165855,
+      "fetched_at": 1794581629.5777922,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
