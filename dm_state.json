@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794597522.9684846,
+      "fetched_at": 1794597826.726423,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1406.5,
-          "merchant_name": "EMOCLOUD INTL",
-          "completion_rate": 1.0,
-          "order_count": 52,
-          "min_limit": 50000.0,
-          "max_limit": 168428.09,
-          "available": 119.7498,
+          "price": 1407.0,
+          "merchant_name": "O3ARENA-GROUP",
+          "completion_rate": 0.99,
+          "order_count": 102,
+          "min_limit": 10000.0,
+          "max_limit": 71757.0,
+          "available": 51.0,
           "payment_methods": [],
-          "adv_no": "1792814857297674240",
+          "adv_no": "2029927105914761216",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1401.5,
-          "merchant_name": "DonRIDEX",
+          "price": 1401.66,
+          "merchant_name": "MARK EXCHANGE",
           "completion_rate": 0.99,
-          "order_count": 17681,
+          "order_count": 803,
           "min_limit": 50000.0,
-          "max_limit": 137000000.0,
-          "available": 99876.4355,
+          "max_limit": 1889254.34,
+          "available": 1347.8692,
           "payment_methods": [],
-          "adv_no": "2049922506044801024",
+          "adv_no": "1838299217289146368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794597524.1612325,
+      "fetched_at": 1794597825.509026,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
