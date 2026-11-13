@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794554971.6930058,
+      "fetched_at": 1794555202.2896256,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1405.1,
-          "merchant_name": "expressfxtrade",
+          "price": 1409.0,
+          "merchant_name": "kaapo",
           "completion_rate": 1.0,
-          "order_count": 22,
-          "min_limit": 30000.0,
-          "max_limit": 77280.5,
-          "available": 55.0,
+          "order_count": 53,
+          "min_limit": 5000.0,
+          "max_limit": 50000.0,
+          "available": 66.9944,
           "payment_methods": [],
-          "adv_no": "2120494112230187008",
+          "adv_no": "2116302030609633280",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1405.21,
           "merchant_name": "keengdavid",
           "completion_rate": 0.98,
-          "order_count": 7072,
+          "order_count": 7074,
           "min_limit": 50000.0,
-          "max_limit": 97335958.68,
-          "available": 69267.9092,
+          "max_limit": 97161514.23,
+          "available": 69143.768,
           "payment_methods": [],
           "adv_no": "1967005452141383680",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794554972.560656,
+      "fetched_at": 1794555197.172835,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
