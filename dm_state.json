@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794585578.6299512,
+      "fetched_at": 1794585827.5312185,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -58,8 +58,8 @@
           "completion_rate": 0.97,
           "order_count": 40,
           "min_limit": 15000.0,
-          "max_limit": 294041.28,
-          "available": 208.0,
+          "max_limit": 254041.48,
+          "available": 179.7048,
           "payment_methods": [],
           "adv_no": "1791101454816104448",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1411.0,
-          "merchant_name": "GoodFunds_Only",
+          "price": 1411.3,
+          "merchant_name": "Bolla_DTL",
           "completion_rate": 0.99,
-          "order_count": 1094,
-          "min_limit": 30000.0,
-          "max_limit": 858899.82,
-          "available": 608.7171,
+          "order_count": 2480,
+          "min_limit": 50000.0,
+          "max_limit": 1000000.0,
+          "available": 1412.3597,
           "payment_methods": [],
-          "adv_no": "2112474176871251968",
+          "adv_no": "2096896840608903168",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794585577.382451,
+      "fetched_at": 1794585825.4847987,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,7 +259,7 @@
           "price": 1.2,
           "merchant_name": "ADAM_EX_ENGIEER",
           "completion_rate": 1.0,
-          "order_count": 407,
+          "order_count": 408,
           "min_limit": 5.0,
           "max_limit": 50000.0,
           "available": 99845.2087,
