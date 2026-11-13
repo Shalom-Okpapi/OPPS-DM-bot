@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794529727.7958107,
+      "fetched_at": 1794530076.8282046,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1407.3,
-          "merchant_name": "huric",
+          "price": 1406.0,
+          "merchant_name": "Alpha..Vault",
           "completion_rate": 1.0,
-          "order_count": 119,
-          "min_limit": 5000.0,
-          "max_limit": 10000000.0,
-          "available": 7498.1804,
+          "order_count": 28,
+          "min_limit": 4500.0,
+          "max_limit": 224310.99,
+          "available": 159.5384,
           "payment_methods": [],
-          "adv_no": "2104294837835337728",
+          "adv_no": "2121012866785583104",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 1180,
           "min_limit": 4500.0,
           "max_limit": 100000.0,
-          "available": 2025.6227,
+          "available": 2009.7995,
           "payment_methods": [],
           "adv_no": "2120799832905457664",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794529728.772043,
+      "fetched_at": 1794530078.170732,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
