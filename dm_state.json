@@ -47,18 +47,18 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794597201.085618,
+      "fetched_at": 1794597522.9684846,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1407.5,
+          "price": 1406.5,
           "merchant_name": "EMOCLOUD INTL",
           "completion_rate": 1.0,
           "order_count": 52,
           "min_limit": 50000.0,
-          "max_limit": 168547.84,
+          "max_limit": 168428.09,
           "available": 119.7498,
           "payment_methods": [],
           "adv_no": "1792814857297674240",
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1405.0,
-          "merchant_name": "Shparp-paymet",
-          "completion_rate": 1.0,
-          "order_count": 329,
-          "min_limit": 20000.0,
-          "max_limit": 50000.0,
-          "available": 49953.9101,
+          "price": 1401.5,
+          "merchant_name": "DonRIDEX",
+          "completion_rate": 0.99,
+          "order_count": 17681,
+          "min_limit": 50000.0,
+          "max_limit": 137000000.0,
+          "available": 99876.4355,
           "payment_methods": [],
-          "adv_no": "2021385620658200576",
+          "adv_no": "2049922506044801024",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794597200.070724,
+      "fetched_at": 1794597524.1612325,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
