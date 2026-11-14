@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794646722.2900088,
+      "fetched_at": 1794647023.3388603,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1407.0,
-          "merchant_name": "Cashswift",
+          "price": 1404.0,
+          "merchant_name": "Sedytech",
           "completion_rate": 1.0,
-          "order_count": 67,
-          "min_limit": 50000.0,
-          "max_limit": 58069.98,
-          "available": 41.2722,
+          "order_count": 125,
+          "min_limit": 20000.0,
+          "max_limit": 50000.0,
+          "available": 392.8775,
           "payment_methods": [],
-          "adv_no": "2105701647083823104",
+          "adv_no": "1866732268513189888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1403.5,
-          "merchant_name": "dammy exchange ",
-          "completion_rate": 0.95,
-          "order_count": 760,
+          "price": 1403.02,
+          "merchant_name": "odunexchange",
+          "completion_rate": 0.99,
+          "order_count": 9493,
           "min_limit": 50000.0,
-          "max_limit": 101958495.8,
-          "available": 72645.8823,
+          "max_limit": 133941799.57,
+          "available": 95466.7785,
           "payment_methods": [],
-          "adv_no": "2108444977898348544",
+          "adv_no": "2067934938584412160",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794646721.0988352,
+      "fetched_at": 1794647022.2179754,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
