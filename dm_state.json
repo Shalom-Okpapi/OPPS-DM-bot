@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794668078.54858,
+      "fetched_at": 1794668320.1364355,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1409.7,
-          "merchant_name": "Zikconnect",
+          "price": 1406.0,
+          "merchant_name": "EndowedTdx",
           "completion_rate": 1.0,
-          "order_count": 287,
-          "min_limit": 30000.0,
-          "max_limit": 500000.0,
-          "available": 464.2908,
+          "order_count": 66,
+          "min_limit": 50000.0,
+          "max_limit": 57646.14,
+          "available": 41.0001,
           "payment_methods": [],
-          "adv_no": "2031760777403531264",
+          "adv_no": "2121618735634161664",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1406.0,
           "merchant_name": "keengdavid",
           "completion_rate": 0.98,
-          "order_count": 7294,
+          "order_count": 7297,
           "min_limit": 50000.0,
-          "max_limit": 39856778.6,
-          "available": 28347.6377,
+          "max_limit": 39572160.47,
+          "available": 28145.2066,
           "payment_methods": [],
           "adv_no": "1967005452141383680",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794668077.7914953,
+      "fetched_at": 1794668318.2950523,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
