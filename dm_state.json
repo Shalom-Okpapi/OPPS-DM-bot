@@ -47,42 +47,42 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794737972.275899,
+      "fetched_at": 1794738276.578783,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1415.0,
-          "merchant_name": "ANNUR_EMLANIS",
-          "completion_rate": 1.0,
-          "order_count": 6353,
+          "merchant_name": "ITX_AHMERDHY001",
+          "completion_rate": 0.99,
+          "order_count": 322,
           "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 492.5008,
+          "max_limit": 82583.07,
+          "available": 58.3626,
           "payment_methods": [],
-          "adv_no": "2000244340755316736",
+          "adv_no": "2120564381471272960",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1410.7,
-          "merchant_name": "AYOMIDE.",
-          "completion_rate": 0.96,
-          "order_count": 400,
+          "price": 1411.5,
+          "merchant_name": "keengdavid",
+          "completion_rate": 0.98,
+          "order_count": 7115,
           "min_limit": 50000.0,
-          "max_limit": 69000.0,
-          "available": 86130.1531,
+          "max_limit": 137000000.0,
+          "available": 98142.8817,
           "payment_methods": [],
-          "adv_no": "2078092912079605760",
+          "adv_no": "1967005452141383680",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "EUR": {
-      "fetched_at": 1794734379.0423412,
+      "fetched_at": 1794738043.2022302,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,7 +91,7 @@
           "price": 0.905,
           "merchant_name": "PhoenixEx2",
           "completion_rate": 0.99,
-          "order_count": 459,
+          "order_count": 460,
           "min_limit": 50.0,
           "max_limit": 2086.212,
           "available": 2305.2074,
@@ -109,7 +109,7 @@
           "order_count": 31,
           "min_limit": 50.0,
           "max_limit": 500.0,
-          "available": 1800.0,
+          "available": 1636.9486,
           "payment_methods": [],
           "adv_no": "2121180944984195072",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -117,7 +117,7 @@
       }
     },
     "JPY": {
-      "fetched_at": 1794734376.9143999,
+      "fetched_at": 1794738039.3595278,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -154,27 +154,27 @@
       }
     },
     "CHF": {
-      "fetched_at": 1794734377.626718,
+      "fetched_at": 1794738040.5893886,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "CHF",
-          "price": 0.996,
-          "merchant_name": "Helvetic",
-          "completion_rate": 0.96,
-          "order_count": 94,
-          "min_limit": 20.0,
-          "max_limit": 50000.0,
-          "available": 908.71,
+          "price": 0.963,
+          "merchant_name": "Best_Twint_Exchange",
+          "completion_rate": 0.996,
+          "order_count": 202,
+          "min_limit": 5.0,
+          "max_limit": 3000.0,
+          "available": 6911.46,
           "payment_methods": [
             "Instant Transfer",
-            "Twint",
             "Bank Transfer",
-            "Cash Deposit to Bank"
+            "Cash Deposit to Bank",
+            "Twint"
           ],
-          "adv_no": "13897218462356951040",
-          "link": "https://c2c.binance.com/en/adv?code=13897218462356951040"
+          "adv_no": "13894664478762012672",
+          "link": "https://c2c.binance.com/en/adv?code=13894664478762012672"
         },
         "sell": {
           "platform": "Binance",
@@ -198,7 +198,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1794734378.3551214,
+      "fetched_at": 1794738042.0988839,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794737973.1912901,
+      "fetched_at": 1794738277.8004317,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
