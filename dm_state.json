@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794726277.1660707,
+      "fetched_at": 1794726572.1508074,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1416.0,
-          "merchant_name": "CEPAYS",
-          "completion_rate": 0.95,
-          "order_count": 69,
-          "min_limit": 50000.0,
-          "max_limit": 303024.14,
-          "available": 214.0001,
+          "price": 1416.4,
+          "merchant_name": "IBROCKG",
+          "completion_rate": 1.0,
+          "order_count": 693,
+          "min_limit": 4500.0,
+          "max_limit": 200000.0,
+          "available": 215.7491,
           "payment_methods": [],
-          "adv_no": "1903751784915075072",
+          "adv_no": "2115388612473176064",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1411.56,
           "merchant_name": "MARK EXCHANGE",
           "completion_rate": 0.99,
-          "order_count": 919,
+          "order_count": 920,
           "min_limit": 50000.0,
           "max_limit": 1289300.55,
           "available": 913.387,
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794726276.0817628,
+      "fetched_at": 1794726571.071584,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
