@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794703170.2819724,
+      "fetched_at": 1794703477.8940961,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1413.0,
-          "merchant_name": "EMOCLOUD INTL",
-          "completion_rate": 1.0,
-          "order_count": 57,
-          "min_limit": 50000.0,
-          "max_limit": 73300.36,
-          "available": 51.8757,
+          "price": 1412.99,
+          "merchant_name": "GoldenXchange",
+          "completion_rate": 0.98,
+          "order_count": 199,
+          "min_limit": 10000.0,
+          "max_limit": 200000.0,
+          "available": 348.381,
           "payment_methods": [],
-          "adv_no": "1792814857297674240",
+          "adv_no": "1964190593967955968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1408.5,
           "merchant_name": "laminboi",
           "completion_rate": 0.99,
-          "order_count": 11367,
+          "order_count": 11372,
           "min_limit": 50000.0,
-          "max_limit": 124448862.03,
-          "available": 88355.5996,
+          "max_limit": 124181812.26,
+          "available": 88166.0009,
           "payment_methods": [],
           "adv_no": "2106024709478080512",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -253,7 +253,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794703171.1321561,
+      "fetched_at": 1794703476.7598774,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
