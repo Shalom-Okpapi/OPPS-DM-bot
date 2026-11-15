@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794733477.4026928,
+      "fetched_at": 1794733779.268067,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1414.7,
-          "merchant_name": "Dominicity ",
-          "completion_rate": 1.0,
-          "order_count": 77,
-          "min_limit": 5000.0,
-          "max_limit": 2358015.02,
-          "available": 1666.7951,
+          "price": 1414.0,
+          "merchant_name": "bookxy_FX",
+          "completion_rate": 0.99,
+          "order_count": 485,
+          "min_limit": 4500.0,
+          "max_limit": 785196.46,
+          "available": 555.3016,
           "payment_methods": [],
-          "adv_no": "1841423272442908672",
+          "adv_no": "2121890083960225792",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.97,
           "order_count": 94,
           "min_limit": 50000.0,
-          "max_limit": 705495.0,
-          "available": 500.0,
+          "max_limit": 635711.8,
+          "available": 450.5431,
           "payment_methods": [],
           "adv_no": "2121305906869141504",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794733478.6657662,
+      "fetched_at": 1794733779.999135,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
