@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794735222.963157,
+      "fetched_at": 1794735574.9823997,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1413.27,
-          "merchant_name": "GREENDIGPAY",
-          "completion_rate": 0.99,
-          "order_count": 1105,
-          "min_limit": 25000.0,
-          "max_limit": 300000.0,
-          "available": 435.0,
+          "price": 1415.0,
+          "merchant_name": "ANNUR_EMLANIS",
+          "completion_rate": 1.0,
+          "order_count": 6338,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 544.0201,
           "payment_methods": [],
-          "adv_no": "2062081939874082816",
+          "adv_no": "2000244340755316736",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1411.0,
-          "merchant_name": "Daddyo.exchange",
+          "price": 1411.8,
+          "merchant_name": "Avin_trader(s)",
           "completion_rate": 0.95,
-          "order_count": 94,
-          "min_limit": 4500.0,
-          "max_limit": 2095335.0,
-          "available": 1485.0,
+          "order_count": 262,
+          "min_limit": 50000.0,
+          "max_limit": 199867.82,
+          "available": 141.5695,
           "payment_methods": [],
-          "adv_no": "2121897399726743552",
+          "adv_no": "1999865310968676352",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794735221.437376,
+      "fetched_at": 1794735574.2147136,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
