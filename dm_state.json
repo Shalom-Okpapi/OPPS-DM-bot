@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794805118.0099044,
+      "fetched_at": 1794805479.5207996,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1413.0,
-          "merchant_name": "MIRA COLLECTION",
-          "completion_rate": 0.98,
-          "order_count": 1184,
-          "min_limit": 15000.0,
+          "price": 1410.31,
+          "merchant_name": "MONTANAOF",
+          "completion_rate": 0.95,
+          "order_count": 45,
+          "min_limit": 4500.0,
           "max_limit": 50000.0,
-          "available": 797.1442,
+          "available": 278.9326,
           "payment_methods": [],
-          "adv_no": "1856324911855902720",
+          "adv_no": "2122183688517120000",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.99,
           "order_count": 964,
           "min_limit": 50000.0,
-          "max_limit": 704815.0,
-          "available": 500.0,
+          "max_limit": 654815.0,
+          "available": 464.5297,
           "payment_methods": [],
           "adv_no": "1838299217289146368",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794805117.1885233,
+      "fetched_at": 1794805478.3014884,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -252,7 +252,7 @@
           "order_count": 1234,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 17332.3357,
+          "available": 17321.2247,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
