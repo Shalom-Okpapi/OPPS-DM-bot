@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794834276.8343527,
+      "fetched_at": 1794834521.9638615,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1424.2,
-          "merchant_name": "Zikconnect",
+          "price": 1424.0,
+          "merchant_name": "Yucico",
           "completion_rate": 1.0,
-          "order_count": 280,
-          "min_limit": 30000.0,
-          "max_limit": 241359.88,
-          "available": 169.4705,
+          "order_count": 105,
+          "min_limit": 4500.0,
+          "max_limit": 71566.68,
+          "available": 50.2575,
           "payment_methods": [],
-          "adv_no": "2031760777403531264",
+          "adv_no": "2055651366453243904",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1420.0,
           "merchant_name": "keengdavid",
           "completion_rate": 0.98,
-          "order_count": 7313,
+          "order_count": 7325,
           "min_limit": 50000.0,
-          "max_limit": 31605431.74,
-          "available": 22257.3463,
+          "max_limit": 30613498.55,
+          "available": 21558.8018,
           "payment_methods": [],
           "adv_no": "1967005452141383680",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794834278.67147,
+      "fetched_at": 1794834521.1111605,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
