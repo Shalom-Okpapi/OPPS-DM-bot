@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794805479.5207996,
+      "fetched_at": 1794805723.1124065,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1410.31,
-          "merchant_name": "MONTANAOF",
-          "completion_rate": 0.95,
-          "order_count": 45,
-          "min_limit": 4500.0,
+          "price": 1413.0,
+          "merchant_name": "MIRA COLLECTION",
+          "completion_rate": 0.98,
+          "order_count": 1184,
+          "min_limit": 15000.0,
           "max_limit": 50000.0,
-          "available": 278.9326,
+          "available": 786.5285,
           "payment_methods": [],
-          "adv_no": "2122183688517120000",
+          "adv_no": "1856324911855902720",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1409.63,
           "merchant_name": "MARK EXCHANGE",
           "completion_rate": 0.99,
-          "order_count": 964,
+          "order_count": 965,
           "min_limit": 50000.0,
-          "max_limit": 654815.0,
-          "available": 464.5297,
+          "max_limit": 574815.11,
+          "available": 407.7773,
           "payment_methods": [],
           "adv_no": "1838299217289146368",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794805478.3014884,
+      "fetched_at": 1794805724.076781,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -249,7 +249,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 1.0,
-          "order_count": 1234,
+          "order_count": 1236,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 17321.2247,
