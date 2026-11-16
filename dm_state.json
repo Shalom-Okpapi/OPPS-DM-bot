@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794847781.9160845,
+      "fetched_at": 1794848024.520962,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1425.5,
-          "merchant_name": "Faster@olason",
+          "price": 1425.0,
+          "merchant_name": "Abiolaxchange",
           "completion_rate": 1.0,
-          "order_count": 41,
-          "min_limit": 4500.0,
-          "max_limit": 114040.0,
-          "available": 80.0,
+          "order_count": 63,
+          "min_limit": 30000.0,
+          "max_limit": 250000.0,
+          "available": 428.98,
           "payment_methods": [],
-          "adv_no": "2015303588283719680",
+          "adv_no": "2121363621388328960",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1423.84,
-          "merchant_name": "BRIGHTBOY_XCH",
-          "completion_rate": 1.0,
-          "order_count": 19047,
-          "min_limit": 50000.0,
-          "max_limit": 124210377.62,
-          "available": 87236.1906,
+          "price": 1422.05,
+          "merchant_name": "5STAR_GENERAL",
+          "completion_rate": 0.99,
+          "order_count": 648,
+          "min_limit": 5000.0,
+          "max_limit": 500000.0,
+          "available": 48952.6037,
           "payment_methods": [],
-          "adv_no": "1808972218652561408",
+          "adv_no": "1828924729667497984",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794847780.9104211,
+      "fetched_at": 1794848025.5036106,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
