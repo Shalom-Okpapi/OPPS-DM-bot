@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794871722.4577844,
+      "fetched_at": 1794872089.024822,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1425.99,
-          "merchant_name": "DG HUB",
+          "price": 1427.0,
+          "merchant_name": "Abk_exchange",
           "completion_rate": 1.0,
-          "order_count": 29,
-          "min_limit": 10000.0,
-          "max_limit": 73630.85,
-          "available": 51.6349,
+          "order_count": 100,
+          "min_limit": 5000.0,
+          "max_limit": 50000.0,
+          "available": 224.5758,
           "payment_methods": [],
-          "adv_no": "1788577954890608640",
+          "adv_no": "2116669391038963712",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1422.15,
-          "merchant_name": "Quickdeals",
-          "completion_rate": 0.97,
-          "order_count": 33,
-          "min_limit": 50000.0,
-          "max_limit": 900000.0,
-          "available": 19389.2147,
+          "price": 1422.0,
+          "merchant_name": "ForbesEmpire-2",
+          "completion_rate": 0.98,
+          "order_count": 2079,
+          "min_limit": 5000.0,
+          "max_limit": 200000.0,
+          "available": 3047.2375,
           "payment_methods": [],
-          "adv_no": "2122361644529762304",
+          "adv_no": "1987253163425730560",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794871721.320432,
+      "fetched_at": 1794872089.7808974,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
