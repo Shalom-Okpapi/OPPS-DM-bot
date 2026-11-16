@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794862176.2561045,
+      "fetched_at": 1794862475.13101,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1425.0,
-          "merchant_name": "Yucico",
+          "merchant_name": "easywaytraders",
           "completion_rate": 1.0,
-          "order_count": 107,
-          "min_limit": 4500.0,
-          "max_limit": 85500.0,
-          "available": 60.0,
+          "order_count": 35,
+          "min_limit": 50000.0,
+          "max_limit": 120581.93,
+          "available": 84.6189,
           "payment_methods": [],
-          "adv_no": "2055651366453243904",
+          "adv_no": "2122424133078499328",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1421.67,
           "merchant_name": "MARK EXCHANGE",
           "completion_rate": 0.99,
-          "order_count": 1037,
+          "order_count": 1038,
           "min_limit": 50000.0,
-          "max_limit": 149165.73,
-          "available": 104.9229,
+          "max_limit": 92130.89,
+          "available": 64.8047,
           "payment_methods": [],
           "adv_no": "1838299217289146368",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794862177.7554002,
+      "fetched_at": 1794862474.2255447,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,8 +259,8 @@
           "completion_rate": 1.0,
           "order_count": 1092,
           "min_limit": 10.0,
-          "max_limit": 39177.279,
-          "available": 32647.733,
+          "max_limit": 39240.243,
+          "available": 32700.2033,
           "payment_methods": [],
           "adv_no": "2034609609343692800",
           "link": "https://www.bybit.com/fiat/trade/otc"
