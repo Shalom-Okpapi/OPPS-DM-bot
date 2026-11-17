@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794940720.3591993,
+      "fetched_at": 1794941076.1273026,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1439.9,
-          "merchant_name": "Oiler",
-          "completion_rate": 0.97,
-          "order_count": 1010,
-          "min_limit": 50000.0,
-          "max_limit": 234423.35,
-          "available": 162.8053,
+          "price": 1440.0,
+          "merchant_name": "NyxR",
+          "completion_rate": 0.96,
+          "order_count": 474,
+          "min_limit": 4500.0,
+          "max_limit": 200000.0,
+          "available": 1392.779,
           "payment_methods": [],
-          "adv_no": "2049801154086170624",
+          "adv_no": "2052248204014907392",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 109,
           "min_limit": 5000.0,
           "max_limit": 100000.0,
-          "available": 549.4578,
+          "available": 539.4578,
           "payment_methods": [],
           "adv_no": "2122307872110997504",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794940719.0920691,
+      "fetched_at": 1794941074.5305192,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,8 +243,8 @@
           "completion_rate": 1.0,
           "order_count": 121,
           "min_limit": 50.0,
-          "max_limit": 331.0,
-          "available": 413.75,
+          "max_limit": 281.0,
+          "available": 351.25,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
