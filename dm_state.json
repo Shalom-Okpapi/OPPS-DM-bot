@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794896324.3697627,
+      "fetched_at": 1794896677.914208,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1427.99,
-          "merchant_name": "fast(S)trade",
+          "price": 1427.0,
+          "merchant_name": "Kryptogenix",
           "completion_rate": 0.99,
-          "order_count": 665,
-          "min_limit": 50000.0,
-          "max_limit": 150000.0,
-          "available": 300.5533,
+          "order_count": 121,
+          "min_limit": 20000.0,
+          "max_limit": 109057.61,
+          "available": 76.4244,
           "payment_methods": [],
-          "adv_no": "2020797855124865024",
+          "adv_no": "1785203880432259072",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1424.0,
-          "merchant_name": "culsun",
-          "completion_rate": 1.0,
-          "order_count": 24,
-          "min_limit": 10000.0,
-          "max_limit": 350000.0,
-          "available": 282.1321,
+          "price": 1423.5,
+          "merchant_name": "Quickdeals",
+          "completion_rate": 0.97,
+          "order_count": 34,
+          "min_limit": 50000.0,
+          "max_limit": 1000000.0,
+          "available": 19230.4018,
           "payment_methods": [],
-          "adv_no": "2122390986316070912",
+          "adv_no": "2122361644529762304",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794896325.6796546,
+      "fetched_at": 1794896676.7951744,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
