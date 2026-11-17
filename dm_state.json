@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794947082.5061226,
+      "fetched_at": 1794947300.999956,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,21 +68,21 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1436.21,
-          "merchant_name": "ice_berg66",
-          "completion_rate": 1.0,
-          "order_count": 23356,
+          "price": 1438.0,
+          "merchant_name": "ChArAtY0O1_Fx",
+          "completion_rate": 0.96,
+          "order_count": 2581,
           "min_limit": 50000.0,
-          "max_limit": 134130054.96,
-          "available": 93391.6732,
+          "max_limit": 540941.51,
+          "available": 376.1763,
           "payment_methods": [],
-          "adv_no": "2053536343136202752",
+          "adv_no": "1969483387628609536",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "EUR": {
-      "fetched_at": 1794943572.20679,
+      "fetched_at": 1794947222.2643473,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,7 +91,7 @@
           "price": 0.905,
           "merchant_name": "PhoenixEx2",
           "completion_rate": 0.99,
-          "order_count": 462,
+          "order_count": 465,
           "min_limit": 50.0,
           "max_limit": 1476.462,
           "available": 1631.4507,
@@ -117,23 +117,9 @@
       }
     },
     "JPY": {
-      "fetched_at": 1794943568.4847345,
+      "fetched_at": 1794947219.3053122,
       "snapshot": {
-        "buy": {
-          "platform": "Bybit",
-          "trade_type": "BUY",
-          "fiat": "JPY",
-          "price": 184.98,
-          "merchant_name": "rsatang333",
-          "completion_rate": 1.0,
-          "order_count": 25,
-          "min_limit": 1900.0,
-          "max_limit": 19741.26,
-          "available": 106.7211,
-          "payment_methods": [],
-          "adv_no": "1859839001026985984",
-          "link": "https://www.bybit.com/fiat/trade/otc"
-        },
+        "buy": null,
         "sell": {
           "platform": "Binance",
           "trade_type": "SELL",
@@ -154,7 +140,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1794943569.7569244,
+      "fetched_at": 1794947220.2786624,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -163,10 +149,10 @@
           "price": 0.975,
           "merchant_name": "Best_Twint_Exchange",
           "completion_rate": 0.996,
-          "order_count": 213,
+          "order_count": 214,
           "min_limit": 5.0,
           "max_limit": 3000.0,
-          "available": 3475.75,
+          "available": 3460.37,
           "payment_methods": [
             "Instant Transfer",
             "Bank Transfer",
@@ -196,7 +182,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1794943570.9297512,
+      "fetched_at": 1794947221.2275534,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -205,10 +191,10 @@
           "price": 0.788,
           "merchant_name": "Sallam_96",
           "completion_rate": 1.0,
-          "order_count": 63,
+          "order_count": 64,
           "min_limit": 10.0,
           "max_limit": 500.0,
-          "available": 250.0,
+          "available": 237.0,
           "payment_methods": [
             "Neteller",
             "Skrill"
@@ -234,7 +220,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794947081.552395,
+      "fetched_at": 1794947300.0872238,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
