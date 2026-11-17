@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794923323.8372688,
+      "fetched_at": 1794923684.6226242,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1441.0,
-          "merchant_name": "Mhizstah_Store",
-          "completion_rate": 0.99,
-          "order_count": 4155,
-          "min_limit": 5000.0,
-          "max_limit": 350000.0,
-          "available": 786.576,
+          "price": 1439.5,
+          "merchant_name": "Migpluss",
+          "completion_rate": 0.97,
+          "order_count": 120,
+          "min_limit": 40000.0,
+          "max_limit": 71975.0,
+          "available": 50.0,
           "payment_methods": [],
-          "adv_no": "2049807479541198848",
+          "adv_no": "2117587008976285696",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1437.0,
           "merchant_name": "Shparp-paymet",
           "completion_rate": 1.0,
-          "order_count": 338,
+          "order_count": 339,
           "min_limit": 20000.0,
           "max_limit": 50000.0,
-          "available": 49947.7787,
+          "available": 49877.2723,
           "payment_methods": [],
           "adv_no": "2021385620658200576",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794923324.6102455,
+      "fetched_at": 1794923685.4111116,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
