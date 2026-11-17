@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794932622.4270797,
+      "fetched_at": 1794932948.6094582,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1438.99,
-          "merchant_name": "De_whine_me",
+          "price": 1439.0,
+          "merchant_name": "MuhdBashirAAG",
           "completion_rate": 0.98,
-          "order_count": 52,
-          "min_limit": 50000.0,
-          "max_limit": 78110.1,
-          "available": 54.2812,
+          "order_count": 77,
+          "min_limit": 20000.0,
+          "max_limit": 330200.13,
+          "available": 229.465,
           "payment_methods": [],
-          "adv_no": "2122628296603885568",
+          "adv_no": "1990089095569633280",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1437.0,
-          "merchant_name": "Florien",
-          "completion_rate": 0.98,
-          "order_count": 794,
-          "min_limit": 4500.0,
-          "max_limit": 100000.0,
-          "available": 4455.5508,
+          "price": 1436.0,
+          "merchant_name": "JAYBOI",
+          "completion_rate": 1.0,
+          "order_count": 37,
+          "min_limit": 20000.0,
+          "max_limit": 1256837.31,
+          "available": 875.2349,
           "payment_methods": [],
-          "adv_no": "2122725943765766144",
+          "adv_no": "2122237793380827136",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -229,7 +229,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794932623.6912303,
+      "fetched_at": 1794932947.442846,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -253,7 +253,7 @@
           "price": 1.2,
           "merchant_name": "\ud835\udc02\ud835\udc00\ud835\udc12\ud835\udc07\ud835\udc05\ud835\udc0b\ud835\udc0e\ud835\udc16_\ud835\udc04\ud835\udc17",
           "completion_rate": 1.0,
-          "order_count": 1089,
+          "order_count": 1090,
           "min_limit": 10.0,
           "max_limit": 37740.243,
           "available": 31450.2033,
@@ -264,7 +264,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 0,
+  "consecutive_poll_failures": 2,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": null,
   "market_cache": {
