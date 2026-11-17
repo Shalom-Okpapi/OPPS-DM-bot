@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794901171.0858865,
+      "fetched_at": 1794901421.3310175,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1429.6,
-          "merchant_name": "ViCrypt",
+          "price": 1429.0,
+          "merchant_name": "Abk_exchange",
           "completion_rate": 1.0,
-          "order_count": 92,
-          "min_limit": 20000.0,
-          "max_limit": 696486.96,
-          "available": 487.1901,
+          "order_count": 110,
+          "min_limit": 5000.0,
+          "max_limit": 50000.0,
+          "available": 1003.0747,
           "payment_methods": [],
-          "adv_no": "1685017909589516288",
+          "adv_no": "2116669391038963712",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794901172.2814705,
+      "fetched_at": 1794901422.8545718,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,7 +243,7 @@
           "order_count": 1247,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 22063.1527,
+          "available": 22053.021,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
