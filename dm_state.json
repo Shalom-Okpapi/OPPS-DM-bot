@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1794932948.6094582,
+      "fetched_at": 1794933229.2448275,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -58,8 +58,8 @@
           "completion_rate": 0.98,
           "order_count": 77,
           "min_limit": 20000.0,
-          "max_limit": 330200.13,
-          "available": 229.465,
+          "max_limit": 213250.15,
+          "available": 148.1933,
           "payment_methods": [],
           "adv_no": "1990089095569633280",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1436.0,
-          "merchant_name": "JAYBOI",
-          "completion_rate": 1.0,
-          "order_count": 37,
-          "min_limit": 20000.0,
-          "max_limit": 1256837.31,
-          "available": 875.2349,
+          "price": 1437.0,
+          "merchant_name": "Florien",
+          "completion_rate": 0.98,
+          "order_count": 818,
+          "min_limit": 4500.0,
+          "max_limit": 100000.0,
+          "available": 3958.6274,
           "payment_methods": [],
-          "adv_no": "2122237793380827136",
+          "adv_no": "2122725943765766144",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -229,7 +229,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1794932947.442846,
+      "fetched_at": 1794933228.0739543,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -264,7 +264,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 2,
+  "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": null,
   "market_cache": {
