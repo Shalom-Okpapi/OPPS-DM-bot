@@ -47,19 +47,19 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795029279.0355868,
+      "fetched_at": 1795029581.3279543,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1469.47,
+          "price": 1468.88,
           "merchant_name": "BLOCK_MERCHANT",
           "completion_rate": 1.0,
-          "order_count": 1159,
+          "order_count": 1161,
           "min_limit": 4500.0,
-          "max_limit": 1539303.03,
-          "available": 1047.5226,
+          "max_limit": 960810.12,
+          "available": 654.1107,
           "payment_methods": [],
           "adv_no": "2114043860647034880",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1467.0,
-          "merchant_name": "YarisExpressFX",
-          "completion_rate": 0.99,
-          "order_count": 335,
-          "min_limit": 50000.0,
-          "max_limit": 219400.11,
-          "available": 149.557,
+          "price": 1464.6,
+          "merchant_name": "EZEEXCHANGE",
+          "completion_rate": 0.98,
+          "order_count": 189,
+          "min_limit": 10000.0,
+          "max_limit": 694774.89,
+          "available": 474.3786,
           "payment_methods": [],
-          "adv_no": "2122638219621855232",
+          "adv_no": "2051226590603243520",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -239,7 +239,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795029277.179903,
+      "fetched_at": 1795029582.2637887,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
