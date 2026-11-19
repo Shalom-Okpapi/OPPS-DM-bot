@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795102783.7493086,
+      "fetched_at": 1795103021.6941476,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1441.9,
-          "merchant_name": "RIDOOSKI",
-          "completion_rate": 0.99,
-          "order_count": 434,
-          "min_limit": 4500.0,
-          "max_limit": 790305.82,
-          "available": 548.1003,
+          "price": 1441.0,
+          "merchant_name": "FXSPOT.org",
+          "completion_rate": 1.0,
+          "order_count": 94,
+          "min_limit": 5000.0,
+          "max_limit": 263443.76,
+          "available": 182.8201,
           "payment_methods": [],
-          "adv_no": "2062591626253799424",
+          "adv_no": "2070394340914896896",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.98,
           "order_count": 498,
           "min_limit": 30000.0,
-          "max_limit": 50331.51,
-          "available": 34.8315,
+          "max_limit": 120331.5,
+          "available": 83.2744,
           "payment_methods": [],
           "adv_no": "1939496342127960064",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795102782.5424433,
+      "fetched_at": 1795103020.7866914,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
