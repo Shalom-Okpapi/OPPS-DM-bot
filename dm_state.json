@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795107815.8195033,
+      "fetched_at": 1795108174.4150443,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1434.0,
-          "merchant_name": "SPEEDHUB_001",
-          "completion_rate": 1.0,
-          "order_count": 610,
-          "min_limit": 50000.0,
-          "max_limit": 300000.0,
-          "available": 225.0,
+          "price": 1433.0,
+          "merchant_name": "peter obi",
+          "completion_rate": 0.99,
+          "order_count": 9667,
+          "min_limit": 4500.0,
+          "max_limit": 200000.0,
+          "available": 3035.9447,
           "payment_methods": [],
-          "adv_no": "2121010593184628736",
+          "adv_no": "2024891343950655488",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.95,
           "order_count": 498,
           "min_limit": 30000.0,
-          "max_limit": 110609.98,
-          "available": 76.5467,
+          "max_limit": 178131.5,
+          "available": 123.2744,
           "payment_methods": [],
           "adv_no": "1939496342127960064",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795107817.3614314,
+      "fetched_at": 1795108175.9930575,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
