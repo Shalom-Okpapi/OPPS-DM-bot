@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795101276.5304275,
+      "fetched_at": 1795101579.5467517,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1445.9,
-          "merchant_name": "RIDOOSKI",
-          "completion_rate": 0.99,
-          "order_count": 423,
-          "min_limit": 4500.0,
-          "max_limit": 5371802.04,
-          "available": 3715.1961,
+          "price": 1445.3,
+          "merchant_name": "ODOFIN",
+          "completion_rate": 1.0,
+          "order_count": 280,
+          "min_limit": 50000.0,
+          "max_limit": 161994.71,
+          "available": 112.0838,
           "payment_methods": [],
-          "adv_no": "2062591626253799424",
+          "adv_no": "1969417435914362880",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795101275.3950012,
+      "fetched_at": 1795101578.2477024,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -266,8 +266,8 @@
           "completion_rate": 1.0,
           "order_count": 372,
           "min_limit": 30.0,
-          "max_limit": 88107.295,
-          "available": 73422.7463,
+          "max_limit": 88007.295,
+          "available": 73339.413,
           "payment_methods": [],
           "adv_no": "2029883488154591232",
           "link": "https://www.bybit.com/fiat/trade/otc"
