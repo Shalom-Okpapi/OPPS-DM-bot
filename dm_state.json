@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795083275.3661287,
+      "fetched_at": 1795083829.341232,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1468.0,
-          "merchant_name": "Peerswapxchange",
-          "completion_rate": 0.99,
-          "order_count": 397,
-          "min_limit": 20000.0,
-          "max_limit": 60000.0,
-          "available": 180.3775,
+          "merchant_name": "Abiolaxchange",
+          "completion_rate": 1.0,
+          "order_count": 78,
+          "min_limit": 30000.0,
+          "max_limit": 250000.0,
+          "available": 1166.7511,
           "payment_methods": [],
-          "adv_no": "2102011573542277120",
+          "adv_no": "2121363621388328960",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1464.5,
-          "merchant_name": "ForbesEmpire-2",
+          "price": 1464.6,
+          "merchant_name": "SOMICFUNDS",
           "completion_rate": 0.98,
-          "order_count": 2306,
-          "min_limit": 5000.0,
-          "max_limit": 200000.0,
-          "available": 1564.5443,
+          "order_count": 620,
+          "min_limit": 30000.0,
+          "max_limit": 65139.69,
+          "available": 44.4761,
           "payment_methods": [],
-          "adv_no": "1987253163425730560",
+          "adv_no": "2119774497811931136",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795083276.3268473,
+      "fetched_at": 1795083828.240839,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
