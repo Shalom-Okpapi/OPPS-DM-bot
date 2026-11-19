@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795104826.9781437,
+      "fetched_at": 1795105181.0785685,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1431.99,
-          "merchant_name": "VIVIDOCEAN",
-          "completion_rate": 0.99,
-          "order_count": 6932,
-          "min_limit": 4500.0,
-          "max_limit": 935747.75,
-          "available": 653.4597,
+          "price": 1433.0,
+          "merchant_name": "GMBrussian",
+          "completion_rate": 0.98,
+          "order_count": 436,
+          "min_limit": 20000.0,
+          "max_limit": 63413.83,
+          "available": 44.2525,
           "payment_methods": [],
-          "adv_no": "2116270104733601792",
+          "adv_no": "1850866260150796288",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.97,
           "order_count": 498,
           "min_limit": 30000.0,
-          "max_limit": 118131.64,
-          "available": 81.752,
+          "max_limit": 85331.58,
+          "available": 59.053,
           "payment_methods": [],
           "adv_no": "1939496342127960064",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795104825.724684,
+      "fetched_at": 1795105180.2123163,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
