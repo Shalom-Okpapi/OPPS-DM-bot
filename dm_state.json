@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795112625.2746742,
+      "fetched_at": 1795112975.6665807,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1434.99,
-          "merchant_name": "RIDOOSKI",
+          "price": 1434.0,
+          "merchant_name": "Unstopable",
           "completion_rate": 0.99,
-          "order_count": 443,
-          "min_limit": 4500.0,
-          "max_limit": 114000.05,
-          "available": 79.4431,
+          "order_count": 446,
+          "min_limit": 20000.0,
+          "max_limit": 50000.0,
+          "available": 89.519,
           "payment_methods": [],
-          "adv_no": "2062591626253799424",
+          "adv_no": "2121531305599188992",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1431.41,
-          "merchant_name": "G&GGLOBAL",
-          "completion_rate": 1.0,
-          "order_count": 9462,
-          "min_limit": 4500.0,
-          "max_limit": 137000000.0,
-          "available": 99138.3323,
+          "price": 1431.15,
+          "merchant_name": "FRISTECHFX",
+          "completion_rate": 0.99,
+          "order_count": 763,
+          "min_limit": 50000.0,
+          "max_limit": 7043155.56,
+          "available": 4921.3259,
           "payment_methods": [],
-          "adv_no": "2055625712164794368",
+          "adv_no": "1765487313643032576",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795112624.127955,
+      "fetched_at": 1795112974.739557,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
