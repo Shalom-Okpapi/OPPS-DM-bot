@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795216119.4309218,
+      "fetched_at": 1795216634.760643,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1443.97,
           "merchant_name": "TRIPPLE",
           "completion_rate": 1.0,
-          "order_count": 88,
+          "order_count": 90,
           "min_limit": 4500.0,
           "max_limit": 200000.0,
-          "available": 384.503,
+          "available": 336.8763,
           "payment_methods": [],
           "adv_no": "2061836335534936064",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -68,13 +68,13 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1440.92,
+          "price": 1440.46,
           "merchant_name": "MARK EXCHANGE",
           "completion_rate": 0.99,
-          "order_count": 1419,
+          "order_count": 1420,
           "min_limit": 50000.0,
-          "max_limit": 65489.52,
-          "available": 45.4498,
+          "max_limit": 576184.0,
+          "available": 400.0,
           "payment_methods": [],
           "adv_no": "1838299217289146368",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795216118.4248412,
+      "fetched_at": 1795216635.6800387,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -263,8 +263,8 @@
           "completion_rate": 1.0,
           "order_count": 381,
           "min_limit": 30.0,
-          "max_limit": 87494.295,
-          "available": 72911.913,
+          "max_limit": 87374.295,
+          "available": 72811.913,
           "payment_methods": [],
           "adv_no": "2029883488154591232",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -272,7 +272,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 110,
+  "consecutive_poll_failures": 116,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
     "at": 1795211585.6414843,
