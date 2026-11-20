@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795208684.1185055,
+      "fetched_at": 1795208979.3373144,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1443.99,
-          "merchant_name": "Lumipayy",
-          "completion_rate": 0.99,
-          "order_count": 404,
-          "min_limit": 4500.0,
-          "max_limit": 88581.99,
-          "available": 61.3453,
+          "price": 1443.0,
+          "merchant_name": "Avplus",
+          "completion_rate": 0.98,
+          "order_count": 343,
+          "min_limit": 10000.0,
+          "max_limit": 55039.48,
+          "available": 38.1424,
           "payment_methods": [],
-          "adv_no": "2121298199066550272",
+          "adv_no": "2123145050865610752",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1439.24,
           "merchant_name": "danasabe",
           "completion_rate": 0.99,
-          "order_count": 6032,
+          "order_count": 6034,
           "min_limit": 50000.0,
-          "max_limit": 131897609.95,
-          "available": 91643.9301,
+          "max_limit": 131324271.28,
+          "available": 91245.568,
           "payment_methods": [],
           "adv_no": "2120468236276965376",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -242,7 +242,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795208683.113731,
+      "fetched_at": 1795208978.4391506,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
