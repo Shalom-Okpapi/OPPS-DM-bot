@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795205371.4110107,
+      "fetched_at": 1795205672.269705,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1444.48,
-          "merchant_name": "Moony_Services",
-          "completion_rate": 1.0,
-          "order_count": 58,
-          "min_limit": 50000.0,
-          "max_limit": 384457.74,
-          "available": 266.1565,
+          "price": 1443.0,
+          "merchant_name": "Avplus",
+          "completion_rate": 0.98,
+          "order_count": 327,
+          "min_limit": 10000.0,
+          "max_limit": 70000.0,
+          "available": 72.3945,
           "payment_methods": [],
-          "adv_no": "2123866402127622144",
+          "adv_no": "2123145050865610752",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795205372.4459913,
+      "fetched_at": 1795205671.188255,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -244,10 +244,10 @@
           "price": 0.979,
           "merchant_name": "an.noor104",
           "completion_rate": 0.99,
-          "order_count": 7786,
+          "order_count": 7790,
           "min_limit": 20.0,
-          "max_limit": 2157.448,
-          "available": 2203.7264,
+          "max_limit": 2077.448,
+          "available": 2122.0104,
           "payment_methods": [],
           "adv_no": "2088352470604853248",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -259,7 +259,7 @@
           "price": 1.2,
           "merchant_name": "\ud835\udc02\ud835\udc00\ud835\udc12\ud835\udc07\ud835\udc05\ud835\udc0b\ud835\udc0e\ud835\udc16_\ud835\udc04\ud835\udc17",
           "completion_rate": 1.0,
-          "order_count": 1098,
+          "order_count": 1099,
           "min_limit": 10.0,
           "max_limit": 37129.214,
           "available": 30941.012,
@@ -270,12 +270,12 @@
       }
     }
   },
-  "consecutive_poll_failures": 1,
+  "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
-    "at": 1795122240.9954987,
+    "at": 1795205620.0501328,
     "target": "5503157793",
-    "reason": "network/request error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)"
+    "reason": "network/request error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   "market_cache": {
     "BTC": {
