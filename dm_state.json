@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795197612.4802701,
+      "fetched_at": 1795198211.3756142,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1440.0,
-          "merchant_name": "CEPAYS",
-          "completion_rate": 0.95,
-          "order_count": 70,
+          "price": 1438.99,
+          "merchant_name": "Realistic_XChan",
+          "completion_rate": 1.0,
+          "order_count": 27,
           "min_limit": 20000.0,
-          "max_limit": 84919.68,
-          "available": 58.972,
+          "max_limit": 50000.0,
+          "available": 111.0,
           "payment_methods": [],
-          "adv_no": "1903751784915075072",
+          "adv_no": "2123477556784594944",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795197613.576826,
+      "fetched_at": 1795198212.3780437,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
