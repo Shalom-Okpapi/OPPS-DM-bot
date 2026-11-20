@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795218517.5750475,
+      "fetched_at": 1795218895.7918134,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -58,8 +58,8 @@
           "completion_rate": 1.0,
           "order_count": 94,
           "min_limit": 4500.0,
-          "max_limit": 200000.0,
-          "available": 142.9627,
+          "max_limit": 189433.99,
+          "available": 131.1897,
           "payment_methods": [],
           "adv_no": "2061836335534936064",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1439.02,
-          "merchant_name": "Lekxy",
-          "completion_rate": 0.98,
-          "order_count": 10319,
+          "price": 1439.0,
+          "merchant_name": "Jpkolax",
+          "completion_rate": 0.99,
+          "order_count": 3548,
           "min_limit": 50000.0,
-          "max_limit": 6000000.0,
-          "available": 30405.1944,
+          "max_limit": 446553.64,
+          "available": 310.3222,
           "payment_methods": [],
-          "adv_no": "1839885205506179072",
+          "adv_no": "1791001198606667777",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -228,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795218518.7852705,
+      "fetched_at": 1795218896.7670105,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -263,7 +263,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 140,
+  "consecutive_poll_failures": 148,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
     "at": 1795211585.6414843,
