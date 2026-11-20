@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795205081.0365615,
+      "fetched_at": 1795205371.4110107,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,7 +56,7 @@
           "price": 1444.48,
           "merchant_name": "Moony_Services",
           "completion_rate": 1.0,
-          "order_count": 57,
+          "order_count": 58,
           "min_limit": 50000.0,
           "max_limit": 384457.74,
           "available": 266.1565,
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1438.12,
-          "merchant_name": "RealAJ",
-          "completion_rate": 0.99,
-          "order_count": 10656,
-          "min_limit": 50000.0,
-          "max_limit": 137000000.0,
-          "available": 98779.1271,
+          "price": 1440.0,
+          "merchant_name": "RoyalDeluxe",
+          "completion_rate": 0.98,
+          "order_count": 180,
+          "min_limit": 20000.0,
+          "max_limit": 299999.95,
+          "available": 208.3333,
           "payment_methods": [],
-          "adv_no": "2086068136727027712",
+          "adv_no": "1976754026570727424",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795205082.020539,
+      "fetched_at": 1795205372.4459913,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -244,7 +244,7 @@
           "price": 0.979,
           "merchant_name": "an.noor104",
           "completion_rate": 0.99,
-          "order_count": 7774,
+          "order_count": 7786,
           "min_limit": 20.0,
           "max_limit": 2157.448,
           "available": 2203.7264,
@@ -261,8 +261,8 @@
           "completion_rate": 1.0,
           "order_count": 1098,
           "min_limit": 10.0,
-          "max_limit": 37239.214,
-          "available": 31032.6786,
+          "max_limit": 37129.214,
+          "available": 30941.012,
           "payment_methods": [],
           "adv_no": "2034609609343692800",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -270,7 +270,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 0,
+  "consecutive_poll_failures": 1,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
     "at": 1795122240.9954987,
