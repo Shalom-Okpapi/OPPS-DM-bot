@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795213122.5424922,
+      "fetched_at": 1795213420.349612,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -71,10 +71,10 @@
           "price": 1440.65,
           "merchant_name": "MARK EXCHANGE",
           "completion_rate": 0.99,
-          "order_count": 1409,
+          "order_count": 1411,
           "min_limit": 50000.0,
-          "max_limit": 626035.89,
-          "available": 434.551,
+          "max_limit": 528071.69,
+          "available": 366.551,
           "payment_methods": [],
           "adv_no": "1838299217289146368",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795213121.850559,
+      "fetched_at": 1795213421.4871156,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -272,7 +272,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 44,
+  "consecutive_poll_failures": 50,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
     "at": 1795211585.6414843,
