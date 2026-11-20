@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795171472.9322448,
+      "fetched_at": 1795171778.5108185,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1439.0,
-          "merchant_name": "KENOTECH",
-          "completion_rate": 0.98,
-          "order_count": 98,
-          "min_limit": 20000.0,
-          "max_limit": 287800.0,
-          "available": 200.0,
+          "price": 1440.0,
+          "merchant_name": "AUL-BAWA-NGN",
+          "completion_rate": 1.0,
+          "order_count": 718,
+          "min_limit": 4500.0,
+          "max_limit": 121993.63,
+          "available": 84.7178,
           "payment_methods": [],
-          "adv_no": "2051038672215470080",
+          "adv_no": "2120350275236282368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1434.0,
-          "merchant_name": "GoodFunds_Only",
-          "completion_rate": 0.99,
-          "order_count": 740,
+          "price": 1433.06,
+          "merchant_name": "SOMICFUNDS",
+          "completion_rate": 0.98,
+          "order_count": 636,
           "min_limit": 30000.0,
-          "max_limit": 494940.79,
-          "available": 345.147,
+          "max_limit": 786462.03,
+          "available": 548.7991,
           "payment_methods": [],
-          "adv_no": "2112474176871251968",
+          "adv_no": "2119774497811931136",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795171473.9708242,
+      "fetched_at": 1795171779.559302,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
