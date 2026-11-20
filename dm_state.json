@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795158890.481169,
+      "fetched_at": 1795159176.3337364,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1445.0,
-          "merchant_name": "Good-Rate",
-          "completion_rate": 0.97,
-          "order_count": 1618,
-          "min_limit": 7000.0,
-          "max_limit": 50575.0,
-          "available": 35.0,
+          "price": 1450.0,
+          "merchant_name": "Legan_Xchange",
+          "completion_rate": 1.0,
+          "order_count": 87,
+          "min_limit": 4500.0,
+          "max_limit": 146592.24,
+          "available": 101.0981,
           "payment_methods": [],
-          "adv_no": "1815778800401137664",
+          "adv_no": "2116599051593764864",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1458.5,
-          "merchant_name": "BABTYXCHANGE",
-          "completion_rate": 1.0,
-          "order_count": 16237,
+          "price": 1446.79,
+          "merchant_name": "MARK EXCHANGE",
+          "completion_rate": 0.99,
+          "order_count": 1339,
           "min_limit": 50000.0,
-          "max_limit": 131567330.27,
-          "available": 90207.2885,
+          "max_limit": 2170185.0,
+          "available": 1500.0,
           "payment_methods": [],
-          "adv_no": "2092693023343009792",
+          "adv_no": "1838299217289146368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795158889.418816,
+      "fetched_at": 1795159177.2216902,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
