@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795185521.210655,
+      "fetched_at": 1795185879.1209207,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1440.99,
-          "merchant_name": "5STAR_GENERAL",
+          "price": 1440.5,
+          "merchant_name": "MARV_PAYS",
           "completion_rate": 0.99,
-          "order_count": 757,
+          "order_count": 44830,
           "min_limit": 5000.0,
-          "max_limit": 200000.0,
-          "available": 188.9315,
+          "max_limit": 100000.0,
+          "available": 962.8902,
           "payment_methods": [],
-          "adv_no": "1802679749538504704",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1435.5,
           "merchant_name": "GoodFunds_Only",
           "completion_rate": 0.99,
-          "order_count": 776,
+          "order_count": 777,
           "min_limit": 30000.0,
-          "max_limit": 83813.82,
-          "available": 58.3865,
+          "max_limit": 50696.83,
+          "available": 35.3165,
           "payment_methods": [],
           "adv_no": "2112474176871251968",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795185520.178636,
+      "fetched_at": 1795185878.0248914,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -242,7 +242,7 @@
           "order_count": 1295,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 29420.0275,
+          "available": 28770.0275,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -254,7 +254,7 @@
           "price": 1.2,
           "merchant_name": "\ud835\udc02\ud835\udc00\ud835\udc12\ud835\udc07\ud835\udc05\ud835\udc0b\ud835\udc0e\ud835\udc16_\ud835\udc04\ud835\udc17",
           "completion_rate": 1.0,
-          "order_count": 1095,
+          "order_count": 1096,
           "min_limit": 10.0,
           "max_limit": 37325.214,
           "available": 31104.3452,
