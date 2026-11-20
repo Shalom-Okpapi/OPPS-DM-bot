@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795218895.7918134,
+      "fetched_at": 1795219120.251561,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1439.0,
-          "merchant_name": "Jpkolax",
-          "completion_rate": 0.99,
-          "order_count": 3548,
+          "price": 1439.2,
+          "merchant_name": "dammy exchange ",
+          "completion_rate": 0.96,
+          "order_count": 613,
           "min_limit": 50000.0,
-          "max_limit": 446553.64,
-          "available": 310.3222,
+          "max_limit": 134096121.4,
+          "available": 93174.0699,
           "payment_methods": [],
-          "adv_no": "1791001198606667777",
+          "adv_no": "2108444977898348544",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -228,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795218896.7670105,
+      "fetched_at": 1795219119.5046985,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -263,7 +263,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 148,
+  "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
     "at": 1795211585.6414843,
