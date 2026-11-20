@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795173578.0269487,
+      "fetched_at": 1795173875.358145,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1437.5,
-          "merchant_name": "KENOTECH",
-          "completion_rate": 0.98,
-          "order_count": 100,
-          "min_limit": 20000.0,
-          "max_limit": 468131.36,
-          "available": 325.6566,
+          "price": 1438.0,
+          "merchant_name": "MARV_PAYS",
+          "completion_rate": 0.99,
+          "order_count": 44423,
+          "min_limit": 5000.0,
+          "max_limit": 100000.0,
+          "available": 996.5506,
           "payment_methods": [],
-          "adv_no": "2051038672215470080",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1432.15,
           "merchant_name": "GoodFunds_Only",
           "completion_rate": 0.99,
-          "order_count": 749,
+          "order_count": 752,
           "min_limit": 30000.0,
-          "max_limit": 141397.6,
-          "available": 98.731,
+          "max_limit": 56571.35,
+          "available": 39.501,
           "payment_methods": [],
           "adv_no": "2112474176871251968",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795173576.8975415,
+      "fetched_at": 1795173874.3732946,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,7 +246,7 @@
           "order_count": 1288,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 29222.3651,
+          "available": 29202.0606,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
