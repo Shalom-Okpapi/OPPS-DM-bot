@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795161273.6706977,
+      "fetched_at": 1795161573.875425,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1445.9,
-          "merchant_name": "RIDOOSKI",
-          "completion_rate": 0.99,
-          "order_count": 421,
-          "min_limit": 4500.0,
-          "max_limit": 151493.59,
-          "available": 104.7746,
+          "price": 1447.9,
+          "merchant_name": "Zikconnect",
+          "completion_rate": 1.0,
+          "order_count": 281,
+          "min_limit": 30000.0,
+          "max_limit": 500000.0,
+          "available": 347.7294,
           "payment_methods": [],
-          "adv_no": "2062591626253799424",
+          "adv_no": "2031760777403531264",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1441.79,
           "merchant_name": "MARK EXCHANGE",
           "completion_rate": 0.99,
-          "order_count": 1352,
+          "order_count": 1353,
           "min_limit": 50000.0,
           "max_limit": 178542.33,
           "available": 123.8338,
@@ -240,7 +240,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795161272.48443,
+      "fetched_at": 1795161574.850845,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
