@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795192424.447326,
+      "fetched_at": 1795192772.5077317,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1439.8,
-          "merchant_name": "SpearDong",
-          "completion_rate": 1.0,
-          "order_count": 278,
-          "min_limit": 40000.0,
-          "max_limit": 8559209.58,
-          "available": 5944.7212,
+          "price": 1442.0,
+          "merchant_name": "Oiler",
+          "completion_rate": 0.97,
+          "order_count": 999,
+          "min_limit": 50000.0,
+          "max_limit": 883144.68,
+          "available": 612.4443,
           "payment_methods": [],
-          "adv_no": "2060662706884902912",
+          "adv_no": "2049801154086170624",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.99,
           "order_count": 795,
           "min_limit": 30000.0,
-          "max_limit": 517591.73,
-          "available": 360.1891,
+          "max_limit": 116179.72,
+          "available": 80.8488,
           "payment_methods": [],
           "adv_no": "2112474176871251968",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795192425.462567,
+      "fetched_at": 1795192773.662853,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
