@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795181372.9989042,
+      "fetched_at": 1795181630.5180223,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1437.6,
-          "merchant_name": "RIDOOSKI",
-          "completion_rate": 0.99,
-          "order_count": 443,
-          "min_limit": 4500.0,
-          "max_limit": 50062.83,
-          "available": 34.8239,
+          "price": 1438.0,
+          "merchant_name": "CDMHub",
+          "completion_rate": 1.0,
+          "order_count": 32,
+          "min_limit": 10000.0,
+          "max_limit": 719000.0,
+          "available": 500.0,
           "payment_methods": [],
-          "adv_no": "2062591626253799424",
+          "adv_no": "2123771371412795392",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1433.51,
-          "merchant_name": "QUICKDEAL",
-          "completion_rate": 0.96,
-          "order_count": 145,
-          "min_limit": 50000.0,
-          "max_limit": 600000.0,
-          "available": 758.9599,
+          "price": 1433.52,
+          "merchant_name": "GoodFunds_Only",
+          "completion_rate": 0.99,
+          "order_count": 767,
+          "min_limit": 30000.0,
+          "max_limit": 627453.56,
+          "available": 437.7013,
           "payment_methods": [],
-          "adv_no": "2112210524905717760",
+          "adv_no": "2112474176871251968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795181374.5450153,
+      "fetched_at": 1795181629.2718043,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,7 +243,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 1.0,
-          "order_count": 1292,
+          "order_count": 1293,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 30426.6941,
