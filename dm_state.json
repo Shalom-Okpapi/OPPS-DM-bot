@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795212818.669304,
+      "fetched_at": 1795213122.5424922,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1442.99,
-          "merchant_name": "Realistic_XChan",
-          "completion_rate": 1.0,
-          "order_count": 48,
+          "price": 1443.5,
+          "merchant_name": "abumunaifah2",
+          "completion_rate": 0.96,
+          "order_count": 344,
           "min_limit": 50000.0,
-          "max_limit": 61263.87,
-          "available": 42.4562,
+          "max_limit": 170165.12,
+          "available": 117.8837,
           "payment_methods": [],
-          "adv_no": "2123477556784594944",
+          "adv_no": "2098301265117831168",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.99,
           "order_count": 1409,
           "min_limit": 50000.0,
-          "max_limit": 691512.0,
-          "available": 480.0,
+          "max_limit": 626035.89,
+          "available": 434.551,
           "payment_methods": [],
           "adv_no": "1838299217289146368",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795212819.6465893,
+      "fetched_at": 1795213121.850559,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -248,8 +248,8 @@
           "completion_rate": 0.99,
           "order_count": 7800,
           "min_limit": 20.0,
-          "max_limit": 2057.448,
-          "available": 2101.5814,
+          "max_limit": 2077.448,
+          "available": 2122.0104,
           "payment_methods": [],
           "adv_no": "2088352470604853248",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -272,7 +272,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 38,
+  "consecutive_poll_failures": 44,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
     "at": 1795211585.6414843,
