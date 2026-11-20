@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795181630.5180223,
+      "fetched_at": 1795181987.8094592,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1438.0,
-          "merchant_name": "CDMHub",
-          "completion_rate": 1.0,
-          "order_count": 32,
-          "min_limit": 10000.0,
-          "max_limit": 719000.0,
-          "available": 500.0,
+          "merchant_name": "Mekado83",
+          "completion_rate": 0.99,
+          "order_count": 804,
+          "min_limit": 5000.0,
+          "max_limit": 70878.44,
+          "available": 49.2896,
           "payment_methods": [],
-          "adv_no": "2123771371412795392",
+          "adv_no": "1773852845108088832",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.99,
           "order_count": 767,
           "min_limit": 30000.0,
-          "max_limit": 627453.56,
-          "available": 437.7013,
+          "max_limit": 559815.07,
+          "available": 390.5178,
           "payment_methods": [],
           "adv_no": "2112474176871251968",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -234,7 +234,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795181629.2718043,
+      "fetched_at": 1795181988.6827319,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
