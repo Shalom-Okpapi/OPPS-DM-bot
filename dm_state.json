@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795168720.1844127,
+      "fetched_at": 1795169025.2539613,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1441.0,
-          "merchant_name": "Hopetrade",
-          "completion_rate": 1.0,
-          "order_count": 601,
-          "min_limit": 5000.0,
-          "max_limit": 100000.0,
-          "available": 100.5871,
+          "merchant_name": "KENOTECH",
+          "completion_rate": 0.98,
+          "order_count": 98,
+          "min_limit": 50000.0,
+          "max_limit": 808401.0,
+          "available": 561.0,
           "payment_methods": [],
-          "adv_no": "2081075349460168704",
+          "adv_no": "2051038672215470080",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1433.0,
           "merchant_name": "Twillo",
           "completion_rate": 1.0,
-          "order_count": 172,
+          "order_count": 173,
           "min_limit": 20000.0,
           "max_limit": 200000.0,
           "available": 44069.9258,
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795168719.0674782,
+      "fetched_at": 1795169026.2162862,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
