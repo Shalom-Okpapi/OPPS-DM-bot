@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795218218.414256,
+      "fetched_at": 1795218517.5750475,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1440.01,
-          "merchant_name": "Uguru_Michael",
-          "completion_rate": 0.99,
-          "order_count": 21170,
+          "price": 1439.02,
+          "merchant_name": "Lekxy",
+          "completion_rate": 0.98,
+          "order_count": 10319,
           "min_limit": 50000.0,
-          "max_limit": 278691.32,
-          "available": 193.5343,
+          "max_limit": 6000000.0,
+          "available": 30405.1944,
           "payment_methods": [],
-          "adv_no": "1909593819274326016",
+          "adv_no": "1839885205506179072",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -228,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795218219.6876192,
+      "fetched_at": 1795218518.7852705,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -263,7 +263,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 134,
+  "consecutive_poll_failures": 140,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
     "at": 1795211585.6414843,
