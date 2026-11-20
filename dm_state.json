@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795211377.8794968,
+      "fetched_at": 1795211614.0629048,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1442.99,
-          "merchant_name": "Realistic_XChan",
+          "price": 1443.0,
+          "merchant_name": "OnlyWin",
           "completion_rate": 1.0,
-          "order_count": 48,
-          "min_limit": 50000.0,
-          "max_limit": 61263.87,
-          "available": 42.4562,
+          "order_count": 77,
+          "min_limit": 5000.0,
+          "max_limit": 57618.99,
+          "available": 39.93,
           "payment_methods": [],
-          "adv_no": "2123477556784594944",
+          "adv_no": "2067561735965552640",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 2353,
           "min_limit": 5000.0,
           "max_limit": 200000.0,
-          "available": 1000.0,
+          "available": 994.1667,
           "payment_methods": [],
           "adv_no": "1987253163425730560",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -237,7 +237,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795211378.7807758,
+      "fetched_at": 1795211612.732062,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -248,8 +248,8 @@
           "completion_rate": 0.99,
           "order_count": 7800,
           "min_limit": 20.0,
-          "max_limit": 2057.448,
-          "available": 2101.5814,
+          "max_limit": 1977.448,
+          "available": 2019.8654,
           "payment_methods": [],
           "adv_no": "2088352470604853248",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -272,12 +272,12 @@
       }
     }
   },
-  "consecutive_poll_failures": 0,
+  "consecutive_poll_failures": 6,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
-    "at": 1795205620.0501328,
+    "at": 1795211585.6414843,
     "target": "5503157793",
-    "reason": "network/request error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    "reason": "network/request error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)"
   },
   "market_cache": {
     "BTC": {
