@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795286921.989707,
+      "fetched_at": 1795287273.5052516,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1442.9,
-          "merchant_name": "MARV_PAYS",
-          "completion_rate": 0.99,
-          "order_count": 45530,
-          "min_limit": 5000.0,
-          "max_limit": 70889.53,
-          "available": 49.1299,
+          "price": 1443.0,
+          "merchant_name": "GMBrussian",
+          "completion_rate": 0.98,
+          "order_count": 392,
+          "min_limit": 20000.0,
+          "max_limit": 586989.88,
+          "available": 406.7844,
           "payment_methods": [],
-          "adv_no": "1767833474110619648",
+          "adv_no": "1850866260150796288",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1436.6,
           "merchant_name": "Legit_Exchanger",
           "completion_rate": 0.99,
-          "order_count": 24061,
+          "order_count": 24075,
           "min_limit": 50000.0,
-          "max_limit": 70279586.94,
-          "available": 48920.7761,
+          "max_limit": 68380050.78,
+          "available": 47598.5318,
           "payment_methods": [],
           "adv_no": "1952099511307350016",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -228,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795286921.018741,
+      "fetched_at": 1795287274.3017023,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -239,8 +239,8 @@
           "completion_rate": 1.0,
           "order_count": 132,
           "min_limit": 50.0,
-          "max_limit": 1092.888,
-          "available": 1366.1106,
+          "max_limit": 1142.888,
+          "available": 1428.6106,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
