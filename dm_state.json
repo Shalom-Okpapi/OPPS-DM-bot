@@ -47,33 +47,33 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795248824.1886048,
+      "fetched_at": 1795249174.26478,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1445.98,
-          "merchant_name": "Moony_Services",
-          "completion_rate": 1.0,
-          "order_count": 59,
+          "price": 1445.0,
+          "merchant_name": "MR_SAN",
+          "completion_rate": 0.99,
+          "order_count": 1230,
           "min_limit": 50000.0,
-          "max_limit": 147257.01,
-          "available": 101.8389,
+          "max_limit": 252682.52,
+          "available": 174.8668,
           "payment_methods": [],
-          "adv_no": "2123866402127622144",
+          "adv_no": "1920422851055570944",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1442.6,
+          "price": 1442.0,
           "merchant_name": "GoodFunds_Only",
           "completion_rate": 0.99,
-          "order_count": 784,
+          "order_count": 786,
           "min_limit": 30000.0,
-          "max_limit": 869163.32,
+          "max_limit": 868801.82,
           "available": 602.4978,
           "payment_methods": [],
           "adv_no": "2112474176871251968",
@@ -229,7 +229,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795248823.0077639,
+      "fetched_at": 1795249175.237537,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
