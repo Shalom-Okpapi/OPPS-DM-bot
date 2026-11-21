@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795245875.7705498,
+      "fetched_at": 1795246174.892332,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -74,7 +74,7 @@
           "order_count": 694,
           "min_limit": 50000.0,
           "max_limit": 89000.0,
-          "available": 73876.3237,
+          "available": 73831.1089,
           "payment_methods": [],
           "adv_no": "2078092912079605760",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1795242527.1044958,
+      "fetched_at": 1795246179.5961866,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,10 +91,10 @@
           "price": 0.911,
           "merchant_name": "Ozzyk",
           "completion_rate": 1.0,
-          "order_count": 1984,
+          "order_count": 1986,
           "min_limit": 50.0,
-          "max_limit": 2357.689,
-          "available": 2588.0238,
+          "max_limit": 573.4,
+          "available": 629.4185,
           "payment_methods": [],
           "adv_no": "2102702183497998336",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -104,20 +104,20 @@
           "trade_type": "SELL",
           "fiat": "EUR",
           "price": 1.093,
-          "merchant_name": "prolincryptic",
+          "merchant_name": "swiftpayment678",
           "completion_rate": 1.0,
-          "order_count": 34,
+          "order_count": 32,
           "min_limit": 50.0,
-          "max_limit": 100.0,
-          "available": 19771.0174,
+          "max_limit": 500.0,
+          "available": 13762.7075,
           "payment_methods": [],
-          "adv_no": "2123477828708622336",
+          "adv_no": "1994853582774751232",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "JPY": {
-      "fetched_at": 1795242523.5040526,
+      "fetched_at": 1795246176.729639,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -152,7 +152,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1795242525.1046286,
+      "fetched_at": 1795246177.6846814,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -191,7 +191,7 @@
       }
     },
     "GBP": {
-      "fetched_at": 1795242525.880206,
+      "fetched_at": 1795246178.649512,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -212,30 +212,24 @@
           "link": "https://c2c.binance.com/en/adv?code=12949127972586541056"
         },
         "sell": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.761,
-          "merchant_name": "BABGTTRADE",
-          "completion_rate": 0.976,
-          "order_count": 473,
-          "min_limit": 10.0,
-          "max_limit": 381.0,
-          "available": 15000.0,
-          "payment_methods": [
-            "Bank Transfer",
-            "Faster Payments",
-            "Monzo",
-            "Starling Bank",
-            "Lloyds Bank"
-          ],
-          "adv_no": "12934734069046452224",
-          "link": "https://c2c.binance.com/en/adv?code=12934734069046452224"
+          "price": 0.916,
+          "merchant_name": "Ironvest",
+          "completion_rate": 1.0,
+          "order_count": 27,
+          "min_limit": 30.0,
+          "max_limit": 200.0,
+          "available": 18662.2144,
+          "payment_methods": [],
+          "adv_no": "2121974138767253504",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "USD": {
-      "fetched_at": 1795245876.7581942,
+      "fetched_at": 1795246175.7632241,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -259,7 +253,7 @@
           "price": 1.2,
           "merchant_name": "ABnasReen\u2014Fx",
           "completion_rate": 1.0,
-          "order_count": 383,
+          "order_count": 384,
           "min_limit": 30.0,
           "max_limit": 84858.54,
           "available": 70715.4503,
