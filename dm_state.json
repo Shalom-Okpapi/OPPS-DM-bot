@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795230877.8333404,
+      "fetched_at": 1795231175.07157,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1439.01,
-          "merchant_name": "QUICKDEAL",
-          "completion_rate": 0.96,
-          "order_count": 155,
+          "price": 1439.75,
+          "merchant_name": "MARK EXCHANGE",
+          "completion_rate": 0.99,
+          "order_count": 1430,
           "min_limit": 50000.0,
-          "max_limit": 600000.0,
-          "available": 1000.0,
+          "max_limit": 287950.0,
+          "available": 200.0,
           "payment_methods": [],
-          "adv_no": "2112210524905717760",
+          "adv_no": "1838299217289146368",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795230877.0456812,
+      "fetched_at": 1795231173.9649107,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -245,10 +245,10 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 1.0,
-          "order_count": 1281,
+          "order_count": 1284,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 20029.0713,
+          "available": 20499.0713,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
