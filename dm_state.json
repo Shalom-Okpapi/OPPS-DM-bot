@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795281276.643548,
+      "fetched_at": 1795281575.2783659,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1439.5,
-          "merchant_name": "TCA",
-          "completion_rate": 0.98,
-          "order_count": 194,
+          "price": 1441.0,
+          "merchant_name": "AAACCESSORIES",
+          "completion_rate": 0.99,
+          "order_count": 670,
           "min_limit": 50000.0,
-          "max_limit": 115925.09,
-          "available": 80.5315,
+          "max_limit": 115767.77,
+          "available": 80.3385,
           "payment_methods": [],
-          "adv_no": "1993000987980554240",
+          "adv_no": "2063974971959504896",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1439.2,
           "merchant_name": "Twillo",
           "completion_rate": 1.0,
-          "order_count": 367,
+          "order_count": 369,
           "min_limit": 20000.0,
           "max_limit": 200000.0,
-          "available": 36895.4236,
+          "available": 36787.6208,
           "payment_methods": [],
           "adv_no": "2123065634919743488",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795281275.4020786,
+      "fetched_at": 1795281576.8237891,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
