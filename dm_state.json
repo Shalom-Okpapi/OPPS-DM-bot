@@ -47,10 +47,38 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795368820.7440033,
+      "fetched_at": 1795369172.5975754,
       "snapshot": {
-        "buy": null,
-        "sell": null
+        "buy": {
+          "platform": "Bybit",
+          "trade_type": "BUY",
+          "fiat": "NGN",
+          "price": 1444.25,
+          "merchant_name": "RIDOOSKI",
+          "completion_rate": 0.99,
+          "order_count": 494,
+          "min_limit": 4500.0,
+          "max_limit": 412717.97,
+          "available": 285.7663,
+          "payment_methods": [],
+          "adv_no": "2062591626253799424",
+          "link": "https://www.bybit.com/fiat/trade/otc"
+        },
+        "sell": {
+          "platform": "Bybit",
+          "trade_type": "SELL",
+          "fiat": "NGN",
+          "price": 1442.0,
+          "merchant_name": "Active_Ade",
+          "completion_rate": 0.95,
+          "order_count": 88,
+          "min_limit": 50000.0,
+          "max_limit": 9376846.39,
+          "available": 6502.6674,
+          "payment_methods": [],
+          "adv_no": "1830636219978100736",
+          "link": "https://www.bybit.com/fiat/trade/otc"
+        }
       }
     },
     "EUR": {
@@ -207,44 +235,37 @@
       }
     },
     "USD": {
-      "fetched_at": 1795368825.2090983,
+      "fetched_at": 1795369171.795734,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "USD",
-          "price": 1.0,
-          "merchant_name": "ONLY__",
-          "completion_rate": 0.968,
-          "order_count": 301,
+          "price": 0.8,
+          "merchant_name": "DagestanDentist",
+          "completion_rate": 1.0,
+          "order_count": 132,
           "min_limit": 50.0,
-          "max_limit": 15000.0,
-          "available": 2628.78,
-          "payment_methods": [
-            "Maybank",
-            "CIMB Niaga",
-            "Bank Transfer"
-          ],
-          "adv_no": "13952930463099424768",
-          "link": "https://c2c.binance.com/en/adv?code=13952930463099424768"
+          "max_limit": 775.015,
+          "available": 968.7693,
+          "payment_methods": [],
+          "adv_no": "1768869022963105792",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "USD",
-          "price": 1.1,
-          "merchant_name": "--FLASH--",
-          "completion_rate": 0.97,
-          "order_count": 4244,
-          "min_limit": 20.0,
-          "max_limit": 1000.0,
-          "available": 4714.62,
-          "payment_methods": [
-            "Banesco",
-            "Pago Movil"
-          ],
-          "adv_no": "12957571867080450048",
-          "link": "https://c2c.binance.com/en/adv?code=12957571867080450048"
+          "price": 1.2,
+          "merchant_name": "ABnasReen\u2014Fx",
+          "completion_rate": 1.0,
+          "order_count": 393,
+          "min_limit": 30.0,
+          "max_limit": 84508.54,
+          "available": 70423.7837,
+          "payment_methods": [],
+          "adv_no": "2029883488154591232",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     }
