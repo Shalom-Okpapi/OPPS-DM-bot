@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795388626.9326293,
+      "fetched_at": 1795388978.043672,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1444.0,
           "merchant_name": "Mhizstah_Store",
           "completion_rate": 0.99,
-          "order_count": 4621,
+          "order_count": 4625,
           "min_limit": 5000.0,
-          "max_limit": 350000.0,
-          "available": 251.0029,
+          "max_limit": 62448.23,
+          "available": 43.2467,
           "payment_methods": [],
           "adv_no": "2049807479541198848",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -71,10 +71,10 @@
           "price": 1439.5,
           "merchant_name": "danasabe",
           "completion_rate": 0.99,
-          "order_count": 6795,
+          "order_count": 6797,
           "min_limit": 50000.0,
-          "max_limit": 124364321.92,
-          "available": 86394.1104,
+          "max_limit": 124306348.79,
+          "available": 86353.8373,
           "payment_methods": [],
           "adv_no": "1777313503938510848",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -82,7 +82,7 @@
       }
     },
     "EUR": {
-      "fetched_at": 1795385219.6510875,
+      "fetched_at": 1795388819.80488,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -91,10 +91,10 @@
           "price": 0.911,
           "merchant_name": "Malwina",
           "completion_rate": 0.99,
-          "order_count": 11039,
+          "order_count": 11043,
           "min_limit": 7.5,
           "max_limit": 54.0,
-          "available": 1111.0,
+          "available": 888.6621,
           "payment_methods": [],
           "adv_no": "2116441001154232320",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -109,7 +109,7 @@
           "order_count": 30,
           "min_limit": 50.0,
           "max_limit": 559.0,
-          "available": 18740.351,
+          "available": 19000.0,
           "payment_methods": [],
           "adv_no": "2123827902756184064",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -117,24 +117,22 @@
       }
     },
     "JPY": {
-      "fetched_at": 1795385216.5653834,
+      "fetched_at": 1795388817.5144906,
       "snapshot": {
         "buy": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "JPY",
-          "price": 182.0,
-          "merchant_name": "Whitefx",
-          "completion_rate": 0.955,
-          "order_count": 125,
-          "min_limit": 4000.0,
-          "max_limit": 300000.0,
-          "available": 542.91,
-          "payment_methods": [
-            "Bank Transfer"
-          ],
-          "adv_no": "12942956883082321920",
-          "link": "https://c2c.binance.com/en/adv?code=12942956883082321920"
+          "price": 168.0,
+          "merchant_name": "WUN-USDT-STORE",
+          "completion_rate": 1.0,
+          "order_count": 272,
+          "min_limit": 1000.0,
+          "max_limit": 252024.12,
+          "available": 1500.1436,
+          "payment_methods": [],
+          "adv_no": "1568966526221668352",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Binance",
@@ -143,7 +141,7 @@
           "price": 158.0,
           "merchant_name": "paypay-money-only",
           "completion_rate": 0.998,
-          "order_count": 760,
+          "order_count": 764,
           "min_limit": 5000.0,
           "max_limit": 30000.0,
           "available": 190.0,
@@ -156,7 +154,7 @@
       }
     },
     "CHF": {
-      "fetched_at": 1795385217.6149597,
+      "fetched_at": 1795388818.252395,
       "snapshot": {
         "buy": {
           "platform": "Binance",
@@ -199,51 +197,44 @@
       }
     },
     "GBP": {
-      "fetched_at": 1795385218.655072,
+      "fetched_at": 1795388819.0624788,
       "snapshot": {
         "buy": {
           "platform": "Binance",
           "trade_type": "BUY",
           "fiat": "GBP",
-          "price": 0.778,
-          "merchant_name": "ezswap2025",
-          "completion_rate": 0.97,
-          "order_count": 97,
-          "min_limit": 10.0,
-          "max_limit": 2000.0,
-          "available": 9453.33,
+          "price": 0.799,
+          "merchant_name": "Angel1288",
+          "completion_rate": 0.988,
+          "order_count": 304,
+          "min_limit": 5.0,
+          "max_limit": 1400.0,
+          "available": 800.0,
           "payment_methods": [
-            "Alipay",
-            "ALIPAY"
+            "Alipay"
           ],
-          "adv_no": "12949127972586541056",
-          "link": "https://c2c.binance.com/en/adv?code=12949127972586541056"
+          "adv_no": "13918333397996154880",
+          "link": "https://c2c.binance.com/en/adv?code=13918333397996154880"
         },
         "sell": {
-          "platform": "Binance",
+          "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "GBP",
-          "price": 0.763,
-          "merchant_name": "BABGTTRADE",
-          "completion_rate": 0.976,
-          "order_count": 516,
+          "price": 0.75,
+          "merchant_name": "speed_volume",
+          "completion_rate": 0.99,
+          "order_count": 108,
           "min_limit": 10.0,
-          "max_limit": 381.0,
-          "available": 13209.96,
-          "payment_methods": [
-            "Bank Transfer",
-            "Faster Payments",
-            "Monzo",
-            "Starling Bank",
-            "Lloyds Bank"
-          ],
-          "adv_no": "12934734069046452224",
-          "link": "https://c2c.binance.com/en/adv?code=12934734069046452224"
+          "max_limit": 37500.0,
+          "available": 50000.0,
+          "payment_methods": [],
+          "adv_no": "2124523898843758592",
+          "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
     },
     "USD": {
-      "fetched_at": 1795388625.7349565,
+      "fetched_at": 1795388976.4579868,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
