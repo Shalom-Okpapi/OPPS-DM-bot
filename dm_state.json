@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795400387.5814183,
+      "fetched_at": 1795400675.762481,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1448.9,
-          "merchant_name": "IBROCKG",
-          "completion_rate": 1.0,
-          "order_count": 1488,
+          "price": 1449.0,
+          "merchant_name": "Alpha_Xchange",
+          "completion_rate": 0.99,
+          "order_count": 1673,
           "min_limit": 4500.0,
-          "max_limit": 200000.0,
-          "available": 1303.1318,
+          "max_limit": 663456.52,
+          "available": 457.872,
           "payment_methods": [],
-          "adv_no": "2115388612473176064",
+          "adv_no": "2121676543189860352",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -228,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795400386.7088106,
+      "fetched_at": 1795400674.5742762,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
