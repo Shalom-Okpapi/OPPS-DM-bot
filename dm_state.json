@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795419278.164781,
+      "fetched_at": 1795419574.5162954,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1449.0,
-          "merchant_name": "JONEX_NG",
+          "price": 1449.9,
+          "merchant_name": "Galadima_fx",
           "completion_rate": 0.99,
-          "order_count": 221,
-          "min_limit": 14440.0,
-          "max_limit": 50000.0,
-          "available": 170.4665,
+          "order_count": 633,
+          "min_limit": 5000.0,
+          "max_limit": 100000.0,
+          "available": 651.2048,
           "payment_methods": [],
-          "adv_no": "2124069486250438656",
+          "adv_no": "2065070639448502272",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -69,14 +69,14 @@
           "trade_type": "SELL",
           "fiat": "NGN",
           "price": 1447.0,
-          "merchant_name": "dammy exchange ",
-          "completion_rate": 0.97,
-          "order_count": 563,
+          "merchant_name": "Realistic_XChan",
+          "completion_rate": 0.96,
+          "order_count": 82,
           "min_limit": 50000.0,
-          "max_limit": 137000000.0,
-          "available": 96485.7503,
+          "max_limit": 50000.0,
+          "available": 200.0,
           "payment_methods": [],
-          "adv_no": "2124408438022275072",
+          "adv_no": "2124413544970985472",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795419277.2643564,
+      "fetched_at": 1795419575.6490092,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -242,7 +242,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 1.0,
-          "order_count": 1310,
+          "order_count": 1311,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 21674.0768,
