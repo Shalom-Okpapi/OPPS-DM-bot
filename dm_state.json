@@ -47,33 +47,33 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795447185.8611133,
+      "fetched_at": 1795447477.1276343,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1447.0,
-          "merchant_name": "Raymondtz",
-          "completion_rate": 1.0,
-          "order_count": 96,
+          "price": 1447.3,
+          "merchant_name": "GoldenXchange",
+          "completion_rate": 0.98,
+          "order_count": 209,
           "min_limit": 50000.0,
-          "max_limit": 51015.86,
-          "available": 35.2563,
+          "max_limit": 99252.79,
+          "available": 68.5779,
           "payment_methods": [],
-          "adv_no": "2120601179083350016",
+          "adv_no": "1964190593967955968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1448.1,
+          "price": 1447.1,
           "merchant_name": "GoodFunds_Only",
           "completion_rate": 0.99,
-          "order_count": 820,
+          "order_count": 821,
           "min_limit": 30000.0,
-          "max_limit": 1053313.76,
+          "max_limit": 1052586.38,
           "available": 727.3764,
           "payment_methods": [],
           "adv_no": "2112474176871251968",
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795447186.707252,
+      "fetched_at": 1795447476.0335588,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
