@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795410825.4063332,
+      "fetched_at": 1795411179.136291,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1447.0,
-          "merchant_name": "JONEX_NG",
-          "completion_rate": 0.99,
-          "order_count": 200,
-          "min_limit": 14440.0,
+          "price": 1442.0,
+          "merchant_name": "HK_QUICKPAY",
+          "completion_rate": 1.0,
+          "order_count": 901,
+          "min_limit": 10000.0,
           "max_limit": 50000.0,
-          "available": 334.5084,
+          "available": 344.5166,
           "payment_methods": [],
-          "adv_no": "2124069486250438656",
+          "adv_no": "2097684276205187072",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1443.76,
-          "merchant_name": "MARK EXCHANGE",
+          "price": 1445.15,
+          "merchant_name": "Warley12",
           "completion_rate": 0.99,
-          "order_count": 1503,
-          "min_limit": 50000.0,
-          "max_limit": 1414799.61,
-          "available": 979.941,
+          "order_count": 22906,
+          "min_limit": 4500.0,
+          "max_limit": 322975.85,
+          "available": 223.4895,
           "payment_methods": [],
-          "adv_no": "1838299217289146368",
+          "adv_no": "1887919426131365888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795410826.5932212,
+      "fetched_at": 1795411178.0667698,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
