@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795469685.607822,
+      "fetched_at": 1795469925.4799178,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1450.0,
-          "merchant_name": "JONEX_NG",
-          "completion_rate": 0.99,
-          "order_count": 259,
-          "min_limit": 14440.0,
+          "price": 1451.0,
+          "merchant_name": "Abk_exchange",
+          "completion_rate": 1.0,
+          "order_count": 163,
+          "min_limit": 5000.0,
           "max_limit": 50000.0,
-          "available": 88.0127,
+          "available": 445.731,
           "payment_methods": [],
-          "adv_no": "2124069486250438656",
+          "adv_no": "2116669391038963712",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795469686.509228,
+      "fetched_at": 1795469924.5576851,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
