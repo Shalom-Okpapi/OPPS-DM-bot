@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795453426.3094468,
+      "fetched_at": 1795453774.086314,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1445.13,
-          "merchant_name": "Mirasanders",
-          "completion_rate": 0.96,
-          "order_count": 104,
-          "min_limit": 50000.0,
-          "max_limit": 689616.03,
-          "available": 477.2,
+          "price": 1447.1,
+          "merchant_name": "GoodFunds_Only",
+          "completion_rate": 0.99,
+          "order_count": 828,
+          "min_limit": 30000.0,
+          "max_limit": 1157680.0,
+          "available": 800.0,
           "payment_methods": [],
-          "adv_no": "2124120830877380608",
+          "adv_no": "2112474176871251968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795453425.2149014,
+      "fetched_at": 1795453772.667279,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -246,8 +246,8 @@
           "completion_rate": 1.0,
           "order_count": 143,
           "min_limit": 50.0,
-          "max_limit": 944.748,
-          "available": 1180.9362,
+          "max_limit": 991.881,
+          "available": 1239.8521,
           "payment_methods": [],
           "adv_no": "1768869022963105792",
           "link": "https://www.bybit.com/fiat/trade/otc"
