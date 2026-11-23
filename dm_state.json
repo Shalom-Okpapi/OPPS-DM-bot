@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795402722.983502,
+      "fetched_at": 1795403076.0238361,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1449.0,
-          "merchant_name": "Triumphantly",
+          "price": 1448.99,
+          "merchant_name": "JustDoz",
           "completion_rate": 1.0,
-          "order_count": 158,
+          "order_count": 313,
           "min_limit": 4500.0,
-          "max_limit": 4311967.38,
-          "available": 2975.8229,
+          "max_limit": 200000.0,
+          "available": 384.1412,
           "payment_methods": [],
-          "adv_no": "2100861401472589824",
+          "adv_no": "2065226539912429568",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1443.88,
           "merchant_name": "MARK EXCHANGE",
           "completion_rate": 0.99,
-          "order_count": 1493,
+          "order_count": 1495,
           "min_limit": 50000.0,
-          "max_limit": 649746.0,
-          "available": 450.0,
+          "max_limit": 315747.1,
+          "available": 218.6796,
           "payment_methods": [],
           "adv_no": "1838299217289146368",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -228,7 +228,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795402722.0846684,
+      "fetched_at": 1795403077.0912845,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
