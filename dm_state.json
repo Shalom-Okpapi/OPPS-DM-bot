@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795530526.8618162,
+      "fetched_at": 1795530824.6874425,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -59,7 +59,7 @@
           "order_count": 139,
           "min_limit": 20000.0,
           "max_limit": 50000.0,
-          "available": 952.4357,
+          "available": 919.3324,
           "payment_methods": [],
           "adv_no": "2125230868070469632",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -71,7 +71,7 @@
           "price": 1450.0,
           "merchant_name": "JONEX_NG",
           "completion_rate": 0.99,
-          "order_count": 309,
+          "order_count": 310,
           "min_limit": 10000.0,
           "max_limit": 134577.25,
           "available": 92.8119,
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795530525.6080792,
+      "fetched_at": 1795530826.0029235,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -253,7 +253,7 @@
           "order_count": 1310,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 25405.3951,
+          "available": 25365.3951,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -276,7 +276,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 0,
+  "consecutive_poll_failures": 1,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
     "at": 1795211585.6414843,
