@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795503572.2324233,
+      "fetched_at": 1795503825.2932892,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -56,10 +56,10 @@
           "price": 1451.75,
           "merchant_name": "HK_QUICKPAY",
           "completion_rate": 1.0,
-          "order_count": 899,
+          "order_count": 900,
           "min_limit": 5000.0,
           "max_limit": 50000.0,
-          "available": 163.7533,
+          "available": 123.8017,
           "payment_methods": [],
           "adv_no": "2097684276205187072",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1450.6,
-          "merchant_name": "SOMICFUNDS",
-          "completion_rate": 0.98,
-          "order_count": 651,
-          "min_limit": 10000.0,
-          "max_limit": 81233.6,
-          "available": 56.0,
+          "price": 1450.55,
+          "merchant_name": "PRIME_PAY",
+          "completion_rate": 1.0,
+          "order_count": 597,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 47505.3716,
           "payment_methods": [],
-          "adv_no": "2119774497811931136",
+          "adv_no": "2120089003201503232",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795503573.3557565,
+      "fetched_at": 1795503826.5306423,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
