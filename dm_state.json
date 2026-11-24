@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795528175.3857648,
+      "fetched_at": 1795528424.937769,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1453.0,
-          "merchant_name": "AAACCESSORIES",
-          "completion_rate": 0.99,
-          "order_count": 664,
-          "min_limit": 50000.0,
-          "max_limit": 57670.0,
-          "available": 39.6903,
+          "price": 1453.72,
+          "merchant_name": "Mirasanders",
+          "completion_rate": 0.97,
+          "order_count": 134,
+          "min_limit": 4500.0,
+          "max_limit": 300000.0,
+          "available": 401.2827,
           "payment_methods": [],
-          "adv_no": "2063974971959504896",
+          "adv_no": "2123408864759578624",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1450.0,
           "merchant_name": "JONEX_NG",
           "completion_rate": 0.99,
-          "order_count": 306,
+          "order_count": 308,
           "min_limit": 10000.0,
-          "max_limit": 162332.72,
-          "available": 111.9536,
+          "max_limit": 150040.78,
+          "available": 103.4764,
           "payment_methods": [],
           "adv_no": "2124978891680931840",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795528174.6026764,
+      "fetched_at": 1795528426.1913195,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
