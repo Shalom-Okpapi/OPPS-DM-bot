@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795525481.9817846,
+      "fetched_at": 1795525700.6347885,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1452.99,
-          "merchant_name": "SNAP-PAY",
-          "completion_rate": 1.0,
-          "order_count": 29,
-          "min_limit": 50000.0,
-          "max_limit": 150000.0,
-          "available": 294.1518,
+          "price": 1452.4,
+          "merchant_name": "PETER-OBI",
+          "completion_rate": 0.99,
+          "order_count": 1375,
+          "min_limit": 40000.0,
+          "max_limit": 445555.21,
+          "available": 306.7717,
           "payment_methods": [],
-          "adv_no": "2125164781540397056",
+          "adv_no": "1885219115609796608",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1450.0,
           "merchant_name": "JONEX_NG",
           "completion_rate": 0.99,
-          "order_count": 300,
+          "order_count": 301,
           "min_limit": 10000.0,
           "max_limit": 360000.0,
           "available": 285.8093,
@@ -241,7 +241,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795525483.3198442,
+      "fetched_at": 1795525701.5474792,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -250,7 +250,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 1.0,
-          "order_count": 1308,
+          "order_count": 1309,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 25409.8395,
