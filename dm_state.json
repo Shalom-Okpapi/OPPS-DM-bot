@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795553671.7340298,
+      "fetched_at": 1795553919.771616,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1441.0,
-          "merchant_name": "MACHUA_B",
-          "completion_rate": 0.97,
-          "order_count": 258,
-          "min_limit": 50000.0,
-          "max_limit": 291699.75,
-          "available": 202.4287,
+          "price": 1443.5,
+          "merchant_name": "UKASHA_MR",
+          "completion_rate": 1.0,
+          "order_count": 542,
+          "min_limit": 5000.0,
+          "max_limit": 500000.0,
+          "available": 1153.8443,
           "payment_methods": [],
-          "adv_no": "2025021845203087360",
+          "adv_no": "1908644613605363712",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.95,
           "order_count": 305,
           "min_limit": 4500.0,
-          "max_limit": 68003101.0,
-          "available": 47224.3757,
+          "max_limit": 67998601.0,
+          "available": 47221.2507,
           "payment_methods": [],
           "adv_no": "2124812413485776896",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795553672.9423637,
+      "fetched_at": 1795553920.9608254,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
