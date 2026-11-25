@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795608201.0252998,
+      "fetched_at": 1795608573.2320817,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1434.5,
-          "merchant_name": "GoodLifeVent",
-          "completion_rate": 0.98,
-          "order_count": 395,
-          "min_limit": 50000.0,
-          "max_limit": 200000.0,
-          "available": 705.2046,
+          "price": 1432.0,
+          "merchant_name": "Danielclef6",
+          "completion_rate": 1.0,
+          "order_count": 124,
+          "min_limit": 20000.0,
+          "max_limit": 9000000.0,
+          "available": 7172.7955,
           "payment_methods": [],
-          "adv_no": "2125555288852332544",
+          "adv_no": "2124867538207137792",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795608200.2993147,
+      "fetched_at": 1795608574.8793132,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -273,7 +273,7 @@
       }
     }
   },
-  "consecutive_poll_failures": 1,
+  "consecutive_poll_failures": 0,
   "awaiting_admin_action": {},
   "last_admin_notify_failure": {
     "at": 1795211585.6414843,
