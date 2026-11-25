@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795611276.6594956,
+      "fetched_at": 1795611576.0302255,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1438.5,
-          "merchant_name": "SpeedOfLight",
+          "merchant_name": "sobitanexchange",
           "completion_rate": 0.99,
-          "order_count": 7990,
-          "min_limit": 4500.0,
-          "max_limit": 88636.34,
-          "available": 61.6172,
+          "order_count": 466,
+          "min_limit": 50000.0,
+          "max_limit": 50160.49,
+          "available": 34.87,
           "payment_methods": [],
-          "adv_no": "2013753088297594880",
+          "adv_no": "1972901597876752384",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1436.8,
-          "merchant_name": "keengdavid",
-          "completion_rate": 0.98,
-          "order_count": 7269,
-          "min_limit": 50000.0,
-          "max_limit": 40112331.96,
-          "available": 27917.8257,
+          "price": 1436.9,
+          "merchant_name": "GoodFunds_Only",
+          "completion_rate": 0.99,
+          "order_count": 865,
+          "min_limit": 30000.0,
+          "max_limit": 583119.88,
+          "available": 405.818,
           "payment_methods": [],
-          "adv_no": "1967005452141383680",
+          "adv_no": "2112474176871251968",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795611275.4891238,
+      "fetched_at": 1795611577.4000807,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
