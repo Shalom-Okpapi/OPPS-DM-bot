@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795599274.7275088,
+      "fetched_at": 1795599523.1222053,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1434.0,
-          "merchant_name": "Zubbywill",
+          "merchant_name": "Capital Flux",
           "completion_rate": 0.98,
-          "order_count": 95,
-          "min_limit": 20000.0,
-          "max_limit": 180418.56,
-          "available": 125.8149,
+          "order_count": 1127,
+          "min_limit": 5000.0,
+          "max_limit": 50000.0,
+          "available": 162.4576,
           "payment_methods": [],
-          "adv_no": "1823812150778957824",
+          "adv_no": "2036374498993348608",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1435.5,
           "merchant_name": "GoodFunds_Only",
           "completion_rate": 0.99,
-          "order_count": 826,
+          "order_count": 828,
           "min_limit": 30000.0,
-          "max_limit": 805884.38,
-          "available": 561.3963,
+          "max_limit": 706884.41,
+          "available": 492.4308,
           "payment_methods": [],
           "adv_no": "2112474176871251968",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795599275.9507666,
+      "fetched_at": 1795599522.1071768,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -243,7 +243,7 @@
           "order_count": 1319,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 25642.0699,
+          "available": 25742.0699,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
