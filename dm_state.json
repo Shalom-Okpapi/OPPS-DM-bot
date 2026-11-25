@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795586679.5097566,
+      "fetched_at": 1795586972.9562778,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1443.0,
-          "merchant_name": "daxexchange",
-          "completion_rate": 0.98,
-          "order_count": 197,
-          "min_limit": 4500.0,
-          "max_limit": 100000.0,
-          "available": 330.7,
+          "price": 1444.0,
+          "merchant_name": "TICK Company",
+          "completion_rate": 0.95,
+          "order_count": 87,
+          "min_limit": 30000.0,
+          "max_limit": 221611.83,
+          "available": 153.4708,
           "payment_methods": [],
-          "adv_no": "2105053048065617920",
+          "adv_no": "2125471762616602624",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1439.72,
           "merchant_name": "Mr.macho",
           "completion_rate": 0.99,
-          "order_count": 2344,
+          "order_count": 2351,
           "min_limit": 50000.0,
-          "max_limit": 1425832.89,
-          "available": 990.3543,
+          "max_limit": 854787.39,
+          "available": 593.7178,
           "payment_methods": [],
           "adv_no": "1874463596097417216",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795586678.6223276,
+      "fetched_at": 1795586974.13029,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -242,7 +242,7 @@
           "price": 0.8,
           "merchant_name": "JackyChee",
           "completion_rate": 1.0,
-          "order_count": 1309,
+          "order_count": 1310,
           "min_limit": 2.0,
           "max_limit": 10000.0,
           "available": 25294.231,
