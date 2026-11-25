@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795581276.2448254,
+      "fetched_at": 1795581575.188498,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1446.99,
-          "merchant_name": ".\u4e97.",
-          "completion_rate": 0.99,
-          "order_count": 673,
-          "min_limit": 4500.0,
-          "max_limit": 50110.56,
-          "available": 34.6309,
+          "price": 1447.0,
+          "merchant_name": "NimrodGatti",
+          "completion_rate": 1.0,
+          "order_count": 23,
+          "min_limit": 10000.0,
+          "max_limit": 57000.0,
+          "available": 100.0001,
           "payment_methods": [],
-          "adv_no": "2106815653076164608",
+          "adv_no": "1905444912881532928",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1439.19,
           "merchant_name": "_COUNTESS_",
           "completion_rate": 1.0,
-          "order_count": 22113,
+          "order_count": 22114,
           "min_limit": 50000.0,
           "max_limit": 23000000.0,
-          "available": 96383.0867,
+          "available": 96223.5918,
           "payment_methods": [],
           "adv_no": "1795552365326802944",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -231,7 +231,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795581277.224581,
+      "fetched_at": 1795581574.1241963,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
