@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795613381.3552918,
+      "fetched_at": 1795613686.7275379,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1439.9,
-          "merchant_name": "Zikconnect",
-          "completion_rate": 1.0,
-          "order_count": 292,
-          "min_limit": 30000.0,
-          "max_limit": 83142.41,
-          "available": 57.7418,
+          "price": 1440.9,
+          "merchant_name": "MARV_PAYS",
+          "completion_rate": 0.99,
+          "order_count": 46698,
+          "min_limit": 5000.0,
+          "max_limit": 100000.0,
+          "available": 293.0603,
           "payment_methods": [],
-          "adv_no": "2031760777403531264",
+          "adv_no": "1767833474110619648",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1436.9,
-          "merchant_name": "GoodFunds_Only",
-          "completion_rate": 0.99,
-          "order_count": 874,
-          "min_limit": 30000.0,
-          "max_limit": 84557.68,
-          "available": 58.8473,
+          "price": 1436.5,
+          "merchant_name": "keengdavid",
+          "completion_rate": 0.98,
+          "order_count": 7336,
+          "min_limit": 50000.0,
+          "max_limit": 25539884.0,
+          "available": 17779.244,
           "payment_methods": [],
-          "adv_no": "2112474176871251968",
+          "adv_no": "1967005452141383680",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795613380.6489062,
+      "fetched_at": 1795613687.5174086,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -247,7 +247,7 @@
           "order_count": 1335,
           "min_limit": 2.0,
           "max_limit": 10000.0,
-          "available": 25736.3735,
+          "available": 25731.9291,
           "payment_methods": [],
           "adv_no": "2080967302742315008",
           "link": "https://www.bybit.com/fiat/trade/otc"
