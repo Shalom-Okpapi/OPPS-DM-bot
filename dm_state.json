@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795587878.6865277,
+      "fetched_at": 1795588171.4324188,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1445.0,
-          "merchant_name": "Meliss4",
-          "completion_rate": 0.99,
-          "order_count": 538,
+          "price": 1443.0,
+          "merchant_name": "daxexchange",
+          "completion_rate": 0.98,
+          "order_count": 199,
           "min_limit": 4500.0,
-          "max_limit": 500000.0,
-          "available": 8900.0,
+          "max_limit": 100000.0,
+          "available": 335.0954,
           "payment_methods": [],
-          "adv_no": "2123751726267113472",
+          "adv_no": "2105053048065617920",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.95,
           "order_count": 88,
           "min_limit": 4500.0,
-          "max_limit": 233280.0,
-          "available": 162.0,
+          "max_limit": 216020.01,
+          "available": 150.0139,
           "payment_methods": [],
           "adv_no": "2125468422402920448",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -233,7 +233,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795587879.4642074,
+      "fetched_at": 1795588170.3985338,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
