@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795704274.4774013,
+      "fetched_at": 1795704523.1194012,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1436.0,
-          "merchant_name": "Mratm-global",
+          "price": 1438.0,
+          "merchant_name": "MACHUA_B",
           "completion_rate": 0.98,
-          "order_count": 60,
-          "min_limit": 5000.0,
-          "max_limit": 250000.0,
-          "available": 700.0,
+          "order_count": 255,
+          "min_limit": 50000.0,
+          "max_limit": 200000.0,
+          "available": 544.9901,
           "payment_methods": [],
-          "adv_no": "2009874712929239040",
+          "adv_no": "2025021845203087360",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 207,
           "min_limit": 20000.0,
           "max_limit": 1000000.0,
-          "available": 2468.5991,
+          "available": 2412.7251,
           "payment_methods": [],
           "adv_no": "2124867538207137792",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -232,7 +232,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795704275.502519,
+      "fetched_at": 1795704522.070497,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
