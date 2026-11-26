@@ -47,36 +47,36 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795653223.122737,
+      "fetched_at": 1795653520.0255854,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1441.0,
-          "merchant_name": "Meliss4",
+          "price": 1441.3,
+          "merchant_name": "MRLEGACY",
           "completion_rate": 0.99,
-          "order_count": 585,
-          "min_limit": 4500.0,
-          "max_limit": 200000.0,
-          "available": 3874.532,
+          "order_count": 24908,
+          "min_limit": 5000.0,
+          "max_limit": 110000.0,
+          "available": 2207.0397,
           "payment_methods": [],
-          "adv_no": "2123751726267113472",
+          "adv_no": "1868061601251749888",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1435.01,
-          "merchant_name": "Lekxy",
-          "completion_rate": 0.98,
-          "order_count": 9379,
+          "price": 1437.5,
+          "merchant_name": "Kings=Xchange",
+          "completion_rate": 0.97,
+          "order_count": 336,
           "min_limit": 50000.0,
-          "max_limit": 6000000.0,
-          "available": 7647.0728,
+          "max_limit": 989000.0,
+          "available": 688.0,
           "payment_methods": [],
-          "adv_no": "1839885205506179072",
+          "adv_no": "2106850135800733696",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -222,7 +222,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795653223.9800918,
+      "fetched_at": 1795653519.240711,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
