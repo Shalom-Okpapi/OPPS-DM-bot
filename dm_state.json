@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795668574.0896637,
+      "fetched_at": 1795668824.6020386,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1441.5,
-          "merchant_name": "Brilliant Bytes",
+          "price": 1440.0,
+          "merchant_name": "prevailall",
           "completion_rate": 1.0,
-          "order_count": 277,
-          "min_limit": 4500.0,
-          "max_limit": 200000.0,
-          "available": 2846.1901,
+          "order_count": 23,
+          "min_limit": 50000.0,
+          "max_limit": 121563.79,
+          "available": 84.4193,
           "payment_methods": [],
-          "adv_no": "2120420344141029376",
+          "adv_no": "2120929287251918848",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1438.0,
           "merchant_name": "GoodLifeVent",
           "completion_rate": 0.99,
-          "order_count": 410,
+          "order_count": 411,
           "min_limit": 50000.0,
           "max_limit": 200000.0,
           "available": 610.2046,
@@ -219,7 +219,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795668575.2858937,
+      "fetched_at": 1795668822.9306257,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
