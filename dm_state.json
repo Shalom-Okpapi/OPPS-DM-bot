@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795681722.5801957,
+      "fetched_at": 1795682075.802144,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1439.99,
-          "merchant_name": "ONYX4EVER",
-          "completion_rate": 0.99,
-          "order_count": 956,
+          "price": 1441.0,
+          "merchant_name": "DGT02",
+          "completion_rate": 1.0,
+          "order_count": 258,
           "min_limit": 4500.0,
-          "max_limit": 1500000.0,
-          "available": 2400.6786,
+          "max_limit": 55000.0,
+          "available": 92.416,
           "payment_methods": [],
-          "adv_no": "2022252193348513792",
+          "adv_no": "1804902841720991744",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,7 +71,7 @@
           "price": 1438.11,
           "merchant_name": "GoodFunds_Only",
           "completion_rate": 0.99,
-          "order_count": 901,
+          "order_count": 902,
           "min_limit": 30000.0,
           "max_limit": 318698.11,
           "available": 221.609,
@@ -229,7 +229,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795681723.5441937,
+      "fetched_at": 1795682076.644834,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
