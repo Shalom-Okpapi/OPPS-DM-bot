@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795810075.2410529,
+      "fetched_at": 1795810651.4850862,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1439.0,
-          "merchant_name": "Sandi2",
-          "completion_rate": 1.0,
-          "order_count": 40,
+          "price": 1438.0,
+          "merchant_name": "bookxy_FX",
+          "completion_rate": 0.98,
+          "order_count": 565,
           "min_limit": 4500.0,
-          "max_limit": 50000.0,
-          "available": 380.6296,
+          "max_limit": 192787.77,
+          "available": 134.0666,
           "payment_methods": [],
-          "adv_no": "2126332786734804992",
+          "adv_no": "2126346496408825856",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -74,7 +74,7 @@
           "order_count": 42,
           "min_limit": 50000.0,
           "max_limit": 1000000.0,
-          "available": 19819.4011,
+          "available": 19769.7587,
           "payment_methods": [],
           "adv_no": "2126312683419430912",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795810073.1773922,
+      "fetched_at": 1795810650.2140632,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
