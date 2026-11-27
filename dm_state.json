@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795808903.6602652,
+      "fetched_at": 1795809224.093228,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1439.99,
-          "merchant_name": "SNAP-PAY",
+          "price": 1440.0,
+          "merchant_name": "Sandi2",
           "completion_rate": 1.0,
-          "order_count": 102,
-          "min_limit": 9999.0,
-          "max_limit": 400000.0,
-          "available": 346.9134,
+          "order_count": 40,
+          "min_limit": 4500.0,
+          "max_limit": 50000.0,
+          "available": 404.952,
           "payment_methods": [],
-          "adv_no": "2125164781540397056",
+          "adv_no": "2126332786734804992",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -235,7 +235,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795808902.550223,
+      "fetched_at": 1795809225.2903745,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
