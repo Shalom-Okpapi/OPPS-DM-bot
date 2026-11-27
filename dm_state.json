@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795778616.9226682,
+      "fetched_at": 1795779162.0048685,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1439.0,
-          "merchant_name": "pison_market",
-          "completion_rate": 0.98,
-          "order_count": 64,
-          "min_limit": 20000.0,
-          "max_limit": 219000.0,
-          "available": 152.6089,
+          "price": 1440.0,
+          "merchant_name": "Raymondtz",
+          "completion_rate": 1.0,
+          "order_count": 153,
+          "min_limit": 50000.0,
+          "max_limit": 51190.99,
+          "available": 35.5493,
           "payment_methods": [],
-          "adv_no": "2126273980805951488",
+          "adv_no": "2120601179083350016",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.98,
           "order_count": 672,
           "min_limit": 30000.0,
-          "max_limit": 300000.0,
-          "available": 240.0,
+          "max_limit": 273492.98,
+          "available": 190.17,
           "payment_methods": [],
           "adv_no": "2119774497811931136",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795778615.7531595,
+      "fetched_at": 1795779163.0576496,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
