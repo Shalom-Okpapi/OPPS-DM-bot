@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795765124.6522677,
+      "fetched_at": 1795765483.854577,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1441.29,
-          "merchant_name": "Mirasanders",
-          "completion_rate": 0.97,
-          "order_count": 234,
-          "min_limit": 4500.0,
-          "max_limit": 300000.0,
-          "available": 888.0002,
+          "price": 1441.2,
+          "merchant_name": "UKASHA_MR",
+          "completion_rate": 1.0,
+          "order_count": 536,
+          "min_limit": 50000.0,
+          "max_limit": 1901067.03,
+          "available": 1319.0862,
           "payment_methods": [],
-          "adv_no": "2123408864759578624",
+          "adv_no": "1908644613605363712",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -230,7 +230,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795765125.6209042,
+      "fetched_at": 1795765483.0963576,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -256,8 +256,8 @@
           "completion_rate": 1.0,
           "order_count": 434,
           "min_limit": 30.0,
-          "max_limit": 82928.767,
-          "available": 69107.3062,
+          "max_limit": 82813.767,
+          "available": 69011.4729,
           "payment_methods": [],
           "adv_no": "2029883488154591232",
           "link": "https://www.bybit.com/fiat/trade/otc"
