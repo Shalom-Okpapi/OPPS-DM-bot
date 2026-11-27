@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795795174.7767146,
+      "fetched_at": 1795795429.2170684,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1441.0,
-          "merchant_name": "Sandi2",
+          "price": 1442.0,
+          "merchant_name": "SmartSols",
           "completion_rate": 1.0,
-          "order_count": 35,
-          "min_limit": 4500.0,
-          "max_limit": 76782.96,
-          "available": 53.2845,
+          "order_count": 36,
+          "min_limit": 50000.0,
+          "max_limit": 50000.0,
+          "available": 34.6934,
           "payment_methods": [],
-          "adv_no": "2126332786734804992",
+          "adv_no": "2010045758827655168",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -73,8 +73,8 @@
           "completion_rate": 0.99,
           "order_count": 407,
           "min_limit": 4500.0,
-          "max_limit": 69975245.02,
-          "available": 48560.1978,
+          "max_limit": 69968040.02,
+          "available": 48555.1978,
           "payment_methods": [],
           "adv_no": "2121890922770481152",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -238,7 +238,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795795173.9537008,
+      "fetched_at": 1795795430.2750118,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
