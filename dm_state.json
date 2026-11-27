@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795788523.2806304,
+      "fetched_at": 1795788888.2820365,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1441.0,
-          "merchant_name": "vasky",
-          "completion_rate": 0.96,
-          "order_count": 952,
-          "min_limit": 50000.0,
-          "max_limit": 100000.0,
-          "available": 96.0579,
+          "merchant_name": "SNAP-PAY",
+          "completion_rate": 1.0,
+          "order_count": 82,
+          "min_limit": 9999.0,
+          "max_limit": 102518.35,
+          "available": 71.1439,
           "payment_methods": [],
-          "adv_no": "1782390792042569728",
+          "adv_no": "2125164781540397056",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -236,7 +236,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795788522.2584593,
+      "fetched_at": 1795788887.0670695,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
