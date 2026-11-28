@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795855773.2949255,
+      "fetched_at": 1795856075.555211,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
-          "price": 1441.0,
-          "merchant_name": "Capital Flux",
+          "price": 1440.0,
+          "merchant_name": "bookxy_FX",
           "completion_rate": 0.98,
-          "order_count": 1084,
-          "min_limit": 10000.0,
-          "max_limit": 50000.0,
-          "available": 573.4542,
+          "order_count": 559,
+          "min_limit": 50000.0,
+          "max_limit": 54851.61,
+          "available": 38.0914,
           "payment_methods": [],
-          "adv_no": "2036374498993348608",
+          "adv_no": "2126599394388619264",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -71,10 +71,10 @@
           "price": 1437.13,
           "merchant_name": "SOMICFUNDS",
           "completion_rate": 0.98,
-          "order_count": 687,
+          "order_count": 688,
           "min_limit": 30000.0,
-          "max_limit": 300000.0,
-          "available": 215.0,
+          "max_limit": 240120.56,
+          "available": 167.0834,
           "payment_methods": [],
           "adv_no": "2119774497811931136",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -217,7 +217,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795855774.5074563,
+      "fetched_at": 1795856076.484771,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
