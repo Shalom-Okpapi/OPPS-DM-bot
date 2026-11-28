@@ -47,7 +47,7 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795860820.847952,
+      "fetched_at": 1795861174.5453024,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
@@ -58,8 +58,8 @@
           "completion_rate": 1.0,
           "order_count": 47,
           "min_limit": 4500.0,
-          "max_limit": 75600.02,
-          "available": 52.5365,
+          "max_limit": 100000.0,
+          "available": 400.0,
           "payment_methods": [],
           "adv_no": "2126604924096573440",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -68,15 +68,15 @@
           "platform": "Bybit",
           "trade_type": "SELL",
           "fiat": "NGN",
-          "price": 1437.13,
-          "merchant_name": "SOMICFUNDS",
+          "price": 1439.0,
+          "merchant_name": "Florien",
           "completion_rate": 0.98,
-          "order_count": 691,
-          "min_limit": 30000.0,
-          "max_limit": 300000.0,
-          "available": 210.0,
+          "order_count": 491,
+          "min_limit": 4500.0,
+          "max_limit": 500000.0,
+          "available": 6336.8153,
           "payment_methods": [],
-          "adv_no": "2119774497811931136",
+          "adv_no": "2126609323505758208",
           "link": "https://www.bybit.com/fiat/trade/otc"
         }
       }
@@ -217,7 +217,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795860821.6505723,
+      "fetched_at": 1795861175.3755114,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
