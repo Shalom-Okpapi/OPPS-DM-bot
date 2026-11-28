@@ -47,21 +47,21 @@
       }
     },
     "NGN": {
-      "fetched_at": 1795833823.47054,
+      "fetched_at": 1795834382.1617048,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
           "trade_type": "BUY",
           "fiat": "NGN",
           "price": 1440.0,
-          "merchant_name": "Dencoman ",
-          "completion_rate": 0.98,
-          "order_count": 49,
+          "merchant_name": "Faster@olason",
+          "completion_rate": 1.0,
+          "order_count": 37,
           "min_limit": 4500.0,
-          "max_limit": 267361.63,
-          "available": 185.6678,
+          "max_limit": 200000.0,
+          "available": 300.0,
           "payment_methods": [],
-          "adv_no": "1938078965156085760",
+          "adv_no": "2015303588283719680",
           "link": "https://www.bybit.com/fiat/trade/otc"
         },
         "sell": {
@@ -70,11 +70,11 @@
           "fiat": "NGN",
           "price": 1439.0,
           "merchant_name": "Micky_exchange ",
-          "completion_rate": 0.97,
+          "completion_rate": 0.95,
           "order_count": 40,
           "min_limit": 50000.0,
-          "max_limit": 309750.07,
-          "available": 215.2537,
+          "max_limit": 359750.0,
+          "available": 250.0,
           "payment_methods": [],
           "adv_no": "2125415330898694144",
           "link": "https://www.bybit.com/fiat/trade/otc"
@@ -244,7 +244,7 @@
       }
     },
     "USD": {
-      "fetched_at": 1795833824.5735939,
+      "fetched_at": 1795834383.2718089,
       "snapshot": {
         "buy": {
           "platform": "Bybit",
